@@ -1,3 +1,5 @@
+import codecs
+
 def write_list_of_links(sub_register, links):
     """
     Write list of search result links in text file
@@ -8,4 +10,16 @@ def write_list_of_links(sub_register, links):
     f = open('data/' + sub_register + '.txt', 'w')
     lines = '\n'.join(links)
     f.write(lines)
+    f.close()
+
+
+def write_document(document_name, content):
+    """
+
+    :param document_name:
+    :param content:
+    :return:
+    """
+    f = codecs.open(document_name, 'w', 'utf-8')
+    f.write(content)
     f.close()
