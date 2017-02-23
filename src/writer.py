@@ -1,5 +1,6 @@
 import codecs
 
+
 def write_list_of_links(sub_register, links):
     """
     Write list of search result links in text file
@@ -15,7 +16,7 @@ def write_list_of_links(sub_register, links):
 
 def write_document(document_name, content):
     """
-
+    Write cyrillic content into text file at given location
     :param document_name:
     :param content:
     :return:

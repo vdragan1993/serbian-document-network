@@ -61,39 +61,42 @@ def get_sub_register_docs(sub_register_value, result_limit):
 
 def get_document_data(document_url, save_directory, document_number):
     """
-
-    :param document_url:
-    :param save_directory:
-    :param document_number:
-    :return:
+    Extract document text, meta data and references
+    :param document_url: url of document
+    :param save_directory: save directory
+    :param document_number: number of document in current sub register
     """
     browser = webdriver.Chrome(driver_location)
     browser.get(document_url)
     time.sleep(2)
 
+    keep_digging = True
+
     # extract document meta data if any
-    # TODO: mozda probati sa izdvajanjem samo html-a date oblasti
     try:
         view_meta_data = browser.find_element_by_xpath("//a[@ng-click='openActIdCard()']")
         view_meta_data.click()
         time.sleep(0.5)
-        #scraper.save_document_data(browser.page_source, save_directory, document_number)
+        act_id = browser.find_element_by_id("actContentSecondary")
+        act_id_html = act_id.get_attribute('innerHTML')
+        scraper.save_document_data(act_id_html, save_directory, document_number)
     except:
-        pass
+        # skip if no metadata
+        return
 
     # extract document links if any
-    # TODO: mozda probati izdvojiti samo html modala
     try:
         view_refs = browser.find_element_by_xpath("//a[@ng-click='openReferencedActsModal()']")
         view_refs.click()
         time.sleep(0.5)
-        scraper.save_document_links(browser.page_source, save_directory, document_number)
-        # closing dialog
+        # focus dialog
         browser.switch_to_active_element()
+        act_refs = browser.find_element_by_class_name("modal-body")
+        act_refs_html = act_refs.get_attribute('innerHTML')
+        scraper.save_document_links(act_refs_html, save_directory, document_number)
         cancel_button = browser.find_element_by_xpath("//button[@ng-click='cancel()']")
         cancel_button.click()
         time.sleep(0.1)
-
     except:
         pass
 
@@ -122,4 +125,4 @@ if __name__ == "__main__":
         writer.write_list_of_links(sub_register, list_of_links)
         time.sleep(120)
     """
-    get_sub_register_docs("458", "500")
+    get_sub_register_docs("459", "500")
