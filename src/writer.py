@@ -24,3 +24,16 @@ def write_document(document_name, content):
     f = codecs.open(document_name, 'w', 'utf-8')
     f.write(content)
     f.close()
+
+
+def write_list_of_lines(file_name, lines):
+    """
+    Write list of given lines into given text file
+    :param file_name:
+    :param lines:
+    :return:
+    """
+    content = '\n'.join(lines)
+    f = open(file_name, 'w')
+    f.write(content)
+    f.close()
