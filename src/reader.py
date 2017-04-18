@@ -9,7 +9,7 @@ def read_file_content(path):
     :param path: file path
     :return: file content
     """
-    f = codecs.open(path, 'r', 'utf-8')
+    f = codecs.open(path, 'r', 'utf8')
     content = f.read()
     f.close()
     return content
@@ -21,7 +21,7 @@ def read_file_line(path):
     :param path: file path
     :return: list of lines
     """
-    f = codecs.open(path, 'r', 'utf-8')
+    f = codecs.open(path, 'r', 'utf8')
     lines = f.readlines()
     f.close()
     return lines

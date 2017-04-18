@@ -8,7 +8,7 @@ def write_list_of_links(sub_register, links):
     :param links: list of search result links
     :return:
     """
-    f = open('data/' + sub_register + '.txt', 'w')
+    f = codecs.open('data/' + sub_register + '.txt', 'w')
     lines = '\n'.join(links)
     f.write(lines)
     f.close()
@@ -21,7 +21,7 @@ def write_document(document_name, content):
     :param content:
     :return:
     """
-    f = codecs.open(document_name, 'w', 'utf-8')
+    f = codecs.open(document_name, 'w', 'ascii')
     f.write(content)
     f.close()
 
@@ -34,6 +34,6 @@ def write_list_of_lines(file_name, lines):
     :return:
     """
     content = '\n'.join(lines)
-    f = open(file_name, 'w')
+    f = codecs.open(file_name, 'w', 'ascii')
     f.write(content)
     f.close()
