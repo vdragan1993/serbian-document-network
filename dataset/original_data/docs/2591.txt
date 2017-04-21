@@ -1,0 +1,227 @@
+На основу члана 3а став 4. Закона о Царинској тарифи („Службени гласник РС”, бр. 62/05, 61/07 и 5/09), објављује се Уредба Комисије (ЕЕЗ) број 893/93 од 13. априла 1993. године у вези са сврставањем одређених роба у Комбинованој номенклатури објављена у „Службеном листу Европских заједница”, број L 93/5 од 17. априла 1993. године, која у оригиналу на енглеском језику и у преводу на српски језик гласи:
+ 
+COMMISSION REGULATION (EEC) No 893/93 of 13 April 1993 concerning the classification of certain goods in the combined nomenclature
+"Службени гласник РС", број 27 од 22. марта 2013.
+ 
+THE COMMISSION OF THE EUROPEAN COMMUNITIES,
+Having regard to the Treaty establishing the European Economic Community,
+Having regard to Council Regulation (EEC) No 2658/87 (1) of 23 July 1987 on the tariff and statistical nomenclature and on the Common Customs Tariff, as last amended by Regulation (EEC) No 697/93 (2), and in particular Article 9,
+Whereas in order to ensure uniform application of the combined nomenclature annexed to the said Regulation, it is necessary to adopt measures concerning the classification of the goods referred to in the Annex to this Regulation;
+Whereas Regulation (EEC) No 2658/87 has set down the general rules for the interpretation of the combined nomenclature and these rules also apply to any other nomenclature which is wholly or partly based on it or which adds any additional subdivisions to it and which is established by specific Community provisions, with a view to the application of tariff or other measures relating to trade in goods;
+Whereas, pursuant to the said general rules, the goods described in column I of the table annexed to the present Regulation must be classified under the appropriate CN codes indicated in column 2, by virtue of the reasons set out in column 3;
+Whereas it is appropriate that, subject to the measures in force in the Community relating to double checking systems and to prior and retrospective Community surveillance of textile products on importation into the Community, binding tariff information in the matter of classification of goods in the combined nomenclature issued by the customs authorities of the Member States which no longer conform to this Regulation may continue to be invoked in accordance with the provisions of Article 6 of Commission Regulation (EEC) No 3796/90 (3) by the holder thereof during a certain period if such holder has concluded a contract as referred to in points (a) or (b) of the second subparagraph of Article 14 (3) of Council Regulation (EEC) No 1715/90 (4);
+Whereas the measures provided for in this Regulation are in accordance with the opinion of the Nomenclature Committee,
+HAS ADOPTED THIS REGULATION: 
+Article 1
+The goods described in column 1 of the annexed table are now classified within the combined nomenclature under the appropriate CN codes indicated in column 2 of the said table.
+Article 2
+Subject to the measures in force in the Community relating to double checking systems and to prior and retrospective Community surveillance of textile products on importation into the Community, binding tariff information in the matter of classification of goods in the combined nomenclature issued by the customs authorities of the Member States which no longer conform to this Regulation may continue to be invoked in accordance with the provisions of Article 6 of Regulation (EEC) No 3796/90 by the holder thereof during a period of 60 days from the date of application of this Regulation if such holder has concluded a contract referred to in points (a) or (b) of the second subparagraph of Article 14 of Regulation (EEC) No 1715/90.
+Article 3
+This Regulation shall enter into force on the 21st day following its publication in the Official Journal of the European Communities.
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+Done at Brussels, 13 April 1993.
+–––––––––––––
+(1) OJ No L 256, 7. 9. 1987, p. 1.
+(2) OJ No L 76, 30. 3. 1993, p. 12.
+(3) OJ No L 365, 28. 12. 1990, p. 17.
+(4) OJ No L 160, 26. 6. 1990, p. 1.
+For the Commission 
+Christiane SCRIVENER 
+Member of the Commission
+ANNEX
+
+
+
+
+0)
+
+
+(2)
+
+
+(3)
+
+
+
+
+
+
+Description of goods
+
+
+Classification CN code
+
+
+Reasons
+
+
+
+
+1. Single coloured knitted garment (95 % cotton, 5 % elastomeric yarn) of fancy design, with long sleeves, intended to cover the upper part of the body reaching down to just below the waist. It has a very low-cut V-neckline. The edge of the neckline is embroidered. This garment is hemmed at the bottom and at the ends of the sleeves (see photograph No 514) (*)
+
+
+6106 10 00
+
+
+Classification is determined by the provisions of General Rules 1 and 6 for the interpretation of the combined nomenclature as well as by the wording of CN codes 6106 and 6106 10 00
+See also the Explanatory Notes to the combined nomenclature concerning CN code 6106
+This garment is considered to be very low cut at the front because the neckline falls below an imaginary line drawn between the armpits
+
+
+
+
+2. Set of two garments, comprising:
+(a) lightweight knitted garment (60% cotton, 40% polyester) with long close-fitting sleeves made
+
+
+6109 10 00
+
+
+Classification is determined by the provisions of general rules 1 and 6 for the interpretation of the combined nomenclature, by note 13 to Section XI, by note 8 to Chapter 61
+
+
+
+
+from a two-colour striped fabric, intended to cover the upper part of the body reaching down to below the waist. It has a round ribbed neckline, and is hemmed at the base and at the ends of the sleeves. The base of the garment features lateral side vents of about 6 cm, each featuring two decorative buttons. The garment also has decorative embroidery at chest level (T-shirt) (see photograph No 520 A) (*);
+
+
+
+
+for the nether garment, by the texts of CN codes 6104, 6104 62, 6104 62 10, 6109 and 6109 10 00, and by the Explanatory Notes to the Harmonized System concerning heading 6109 for the upper garment
+
+
+
+
+(b) knitted trousers (60% cotton, 40% polyester) made from a single-colour fabric, extending from the waist to the ankles, with an elasticated waist. The ends of the trouser legs have similar decorative buttons as those featured on the garment intended to cover the upper part of the body (see photograph No 520 B) (*)
+
+
+6104 62 10
+
+
+Classification as pyjamas is excluded because the garments cannot be considered to be exclusively or mainly for use as nightwear
+
+
+
+
+3. Lightweight knitted garment (65% polyester, 35% cotton) made from a single-colour fabric. It is intended to cover the upper part of the body reaching down to below the waist and features short sleeves and a hood with a draw string. The garment has a rounded neckline with a ribbed edge, and is hemmed at the bottom and at the ends of the sleeves (see photograph No 521) (*)
+
+
+6114 30 00
+
+
+Classification is determined by the provisions of general rules 1 and 6 for the interpretation of the combined nomenclature as well as by the wording of CN codes 6114 and 6114 30 00
+Classification of this garment as a T-shirt within CN code 6109 is excluded owning to the presence of the hood
+Classification within CN code 6110 is also excluded because of the absence of any means of tightening at the bottom
+
+
+
+
+(*) The photographs are of a purely illustrative nature
+
+
+
+
+
+УРЕДБА КОМИСИЈЕ (ЕЕЗ) број 893/93од 13. априла 1993. године у вези са сврставањем одређених роба  према Комбинованој номенклатури
+"Службени гласник РС", број 27 од 22. марта 2013.
+ 
+КОМИСИЈА ЕВРОПСКИХ ЗАЈЕДНИЦА,
+Имајући у виду Уговор о оснивању Европске економске заједнице,
+Имајући у виду Уредбу Савета (ЕЕЗ) број 2658/87 од 23. јула 1987. године о тарифској и статистичкој номенклатури и Заједничкој царинској тарифи1, последњи пут измењену и допуњену Уредбом Комисије (ЕЕЗ) број 697/932, а посебно њен члан 9,
+С обзиром на то да је да би се осигурала доследна примена Комбиноване номенклатуре дате у прилогу наведене уредбе, неопходно усвојити мере у вези са сврставањем роба наведених у Анексу уз ову уредбу;
+С обзиром на то да су Уредбом (ЕЕЗ) број 2658/87 одређена основна правила за тумачење Комбиноване номенклатуре. Ова правила се такође примењују на било коју другу номенклатуру која се у потпуности или делимично заснива на њој, или којој су додате било које потподеле и која је установљена посебним прописима Заједнице, са циљем примене тарифских и других мера везаних за трговину робом;
+С обзиром на то да се, сходно тим основним правилима, роба описана у колони 1 табеле дате у прилогу уз ову уредбу сврстава у одговарајућу CN ознаку наведену у колони 2, према разлозима датим у колони 3 табеле;
+С обзиром на то да, по потреби, сходно мерама које су на снази у Заједници а који су у вези са системом дупле провере и претходног и накнадног надзора Заједнице над текстилним производима при увозу у Заједницу, ималац обавезујуће тарифне информације, коју су издали царински органи држава чланица у односу на сврставање робе према Комбинованој номенклатури, али која више није у складу са овом уредбом, може да настави да се током одређеног периода позива на њу у складу са условима члана 6 Уредбе Комисије (ЕЕЗ) број 3796/903, уколико је тај ималац закључио уговор како је наведено у члану 14. став 3. подстав 2. тачке (a) или (b) Уредбе Савета (ЕЕЗ) број 1715/904;
+С обзиром на то да да су мере предвиђене овом уредбом у складу са мишљењем Одбора за номенклатуру, 
+ДОНЕЛА ЈЕ ОВУ УРЕДБУ:
+Члан 1.
+Роба описана у колони 1 табеле дате у прилогу, од сада се у оквиру Комбиноване номенклатуре, сврстава у одговарајуће CN ознаке наведене у колони 2. наведене табеле.
+Члан 2.
+Сходно мерама које су на снази у Заједници а који су у вези са системом дупле провере и претходног и накнадног надзора Заједнице над текстилним производима при увозу у Заједницу, ималац обавезујуће тарифне информације у вези са сврставањем робе према Комбинованој номенклатури, коју су издали царински органи држава чланица, али која више није у складу са одредбама ове уредбе, у складу са одредбама члана 6. Уредбе Комисије (ЕЕЗ) број 3796/90, може у периоду од 60 дана од дана примене ове уредбе да настави да се позива на исту, уколико је ималац те информације закључио уговор како је наведено у члану 14. подстав 2. тачке (a) или (b) Уредбе Савета (ЕЕЗ) број 1715/90.
+Члан 3.
+Ова уредба ступа на снагу 21. дана од дана објављивања у „Службеном листу Европских заједница”.
+Ова уредба у потпуности је обавезујућа и директно применљива у свим државама чланицама.
+У Бриселу, 13. априла 1993. године 
+–––––––––––––
+1 OJ L 256, 7. 9. 1987, стр. 1.
+2 OJ L 76, 30. 3. 1993, стр. 12.
+3 OJ L 365, 28.12.1990, стр. 17.
+4 OJ L 160, 26.6.1990, стр. 1
+За Комисију
+Christiane SCRIVENER
+Члан Комисије
+АНЕКС
+
+
+
+
+Опис робе
+
+
+Сврставање
+(CN ознака)
+
+
+Разлози
+
+
+
+
+
+
+1. Једнобојни плетени комад одеће (95% памук, 5% еластомерно предиво) модерног кроја, са дугачким рукавима, намењен је за покривање горњег дела тела и досеже до мало испод појаса. Има врло дубоко сечен V – изрез око врата, са везом на ивици. Комад одеће је порубљен на доњој ивици и на крајевима рукава (видети фотографију бр. 514) (*).
+
+
+6106 10 00
+
+
+Сврставање је одређено условима Основних правила 1 и 6 за примењивање Комбиноване номенклатуре као и наименовањима уз CN ознаке 6106 и 6106 10 00.
+Видети такође Допунски коментар Комбиноване номенклатуре уз CN ознаку 6106.
+Сматра се да је овај комад одеће врло дубоко сечен на предњици због тога што изрез око врата допире испод замишљене линије повучене између оба пазуха.
+
+
+
+
+2. Сет од два комада одеће, садржи:
+(а) лагани плетени комад одеће (60% памук, 40% полиестар) дугих тесних рукава, израђен од двобојног пругастог материјала, намењен је за покривање горњег дела тела и досеже до испод појаса. Има округли изрез око врата са ребрастом ранфлом, порубљен је на крајевима рукава и доњој ивици. На бочним странама доње ивице налазе се отвори, дужине од око 6 cm, сваки са по два украсна дугмета. У нивоу груди налази се украсни вез. (мајица) (видети фотографију No. 520 A) (*);
+
+
+6109 10 00
+
+
+Сврставање је одређено условима Основних правила 1 и 6 за примењивање Комбиноване номенклатуре, Напоменом 13 уз Одељак XI, Напоменом 8 уз Главу 615 за доњи део комада одеће, као и текстом уз CN ознаке 6104, 6104 62, 6104 62 10, 6109 и 6109 10 00, и одредбама ХС Коментара у за тарифни број 6109, за горњи део комада одеће.
+
+
+
+
+(б) плетене панталоне (60% памук, 40% полиестар) израђене од једнобојног материјала, које се протежу од појаса до глежњева, са еластичним појасом. На дну ногавице налази се украсно дугме слично онима на горњем комаду одеће (видети фотографију No. 520 B) (*).
+
+
+6104 62 106
+
+
+Искључује се сврставање као пиџаме зато што се сматра да се комад одеће не употребљава искључиво или углавном као одећа за ноћ.
+
+
+
+
+3. Лагани плетени једнобојни комад одеће (65% полиестар, 35% памук), намењен је за покривање горњег дела тела и досеже до испод појаса, кратких рукава и са капуљачом са узицом за притезање. Има округли изрез око врата са ребрастим обрубом на ивици, и порубљен је на крајевима рукава и доњој ивици (видети фотографију бр. 521)(*).
+
+
+6114 30 00
+
+
+Сврставање је одређено условима Основних правила 1 и 6 за примењивање Комбиноване номенклатуре као и наименовањима уз CN ознаке 6114 и 6114 30 00.
+Искључује се сврставање овог комада одеће као мајице у CN ознаку 6109 због тога што има капуљачу.
+Такође, искључује се сврставање у CN ознаку 6110 због тога што не постоји било које средство за затезање на доњој ивици. 
+
+
+
+
+(*) Фотографије су дате само као илустрације
+
+
+
+
+5 замењено са „ ...Напоменом 14 уз Одељак XI, напоменом 9 уз Главу 61...” у складу са тачком 58 Анекса I Уредбе Комисије (ЕЗ) број 1179/09 од 26. новембра 2009. године којом се мењају или стављају ван снаге одређене Уредбе у вези са сврставањем робе према Комбинованој номенклатури (OJ L 317 од 3.12. 2009, стр. 23), која је објављена у „Службеном гласнику РС”, број 7/10
+6 замењено са „6104 62 00” у складу са тачком 57 Анекса I, Уредбе Комисије (ЕЗ) број 705/05 од 4. маја 2005. године којом се мењају или стављају ван снаге одређене Уредбе у вези са сврставањем робе према Комбинованој номенклатури (OJ L 118 од 5.5.2005, стр. 18), која је објављена у „Службеном гласнику РС“ број 75/2010

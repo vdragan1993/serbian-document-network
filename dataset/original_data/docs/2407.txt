@@ -1,0 +1,187 @@
+На основу члана 3а став 4. Закона о Царинској тарифи („Службени гласник Републике Србије”, бр. 62/05, 61/07 и 5/09) објављује се Уредба Комисије (ЕЗ) број 3272/94 од 27. децембра 1994. године у вези са сврставањем одређених роба у Комбинованој номенклатури објављена у „Службеном листу Европских заједница”, број L 339/58 од 29. децембра 1994. године, која у оригиналу на енглеском језику и у преводу на српски језик гласи:
+COMMISSION REGULATION (EC) No 3272/94 of 27 December 1994 concerning the classification of certain goods in the combined nomenclature 
+"Службени гласник РС", број 117 од 12. децембра 
+				2012.
+THE COMMISSION OF THE EUROPEAN COMMUNITIES,
+Having regard to the Treaty establishing the European Community,
+Having regard to Council Regulation (EEC) No 2658/87 (1) on the tariff and statistical nomenclature and on the Common Customs Tariff, as last amended by Commission Regulation (EC) 3176/94 (2), and in particular Article 9 thereof,
+Whereas in order to ensure uniform application of the combined nomenclature annexed to the said Regulation, it is necessary to adopt measures concerning the classification of the goods referred to in the Annex to this Regulation ;
+Whereas Regulation (EEC) No 2658/87 has set down the general rules for the interpretation of the combined nomenclature and those rules also apply to any other nomenclature which is wholly or partly based on it or which adds any additional subdivision to it and which is established by specific Community provisions, with a view to the application of tariff and other measures relating to trade in goods ;
+Whereas, pursuant to the said general rules, the goods described in column 1 of the table annexed to the present Regulation must be classified under the appropriate CN codes indicated in column 2, by virtue of the reasons set out in column 3 ;
+Whereas it is accepted that binding tariff information issued by the customs authorities of Member States in respect of the classification of goods in the combined nomenclature and which do not conform to the rights established by this Regulation, can continue to be invoked, under the provisions in Article 12 (6) of Council Regulation (EEC) No 2913/92 establishing the Community Customs Code (3), for a period of three months by the holder;
+Whereas the measures provided for in this Regulation are in accordance with the opinion of the Tariff and Statistical Nomenclature Section of the Customs Code Committee,
+HAS ADOPTED THIS REGULATION: 
+Article 1
+The goods described in column 1 of the annexed table are now classified within the combined nomenclature under the appropriate CN codes indicated in column 2 of the said table.
+Article 2
+Binding tariff information issued by the customs authorities of Member States which do not conform to the rights established by this Regulation can continue to be invoked under the provisions of Article 12 (6) of Regulation (EEC) No 2913/92 for a period of three months.
+Article 3
+This Regulation shall enter into force on the 21st day following its publication in the Official Journal of the European Communities.
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+Done at Brussels, 27 December 1994.
+––––––––––
+(1) OJ No L 256, 7. 9. 1987, p. 1.
+(2) OJ No L 335, 23. 12. 1994, p. 56.
+(3) OJ No L 302, 19. 10. 1992, p. 1.
+ 
+For the Commission 
+Christiane SCRIVENER 
+Member of the Commission
+ANNEX
+
+
+
+
+Description
+
+
+Classification (CN code)
+
+
+Reasons
+
+
+
+
+(1)
+
+
+(2)
+
+
+(3)
+
+
+
+
+1. A steel ball coated with silicon rubber and meeting the following specifications :
+– shore hardness (A type) of 70 ± 5,
+– raised molding parting line not exceeding 0,05 mm,
+– diameter not exceeding 22 mm, and
+– total weight of 31 grams (± 1 gram)
+designed for use in the manufacture of a pointing device (so called 'computer mouse').
+
+
+8473 30 90
+
+
+Classification is determined by the provisions of General Rules 1 and 6 for the interpretation of the combined nomenclature, Note 2 b) to Section XVI and by the wording of CN codes 8473, 8473 30 and 8473 30 90.
+
+
+
+
+2. A magnetic floppy disk on which an analogue (waveform) signal has been recorded during manufacture, solely for the purpose of checking the quality of the disk's magnetic coating.
+
+
+8523 20 90
+
+
+Classification is determined by the provisions of General Rules 1 and 6 for the interpretation of the combined nomenclature and by the wording of CN codes 8523, 8523 20 and 8523 20 90.
+As the analogue signal in question cannot serve any purpose after manufacture, such a signal cannot be considered as a recording within the meaning of heading 8524.
+
+
+
+
+3. A junction box for use in cable television systems, comprising a metal box (approximate size 10 x 10 x 7 cm) fitted with cable inputs and terminals. The box contains an electric circuit with a number of electric components (such as coils, transformers, resistors and capacitors) and connections.
+The function of the junction box is to reduce the signal voltage fed through the cable to the television receivers and, by means of a filter, to prevent the supply voltage for the amplifiers from reaching the television receivers.
+
+
+8543 80 80
+
+
+Classification is determined by the provisions of General Rules 1 and 6 for the interpretation of the combined nomenclature and by the wording of CN codes 8543, 8543 80 and 8543 80 80.
+The junction box in design and function is not an apparatus for making connections to or in electrical circuits within the meaning of heading 8536. Although used as a part for television systems, it is an appliance having an individual function.
+
+
+
+
+УРЕДБА КОМИСИЈЕ (ЕЗ) број 3272/94 од 27. децембра 1994. годинеу вези са сврставањем одређених роба према Комбинованој номенклатури
+"Службени гласник РС", број 117 од 12. децембра 
+				2012.
+КОМИСИЈА ЕВРОПСКИХ ЗАЈЕДНИЦА,
+Имајући у виду Уговор о оснивању Европске заједнице,
+Имајући у виду Уредбу Савета (ЕЕЗ) број 2658/871 од 23. јула 1987. године о тарифској и статистичкој номенклатури и Заједничкој царинској тарифи, како је задњи пут измењена Уредбом Комисије (ЕЗ) број 3176/942, и посебно њен члан 9,
+С обзиром на то да је да би осигурала доследну примену Комбиноване номенклатуре дате у Анексу поменуте Уредбе, неопходно усвојити мере у вези са сврставањем роба наведених у Анексу уз ову уредбу;
+С обзиром на то да су Уредбом (ЕЕЗ) број 2658/87 одређена основна правила за тумачење Комбиноване номенклатуре. Ова правила се такође примењују на било коју другу номенклатуру која се у потпуности или делимично заснива на њој, или којој су додате било које потподеле и која је установљена посебним прописима Уније, са циљем примене тарифских и других мера везаних за трговину робом;
+С обзиром на то да се сходно тим основним правилима, роба описана у колони 1 табеле дате у Анексу сврстава у одговарајућу CN ознаку наведену у колони 2, према разлозима датим у колони 3 табеле;
+С обзиром на то да је прихваћено да ималац обавезујуће тарифне информације, коју су издали царински органи држава чланица у односу на сврставање робе према Комбинованој номенклатури али која није у складу са овом уредбом може, према члану 12(6) Уредбе Савета (ЕЕЗ) број 2913/92 од 12 октобра 1992. којом је установљен Царински закон Заједнице3, да настави да се позива на њу у периоду од три месеца;
+С обзиром на то да да су мере предвиђене овом уредбом у складу са мишљењем Групе за тарифску и статистичку номенклатуру Одбора за Царински закон. 
+ДОНЕЛА ЈЕ ОВУ УРЕДБУ:
+Члан 1.
+Роба описана у колони 1 табеле дате у Анексу сврстава се у оквиру Комбиноване номенклатуре у одговарајуће CN ознаке наведене у колони 2 поменуте табеле.
+Члан 2.
+Обавезујућа тарифна информација, коју су издали царински органи држава чланица али која није у складу са условима ове уредбе, може наставити да важи у периоду од три месеца, према члану 12(6) Уредбе Савета (ЕЕЗ) број 2913/92.
+Члан 3.
+Ова уредба ће ступа на снагу 21. дана од дана објављивања у „Службеном листу Европских заједница”.
+Ова уредба у потпуности је обавезујућа и директно применљива у свим државама чланицама.
+У Бриселу, 27. децембра 1994. године 
+––––––––––
+1 OJ L 256, 7. септембар 1987, стр. 1
+2 OJ L 335, 23. децембар 1994, стр. 56.
+3 OJ L 302, 19. октобар 1992, стр. 1
+
+За Комисију
+Christiane SCRIVENER
+Члан Комисије
+АНЕКС
+
+
+
+
+								Опис робе
+
+Сврставање
+								(CN ознака)
+
+
+Разлози
+
+
+
+
+1. Челична кугла, превучена силиконском гумом која одговара следећој спецификацији: 
+– тврдоћа по Shore методи (тип А) од 70 ± 5,
+– висина линије раздвајања при ливењу није веће од 0,05 mm, 
+– пречник не већи од 22 mm, и
+– укупна маса 31 g (± 1 g), 
+израђена за употребу у производњи показног уређаја (тзв. „компјутерског миша”)
+
+
+8473 30 904
+
+Сврставање је одређено условима Основних правила 1 и 6 за примењивање Комбиноване номенклатуре, Напоменом 2(б) уз Одељак XVI и наименовањем уз CN ознаке 8473, 8473 30 и 8473 30 905.
+
+
+
+2. Магнетни флопи диск, на који је у процесу производње наснимљен аналогни (таласна форма) сигнал, искључиво за сврхе провере магнетне превлаке дискете.
+
+
+8523 20 906
+
+
+Сврставање је одређено условима Основних правила 1 и 6 за примењивање Комбиноване номенклатуре и наименовањем уз CN ознаке 8523, 8523 20 и 8523 20 90.
+Пошто предметни аналогни сигнал не може да служи у било које друге сврхе после производње, такав сигнал се не може сматрати као снимање у смислу тарифног броја 85247.
+
+
+
+
+3. Разводна кутија, користи се за систем кабловске телевизије, састоји се од металне кутије (приближно, 10 x 10 x 7 cm) у коју су уграђени улази за каблове и прикључне плоче. Кутија садржи електрична кола са бројним електричним компонентама (као што су намотаји, трансформатори, отпорници и кондензатори) и конекторе.
+Разводна кутија служи да смањи напонски сигнал кроз кабл до телевизијског пријемника, помоћу филтера, и спречи да се мрежни напон појача док стигне до телевизијског пријемника.
+
+
+8543 80 808
+
+
+Сврставање је одређено условима Основних правила 1 и 6 за примењивање Комбиноване номенклатуре и наименовањем уз CN ознаке 8543, 8543 80 и 8543 80 809.
+Разводна кутија по конструкцији и функцији није апарат за остваривање прикључивања за или у електричним струјним колима у смислу тарифног броја 8536. Иако се употребљава као део за телевизијски систем, то је уређај са индивидуалном функцијом.
+
+
+
+
+––––––––––
+4 замењено са „8473 30 80” у складу са тачком 70 под (а) под (i) Анекса I Уредбе Комисије (ЕЗ) број 1179/09 од 26. новембра 2009. године којом се мењају или стављају ван снаге одређене Уредбе у вези са сврставањем робе према Комбинованој номенклатури (OJ L 317 од 3. децембра 2009, стр. 23), која је објављена у „Службеном гласнику РС”, број 7/10
+5 замењено са „8473 30 80” у складу са тачком 70 под (а) под (ii) Анекса I Уредбе Комисије (ЕЗ) број 1179/09 од 26. новембра 2009. године којом се мењају или стављају ван снаге одређене Уредбе у вези са сврставањем робе према Комбинованој номенклатури (OJ L 317 од 3. децембра 2009, стр. 23), која је објављена у „Службеном гласнику РС”, број 7/10
+6 замењено са „ 8523 29 15” у складу са тачком 71 под (б) под (i) Анекса I Уредбе Комисије (ЕЗ) број 1179/09 од 26. новембра 2009. године којом се мењају или стављају ван снаге одређене Уредбе у вези са сврставањем робе према Комбинованој номенклатури (OJ L 317 од 3. децембра 2009, стр. 23), која је објављена у „Службеном гласнику РС”, број 7/10
+7 замењено са „ ... 8523 29 и 8523 29 15. Пошто предметни аналогни сигнал не може да служи у било које друге сврхе после производње, такав сигнал се не може сматрати као снимање у смислу овог тарифног броја” у складу са тачком 71. под (б) под (ii) Анекса I Уредбе Комисије (ЕЗ) број 1179/09 од 26. новембра 2009. године којом се мењају или стављају ван снаге одређене Уредбе у вези са сврставањем робе према Комбинованој номенклатури (OJ L 317 од 3.12.2009, стр. 23), која је објављена у „Службеном гласнику РС”, број 7/10;
+8 замењено са „8543 70 90” у складу са тачком 96 Анекса А Уредбе Комисије (ЕЗ) број 936/99 од 27. априла 1999. године којом се мењају или стављају ван снаге одређене Уредбе у вези са сврставањем робе према Комбинованој номенклатури (OJ L 117 од 5.5.1999, стр. 9), која је објављена у „Службеном гласнику РС”, број 79/11 и тачком 72. под (c) под (i) Анекса I Уредбе Комисије (ЕЗ) број 1179/09 од 26. новембра 2009. године којом се мењају или стављају ван снаге одређене Уредбе у вези са сврставањем робе према Комбинованој номенклатури (OJ L 317 од 3. децембра 2009, стр. 23), која је објављена у „Службеном гласнику РС”, број 7/10
+9 замењено са „8543 70 и 8543 70 90” у складу са тачком 96 Анекса А Уредбе Комисије (ЕЗ) број 936/99 од 27. априла 1999. године којом се мењају или стављају ван снаге одређене Уредбе у вези са сврставањем робе према Комбинованој номенклатури (OJ L 117 од 5.5.1999, стр. 9), која је објављена у „Службеном гласнику РС”, број 79/11 и тачком 72 под (c) под (ii) Анекса I Уредбе Комисије (ЕЗ) број 1179/09 од 26. новембра 2009. године којом се мењају или стављају ван снаге одређене Уредбе у вези са сврставањем робе према Комбинованој номенклатури (OJ L 317 од 3. децембра 2009, стр. 23), која је објављена у „Службеном гласнику РС”, број 7/10

@@ -1,0 +1,141 @@
+На основу члана 3а став 4. Закона о Царинској тарифи („Службени гласник Републике Србије”, бр. 62/05, 61/07 и 5/09) објављује се Уредба Комисије (ЕУ) о спровођењу број 1110/2012 од 23. новембра 2012. године у вези са сврставањем одређених роба у Комбинованој номенклатури објављена у „Службеном листу Европске уније”, број L 329/5 од 29. новембра 2012. године, која у оригиналу на енглеском језику и у преводу на српски језик гласи: 
+COMMISSION IMPLEMENTING REGULATION (EU) No 1110/2012 of 23 November 2012 concerning the classification of certain goods in the Combined Nomenclature
+"Службени гласник РС", број 9 од 29. јануара 2013.
+THE EUROPEAN COMMISSION,
+Having regard to the Treaty on the Functioning of the European Union,
+Having regard to Council Regulation (EEC) No 2658/87 of 23 July 1987 on the tariff and statistical nomenclature and on the Common Customs Tariff (1), and in particular Article 9(1)(a) thereof,
+Whereas:
+(1) In order to ensure uniform application of the Combined Nomenclature annexed to Regulation (EEC) No 2658/87, it is necessary to adopt measures concerning the classification of the goods referred to in the Annex to this Regulation.
+(2) Regulation (EEC) No 2658/87 has laid down the general rules for the interpretation of the Combined Nomenclature. Those rules apply also to any other nomenclature which is wholly or partly based on it or which adds any additional subdivision to it and which is established by specific provisions of the Union, with a view to the application of tariff and other measures relating to trade in goods.
+(3) Pursuant to those general rules, the goods described in column (1) of the table set out in the Annex should be classified under the CN code indicated in column (2), by virtue of the reasons set out in column (3) of that table.
+(4) It is appropriate to provide that binding tariff information which has been issued by the customs authorities of Member States in respect of the classification of goods in the Combined Nomenclature but which is not in accordance with this Regulation can, for a period of three months, continue to be invoked by the holder, under Article 12(6) of Council Regulation (EEC) No 2913/92 of 12 October 1992 establishing the Community Customs Code (2).
+(5) The measures provided for in this Regulation are in accordance with the opinion of the Customs Code Committee,
+HAS ADOPTED THIS REGULATION:
+Article 1
+The goods described in column (1) of the table set out in the Annex shall be classified within the Combined Nomenclature under the CN code indicated in column (2) of that table.
+Article 2
+Binding tariff information issued by the customs authorities of Member States, which is not in accordance with this Regulation, can continue to be invoked for a period of three months under Article 12(6) of Regulation (EEC) No 2913/92.
+Article 3
+This Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union.
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+Done at Brussels, 23 November 2012.
+–––––––––––
+(1) OJ L 256, 7.9.1987, p. 1.
+(2) OJ L 302, 19.10.1992, p. 1.
+For the Commission,
+On behalf of the President,
+Algirdas ŠEMETA
+Member of the Commission
+ 
+ANNEX
+
+
+
+
+Description of the goods
+
+
+Classification (CN code)
+
+
+Reasons
+
+
+
+
+(1)
+
+
+(2)
+
+
+(3)
+
+
+
+
+A charger of the direct current converter type (so-called 'Universal dual-port car charger') comprising a car cigarette adapter, two USB interfaces and a light indicator.
+The charger has a voltage input of 12 V DC, a voltage output of 5 V DC and a current output of 500 mA or 2 х 250 mA.
+The charger is used for supplying power to charge various apparatus, such as mobile phones, PDA, GPS, cameras, MP3 and MP4 players.
+
+
+8504 40 90
+
+
+Classification is determined by General Rules 1 and 6 for the interpretation of the Combined Nomenclature and by the wording of CN codes 8504, 8504 40 and 8504 40 90.
+The product is a static converter of the direct current converter type (see also the HS Explanatory Notes to heading 8504, (II), point (D)).
+The charger can be used for charging a variety of apparatus, for example, telecommunication apparatus, automatic data- processing machines, audio/video recording or reproducing apparatus and radio navigational aid apparatus.
+Classification under CN code 8504 40 30 as static converters of a kind used with telecommunication apparatus, automatic data- processing machines and units thereof is therefore excluded.
+The charger is therefore to be classified under CN code 8504 40 90 as other static converters.
+
+
+
+
+УРЕДБА КОМИСИЈЕ (ЕУ) О СПРОВОЂЕЊУ број 1110/2012 од 23. новембра 2012. годинеу вези са сврставањем одређених роба према Комбинованој номенклатури 
+"Службени гласник РС", број 9 од 29. јануара 2013.
+КОМИСИЈА ЕВРОПСКЕ УНИЈЕ,
+Имајући у виду Уговор о функционисању Европске уније,
+Имајући у виду Уредбу Савета (ЕЕЗ) број 2658/87 од 23. јула 1987. године о тарифској и статистичкој номенклатури и Заједничкој царинској тарифи1, а посебно њен члан 9(1)(а),
+С обзиром на то:
+(1) да је, да би се осигурала доследна примену Комбиноване номенклатуре дате у прилогу Уредбе (ЕЕЗ) број 2658/87, неопходно усвојити мере у вези са сврставањем роба наведених у Анексу уз ову уредбу;
+(2) да су Уредбом (ЕЕЗ) број 2658/87 одређена основна правила за тумачење Комбиноване номенклатуре. Ова правила се такође примењују на било коју другу номенклатуру која се у потпуности или делимично заснива на њој, или којој су додате било које потподеле и која је установљена посебним прописима Уније, са циљем примене тарифских и других мера везаних за трговину робом;
+(3) да се сходно тим основним правилима, роба описана у колони 1 табеле дате у Анексу сврстава у CN ознаку наведену у колони 2, према разлозима датим у колони 3 табеле;
+(4) да је одговарајуће обезбедити да, ималац обавезујуће тарифне информације, коју су издали царински органи држава чланица у односу на сврставање робе према Комбинованој номенклатури али која није у складу са овом уредбом, може у периоду од три месеца, да настави да се позива на њу, према члану 12(6) Уредбе Савета (ЕЕЗ) број 2913/92 од 12. октобра 1992. године којом је установљен Царински закон Заједнице2;
+(5) да су мере предвиђене овом уредбом у складу са мишљењем Одбора за Царински закон.
+УСВОЈИЛА ЈЕ ОВУ УРЕДБУ:
+Члан 1.
+Роба описана у колони 1 табеле дате у Анексу сврстава се у оквиру Комбиноване номенклатуре у CN ознаку наведену у колони 2 те табеле.
+Члан 2.
+Обавезујућа тарифна информација коју су издали царински органи државе чланице, а која није у складу са овом уредбом наставиће да важи у периоду од три месеца по члану 12(6) Уредбе (ЕЕЗ) број 2913/92.
+Члан 3.
+Ова уредба ступа на снагу 20. дана од дана објављивања у „Службеном листу Европске уније”.
+Ова уредба у потпуности је обавезујућа и директно применљива у свим државама чланицама.
+У Бриселу, 23. новембра 2012. године
+–––––––––––
+1 OJ L 256, 7.9.1987, стр. 1
+2 OJ L 302, 19.10.1992, стр. 1
+За Комисију
+У име председника
+Algirdas Šemeta
+члан Комисије
+АНЕКС
+
+
+
+
+Опис робе
+
+
+Сврставање
+(CN ознака)
+
+
+Разлози
+
+
+
+
+(1)
+
+
+(2)
+
+
+(3)
+
+
+
+
+Пуњач типа претварача једносмерне струје (такозвани „универзални дуал порт пуњач за цигарет упаљач у аутомобилу”) састоји се од адаптера за цигарет упаљач за аутомобиле, два USB интерфејса и светлосног индикатора.
+Пуњач има улазни напон од 12 V DC, излазни напон од 5 V DC и јачину излазне струје од 500 mA или 2 x 250 mA.
+Пуњач служи за обезбеђивање енергије за напајање различитих апарата, као што су мобилни телефони, PDA, GPS, фотоапарати, MP3 и MP4 плејери.
+
+
+8504 40 90
+
+
+Сврставање је одређено Основним правилима 1 и 6 за примењивање Комбиноване номенклатуре и наименовањима уз CN ознаке 8504, 8504 40 и 8504 40 90.
+Производ је типа статичког претварача једносмерне струје (видети такође ХС Коментар уз тарифни број 8504, (II), тачка (D)).
+Пуњач се може употребљавати за напајање различитих апарата, на пример, телекомуникационих апарата, машина за аутоматску обраду података, аудио/видео апарата за снимање или репродукцију и апарата за радио навигациону помоћ.
+Према томе, искључује се сврставање у CN ознаку 8504 40 30 као статичких конвертора (претварача) врста које се употребљавају за телекомуникације, машине за аутоматску обраду података и њихове јединице.
+Пуњач се, према томе, сврстава у CN ознаку 8504 40 90 као остали статички конвертори (претварачи).

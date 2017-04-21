@@ -1,0 +1,145 @@
+На основу члана 3а став 4. Закона о Царинској тарифи („Службени гласник Републике Србије”, бр. 62/05, 61/07 и 5/09) објављује се Уредба Комисије (ЕУ) о спровођењу број 1123/2012 од 26. новембра 2012. године у вези са сврставањем одређених роба у Комбинованој номенклатури објављена у „Службеном листу Европске уније”, број L 331/5 од 1. децембра 2012. године, која у оригиналу на енглеском језику и у преводу на српски језик гласи: 
+	
+COMMISSION IMPLEMENTING REGULATION (EU) No 1123/2012 of 26 November 2012 
+	concerning the classification of certain goods in the Combined Nomenclature
+"Службени гласник РС", број 9 од 29. јануара 2013.
+THE EUROPEAN COMMISSION,
+Having regard to the Treaty on the Functioning of the European Union,
+Having regard to Council Regulation (EEC) No 2658/87 of 23 July 1987 on the tariff and statistical nomenclature and on the Common Customs Tariff (1), and in particular Article 9(1)(a) thereof,
+Whereas:
+(1) In order to ensure uniform application of the Combined Nomenclature annexed to Regulation (EEC) No 2658/87, it is necessary to adopt measures concerning the classification of the goods referred to in the Annex to this Regulation.
+(2) Regulation (EEC) No 2658/87 has laid down the general rules for the interpretation of the Combined Nomenclature. Those rules apply also to any other nomenclature which is wholly or partly based on it or which adds any additional subdivision to it and which is established by specific provisions of the Union, with a view to the application of tariff and other measures relating to trade in goods.
+(3) Pursuant to those general rules, the goods described in column (1) of the table set out in the Annex should be classified under the CN code indicated in column (2), by virtue of the reasons set out in column (3) of that table.
+(4) It is appropriate to provide that binding tariff information which has been issued by the customs authorities of Member States in respect of the classification of goods in the Combined Nomenclature but which is not in accordance with this Regulation can, for a period of three months, continue to be invoked by the holder, under Article 12(6) of Council Regulation (EEC) No 2913/92 of 12 October 1992 establishing the Community Customs Code (2).
+(5) The measures provided for in this Regulation are in accordance with the opinion of the Customs Code Committee,
+HAS ADOPTED THIS REGULATION:
+Article 1
+The goods described in column (1) of the table set out in the Annex shall be classified within the Combined Nomenclature under the CN code indicated in column (2) of that table.
+Article 2
+Binding tariff information issued by the customs authorities of Member States, which is not in accordance with this Regulation, can continue to be invoked for a period of three months under Article 12(6) of Regulation (EEC) No 2913/92.
+Article 3
+This Regulation shall enter into force on the twentieth day following that of its publication in the 
+	Official Journal of the European Union.
+This Regulation shall be binding in its entirety and directly applicable in all Member States. 
+	
+Done at Brussels, 26 November 2012.
+–––––––––––
+(1) OJ L 256, 7.9.1987, p. 1.
+(2) OJ L 302, 19.10.1992, p. 1.
+For the Commission, 
+On behalf of the President,
+Algirdas ŠEMETA 
+Member of the Commission
+ANNEX
+
+
+
+
+Description of the goods
+
+Classification (CN code)
+
+Reasons
+
+
+
+(1)
+
+(2)
+
+(3)
+
+
+
+An apparatus (so-called "passive infrared detector") consisting of a printed circuit assembly in a plastic housing with dimensions of approximately 11 x 7 x 4 cm.
+The printed circuit assembly is equipped with an infrared sensor, passive elements (capacitors, resistors), active elements (transistors, integrated circuits) and a light emitting diode. It is also equipped with a dual in-line package switch, an anti-tamper switch, a block of screw terminal connectors and an output of semiconductor relay type.
+The housing comprises a reflecting surface and a lens.
+The apparatus has an output signal of up to 30 V DC, 50 mA.
+The apparatus is designed to send an electrical signal to an apparatus, such as an alarm system or an electric door, when a movement is identified by detecting changes in temperature.
+
+
+8536 50 19
+
+Classification is determined by General Rules 1 and 6 for the interpretation of the Combined Nomenclature and by the wording of CN codes 8536, 8536 50 and 8536 50 19.
+Classification as an electric sound or visual signalling apparatus under heading 8531 is excluded as the apparatus has no self- contained alarm capability.
+Heading 8537 covers boards, panels, consoles, desks, cabinets and other bases, equipped with two or more apparatus of heading 8535 or 8536. As the apparatus has only components of the same type (two switches of the semiconductor relay type), classification under heading 8537 is therefore excluded (see also the HS Explanatory Notes to heading 8537, exclusion (b)).
+Classification under heading 9027 as instruments and apparatus for measuring or checking quantities of heat is also excluded as the apparatus does not measure quantities but only detects changes in temperature for the purpose of automatically activating another apparatus.
+The apparatus has the function of an automatic switch and it is therefore to be classified as a switch for a voltage not exceeding 60 V under CN code 8536 50 19.
+
+
+
+
+ 
+ 
+УРЕДБА КОМИСИЈЕ (ЕУ) О СПРОВОЂЕЊУ 
+	број 1123/2012 од 26. новембра 2012. годинеу вези са сврставањем одређених роба према Комбинованој номенклатури
+
+"Службени гласник РС", број 9 од 29. јануара 2013.
+КОМИСИЈА ЕВРОПСКЕ УНИЈЕ,
+Имајући у виду Уговор о функционисању Европске уније,
+Имајући у виду Уредбу Савета (ЕЕЗ) број 2658/87 од 23. јула 1987. године о тарифској и статистичкој номенклатури и Заједничкој царинској тарифи1, а посебно њен члан 9(1)(а),
+С обзиром на то:
+(1) да је, да би се осигурала доследна примену Комбиноване номенклатуре дате у прилогу Уредбе (ЕЕЗ) број 2658/87, неопходно усвојити мере у вези са сврставањем роба наведених у Анексу уз ову уредбу;
+(2) да су Уредбом (ЕЕЗ) број 2658/87 одређена основна правила за тумачење Комбиноване номенклатуре. Ова правила се такође примењују на било коју другу номенклатуру која се у потпуности или делимично заснива на њој, или којој су додате било које потподеле и која је установљена посебним прописима Уније, са циљем примене тарифских и других мера везаних за трговину робом;
+(3) да се сходно тим основним правилима, роба описана у колони 1 табеле дате у Анексу сврстава у CN ознаку наведену у колони 2, према разлозима датим у колони 3 табеле;
+(4) да је одговарајуће обезбедити да, ималац обавезујуће тарифне информације, коју су издали царински органи држава чланица у односу на сврставање робе према Комбинованој номенклатури али која није у складу са овом уредбом, може у периоду од три месеца, да настави да се позива на њу, према члану 12(6) Уредбе Савета (ЕЕЗ) број 2913/92 од 12. октобра 1992. године којом је установљен Царински закон Заједнице2;
+(5) да су мере предвиђене овом уредбом у складу са мишљењем Одбора за Царински закон.
+УСВОЈИЛА ЈЕ ОВУ УРЕДБУ:
+Члан 1.
+Роба описана у колони 1 табеле дате у Анексу сврстава се у оквиру Комбиноване номенклатуре у CN ознаку наведену у колони 2 те табеле.
+Члан 2.
+Обавезујућа тарифна информација коју су издали царински органи државе чланице, а која није у складу са овом уредбом наставиће да важи у периоду од три месеца по члану 12(6) Уредбе (ЕЕЗ) број 2913/92.
+Члан 3.
+Ова уредба ступа на снагу 20. дана од дана објављивања у „Службеном листу Европске уније”.
+Ова уредба у потпуности је обавезујућа и директно применљива у свим државама чланицама.
+У Бриселу, 26. новембра 2012. године
+–––––––––––
+1 OJ L 256, 7. 9. 1987, стр. 1.
+2 OJ L 302, 19. 10. 1992, стр. 1
+За Комисију
+У име председника
+Algirdas Šemeta
+члан Комисије
+АНЕКС
+
+
+
+
+Опис робе
+
+Сврставање
+(CN ознака)
+
+Разлози
+
+
+
+(1)
+
+(2)
+
+(3)
+
+
+
+Апарат (такозвани „пасивни инфрацрвени детектор”) састоји се од склопа штампаног кола у пластичном кућишту димензија приближно 11 x 7 x 4 cm.
+Склоп штампаног кола има инфрацрвени сензор, пасивне елементе (кондензатори, отпорници), активне елементе (транзистори, интегрисана кола) и LED диоду. Такође, има DIP (dual in-line package) прекидач, прекидач против неовлашћеног руковања, блок вијчаних прикључних конектора и излаз типа полупроводничког релеја.
+Кућиште има рефлектујућу површину и сочива.
+Апарат има излазни сигнал до 30 V DC, 50 mA.
+Апарат је пројектован да, када идентификује кретање детекцијом промене температуре, шаље електричне сигнале до апарата као што су алармни систем или електронска врата.
+
+
+8536 50 19
+
+Сврставање је одређено Основним правилима 1 и 6 за примењивање Комбиноване номенклатуре и наименовањима уз CN ознаке 8536, 8536 50 и 8536 50 19.
+Искључује се сврставање као апарата за звучну или визуелну сигнализацију из тарифног броја 8531, с обзиром на то да апарат нема самосталну способност алармирања.
+Тарифни број 8537 обухвата табле, плоче, пултове, столове, ормаре и остале основе, опремљене са два или више апарата из тар. бројева 8535 или 8536. Како апарат има само компоненте истог типа (два прекидача типа полупроводничког релеја), искључује се сврставање у тарифни број 8537 (видети такође ХС Коментар уз тарифни број 8537, искључење под (б))
+Такође, искључује се сврставање у тарифни број 9027 као инструмента или апарата за мерење и проверу количине топлоте,
+
+
+
+
+
+
+пошто апарат не мери количину већ само детектује промене у температури да би аутоматски активирао други апарат.
+Апарат има функцију аутоматског прекидача и, према томе, сврстава се као прекидач за напон не преко 60 V у CN ознаку 8536 50 19.

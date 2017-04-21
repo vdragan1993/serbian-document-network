@@ -1,0 +1,636 @@
+Одлуке о сврставању робе које је донео Комитет за Хармонизовани систем Светске царинске организације на 
+28. заседању 
+новембра 2001. године
+
+ 
+"Службени гласник РС", број 27 од 20. априла 2011.
+
+ 
+ 
+На основу члана 3а став 4. Закона о Царинској тарифи („Службени гласник Републике Србије”, бр. 62/05, 61/07 и 5/09) објављују се Одлуке о сврставању робе које је донео Комитет за Хармонизовани систем Светске царинске организације (у даљем тексту: СЦО) на свом 28. заседању новембра 2001. године објављене на сајту СЦО 2001. године, а у складу са Уговором потписаним између СЦО и Управе царина Републике Србије од 28. априла 2008. године, које у оригиналу на енглеском језику и у преводу на српски језик гласе:
+The following list contains the classification decisions (other than those subject to a reservation) taken by the Harmonized System Committee (281‘ Session - November 2001) on specific products, together with their related Harmonized System code numbers and, in certain cases, the classification rationale.
+ 
+Advice
+Parties seeking to import or export merchandise covered by a decision are advised to verify the implementation of the decision
+by the importing or exporting country, as the case may be.
+ 
+
+
+
+
+No.
+
+Product description
+
+Classification
+
+HS codes Considered
+
+Classification rationale
+
+
+
+1.
+
+Fresh strawberries, cleaned and chopped, packed in plastic shells and covered with a plastic sheet by means of a special process. During this process, a vacuum pump has removed the oxygen from the packaging and replaced it with a nitrogen-based protective gas. If chilled, the strawberries can be kept fnesh" for up to 8 days.
+
+0810.10
+
+
+
+
+
+
+2.
+
+Watermelon seeds of a kind used for sowing.
+
+1209.99
+
+1209.91 1209.99
+
+GIRs 1 and 6
+
+
+3.
+
+Mixed grease product consisting of 80 to 90 % rendered pork fat (lard) and 10 to 20 % beef tallow, suitable for human consumption.
+
+1517.90
+
+
+
+GIR1
+
+
+4.
+
+Vitamin C preparation (500 mg) in the form of tablets containing ascorbic acid, corn starch, croscarmellose sodium, cellulose, rose hips, stearic acid, lemon bioflavonoid complex, magnesium stearate and acerola. The tablets are put up in containers (130 tablets). This product is not intended to diagnose, treat, cure or prevent any disease.
+
+2106.90
+
+2106.90 3004.50
+
+
+
+
+5.
+
+Spirits, referred to as ”pisco" and ”Singani", obtained by distilling grape wine.
+
+2208.20
+
+
+
+
+
+
+6.
+
+Flexible reinforcement grid, in the form of rolls, made of high-
+strength polyester fibres covered with a protective layer of
+polymer (polyvinyl chloride)), used to reinforce earth fill structures : base courses in road construction, retaining structures and very steep banks, embankments, etc. Each element of the grid takes the form of a narrow fabric made of parallel yarns, with the "weft" inserted at right angles between the yarns of the "warp", forming mesh openings measuring 35 x 40 mm. The polymer coating bonds (reinforces) the grid&apos;s elements and protects the yarn from UV and mechanical damage.
+
+3926.90
+
+39.21
+39.26
+59.03
+
+GlRs 1 and 6
+Note 2(a)(3) to
+Chapter 59
+Note 10 to Chapter
+39
+
+
+7.
+
+Panels (approx. 30 cm in width and 180 cm in length) consisting of sheets of plywood (3 to 12 mm thickness), with a thin veneer of wood (sliced from blocks of wood laminated together) affixed to the surface, so as to simulate a flooring panel made up of parquet strips. The surfaces of the panels have been sanded, coloured and stained and then lacquered and some have been surface worked by lengthwise grooving. The panels aretongued at each end and grooved along both sides.
+
+44.12
+
+44.12 44.18
+
+
+
+
+8.
+
+Quartz reactor tubes and holders designed for insertion into diffusion and oxidation furnaces for the production of semiconductor wafers.
+
+7020.00
+
+70.17 70.20
+
+GIR 1
+
+
+9.
+
+Palm-size electronic organizer : 11.5 cm x 7.7 cm x 1 cm.Weight: 115 g. The front of the device incorporates a touch screen with a writing area (a stylus is part of the package) and various function keys. The lithium ion battery that powers the device can be recharged by means of a serial connector when dropped into a cradle. If the battery becomes too weak to power the device, the user has a week in which to recharge it before the data are irretrievably lost. The organizer can be connected to a computer and. after the installation of special software (sold separately on CD ROM), exchange data with it. Similarly, an IR (infrared) port enables it to beam data to other IR-enabled units. Its principal applications are as follows: date book, address book, to-do list, memo pad, calculator and expense record keeper. The device is supplied with a HotSync cradle and battery charger, a metal stylus and spare plastic stylus, data input software, an organizer user manual, a getting started guide, a lithium ion (internal) rechargeable battery, a DB-25 adapter and a protective cover.
+
+8471.30
+
+34.70
+84.71 34.72
+
+GlRs 1 (Note 5 to
+Chapter 84) and 6
+
+
+10.
+
+Local Repeater for All Ethernet Media Types, specially designed for Local Area Network (LAN) systems. It transmits LAN data by regenerating and retiming the complete data signal (full-signal). It has port connections for two Ethernet segments, which conform to the Standard for Ethernet LAN (IEEE 802.3) specifications for length and number of workstations connected to the LAN (nodes). It also generates the signals (jam pattern) that are sent to inform the other workstations that they must not transmit data, when a collision of signals is detected at either port of the repeater.
+
+8471.30
+
+
+
+GlRs 1 (Note 5(B) to Chapter 34) and 6
+
+
+11.
+
+Remote Fibreoptic Multimode Repeater for All Ethernet Media Types, specially designed for Local Area Network (LAN) systems. It transmits LAN data by regenerating and retiming the complete data signal (full-signal). It has port connections for two Ethernet segments, which conform to the Standard for Ethernet LAN (IEEE 802.3) specifications for length and number of workstations connected to the LAN (nodes). It also generates the signals (jam pattern) that are sent to inform the other workstations that they must not transmit data, when a collision of signals is detected at either port of the repeater.
+
+8471.30
+
+
+
+GlRs 1 (Note 5(B) to Chapter 34) and 6
+
+
+12.
+
+Remote Single-mode Fibre Repeater for All Ethernet Media Types, specially designed for Local Area Network (LAN) systems. It transmits LAN data by regenerating and retiming the complete data signal (full-signal). It has port connections for too Ethernet segments, which conform to the Standard for Ethernet LAN (IEEE 802.3) specifications for length and number of workstations connected to the LAN (nodes). It also generates the signals (jam pattern) that are sent to inform the other workstations that they must not transmit data, when a collision of signals is detected at either port of the repeater.
+
+8471.30
+
+
+
+GlRs 1 (Note 5(B) to Chapter 84) and 6
+
+
+13.
+
+Single In-Line Memory Modules (SIMMs) : a typical SIMM consists of a number of DRAM chips on a small printed circuit board. The opposing pins on either side of the board are lied" together to form one electrical contact. This can be supplemented by other SIMM boards, which can be added according to the memory capacity required by the machine which it is designed for.
+
+84.73
+Or
+classification
+of the machine
+or 85.48
+
+
+
+G R 1
+Note 2 to Section XVI
+
+
+14.
+
+Dual In-Line Memory Module (DIMMs): these modules consist
+of a number of DRAM chips on a small printed circuit board. The opposing pins remain electrically isolated to form two separate contacts. They are installed vertically into expansion sockets. DIMMs are often used in computer configurations that support a 64-bit or wider memory bus. These configurations are based on powerful new processors.
+
+84.73
+or
+classification
+of the machine
+or 85.48
+
+
+
+GIR 1
+Note 2 to Section XVI
+
+
+15.
+
+Wet Stations are designed to clean and etch silicon wafer
+surfaces and remove unnecessary foreign matter from their surfaces by immersing them for specified periods in various bath modules containing chemicals and/or deionized water. They are comprised of various modules (interface units. chemical bath, rinsing bath, dryer and transfer units), the number order and combination depending upon each model&apos;s purpose and processes.
+
+8479.89
+
+84.64
+84.79
+
+GlRs 1 (Note 3 to
+Section XVI) and 6
+
+
+16.
+
+Stainless steel chafing dish (model "RONDO 1/1 GN", No. 2509-697) with roll-top lid. The underside of the apparatus is fitted with a removable, thermostat-control led heating unit, which is screwed into place and fits directly against the water pan, thus ensuring heat transfer. The food tray, with a lid that opens upwards, may have a diameter of either 50 cm or 70 cm, depending on the type. Beneath the tray is a pan of hot water to keep the food warm. The apparatus is 66 cm long, 43 cm wide and 40cm high, and can contain up to 14 litres of water. It is used to keep food warm using the "bain-marie" process (the hot water in which the trays of food are standing is kept at a constant temperature using electricity), in establishments where buffet meals are served (especially hotels).
+
+8516.79
+
+84.19 85.16
+
+GlRs 1 and 6
+
+
+17.
+
+Radio communications equipment making it possible to establish a telecommunications link between two points and intended to form a whole after interconn ection :
+(i)- a central unit comprising four radio signal transmitters and four receivers,
+(ii)-a switching system module which compensates for any deficiencies in any one of the receivers,
+(iii) - a transmitter/receiver network management modu le.
+
+8525.20
+
+Functional unit
+cr
+separate classification
+
+GIR 1
+Note 4 to Section XVI
+
+
+18.
+
+Motor car, equipped with a "hybrid" power system which allows a gasoline engine (L4 1497 cc aluminium cylinder, 16 valve, with a maximum output (kW/rprn) of 53 (72 DIN hpV4500) and an electric motor (permanent magnet (2CM), with a maximum output (kW/rprn) of 33 (45 DIN hp)/1040-5600) to work in combination.
+In the "hybrid" system, a sophisticated controller allows the gasoline engine and electric motor to work together in concert. When the engine demand is low (starting, travelling at low speed or stopping), the motor car is powered by the electric motor. Then, during normal travelling, the gasoline engine engages, and serves a dual purpose : running the generator that powers the electric motor that drives the wheels and supplementing the electric motor to also drive the wheels: this ratio is controlled for maximum efficiency. Nest, at full acceleration, the normal travelling mode is boosted by additional power flowing to the motor from the battery. Finally, when decelerating or braking, the wheels drive the electric motor which acts as a generator and recharges the battery. When the vehicle is stopped, the engine stops automatically. However, when it is necessary to charge the battery and/or to run the air conditioner compressor, the engine will continue to run. And, battery charging continues while the vehicle is stopped or when engine demand is low. The gasoline engine runs the generator as needed to charge the battery back to full strength.
+
+8703.2
+
+8703.2 and 8703.90
+
+GlRs3 (b) and 6
+
+
+19.
+
+Pedal-driven bicycle-like scooters, designed to be ridden by children, youngsters and adults, with bicycle-type adjustable steering column and handle-bar. inflatable wheels, frame and hand brakes. They are equipped with a single pedal attached chain and sprocket system.
+
+8712.00
+
+
+
+GIR1
+
+
+20.
+
+Three-wheeled scooter trolleys, designed for the transport of goods, with a non-adjustable steering column, small solid wheels (two at the front and one at the rear), a platform on the two front wheels for loading goods and afoot brake on the rear wheel.
+
+8716.80
+
+
+
+GlRs 1 and 6
+
+
+21.
+
+"Kicksled&apos; propelled by the direct pressure of the rider&apos;s foot on the snow covered ground as well be it can be pushed by hand.
+
+8716.80
+
+
+
+
+
+
+22.
+
+Two-wheeled foot propelled scooters, designed to be ridden by children, consisting of a platform, a non-adjustable steering column and small solid wheels.
+
+95501.00
+
+
+
+GIR1
+
+
+23.
+
+Two-wheeled foot propelled scooters, designed to be ridden by children, youngsters and adults, consisting of a horizontal platform, an adjustable steering column, small solid wheels and afoot brake on the rear wheel.
+
+9501.00
+
+87.16 95.01 95.06
+
+GlR 1
+Copyright ©2002 the World Customs Organization
+ 
+ 
+Следећа листа садржи одлуке о сврставању робе (осим оних које су предмет захтева за поновно разматрање) које је донео Комитет за ХС (28. заседање – новембра 2001. године) за одређене производе, заједно са тарифном ознаком и, у одређеним случајевима, основом за сврставање (Основна правила за примењивање Царинске тарифе, у даљем тексту: ОПП).
+ 
+Савет:
+Чланицама које желе да увезу или извезу робу обухваћену одлуком, саветује се да провере да ли земља из које увозе или у коју извозе робу примењује одлуку, у зависности од случаја.
+
+
+
+
+Бр.
+
+Опис производа
+
+Сврставање
+
+Разматране тарифне ознаке
+
+Основ сврставања
+
+
+
+1.
+
+Свеже јагоде, очишћене и исецкане, паковане у пластичне посуде и специјалним поступком затворене листом од пластичне масе. У току поступка, вакуумска пума одстрањује кисеоник из паковања и замењује га заштитним гасом на бази азота. Уколико су расхлађене, јагоде могу одржати „свежину” до 8 дана.
+
+0810. 10
+
+
+
+
+
+
+2.
+
+Семе лубенице врсте која се користи за сетву.
+
+1209. 99
+
+1209.91
+1209.99
+
+ОПП 1 и 6
+
+
+3.
+
+Производ од мешавине масти који садржи 80 до 90% истопљене свињске масноће (јестива маст) и 10-20% говеђег лоја, подобан за људску исхрану.
+
+1517. 90
+
+
+
+ОПП 1
+
+
+4.
+
+Препарат витамина Ц (500 mg) у облику таблета који садржи аскорбинску киселину, кукурузни скроб, натријум кроскармелозу, целулозу, шипак, стеаринску киселину, комплекс биофлавоноида из лимуна, магнезијум стеарат и ацеролу. Таблете су паковане у контејнере (130 таблета). Овај производ није намењен за дијагнозу, третман, лечење или превенцију било које болести.
+
+2106. 90
+
+2106.90
+3004.50
+
+
+
+
+5.
+
+Алкохолна пића, под називом „pisco” и „Singani”, добијена дестилацијом вина од грожђа.
+
+2208. 20
+
+
+
+
+
+
+6.
+
+Флексибилна мрежа за армирање, израђена од полиестарских влакана велике чврстоће прекривених заштитним слојем полимера (поли(винил хлорид)), користи се за армирање констукција за земљане насипе: базне подлоге у изградњи путева, потпорне конструкције и усеци, бране, итд. Сваки елемент мреже представља облик уског материјала израђеног од паралелног предива, са „потком” уметнутом под правим углом између нити „основе”, тако да образује мрежу са отворима димензија 35 x 40 mm. Превлака од полимера повезује (армира) елементе мрежа и штити предиво од UV и механичких оштећења.
+
+3926. 90
+
+39.21
+39.26
+59.03
+
+ОПП 1 и 6
+Напомена 2(а) (3) уз Главу 59
+Напомена 10 уз Главу 39
+
+
+7.
+
+Плоче (приближно 30 cm ширине и 180 cm дужине) састоје се од листова шперплоче (8 до 12 mm дебљине), са танким фурниром од дрвета (сечен из међусобно ламинираних блокова дрвета ) причвршћеним за површину, тако да имитира подну плочу израђену од паркетних ламела. Површине плоча су брушене, бојене и дезениране, а након тога лакиране, а неке су површински обрађене жљебљењем по дужини. Панели су „перо” профилисани на оба краја и „жљеб” профилисани на обе стране.
+
+44. 12
+
+44.12
+44.18
+
+
+
+
+8.
+
+Кварцне цеви и држачи за реакторе, намењене за стављање у дифузионе и оксидационе пећи за производњу полупроводничких дискова
+
+7020. 00
+
+70.17
+70.20
+
+
+
+
+9.
+
+Електронски организатор величине длана: 11.5цм х 7.7цм х 1цм. Тежине 115g. Предња страна уређаја има уграђен екран осетљив на додир са површином за писање (писаљка је део пакета) и различите функцијске тастере. Литијум јонска батерија, која напаја уређај, може се пунити путем серијског конектора када се спусти на базу. Ако батерија постане сувише слаба да напаја уређај, корисник има недељу дана да је поново напуни пре него што се подаци неповратно изгубе. Организатор се може повезати са компјутером и након инсталирања посебног софтвера (који се продаје посебно на CD ROM), размењивати податке са њим. Слично томе, један IR (инфрацрвени) порт му омогућава да електронским снопом шаље податке на друге IR-оспособљене јединице. Његове главне примене су следеће: календар састанака, адресар, списак обавеза, подсетник, калкулатор и вођење записника о трошковима. Уређај има базу са технологијом HotSync и пуњач за батерију, металну писаљку и резервну пластичну писаљку, софтвер за унос података, упутство за употребу организатора, водич за пуштање у рад, литијум јонску (унутрашњу) батерију која се може пунити, DB-25 адаптер и заштитни омотач.
+
+8471. 30
+
+84.70
+84.71
+84.72
+
+ОПП 1 (Напомена 5 уз Главу 84) и 6
+
+
+10.
+
+Локални рипитер за све типове етернет медијума, посебно пројектован за системе локалних мрежа (LAN). Он врши пренос податке из LAN мреже тако што регенерише и поново прослеђује комплетни сигнал података (full-signal). Поседује портове за конекцију са два етернет сегмента, који одговарају спецификацијама за дужину и број радних станица умрежених у LAN (мрежни чворови) Стандарда за етернет LAN (IEEE 802.3). Такође генерише сигнал (jam pattern) који шаље информацију другим радним станицама да не смеју да емитују податке, када се установи да је дошло до судара сигнала на било којем порту рипитера.
+
+8471. 801
+
+
+
+ОПП 1 (Напомена 5 (В) уз Главу 84) и 62
+
+
+11.
+
+Бежични фибероптички мултимодни рипитер за све типове етернет медијума, посебно пројектован за за системе локалних мрежа (LAN). Он врши пренос податке из LAN мреже тако што регенерише и поново прослеђује комплетни сигнал података (full-signal). Поседује портове за конекцију са два етернет сегмента, који одговарају спецификацијама за дужину и број радних станица умрежених у LAN (мрежни чворови) Стандарда за етернет LAN (IEEE 802.3). Такође генерише сигнал (jam pattern) који шаље информацију другим радним станицама да не смеју да емитују податке, када се установи да је дошло до судара сигнала на било којем порту рипитера.
+
+8471. 803
+
+
+
+ОПП 1 (Напомена 5 (В) уз Главу 84) и 64
+
+
+12.
+
+Бежични фибероптички мономодни рипитер за све типове етернет медијума, посебно пројектован за системе локалних мрежа (LAN). Он врши пренос податке из LAN мреже тако што регенерише и поново прослеђује комплетни сигнал података (full-signal). Поседује портове за конекцију са два етернет сегмента, који одговарају спецификацијама за дужину и број радних станица умрежених у LAN (мрежни чворови) Стандарда за етернет LAN (IEEE 802.3). Такође генерише сигнал (jam pattern) који шаље информацију другим радним станицама да не смеју да емитују податке, када се установи да је дошло до судара сигнала на било којем порту рипитера.
+
+8471. 805
+
+
+
+ОПП 1 (Напомена 5 (В) уз Главу 84) и 66
+
+
+13.
+
+Једноструки линијски меморијски модули (SIMMs/ Single In-Line Memory Modules): типични SIMM састоји се од мноштва DRAM чипова на малој плочи штампаних кола. Пинови са сваке стране плоче „везани” су међусобно тако да представљају електрични контакт. Може му бити придодата и друга SIMM плоча, која се додаје у зависности од капацитета меморије коју захтева машина за коју је конструисана.
+
+84. 73
+или
+сврставање машина
+или
+85. 48
+
+
+
+ОПП 1
+Напомена 2 уз Одељак XVI
+
+
+14.
+
+Двоструки линијски меморијски модули (DIMMs/ Dual In-Line Memory Module): ови модули састоје се од мноштва DRAM чипова на малој плочи штампаних кола. Супротни пинови остају електрично изоловани тако да представљају два одвојена контакта. Уграђују се вертикално у прошириве утичнице. DIMMs се често користе у рачунарским конфигурацијама које подржавају 64-битну или ширу меморијску магистралу. Ове конфигурације засноване су на моћним процесорима новије генерације.
+
+84. 73
+или сврставање машина
+или
+85. 48
+
+
+
+ОПП 1
+Напомена 2 уз Одељак XVI
+
+
+15.
+
+„Влажне станице” (Wet stations) су конструисане за чишћење и нагризање површина силиконских дискова и уклањање непотребних страних материја са њихових површина тако што се урањају у различите врсте модула за потапање који садрже хемикалије и/или дејонизовану воду. Оне се састоје од различитих модула (прикључне јединице, хемијске купатила, купатила за испирање, сушење и пролазне јединице) чији број, редослед и комбинација зависе од намене и поступка производње сваког од модела. 
+
+8479. 897
+
+84.64
+84.79
+
+ОПП 1 (Напомена 3 уз Одељак XVI) и 6
+
+
+16.
+
+Суд од нерђајућег челика који одржава топлоту хране (модел „RONDO 1/1 GN”, No. 2509-697) са сферним слајдер поклопцем. Са доње стране апарата налази се грејач са термостатом, који се може скидати и који је причвршћен вијчаним спојем тако да непосредно пријања на посуду са водом, чиме се обезбеђује пренос топлоте. Тацна за храну, са поклопцем који се отвара на горе, може имати пречник од било 50 цм или 70 цм, у зависности од типа. Испод тацне налази се посуда са врелом водом која храну одржава топлом. Апарат је 66 цм дугачак, 48 цм широк и 40 цм висок, и може да прими до 14 литара воде. Користи се да би храну одржавао топлом користећи поступак „кувања на пари” (врела вода у којој стоје тацне са храном се одржава на константној температури помоћу струје), у објектима где се оброци служе на бази „шведског стола” (посебно хотели).8 
+
+8516. 79
+
+84.19
+85.16
+
+ОПП 1и 6
+
+
+17.
+
+
+
+
+
+
+
+
+
+
+18.
+
+Аутомобил, са уграђеним „хибрид” погонским системом који омогућава да бензински мотор (L4 1497 cc алуминијумских цилиндара, 16 вентила, максималне снаге (kW/rpm) од 53 (72 DIN hp) / 4500) и електрични мотор (стални магнет (22CM), максималне снаге (kW/rpm) од 33 (45 DIN hp) / 1040-5600), раде у комбинацији. У „хибрид” систему, софистицирани контролер омогућава да бензински и електрични мотор раде узајамно у складу. Када је оптерећење мотора мало (стартовање, путовање при малој брзини или заустављање), електрични мотор погони аутомобил. Затим, за време нормалног путовања, бензински мотор се ангажује, и обавља двоструко дејство: покреће генератор који напаја електрични мотор који погони точкове, и допуњава електромотор да такође погони точкове; овај однос је регулисан тако да се постиже максимално корисно дејство. Даље, при пуном убрзању, нормални режим путовања је подржан додатном снагом која се доводи од батерије до мотора. Коначно, код успоравања или кочења, точкови погоне електрични мотор који ради као генератор и пуни батерију. Када се возило заустави, мотор се аутоматски зауставља. Међутим, када је потребно напунити батерију и / или укључити компресор клима уређаја, мотор ће наставити да ради. И, пуњење батерије се наставља док је возило заустављено или када је оптерећење мотора мало. Бензински мотор покреће генератор колико је потребно да се батерија напуни до пуног капацитета. 
+
+8703. 2
+
+8703.2 и 8703.90
+
+ОПП 3 (б) и 6
+
+
+19.
+
+Скутери који се крећу помоћу педала, налик бициклима, конструисани да их возе деца, омладина и одрасли, са управљачким стубом и ручицом волана које се могу подешавати, типа као код бицикла, точковима на надувавање, рамом и ручним кочницама. Имају један ланац повезан са педалама и систем ланчаника.
+
+8712. 00
+
+
+
+ОПП 1
+
+
+20.
+
+Скутер колица на три точка, конструисана за транспорт робе, са управљачким стубом који се не може подешавати, малим пуним точковима (два напред и један назад), платформом на два предња точка за утовар робе и ножне кочнице на задњем точку.
+
+8716. 80
+
+
+
+ОПП 1и 6
+
+
+21.
+
+Санке „киклслед” покрећу се путем непосредног притиска стопала возача на терен прекривен снегом, као и што се могу гурати рукама.
+
+8716. 80
+
+
+
+ОПП 1и 6
+
+
+22.
+
+Скутер на два точка који се покреће стопалима, конструисан да га возе деца, састоји се од платформе, управљачког стуба који се не може подешавати и малих пуних точкова.
+
+9501. 009
+
+
+
+ОПП 1
+
+
+23
+
+Скутер на два точка који се покреће стопалима, конструисан да га возе деца, омладина и одрасли, састоји се од хоризонталне платформе, управљачког стуба који се не може подешавати, малих пуних точкова и ножне кочнице на задњем точку.
+
+9501. 0010
+
+87.16
+95.01
+95.06
+
+ОПП 1
+ 
+ 
+ 
+1 8517.62 (ХС 2007).
+2 ОПП 1 (Напомена 5 (Г) (2) уз Главу 84 (ХС 2007).
+3 8517.62 (ХС 2007).
+4 ОПП 1 (Напомена 5 (Г) (2) уз Главу 84 (ХС 2007).
+5 8517.62 (ХС 2007).
+6 ОПП 1 (Напомена 5 (Г) (2) уз Главу 84 (ХС 2007).
+7 8486.10 (ХС 2007).
+8 Сврставање брисано из Компендијума на основу одлуке на 37. заседању ХС. Oдлука о сврставању сличне робе због измена ХС 2007 донета на 39. заседању ХС комитета („Службени гласник Републике Србије” број 77/08 од 22.08.2008. године).
+9 9503.00 (ХС 2007).
+10 9503.00 (ХС 2007).
+ 
+1 Оригинално објављено од стране СЦО на енглеском и француском под насловима:
+Harmonized System Committee Decisions
+http://www.wcoomd.org/ie/en/en.html
+Décisions du Comité du Systéme Harmonisé
+http://www.wcoomd.org/ie/fr/fr.html
+© 2002.година, Светска царинска организација (СЦО), Брисел, Белгија
+Сва права задржана
+© Управа царина Републике Србије, 2011. година за издање из 2002. године
+Објављено споразумно са СЦО, Брисел, Белгија
+Квалитет овог превода и његова повезаност са службеним текстом су одговорност Управе царина Републике Србије.
+Управа царина наводи да су само француска и енглеска верзија службене и могу се користити као референтне.

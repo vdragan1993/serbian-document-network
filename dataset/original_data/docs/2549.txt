@@ -1,0 +1,169 @@
+На основу члана 3а став 4. Закона о Царинској тарифи („Службени гласник Републике Србије”, бр. 62/05, 61/07 и 5/09) објављује се Уредба Комисије (ЕУ) о спровођењу број 535/2013 од 7. јуна 2013. године у вези са сврставањем одређених роба у Комбинованој номенклатури објављена у „Службеном листу Европске уније”, број L 160/2 од 12. јуна 2013. године, која у оригиналу на енглеском језику и у преводу на српски језик гласи:
+COMMISSION IMPLEMENTING REGULATION (EU) No 535/2013 of 7 June 2013 concerning the classification of certain goods in the Combined Nomenclature
+
+"Службени гласник 
+				РС", број 60 од 10. јула 2013.
+ 
+THE EUROPEAN COMMISSION,
+Having regard to the Treaty on the Functioning of the European Union,
+Having regard to Council Regulation (EEC) No 2658/87 of 23 July 1987 on the tariff and statistical nomenclature and on the Common Customs Tariff(1), and in particular Article 9(1)(a) thereof,
+Whereas:
+(1) In order to ensure uniform application of the Combined Nomenclature annexed to Regulation (EEC) No 2658/87, it is necessary to adopt measures concerning the classification of the goods referred to in the Annex to this Regulation.
+(2) Regulation (EEC) No 2658/87 has laid down the general rules for the interpretation of the Combined Nomenclature. Those rules apply also to any other nomenclature which is wholly or partly based on it or which adds any additional subdivision to it and which is established by specific provisions of the Union, with a view to the application of tariff and other measures relating to trade in goods.
+(3) Pursuant to those general rules, the goods described in column (1) of the table set out in the Annex should be classified under the CN code indicated in column (2), by virtue of the reasons set out in column (3) of that table.
+(4) It is appropriate to provide that binding tariff information which has been issued by the customs authorities of Member States in respect of the classification of goods in the Combined Nomenclature but which is not in accordance with this Regulation can, for a period of three months, continue to be invoked by the holder, under Article 12(6) of Council Regulation (EEC) No 2913/92 of 12 October 1992 establishing the Community Customs Code(2).
+(5) The measures provided for in this Regulation are in accordance with the opinion of the Customs Code Committee,
+HAS ADOPTED THIS REGULATION:
+Article 1
+The goods described in column (1) of the table set out in the Annex shall be classified within the Combined Nomenclature under the CN code indicated in column (2) of that table.
+Article 2
+Binding tariff information issued by the customs authorities of Member States, which is not in accordance with this Regulation, can continue to be invoked for a period of three months under Article 12(6) of Regulation (EEC) No 2913/92.
+Article 3
+This Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union.
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+Done at Brussels, 7 June 2013.
+––––––––––
+(1) OJ L 256, 7.9.1987, p. 1
+(2) OJ L 302, 19.10.1992, p. 1.
+For the Commission, 
+On behalf of the President,
+Algirdas ŠEMETA
+Member of the Commission
+ANNEX
+
+
+
+
+Description of the goods
+
+
+Classification (CN code)
+
+
+Reasons
+
+
+
+
+(1)
+
+
+(2)
+
+
+(3)
+
+
+
+
+Half of a housing made of plastics, with various slots and fixings, specially moulded and shaped to clip on the other half, measuring approximately 7,5 x 5 cm.
+
+
+3926 90 97
+
+
+Classification is determined by General Rules 1 and 6 for the interpretation of the Combined Nomenclature and by the wording of CN codes 3926, 3926 90 and 3926 90 97.
+
+
+
+
+The article is designed to be used as a part of a cover of a locking mechanism of a safety seat belt buckle used, for example, in motor vehicles.
+
+
+
+
+Classification under heading 8708 is excluded, as that heading only covers safety seat belts of vehicles of headings 8701 to 8705 but not parts thereof.
+
+
+
+
+(*) See image.
+
+
+
+
+The article is therefore to be classified according to its constituent material under CN code 3926 90 97 as other articles of plastics.
+
+
+
+
+(*) The image is purely for information.
+
+
+
+
+
+УРЕДБА КОМИСИЈЕ (ЕУ) О СПРОВОЂЕЊУ број 535/2013од 7. јуна 2013. године у вези са сврставањем одређених роба према Комбинованој номенклатури
+
+"Службени гласник 
+				РС", број 60 од 10. јула 2013.
+ 
+ЕВРОПСКА КОМИСИЈА,
+Имајући у виду Уговор о функционисању Европске уније,
+Имајући у виду Уредбу Савета (ЕЕЗ) број 2658/87 од 23. јула 1987. године о тарифској и статистичкој номенклатури и Заједничкој царинској тарифи1, а посебно члан 9. став 1. тачка а),
+С обзиром на то да:
+(1) је како би се осигурала једнообразна примена Комбиноване номенклатуре приложене уз Уредбу (ЕЕЗ) број 2658/87, неопходно усвојити мере у вези са сврставањем робе наведене у Анексу ове уредбе;
+(2) су Уредбом (ЕЕЗ) број 2658/87 утврђена основна правила за примењивање Комбиноване номенклатуре. Ова правила се такође примењују на сваку другу номенклатуру која се у потпуности или делимично заснива на њој, или јој додаје било какве потподеле и која је установљена посебним прописима Уније, са циљем примене тарифних и других мера које се односе на трговину робом;
+(3) се у складу са тим основним правилима, роба описана у колони 1. табеле у Анексу сврстава у CN ознаку наведену у колони 2, према разлозима датим у колони 3. те табеле;
+(4) је потребно обезбедити да ималац обавезујуће тарифне информације, коју су издали царински органи држава чланица у погледу сврставања робе према Комбинованој номенклатури, али која није у складу са овом уредбом, може у периоду од три месеца, да настави да се позива на њу, према члану 12. став 6. Уредбе Савета (ЕЕЗ) број 2913/92 од 12. октобра 1992. године којом је установљен Царински кодекс Заједнице2;
+(5) су мере предвиђене овом уредбом у складу са мишљењем Одбора за Царински закон,
+ДОНЕЛА ЈЕ ОВУ УРЕДБУ:
+Члан 1.
+Роба описана у колони 1. табеле дате у Анексу сврстава се у оквиру Комбиноване номенклатуре у CN ознаку наведену у колони 2. те табеле.
+Члан 2.
+Обавезујућа тарифна информација коју су издали царински органи држава чланица, али која није у складу са овом уредбом, може наставити да важи у периоду од три месеца према члану 12. став 6. Уредбе (ЕЕЗ) број 2913/92.
+Члан 3.
+Ова уредба ступа на снагу 20. дана од дана објављивања у „Службеном листу Европске уније”.
+Ова уредба је обавезујућа у целини и непосредно се примењује у свим државама чланицама.
+У Бриселу, 7. јуна 2013. године. 
+––––––––––
+1 OJ L 256, 7. 9. 1987. стр. 1.
+2 OJ L 302, 19.10.1992, стр.1.
+За Комисију,
+у име председника,
+Algirdas ŠEMETA
+члан Комисије
+АНЕКС
+
+
+
+
+Опис робе
+
+
+Сврставање
+(CN ознака)
+
+
+Разлози
+
+
+
+
+(1)
+
+
+(2)
+
+
+(3)
+
+
+
+
+Половина кућишта израђеног од пластичне масе, са разним прорезима и прибором за причвршћивање, специјално изливена и обликована да се склопи са другом половином, приближних димензија 7,5 x 5cm.
+Производ је конструисан да се употреби као део поклопца механизма за закључавање копче сигурносног појаса, који се користи, на пример, у моторним возилима.
+(*) Види слику.
+
+
+3926 90 97
+
+
+Сврставање је одређено Основним правилима 1. и 6. за примењивање Комбиноване номенклатуре и наименовањима уз CN ознаке 3926, 3926 90 и 3926 90 97.
+Искључује се сврставање у тарифни број 8708, с обзиром на то да тај тарифни број обухвата само сигурносне појасеве за возила из тарифних бројева од 8701 до 8705, али не и њихове делове.
+Производ се, према томе, сврстава према материјалу од ког је израђен у CN ознаку 3926 90 97, као остали производи од пластичних маса.
+
+
+
+
+(*) Слика дата само информативно

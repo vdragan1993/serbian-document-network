@@ -1,0 +1,146 @@
+На основу члана 3а став 4. Закона о Царинској тарифи („Службени гласник РС”, бр. 62/05, 61/07 и 5/09) објављује се Уредба Комисије (ЕЕЗ) број 3417/88 од 31. октобра 1988. године у вези са сврставањем одређене робе у Комбинованој номенклатури објављена у „Службеном листу Европских заједница”, број L 301/8 од 4. новембра 1988. године, која у оригиналу на енглеском језику и у преводу на српски језик гласи:
+COMMISSION REGULATION (EEC) No 3417/88of 31 October 1988 concerning the classification of certain goods in the combined nomenclature "Службени гласник РС", број 65 од 27. јуна 2014.
+THE COMMISSION OF THE EUROPEAN COMMUNITIES,
+Having regard to the Treaty establishing the European Economic Community,
+Having regard to Council Regulation (EEC) No 2658/87(1) on the tariff and statistical nomenclature and on the Common Customs Tariff, as last amended by Regulation (EEC) No 1858/88(2), and in particular Article 9,
+Whereas in order to ensure uniform application of the combined nomenclature annexed to the said Regulation, it is necessary to adopt measures concerning the classification of the goods referred to in the Annex to this Regulation;
+Whereas Regulation (EEC) No 2658/87 has set down the general rules for the interpretation of the combined nomenclature and these rules also apply to any other nomenclature which is wholly or partly based on it or which adds any additional subdivisions to it and which is established by specific Community provisions, with a view to the application of tariff or other measures relating to trade in goods;
+Whereas, pursuant to the said general rules, the goods described in column 1 of the table annexed to the present Regulation must be classified under the appropriate CN codes indicated in column 2, by virtue of the reasons set out in column 3;
+Whereas the measures provided for in this Regulation are in accordance with the opinion of the nomenclature Committee,
+HAS ADOPTED THIS REGULATION:
+Article 1
+The goods described in column 1 of the annexed table are now classified within the combined nomenclature under the appropriate CN codes indicated in column 2 of the said table.
+Article 2
+This Regulation shall enter into force on the 21st day after its publication in the Official Journal of the European Communities.
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+Done at Brussels, 31 October 1988.
+–––––––––
+(1) OJ No L 256, 7. 9. 1987, p. 1.
+(2) OJ No L 166, 1. 7. 1988, p. 10.
+ 
+For the Commission 
+COCKFIELD 
+Vice-President
+ANNEXE
+
+
+
+
+Description of the goods
+
+
+Classification CN code
+
+
+Reasons
+
+
+
+
+(1)
+
+
+(2)
+
+
+(3)
+
+
+
+
+1. Electromechanical food processor with a total weight of 9 kg, a power input of 1 kW and a 3,5 capacity bowl
+
+
+8438 80 99
+
+
+Classification is determined by the provisions of general rule 1 and the texts of CN codes 8438 and 8438 80 99.
+Due to its power and capacity this machine is not of a kind normally used in the household and does not comply with the text of CN code 8509.
+
+
+
+
+2. Electronic system for printing from digital data
+
+
+8472 90 90
+
+
+Classification is determined by the provisions of general rule 1 and the texts of CN codes 8472 and 8472 90 90.
+A laser beam discharges selectively a precharged electro-sensitive surface corresponding to the required image. Negatively charged particles of dry ink are then applied to the photoreceptor where they adhere to the positive area to form the desired image. This image is then transferred onto a positively charged sheet of paper, and subsequently fixed by heat. Heading 9009 does not apply as the print is produced directly from digital data and not by means of an original document.
+
+
+
+
+УРЕДБА КОМИСИЈЕ (ЕЕЗ) број 3417/88од 31. октобра 1988. године у вези са сврставањем одређене робе према Комбинованој номенклатури "Службени гласник РС", број 65 од 27. јуна 2014.
+КОМИСИЈА ЕВРОПСКИХ ЗАЈЕДНИЦА,
+Имајући у виду Уговор о оснивању Европске економске заједнице,
+Имајући у виду Уредбу Савета (ЕЕЗ) број 2658/871 о тарифној и статистичкој номенклатури и Заједничкој царинској тарифи, последњи пут измењену и допуњену Уредбом (ЕЕЗ) број 1858/882, а посебно члан 9,
+С обзиром на то да је како би се осигурала доследна примена Комбиноване номенклатуре приложене уз поменуту уредбу, неопходно усвојити мере у вези са сврставањем робе наведене у Анексу уз ову уредбу;
+С обзиром на то да су Уредбом (ЕЕЗ) број 2658/87 утврђена основна правила за примењивање Комбиноване номенклатуре. Ова правила се такође примењују на сваку другу номенклатуру која се у потпуности или делимично заснива на њој, или јој додаје било какве потподеле и која је установљена посебним прописима Заједнице, са циљем примене тарифних и других мера које се односе на трговину робом;
+С обзиром на то да се у складу са тим основним правилима, роба описана у колони 1. табеле приложене уз ову уредбу, сврстава у CN ознаку наведену у колони 2, према разлозима датим у колони 3. те табеле; 
+С обзиром на то да су мере предвиђене овом уредбом у складу са мишљењем Одбора за номенклатуру.
+ДОНЕЛА ЈЕ ОВУ УРЕДБУ:
+Члан 1.
+Роба описана у колони 1. приложене табеле, сада се сврстава у оквиру Комбиноване номенклатуре у одговарајуће CN ознаке дате у колони 2. наведене табеле.
+Члан 2.
+Ова уредба ступa на снагу 21. дана од дана објављивања у „Службеном листу Европских заједница”.
+Ова уредба je обавезујућа у целини, и непосредно се примењује у свим државама чланицама.
+У Бриселу, 31. октобра 1988. године. 
+–––––––––
+1 OJ L 256, 7.9.1987, стр. 1.
+2 OJ L 166, 1.7.1988, стр. 10.
+За Комисију
+COCKFIELD
+потпредседник
+АНЕКС
+
+
+
+
+Опис робе
+
+
+Сврставање
+(CN ознака)
+
+
+Разлози
+
+
+
+
+(1)
+
+
+(2)
+
+
+(3)
+
+
+
+
+1. Електромеханички уређај за припремање хране, укупне масе 9 kg, електричне снаге 1 kW и капацитета посуде 3,5 l.
+
+
+8438 80 99
+
+
+Сврставање је одређено условима Основног правила 1. и наименовањима уз CN ознаке 8438 и 8438 80 99.
+Због своје електричне снаге и капацитета ова машина није од оне врсте која се обично употребљава у домаћинству и не одговара наименовању CN ознаке 8509.
+
+
+
+
+2.3
+
+
+
+
+
+
+
+
+–––––––––
+3 Стављена ван снаге у складу са алинејом 1. Анекса B Уредбе Комисије (ЕЗ) број 936/99 од 27. априла 1999. године којом се мењају или стављају ван снаге одређене уредбе у вези са сврставањем робе према Комбинованој номенклатури (OJ L 117 од 5.5.1999, стр. 9.), која је објављена у „Службеном гласнику РС”, број 79/11

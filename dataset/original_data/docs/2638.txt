@@ -1,0 +1,163 @@
+На основу члана 3а став 4. Закона о Царинској тарифи („Службени гласник РС”, бр. 62/05, 61/07 и 5/09) објављује се Уредба Комисије (ЕУ) о спровођењу број 875/2014 од 8. августа 2014. године, у вези са сврставањем одређенe робe у Комбинованој номенклатури објављена у „Службеном листу Европске уније”, број L 240/9 од 13. августа 2014. године, која у оригиналу на енглеском језику и у преводу на српски језик гласи: 
+COMMISSION IMPLEMENTING REGULATION (EU) No 875/2014 of 8 August 2014
+concerning the classification of certain goods in the Combined Nomenclature "Службени гласник РС", број 120 од 4. новембра 2014.
+THE EUROPEAN COMMISSION,
+Having regard to the Treaty on the Functioning of the European Union,
+Having regard to Council Regulation (EEC) No 2658/87 of 23 July 1987 on the tariff and statistical nomenclature and on the Common Customs Tariff (1), and in particular Article 9(1)(a) thereof,
+Whereas:
+(1) In order to ensure uniform application of the Combined Nomenclature annexed to Regulation (EEC) No 2658/87, it is necessary to adopt measures concerning the classification of the goods referred to in the Annex to this Regulation.
+(2) Regulation (EEC) No 2658/87 has laid down the general rules for the interpretation of the Combined Nomenclature. Those rules apply also to any other nomenclature which is wholly or partly based on it or which adds any additional subdivision to it and which is established by specific provisions of the Union, with a view to the application of tariff and other measures relating to trade in goods.
+(3) Pursuant to those general rules, the goods described in column (1) of the table set out in the Annex should be classified under the CN code indicated in column (2), by virtue of the reasons set out in column (3) of that table.
+(4) It is appropriate to provide that binding tariff information issued in respect of the goods concerned by this Regulation which does not conform to this Regulation may, for a certain period, continue to be invoked by the holder in accordance with Article 12(6) of Council Regulation (EEC) No 2913/92(2). That period should be set at three months.
+(5) The measures provided for in this Regulation are in accordance with the opinion of the Customs Code Committee,
+HAS ADOPTED THIS REGULATION:
+Article 1
+The goods described in column (1) of the table set out in the Annex shall be classified within the Combined Nomenclature under the CN code indicated in column (2) of that table.
+Article 2
+Binding tariff information which does not conform to this Regulation may continue to be invoked in accordance with Article 12(6) of Regulation (EEC) No 2913/92 for a period of three months from the date of entry into force of this Regulation.
+Article 3
+This Regulation shall enter into force on the 20th day following that of its publication in the Official Journal of the European Union.
+This Regulation shall be binding in its entirety and directly applicable in all Member States. 
+Done at Brussels, 8 August 2014.
+–––––––––––––––
+(1) OJ L 256, 7.9.1987, p. 1.
+(2) Council Regulation (EEC) No 2913/92 of 12 October 1992 establishing the Community Customs Code (OJ L 302, 19.10.1992, p. 1).
+For the Commission,
+On behalf of the President,
+Martine REICHERTS
+Member of the Commission
+ANNEХ
+
+
+
+
+Description of the goods
+
+
+Classification 
+(CN code)
+
+
+Reasons
+
+
+
+
+(1)
+
+
+(2)
+
+
+(3)
+
+
+
+
+An article (so-called ‚LED tile‘) in an aluminium housing with dimensions of approximately 40 х 40 x 7 cm, including the following components:
+– light emitting diodes (LED) mounted on a printed circuit board with a pixel density of 72 x 72 and a brightness of 2 000 cd/m²,
+– connectors for the power supply (in and out),
+– connectors for the data input (in and out),
+– brackets and holes for mounting several tiles together.
+The article is presented for use in a modular LED video wall. It does not include a video processor.
+The LED tile, whether or not connected to other tiles, cannot display video images directly originating from a video source. It can only display signals originating from a dedicated video processor (so-called ‘digitiser’), which processes the signals and divides them over the total number of tiles in the LED video wall.
+The tile, when connected to the video processor, has the capability to display images in a large number (281 trillion) of colours.
+See images (*)
+
+
+8529 90 92
+
+
+Classification is determined by general rules 1 and 6 for the interpretation of the Combined Nomenclature, note 2(b) to Section XVI and by the wording of CN codes 8529, 8529 90 and 8529 90 92.
+Given its objective characteristics, such as the presence of the mounting brackets, the connectors and the capacity to display images in a large number of colours, the LED tile is intended to be connected to other tiles and a dedicated external video processor in a LED video wall of subheading 8528 59.
+The original video signal is processed and transferred by the video processor to the LED video wall. The video processor divides the complete video signal over the total number of tiles. When one tile is missing or broken the video signal is not completely displayed by the video wall. Each individual tile is therefore considered an essential part for the operation of the LED video wall as a whole.
+Classification by application of note 2(a) to Section XVI is excluded as the LED tile, whether or not connected to other tiles, can only function in combination with the video processor. Consequently classification under heading 8528 as a monitor or under heading 8531 as a visual signalling apparatus is excluded.
+The article is therefore to be classified under CN code 8529 90 92 as other parts for apparatus of heading 8528.
+
+
+
+
+(*) The images are purely for information
+
+
+
+
+
+УРЕДБА КОМИСИЈЕ (ЕУ) О СПРОВОЂЕЊУ број 875/2014 од 8. августа 2014. године у вези са сврставањем одређенe робe према Комбинованој номенклатури "Службени гласник РС", број 120 од 4. новембра 2014.
+ЕВРОПСКА КОМИСИЈА,
+Имајући у виду Уговор о функционисању Европске уније,
+Имајући у виду Уредбу Савета (ЕЕЗ) број 2658/87 од 23. јула 1987. године о тарифној и статистичкој номенклатури и Заједничкој царинској тарифи1, а посебно члан 9. став 1. тачка а),
+с обзиром на то да:
+(1) Како би се осигурала једнообразна примена Комбиноване номенклатуре приложене уз Уредбу (ЕЕЗ) број 2658/87, неопходно је усвојити мере у вези са сврставањем робе наведене у Анексу ове уредбе;
+(2) Уредбом (ЕЕЗ) број 2658/87 утврђена су основна правила за примењивање Комбиноване номенклатуре. Ова правила се такође примењују на сваку другу номенклатуру која се у потпуности или делимично заснива на њој, или која јој додаје било какве потподеле и која је установљена посебним прописима Уније, са циљем примене тарифних и других мера које се односе на трговину робом;
+(3) У складу са тим основним правилима, роба описана у колони 1. табеле у Анексу сврстава се у CN ознаку наведену у колони 2, према разлозима датим у колони 3. те табеле;
+(4) Потребно је обезбедити да ималац обавезујуће тарифне информације, издате за робу на коју се односи ова уредба, а која није у складу са овом уредбом, може одређени период, да настави да се позива на њу, према члану 12. став 6. Уредбе Савета (ЕЕЗ) број 2913/922. Овај период треба да буде три месеца; 
+(5) Мере предвиђене у овој уредби су у складу са мишљењем Одбора за Царински кодекс.
+ДОНЕЛА ЈЕ ОВУ УРЕДБУ:
+Члан 1.
+Роба описана у колони 1. табеле дате у Анексу сврстава се у оквиру Комбиноване номенклатуре у CN ознаку наведену у колони 2. те табеле.
+Члан 2.
+Могуће је позивати се на обавезујућу тарифну информацију која није у складу са овом уредбом, у складу са чланом 12. став 6. Уредбе (ЕЕЗ) број 2913/92, у периоду од три месеца од дана ступања на снагу ове уредбе.
+Члан 3.
+Ова уредба ступа на снагу 20. дана од дана објављивања у „Службеном листу Европске уније”.
+Ова уредба је обавезујућа у целини и непосредно се примењује у свим државама чланицама.
+У Бриселу, 8. августа 2014. године. 
+–––––––––––––––
+1 ОЈ L 256, 7.9.1987. стр. 1
+2 Уредба Савета (ЕЕЗ) број 2913/92 од 12. октобра 1992. године којом је установљен Царински кодекс Заједнице (ОЈ L 302, 19.10.1992, стр. 1).
+За Комисију,
+у име председника,
+Martine REICHERTS
+члан Комисије
+АНЕКС
+
+
+
+
+Опис робе
+
+
+Сврставање
+(CN ознака)
+
+
+Разлози
+
+
+
+
+(1)
+
+
+(2)
+
+
+(3)
+
+
+
+
+Производ (тзв. „LED плоча”) у алуминијумском кућишту димензија приближно 40 x 40 x 7 cm, обухвата следеће компоненте:
+– диоде за емитовање светлости (LED) уграђене у плочу са штампаним колом, густине пиксела 72 x 72 и осветљености 2000 cd/m3,
+конекторе за напајање (улазни и излазни),
+– конекторе за унос података (улазни и излазни), 
+– наставке и отворе за међусобно причвршћивање неколико плоча.
+Производ се испоручује за употребу у модуларном LED видео зиду. Не укључује видео процесор.
+LED плоча, повезана или неповезана са другим плочама, не може да приказује видео слике настале директно из извора видео сигнала. Може да приказује само сигнале настале из наменског видео процесора (тзв. „дигитајзер”), који обрађује сигнале и расподељује их на сваку од укупног броја плоча у LED видео зиду.
+Плоча, када је повезана са видео процесором, може да приказује слике у великом броју боја (281 трилион).
+Видети слике (*)
+
+
+8529 90 92
+
+
+Сврставање је одређено Основним правилима 1. и 6. за примењивање Комбиноване номенклатуре, Напоменом 2(б) уз Одељак XVI и наименовањима уз CN ознаке 8529, 8529 90 и 8529 90 92.
+С обзиром на објективне карактеристике, као што су присуство наставака за причвршћивање, конектори и могућност приказивања слика у великом броју боја, LED плоча је намењена да се повеже са другим плочама и наменским видео процесором у LED видео зиду из тарифног подброја 8528 59.
+Оригинални видео сигнал се обрађује и преноси преко видео процесора на LED видео зид. Видео процесор расподељује цео видео сигнал на сваку од укупног броја плоча. Када нека од плоча недостаје или је поломљена, видео сигнал се не приказује у потпуности на видео зиду. Свака поједина плоча се, према томе, сматра битним делом за функционисање LED видео зида као целине.
+Искључује се сврставање применом Напомене 2(а) уз Одељак XVI с обзиром на то да LED плоча, повезана или неповезана са другим плочама, може да функционише само у систему са видео процесором. Сходно томе, искључују се сврставање у тарифни број 8528 као монитора или у тарифни број 8531 као апарата за визуелну сигнализацију.
+Производ се, према томе, сврстава у CN ознаку 8529 90 92 као остали делови за апарате из тарифног броја 8528.
+
+
+
+
+* Слика је дата само информативно

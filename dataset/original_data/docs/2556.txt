@@ -1,0 +1,224 @@
+На основу члана 3а став 4. Закона о Царинској тарифи („Службени гласник РС”, бр. 62/05, 61/07 и 5/09) објављује се Уредба Комисије (ЕУ) о спровођењу број 384/13 од 22. априла 2013. године у вези са сврставањем одређене робе према Комбинованој номенклатури објављена у „Службеном листу Европске уније”, број L 117/7 од 27. априла 2013. године, која у оригиналу на енглеском језику и у преводу на српски језик гласи:
+COMMISSION IMPLEMENTING REGULATION (EU) No 384/2013 of 22 April 2013 concerning the classification of certain goods in the Combined Nomenclature
+
+"Службени гласник 
+				РС", број 60 од 10. јула 2013.
+THE EUROPEAN COMMISSION,
+Having regard to the Treaty on the Functioning of the European Union,
+Having regard to Council Regulation (EEC) No 2658/87 of 23 July 1987 on the tariff and statistical nomenclature and on the Common Customs Tariff(1), and in particular Article 9(1)(a) thereof,
+Whereas:
+(1) In order to ensure uniform application of the Combined Nomenclature annexed to Regulation (EEC) No 2658/87, it is necessary to adopt measures concerning the classification of the goods referred to in the Annex to this Regulation.
+(2) Regulation (EEC) No 2658/87 has laid down the general rules for the interpretation of the Combined Nomenclature. Those rules apply also to any other nomenclature which is wholly or partly based on it or which adds any additional subdivision to it and which is established by specific provisions of the Union, with a view to the application of tariff and other measures relating to trade in goods.
+(3) Pursuant to those general rules, the goods described in column (1) of the table set out in the Annex should be classified under the CN code indicated in column (2), by virtue of the reasons set out in column (3) of that table.
+(4) It is appropriate to provide that, subject to the measures in force in the Union relating to double checking systems and to prior and retrospective surveillance of textile products on importation into the Union, binding tariff information issued by the customs authorities of Member States in respect of the classification of goods in the Combined Nomenclature and which is not in accordance with this Regulation, may continue to be invoked for a period of 60 days by the holder, under Article 12(6) of Council Regulation (EEC) No 2913/92 of 12 October 1992 establishing the Community Customs Code(2).
+(5) The Customs Code Committee has not issued an opinion within the time limits set by its chairman,
+HAS ADOPTED THIS REGULATION:
+Article 1
+The goods described in column (1) of the table set out in the Annex shall be classified within the Combined Nomenclature under the CN code indicated in column (2) of that table.
+Article 2
+Subject to the measures in force in the Union relating to double checking systems and to prior and retrospective surveillance of textile products on importation into the European Union, binding tariff information issued by the customs authorities of Member States which is not in accordance with this Regulation may continue to be invoked for a period of 60 days under Article 12(6) of Regulation (EEC) No 2913/92.
+Article 3
+This Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union.
+This Regulation shall be binding in its entirety and directly applicable in all Member States. 
+Done at Brussels, 22 April 2013.
+––––––––––
+(1) OJ L 256, 7.9.1987, p. 1.
+(2) OJ L 302, 19.10.1992, p. 1
+For the Commission, 
+On behalf of the President,
+Algirdas ŠEMETA
+Member of the Commission
+ANNEX
+
+
+
+
+Description of the goods
+
+
+Classification (CN code)
+
+
+Reasons
+
+
+
+
+(1)
+
+
+(2)
+
+
+(3)
+
+
+
+
+An article having the shape of a cylinder with a diameter of approximately 7 mm and a length of approximately 130 mm, consisting of an outer layer of paper that holds the following components in place:
+– three filters of cellulose acetate fibres with activated carbon (C),
+– four filters of cellulose acetate fibres also containing impregnated fibres (impregnated with an agglutinating substance that does not penetrate into the inner layers of the fibres) (I),
+– two filters of cellulose acetate fibres (A),
+– four components of flavourful oriental tobacco of the kind used in cigarettes (T).
+As far as the cellulose acetate fibres in the different filters are concerned (C, I, A), the fibres are oriented parallel to each other. The fibres form a flexible, spongy body of even thickness, and are readily separable and 'pluck- able'.
+Within the cylinder, the components are placed in the following order:
+– C (approximately 6 mm long),
+– I (approximately 10 mm long),
+– T (approximately 10 mm long),
+– A (approximately 13 mm long),
+– T (approximately 10 mm long),
+– I (approximately 10 mm long),
+– C (approximately 12 mm long),
+– I (approximately 10 mm long),
+– T (approximately 10 mm long),
+– A (approximately. 13 mm long),
+– T (approximately 10 mm long),
+– I (approximately 10 mm long),
+– C (approximately 6 mm long).
+
+
+5601 22 10
+
+
+Classification is determined by General Rules 1, 4 and 6 for the interpretation of the Combined Nomenclature (GIR) and the wording of CN codes 5601, 5601 22 and 5601 22 10.
+The article contains more filtering than tobacco components. The tobacco may remain placed between two filters and hence may not be combusted but only used as a flavouring component in a cigarette. The tobacco constitutes only approximately one third of the volume of the article. Consequently, the different filters give the article its essential character within the meaning of GIR 3(b).
+The plain cellulose acetate fibres (A) together with the impregnated ones (I) constitute a higher percentage by weight and by volume than the cellulose acetate fibres with activated carbon (C). Consequently, the filters made of the plain and the impregnated cellulose acetate fibres (A, I) give the article its essential character within the meaning of GIR 3(b).
+The filters made of the plain and the impregnated cellulose acetate fibres (A, I) do not have the required cohesion and strength. Consequently, classification under headings 5602 as 'felt' or 5603 as 'nonwovens' is excluded.
+The filters made of the plain and the impregnated cellulose acetate fibres (A, I) are not made from a textile 'fabric' within the meaning of Note 1 to Chapter 63. Consequently, classification under heading 6307 is excluded.
+Within the filters made of the plain and the impregnated cellulose acetate fibres (A, I), the fibres are oriented parallel to each other. Consequently, they are excluded from classification under heading 5601 as 'articles of wadding'.
+Since filters made of the plain and the impregnated cellulose acetate fibres (A, I) cannot be classified under any heading in accordance to GIR 1 to 3, they are to be classified by application of GIR 4 in the heading appropriate to the goods to which they are most akin.
+Since the fibres are readily separable and 'pluck- able', and form a flexible, spongy body of even thickness, their outward appearance is that of wadding. Consequently, the filters (A, I) are to be classified under heading 5601 (see also the HS Classification Opinion classifying 'rods for making cigarette filter tips' under subheading 5601 22).
+
+
+
+
+The percentage by weight of the different materials in the article is as follows:
+– C: approximately 17 %,
+– I: approximately 16 %,
+– A: approximately 8 %,
+– T: approximately 41 %,
+– paper: approximately 18 %.
+The article is designed to be cut up and to be used in the production of filter cigarettes. It is not evident from the objective characteristics of the article how it will be cut up.
+(See photographs nos. 664 A and B) (*)
+
+
+
+
+The impregnation of the cellulose acetate fibres (I) does not exclude classification under heading 5601, because the agglutinating substance does not penetrate into the inner layers of the fibres (see the HS explanatory notes to heading 5601, (A), fourth paragraph).
+The article is therefore to be classified under CN code 5601 22 10 as 'articles of wadding of man- made fibres'.
+
+
+
+
+(*) The photographs are purely for information.
+
+
+
+
+
+УРЕДБА КОМИСИЈЕ (ЕУ) О СПРОВОЂЕЊУ број 384/2013од 22. априла 2013. године у вези са сврставањем одређене робе према Комбинованој  номенклатури
+
+"Службени гласник 
+				РС", број 60 од 10. јула 2013.
+ЕВРОПСКА КОМИСИЈА,
+Имајући у виду Уговор о функционисању Европске уније,
+Имајући у виду Уредбу Савета (ЕЕЗ) број 2658/87 од 23. јула 1987. године о тарифној и статистичкој номенклатури и Заједничкој царинској тарифи1, а посебно члан 9. став 1. тачка а),
+С обзиром на то да:
+(1) је како би се осигурала једнообразна примена Комбиноване номенклатуре приложене уз Уредбу (ЕЕЗ) број 2658/87, неопходно усвојити мере у вези са сврставањем робе наведене у Анексу ове уредбе;
+(2) су Уредбом (ЕЕЗ) број 2658/87 утврђена основна правила за примењивање Комбиноване номенклатуре. Ова правила се такође примењују на сваку другу номенклатуру која се у потпуности или делимично заснива на њој, или јој додаје било какве потподеле и која је установљена посебним прописима Уније, са циљем примене тарифних и других мера које се односе на трговину робом;
+(3) се у складу са тим основним правилима, роба описана у колони 1. табеле у Анексу сврстава у CN ознаку наведену у колони 2, према разлозима датим у колони 3. те табеле;
+(4) је потребно обезбедити да, сходно мерама које су на снази у Унији а које су у вези са системом дупле провере и претходног и накнадног надзора над текстилним производима при увозу у Унију, ималац обавезујуће тарифне информације, коју су издали царински органи држава чланица у погледу сврставања робе према Комбинованој номенклатури али која више није у складу са овом уредбом, може да настави да се током периода од 60 дана позива на њу према члану 12. став 6. Уредбе Комисије (ЕЕЗ) број 2913/92 од 12. октобра 1992 којом је установљен Царински кодекс Заједнице2;
+(5) Одбор за Царински закон није издао мишљење у року који је одредио председавајући,
+ДОНЕЛА ЈЕ ОВУ УРЕДБУ:
+Члан 1.
+Роба описана у колони 1. табеле дате у Анексу сврстава се у оквиру Комбиноване номенклатуре у CN ознаку наведену у колони 2. те табеле.
+Члан 2.
+Сходно мерама које су на снази у Унији, а које су у вези са системом дупле провере и претходног и накнадног надзора над текстилним производима при увозу у Унију, обавезујућа тарифна информација коју су издали царински органи држава чланица у погледу сврставања робе према Комбинованој номенклатури, али која више није у складу са овом уредбом, може наставити да важи периода од 60 дана према члану 12. став 6. Уредбе Комисије (ЕЕЗ) број 2913/92
+Члан 3.
+Ова уредба ступа на снагу 20. дана од дана објављивања у „Службеном листу Европске уније”.
+Ова уредба је обавезујућа у целини и непосредно се примењује у свим државама чланицама.
+У Бриселу, 22. априла 2013. године 
+––––––––––
+1 OJ L 256, 7.9.1987. стр. 1
+2 OJ L 302, 19.10.1992, стр. 1
+За Комисију,
+у име председника,
+Algirdas ŠEMETA
+члан Комисије
+АНЕКС
+
+
+
+
+Опис робе
+
+
+Сврставање (CN ознака)
+
+
+Разлози
+
+
+
+
+(1)
+
+
+(2)
+
+
+(3)
+
+
+
+
+
+
+Производ који има облик ваљка, пречника приближно 7 mm и дужине приближно 130 mm, састоји се од спољашњег слоја од хартије који на једном месту обједињује следеће компоненте:
+– три филтера од целулозно-ацетатних влакана са активним угљеником (C),
+– четири филтера од целулозно-ацетатних влакана који такође садрже импрегнисана влакна (импрегнисана лепљивом супстанцом која не продире у унутрашње слојеве влакана) (I),
+– два филтера од целулозно-ацетатних влакана (А),
+– четири компоненте од ароматизованог оријенталног дувана врсте која се употребљава у цигаретама (Т).
+Што се тиче целулозно-ацетатних влакана у различитим филтерима (C, I, A), она су међусобно паралелна. Влакна образују савитљиво, сунђерасто тело уједначене дебљине, лако су раздвојива и могу се „чупкати”.
+У самом ваљку, компоненте су распоређене следећим редоследом:
+– C (дужина приближно 6 mm),
+– I (дужина приближно 10 mm),
+– Т (дужина приближно 10 mm),
+– А (дужина приближно 13 mm),
+– Т (дужина приближно 10 mm),
+– I (дужина приближно 10 mm),
+– C (дужина приближно 12 mm),
+– I (дужина приближно 10 mm),
+– Т (дужина приближно 10 mm),
+– А (дужина приближно 13 mm),
+– Т (дужина приближно 10 mm),
+– I (дужина приближно 10 mm),
+– C (дужина приближно 6 mm).
+Проценат следећих материјала у производу, по маси, је следећи:
+– C: приближно 17%,
+– I: приближно 16%,
+– А: приближно 8%,
+– Т: приближно 41%,
+– хартија: приближно 18%.
+Производ је направљен да буде сечен и да се користи у производњи филтер цигарета. На основу објективних карактеристика није очигледно како ће производ бити сечен.
+(Видети фотографије број 664 А и B) (*)
+
+
+5601 22 10
+
+
+Сврставање је одређено Основним правилима 1, 4. и 6. за примењивање Комбиноване номенклатуре (ОПП) и наименовањима уз CN ознаке 5601, 5601 22 и 5601 22 10.
+Производ садржи више филтера него компоненти са дуваном. Дуван остаје смештен између два филтера те према томе и не сагорева те, већ служи само као ароматична компонента у цигарети. Дуван чини приближно само трећину запремине производа. Сходно томе, у смислу ОПП 3(б), различити филтери дају производу битан карактер. 
+Обична целулозно-ацетатна влакна (А) заједно са оним импрегнисаним (I) чине већи проценат по маси и по запремини од целулозно-ацетатних влакана са активним угљеником (C). Сходно томе, у смислу ОПП 3(б), филтери израђени од обичних и импрегнисаних целулозно-ацетатних влакана (А, I) дају производу битан карактер.
+Филтери израђени од обичних и импрегнисаних целулозно-ацетатних влакана (А, I) немају потребну кохезију и јачину. Сходно томе, искључује се сврставање у тарифне бројеве 5602 као „филц” или 5603 као „неткани текстил.
+Филтери израђени од обичних и импрегнисаних целулозно-ацетатних влакана (А, I) нису израђени од текстилног материјала у смислу Напомене 1. уз Главу 63. Сходно томе, искључује се сврставање у тарифни број 6307.
+У филтерима израђеним од обичних и импрегнисаних целулозно-ацетатних влакана (А, I) влакна су међусобно паралелна. Сходно томе, искључују се из тарифног броја 5601 као „производи од вате”.
+Како се филтери израђени од обичних и импрегнисаних целулозно-ацетатних влакана (А, I) не могу сврстати ни у један тарифни број применом ОПП 1. до 3, применом ОПП 4. сврстаће се у тарифни број предвиђен за производ који је том производу најсличнији.
+Како су влакна лако раздвојива, могу се „чупкати” и образују савитљиво, сунђерасто тело уједначене дебљине, она имају спољни изглед вате. Сходно томе, влакна (А, I) се сврставају у тарифни број 5601 (видети такође ХС Мишљење о сврставању којим су „штапићи за израду филтера за цигарете” сврстани у тарифни подброј 5601 22).
+Импрегнација целулозно-ацетатних влакана (I) не искључује сврставање у тарифни број 5601, зато што лепљива супстанца не продире у унутрашње слојеве влакана (видети ХС Коментар уз тарифни број 5601, (А), четврти став).
+Производ се, према томе, сврстава у CN ознаку 5601 22 10 као „производи од вате од вештачких или синтетичких влакана”.
+
+
+
+
+(*) Фотографије су дате само информативно

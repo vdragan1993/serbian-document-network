@@ -1,0 +1,140 @@
+На основу члана 3а став 4. Закона о Царинској тарифи („Службени гласник РС”, бр. 62/05, 61/07 и 5/09) објављује се Уредба Комисије (ЕУ) о спровођењу број 1215/2014 од 11. новембра 2014. године, у вези са сврставањем одређенe робe у Комбинованој номенклатури објављена у „Службеном листу Европске уније”, број L 329/11 од 14. новембра 2014. године, која у оригиналу на енглеском језику и у преводу на српски језик гласи:
+COMMISSION IMPLEMENTING REGULATION (EU) No 1215/2014 of 11 November 2014 concerning the classification of certain goods in the Combined Nomenclature"Службени гласник РС", број 137 од 16. децембра 2014.
+THE EUROPEAN COMMISSION,
+Having regard to the Treaty on the Functioning of the European Union,
+Having regard to Council Regulation (EEC) No 2658/87 of 23 July 1987 on the tariff and statistical nomenclature and on the Common Customs Tariff(1), and in particular Article 9(1)(a) thereof,
+Whereas:
+(1) In order to ensure uniform application of the Combined Nomenclature annexed to Regulation (EEC) No 2658/87, it is necessary to adopt measures concerning the classification of the goods referred to in the Annex to this Regulation.
+(2) Regulation (EEC) No 2658/87 has laid down the general rules for the interpretation of the Combined Nomenclature. Those rules apply also to any other nomenclature which is wholly or partly based on it or which adds any additional subdivision to it and which is established by specific provisions of the Union, with a view to the application of tariff and other measures relating to trade in goods.
+(3) Pursuant to those general rules, the goods described in column (1) of the table set out in the Annex should be classified under the CN code indicated in column (2), by virtue of the reasons set out in column (3) of that table.
+(4) It is appropriate to provide that binding tariff information issued in respect of the goods concerned by this Regulation which does not conform to this Regulation may, for a certain period, continue to be invoked by the holder in accordance with Article 12(6) of Council Regulation (EEC) No 2913/92(²). That period should be set at three months.
+(4) The Customs Code Committee has not issued an opinion within the time limit set by its Chairman,
+HAS ADOPTED THIS REGULATION:
+Article 1
+The goods described in column (1) of the table set out in the Annex shall be classified within the Combined Nomenclature under the CN code indicated in column (2) of that table.
+Article 2
+Binding tariff information which does not conform to this Regulation may continue to be invoked in accordance with Article 12(6) of Regulation (EEC) No 2913/92 for a period of three months from the date of entry into force of this Regulation.
+Article 3
+This Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union.
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+Done at Brussels, 11 November 2014.
+–––––––––––––––
+(1) OJ L 256, 7.9.1987, p. 1.
+(2) Council Regulation (EEC) No 2913/92 of 12 October 1992 establishing the Community Customs Code (OJ L 302, 19.10.1992, p. 1).
+For the Commission,
+On behalf of the President,
+Heinz ZOUREK
+Director-General for Taxation and Customs Union
+ANNEX
+
+
+
+
+Description of the goods
+
+
+Classification (CN-code)
+
+
+Reasons
+
+
+
+
+(1)
+
+
+(2)
+
+
+(3)
+
+
+
+
+A solar panel with dimensions of approximately 2 х 2 m, consisting of 25 glass vacuum tubes mounted in parallel and interconnected via a collector pipe. Each vacuum tube is constituted by two concentric pipes, containing heat transfer fluid. The inner pipe of each tube is coated with an absorption layer.
+The solar energy is absorbed by the layer on the inner pipe of the tubes and converted into heat energy. The heat is then transferred to the heat transfer fluid, which turns into gas, rises and transfers the heat to the collector pipe (a copper manifold).
+The heat is subsequently transferred from the collector pipe to a water storage tank by way of a tubing system containing heat transfer fluid circulating by means of a pump managed by a controller.
+The pump, controller, tubing system and water storage tank are not included upon presentation.
+The solar panel is used in solar water heating systems and is intended to be mounted on the roof.
+
+
+8419 19 00
+
+
+Classification is determined by general rules 1, 2 (a) and 6 for the interpretation of the Combined Nomenclature and by the wording of CN codes 8419 and 8419 19 00.
+The solar panel is considered to have the essential character of a complete or finished article (water heater) as it contains all the necessary components for generating heat. The missing components are used for transferring the heat and storing the water. Consequently, classification under subheading 8419 90 85 as parts of water heaters is excluded.
+As the solar panel converts solar energy into heat, it cannot be considered a mere heat exchange unit of subheading 8419 50 (see also the Harmonized System Explanatory Notes (HSEN) to heading 8419, group (I) (B)).
+The solar panel is therefore to be classified under CN code 8419 19 00 as other instantaneous or storage water heaters, non-electric (see also the HSEN to heading 8419, group (I), last paragraph).
+
+
+
+
+УРЕДБА КОМИСИЈЕ (ЕУ) О СПРОВОЂЕЊУ број 1215/2014 од 11. новембра 2014. године у вези са сврставањем одређенe робe према Комбинованој номенклатури"Службени гласник РС", број 137 од 16. децембра 2014.
+ЕВРОПСКА КОМИСИЈА,
+Имајући у виду Уговор о функционисању Европске уније,
+Имајући у виду Уредбу Савета (ЕЕЗ) број 2658/87 од 23. јула 1987. године о тарифној и статистичкој номенклатури и Заједничкој царинској тарифи1, а посебно члан 9. став 1. тачка а),
+с обзиром на то да:
+(1) Како би се осигурала једнообразна примена Комбиноване номенклатуре приложене уз Уредбу (ЕЕЗ) број 2658/87, неопходно је усвојити мере у вези са сврставањем робе наведене у Анексу ове уредбе;
+(2) Уредбом (ЕЕЗ) број 2658/87 утврђена су основна правила за примењивање Комбиноване номенклатуре. Ова правила се такође примењују на сваку другу номенклатуру која се у потпуности или делимично заснива на њој, или која јој додаје било какве потподеле и која је установљена посебним прописима Уније, са циљем примене тарифних и других мера које се односе на трговину робом;
+(3) У складу са тим основним правилима, роба описана у колони 1. табеле у Анексу сврстава се у CN ознаку наведену у колони 2, према разлозима датим у колони 3. те табеле;
+(4) Потребно је обезбедити да ималац обавезујуће тарифне информације, издате за робу на коју се односи ова уредба, а која није у складу са овом уредбом, може одређени период, да настави да се позива на њу, према члану 12. став 6. Уредбе Савета (ЕЕЗ) број 2913/92². Овај период треба да буде три месеца; 
+(5) Одбор за Царински кодекс није издао мишљење у року који је одредио председавајући, 
+ДОНЕЛА ЈЕ ОВУ УРЕДБУ:
+Члан 1.
+Роба описана у колони 1. табеле дате у Анексу сврстава се у оквиру Комбиноване номенклатуре у CN ознаку наведену у колони 2. те табеле.
+Члан 2.
+Могуће је позивати се на обавезујућу тарифну информацију која није у складу са овом уредбом, у складу са чланом 12. став 6. Уредбе (ЕЕЗ) број 2913/92, у периоду од три месеца од дана ступања на снагу ове уредбе.
+Члан 3.
+Ова уредба ступа на снагу 20. дана од дана објављивања у „Службеном листу Европске уније”.
+Ова уредба је обавезујућа у целини и непосредно се примењује у свим државама чланицама.
+У Бриселу, 11. новембра 2014. године. 
+–––––––––––––––
+1 OJ L 256, 7.9.1987. стр. 1
+2 Уредба Савета (ЕЕЗ) број 2913/92 од 12. октобра 1992. године којом је установљен Царински кодекс Заједнице (OJ L 302, 19.10.1992, стр. 1).
+За Комисију,
+у име председника,
+Heinz ZOUREK
+генерални директор за порезе и царинску унију
+АНЕКС
+
+
+
+
+Опис робе
+
+
+Сврставање
+(CN ознака)
+
+
+Разлози
+
+
+
+
+(1)
+
+
+(2)
+
+
+(3)
+
+
+
+
+Соларна плоча димензија приближно 2 x 2 m, састоји се од 25 стаклених вакуумских цеви уграђених паралелно и међусобно везаних преко колекторске цеви. Свака вакуумска цев састоји се од две концентричне цеви и садржи флуид за пренос топлоте. Унутрашња цев сваке вакуумске цеви превучена је апсорпционим слојем.
+Слој на унутрашњој цеви вакуумске цеви апсорбује соларну енергију и претвара је у топлотну енергију. Топлота се, потом, преноси до флуида за пренос топлоте, који прелази у гас, који се диже и преноси топлоту до колекторске цеви (бакарни цевовод).
+Топлота се, потом, преноси од колекторске цеви до танка за воду, путем система цеви које садрже флуид за пренос топлоте који циркулише помоћу пумпе којом управља контролер.
+Пумпа, контролер, систем цеви и танк за воду нису укључене у испоруку.
+Соларна плоча се користи за системе за загревање воде и намењена је за уградњу на кров.
+
+
+8419 19 00
+
+
+Сврставање је одређено Основним правилима 1, 2(а) и 6. за примењивање Комбиноване номенклатуре и наименовањима уз CN ознаке 8419, 8419 19 и 8419 19 00.
+Сматра се да соларни панел има битне карактеристике комплетног или довршеног производа (грејач воде) с обзиром на то да садржи све неопходне компоненте за производњу топлоте. Компоненте које недостају, користе се се за пренос топлоте и складиштење воде. Сходно томе, искључује се сврставање у тарифни подброј 8419 90 85 као дела за грејаче воде.
+Како соларна плоча претвара соларну енергију у топлотну, се сматра се само као измењивач топлота из тарифног подброја 8419 50 (видети такође ХС Коментар (HSEN)) за тарифни подброј 8419, Група (I) под (B).
+Соларна плоча се, према томе, сврстава у CN ознаку 8419 19 00 као остали проточни и акумулациони грејачи воде, неелектрични (видети такође ХС Коментар (HSEN) уз тарифни број 8419, Група (I), последњи став).

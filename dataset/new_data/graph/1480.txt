@@ -1,0 +1,8 @@
+javnobeleznicki poslovnik			javnobeleznicka tarifa
+javnobeleznicki poslovnik			zakon o javnom beleznistvu
+javnobeleznicki poslovnik			zakon o elektronskom potpisu
+javnobeleznicki poslovnik			zakon o vanparnicnom postupku
+javnobeleznicki poslovnik			zakon o pecatu drzavnih i drugih organa
+javnobeleznicki poslovnik			zakon o sluzbenoj upotrebi jezika i pisama
+javnobeleznicki poslovnik			pravilnik o javnobeleznickoj kancelariji i radnom vremenu javnog beleznika
+javnobeleznicki poslovnik			odluka o blizim uslovima, sadrzini i nacinu vodjenja registra menica i ovlascenja

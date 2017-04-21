@@ -1,0 +1,191 @@
+На основу члана 7. ст. 3. и 4. Закона о техничким захтевима за производе и оцењивању усаглашености („Службени гласник РС”, број 36/09), а у вези са чланом 10. став 3. Правилника о мерилима („Службени гласник РС”, број 63/13) и члана 17. став 4. и члана 24. став 2. Закона о Влади („Службени гласник РС”, бр. 55/05, 71/05 – исправка, 101/07, 65/08, 16/11, 68/12 – УС, 72/12 и 7/14 – УС),
+Mинистар привреде објављује 
+ 
+СПИСАК
+српских стандарда (нормативних докумената) из области мерила 
+"Службени гласник РС", број 39 од 9. априла 
+				2014.
+  
+1. Министар привреде саставио је следећи списак српских стандарда (нормативних докумената) из области мерила:
+
+
+
+
+Ред.број
+
+
+Назив мерила са ознаком прилога из Правилника о мерилима („Службени гласник РС”, број 63/13)
+
+
+Ознака и наслов српског стандарда (нормативног документа)
+
+
+Ознака повученог/измењеног српског стандарда (нормативног документа)
+
+
+Датум до када примена повученог/измењеног српског стандарда (нормативног документа) обезбеђује претпоставку о усаглашености са захтевима из техничког прописа
+
+
+
+
+1.
+
+
+MI-001: Водомери
+
+
+OIML R49-1: Water meters intended for the metering of cold potable water and hot water. Part 1: Metrological and technical requirements, издање 2006,
+OIML R49-2: Water meters intended for the metering of cold potable water and hot water. Part 2: Test methods, издање 2004.
+
+
+
+
+
+
+
+
+2.
+
+
+MI-002: Гасомери и уређаји за конверзију запремине
+
+
+OIML R 137-1: Gas Meters. Part 1: Requirements, издање 2006
+OIML R 140: Measuring systems for gaseous fuel, издање 2007 
+
+
+
+
+
+
+
+
+3.
+
+
+MI-004: Мерила топлотне енергије
+
+
+OIML R75-1: Heat meters. Part 1: General requirements, издање 2002,
+OIML R75-2: Heat meters. Part 2: Type approval tests, издање 2002.
+
+
+
+
+
+
+
+
+4.
+
+
+MI-005: Мерни системи за непрекидно и динамичко мерење количина течности које нису вода
+
+
+OIML D11: General requirements for measuring instruments - Environmental conditions, издање 2004.
+OIML R 117-1: Dynamic measuring systems for liquids other than water. Part 1: Metrological and technical requirements, издање 2007
+
+
+
+
+
+
+
+
+5.
+
+
+MI-006: Ваге са аутомамским функционисањем
+II. Aутоматске ваге за појединачно мерење
+III. Аутоматске дозирне ваге
+IV. Аутоматске ваге са сабирањем дисконтинуираних резултата мерења
+V. Аутоматске ваге са сабирањем континуираних резултата мерења
+VI. Аутоматске ваге за мерење масе шинских возила у покрету
+
+
+OIML R 51-1: Automatic catchweighing instruments. Part 1: Metrological and technical requirements - Tests, издање 2006 (Е)
+OIML R61-1: Automatic gravimetric filling instruments. Part 1 : Metrological and technical requirements - Tests, издање 2004.
+OIML R107-1: Discontinuous totalizing automatic weighing instruments (totalizing hopper weighers). Part 1: Metrological and technical requirements - Tests, издање 1997.
+OIML R50-1: Continuous totalizing automatic weighing instruments (belt weighers). Part 1: Metrological and technical requirements - Tests, издање 1997.
+OIML R106-1: Automatic rail-weighbridges. Part 1: Metrological and technical requirements - Tests, издање 1997.
+
+
+
+
+
+
+
+
+6.
+
+
+MI-007: Таксиметри
+
+
+OIML R 21: Taximeters. Metrological and technical requirements, test procedures and test report format, издање 2007
+
+
+
+
+
+
+
+
+7.
+
+
+MI-008: Материјализоване мере
+II. Угоститељске посуде
+
+
+OIML R 138: Vessels for commercial transactions, издање 2007 
+
+
+
+
+
+
+
+
+8.
+
+
+MI-009: Мерила димензија
+II. Мерила дужине
+III. Мерила површине
+IV. Мерила више димензија
+
+
+ОIML R66: Length measuring instruments, edition 1985.
+OIML R 136-1: Instruments for measuring the areas of leathers, издање 2004
+OIML R 129: Multi-dimensional measuring instruments, издање 2000.
+
+
+
+
+
+
+
+
+9.
+
+
+MI-010: Анализатори издувних гасова
+
+
+OIML R 99-1-2: Instruments for measuring vehicle exhaust emissions. Part 1: Metrological and technical requirements. Part 2: Metrological controls and performance tests, издање 2008
+
+
+
+
+
+
+
+
+2. Овај списак објавити у „Службеном гласнику Републике Србије”. 
+Број 021-03-39/2014-07
+У Београду, 31.марта 2014. године
+ПО Председника Владе
+Број 035-00-4/2014-01 од 29. јануара 2014. године
+Министар,
+Игор Мировић, с.р.

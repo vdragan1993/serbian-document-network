@@ -1,0 +1,167 @@
+На основу члана 3а став 4. Закона о Царинској тарифи („Службени гласник РС”, бр. 62/05, 61/07 и 5/09) објављује се Уредба Комисије (ЕУ) о спровођењу број 455/2014 од 29. априла 2014. године у вези са сврставањем одређенe робe у Комбинованој номенклатури објављена у „Службеном листу Европске уније”, број L 133/31 од 6. маја 2014. године, која у оригиналу на енглеском језику и у преводу на српски језик гласи:
+COMMISSION IMPLEMENTING REGULATION (EU) No 455/2014 of 29 April 2014 concerning the classification of certain goods in the Combined Nomenclature "Службени гласник РС", број 78 од 25. јула 2014.
+THE EUROPEAN COMMISSION,
+Having regard to the Treaty on the Functioning of the European Union,
+Having regard to Council Regulation (EEC) No 2658/87 of 23 July 1987 on the tariff and statistical nomenclature and on the Common Customs Tariff(1), and in particular Article 9(1)(a) thereof,
+Whereas:
+(1) In order to ensure uniform application of the Combined Nomenclature annexed to Regulation (EEC) No 2658/87, it is necessary to adopt measures concerning the classification of the goods referred to in the Annex to this Regulation.
+(2) Regulation (EEC) No 2658/87 has laid down the general rules for the interpretation of the Combined Nomenclature. Those rules apply also to any other nomenclature which is wholly or partly based on it or which adds any additional subdivision to it and which is established by specific provisions of the Union, with a view to the application of tariff and other measures relating to trade in goods.
+(3) Pursuant to those general rules, the goods described in column (1) of the table set out in the Annex should be classified under the CN codes indicated in column (2), by virtue of the reasons set out in column (3) of that table.
+(4) It is appropriate to provide that binding tariff information issued in respect of the goods concerned by this Regulation which does not conform to this Regulation may, for a certain period, continue to be invoked by the holder in accordance with Article 12(6) of Council Regulation (EEC) No 2913/92(2). That period should be set at three months.
+(5) The measures provided for in this Regulation are in accordance with the opinion of the Customs Code Committee,
+HAS ADOPTED THIS REGULATION:
+Article 1
+The goods described in column (1) of the table set out in the Annex shall be classified within the Combined Nomenclature under the CN codes indicated in column (2) of that table.
+Article 2
+Binding tariff information which does not conform to this Regulation may continue to be invoked in accordance with Article 12(6) of Regulation (EEC) No 2913/92 for a period of three months from the date of entry into force of this Regulation.
+Article 3
+This Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union.
+This Regulation shall be binding in its entirety and directly applicable in all Member States. 
+Done at Brussels, 29 April 2014.
+–––––––––––––––
+(1) OJ L 256, 7.9.1987, p. 1.
+(2) Council Regulation (EEC) No 2913/92 of 12 October 1992 establishing the Community Customs Code (OJ L 302, 19.10.1992, p. 1).
+For the Commission 
+On behalf of the President
+Algirdas ŠEMETA
+Member of the Commission
+ANNEX
+
+
+
+
+Description of the goods
+
+
+Classification (CN code)
+
+
+Reasons
+
+
+
+
+(1)
+
+
+(2)
+
+
+(3)
+
+
+
+
+1. A floor standing apparatus for dispensing cold water (so-called ‚water cooler’) with a height of approximately 124 cm and a weight of approximately 100 kg.
+It comprises a cooling system consisting of a compressor and a condenser.
+It has a storage capacity of 150 l and a nominal cooling capacity of 150 l/h allowing up to 750 glasses of water to be dispensed per hour. It operates with a voltage of 220 V AC.
+
+
+8418 69 00
+
+
+Classification is determined by general rules 1 and 6 for the interpretation of the Combined Nomenclature and by the wording of CN codes 8418 and 8418 69 00.
+Cooling water for drinking purposes only is not considered treatment of materials by a process involving a change of temperature. Consequently, classification under heading 8419 is excluded.
+The apparatus is therefore to be classified under CN code 8418 69 00 as other refrigerating or freezing equipment (see also the Harmonized System Explanatory Notes to heading 8418, group (I) point (2)).
+
+
+
+
+2. A floor standing apparatus for dispensing hot or cold water (so-called ‘water dispenser’) with a height of approximately 97 cm and a weight of approximately 15 kg.
+The heating function is performed by an integrated electric heating resistor and the cooling function by a cooling system consisting of a compressor and a condenser.
+The water is supplied from a bottle which is not included upon presentation.
+The apparatus has the capacity to dispense hot water at a rate of 5 l/h with a temperature range of 85–92 °C. It has the capacity to dispense cold water at a rate of 2 l/h with a temperature range of 4–8 °C. The apparatus operates with a voltage of 220 V AC and a power of 100/550 W.
+
+
+8516 10 11
+
+
+Classification is determined by general rules 1, 3(c) and 6 for the interpretation of the Combined Nomenclature and by the wording of CN codes 8516, 8516 10 and 8516 10 11.
+Within the meaning of note 3 to Section XVI, the apparatus is designed for the purpose of performing two alternative functions (other refrigerating equipment of heading 8418 and an electric instantaneous or storage water heater of heading 8516). It is not possible to determine the apparatus’ principal function as each function is equally important for the use of the apparatus.
+The apparatus is therefore to be classified under CN code 8516 10 11 as electric instantaneous water heaters.
+
+
+
+
+УРЕДБА КОМИСИЈЕ (ЕУ) О СПРОВОЂЕЊУ број 455/2014 од 29. априла 2014. године у вези са сврставањем одређенe робe према Комбинованој номенклатури "Службени гласник РС", број 78 од 25. јула 2014.
+ЕВРОПСКА КОМИСИЈА
+Имајући у виду Уговор о функционисању Европске уније,
+Имајући у виду Уредбу Савета (ЕЕЗ) број 2658/87 од 23. јула 1987. године о тарифној и статистичкој номенклатури и Заједничкој царинској тарифи1, а посебно члан 9. став 1. тачка а),
+с обзиром на то да:
+(1) Како би се осигурала једнообразна примена Комбиноване номенклатуре приложене уз Уредбу (ЕЕЗ) број 2658/87, неопходно је усвојити мере у вези са сврставањем робе наведене у Анексу ове уредбе;
+(2) Уредбом (ЕЕЗ) број 2658/87 утврђена су основна правила за примењивање Комбиноване номенклатуре. Ова правила се такође примењују на сваку другу номенклатуру која се у потпуности или делимично заснива на њој, или која јој додаје било какве потподеле и која је установљена посебним прописима Уније, са циљем примене тарифних и других мера које се односе на трговину робом;
+(3) У складу са тим основним правилима, роба описана у колони 1. табеле у Анексу сврстава се у CN ознаку наведену у колони 2, према разлозима датим у колони 3. те табеле;
+(4) Потребно је обезбедити да ималац обавезујуће тарифне информације, издате за робу на коју се односи ова уредба, а која није у складу са овом уредбом, може одређени период, да настави да се позива на њу, према члану 12. став 6. Уредбе Савета (ЕЕЗ) број 2913/922. Овај период треба да буде три месеца;
+(5) Мере предвиђене овом уредбом су у складу са мишљењем Одбора за Царински кодекс.
+ДОНЕЛА ЈЕ ОВУ УРЕДБУ:
+Члан 1.
+Роба описана у колони 1. табеле дате у Анексу сврстава се у оквиру Комбиноване номенклатуре у CN ознаку наведену у колони 2. те табеле.
+Члан 2.
+Могуће је позивати се на обавезујућу тарифну информацију која није у складу са овом уредбом, у складу са чланом 12. став 6. Уредбе (ЕЕЗ) број 2913/92, у периоду од три месеца од дана ступања на снагу ове уредбе.
+Члан 3.
+Ова уредба ступа на снагу 20. дана од дана објављивања у „Службеном листу Европске уније”.
+Ова уредба је обавезујућа у целини и непосредно се примењује у свим државама чланицама.
+У Бриселу, 29. априла 2014. године. 
+–––––––––––––––
+1 OJ L 256, 7.9.1987. стр. 1
+2 Уредба Савета (ЕЕЗ) број 2913/92 од 12. октобра 1992. године којом је установљен Царински кодекс Заједнице (OJ L 302, 19.10.1992, стр. 1).
+За Комисију,
+у име председника,
+Algirdas ŠEMETA
+члан Комисије
+АНЕКС
+
+
+
+
+Опис робе
+
+
+Сврставање
+(CN ознака)
+
+
+Разлози
+
+
+
+
+(1)
+
+
+(2)
+
+
+(3)
+
+
+
+
+1. Апарат за точење хладне воде који стоји на поду (такозвани „расхлађивач воде”) висине приближно 124 cm и масе приближно 100 kg.
+Састоји се од расхладног система којег чине компресор и кондензатор.
+Капацитет резервоара је 150 l, а номинални капацитет расхлађивања 150 l/h омогућава да се уточи до 750 чаша воде за један сат. Ради на напону од 220 V AC.
+
+
+8418 69 00
+
+
+Сврставање је одређено Основним правилима 1. и 6. за примењивање Комбиноване номенклатуре, и наименовањима уз CN ознаке 8418 и 8418 69 00.
+Хлађење воде, само за сврхе пијења, не сматра се обрадом материјала у поступку у ком се примењује промена температуре. Сходно томе, искључује се сврставање у тарифни број 8419.
+Апарат се, према томе, сврстава у CN ознаку 8418 69 00 као остали уређаји за хлађење или замрзавање (видети такође ХС Коментар уз тарифни број 8418, група (1), тачка (2)).
+
+
+
+
+2. Апарат за точење вруће или хладне воде који стоји на поду (такозвани „диспенсер за воду”) висине приближно 97 cm и масе приближно 15 kg.
+Функција грејања врши се путем уграђеног електричног отпорника за грејање, а функција хлађења путем расхладног система који се састоји од компресора и кондензатора.
+Вода се доводи из боце која није укључена у испоруку.
+Апарат има капацитет точења вруће воде до 5 l/h у температурном опсегу од 85–92 ºC. Има капацитет точења хладне воде брзином од до 2 l/h у температурном опсегу од 4–8 ºC.
+Апарат ради на напону од 220 V AC и снази од 100/550 W.
+
+
+8516 10 11
+
+
+Сврставање је одређено Основним правилима 1, 3(в) и 6. за примењивање Комбиноване номенклатуре, и наименовањима уз CN ознаке 8516, 8516 10 и 8516 10 11.
+У смислу Напомене 3. уз Одељак XVI апарат је конструисан за сврху вршења две алтернативне функције (остали уређаји за хлађење из тарифног броја 8418 и електрични проточни и акумулациони грејач воде из тарифног броја 8516). Није могуће одредити главну функцију апарата с обзиром на то да је свака функција подједнако важна за коришћење апарата.
+Апарат се према томе сврстава у CN ознаку 8516 10 11 као електрични проточни грејачи за воду.

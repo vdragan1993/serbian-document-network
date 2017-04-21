@@ -1,0 +1,162 @@
+На основу члана 3а став 4. Закона о Царинској тарифи („Службени гласник РС”, бр. 62/05, 61/07 и 5/09) објављује се Уредба Комисије (ЕУ) о спровођењу број 198/2014 од 28. фебруара 2014. године у вези са сврставањем одређене робе у Комбинованој номенклатури објављена у „Службеном листу Европске уније”, број L 62/4 од 4. марта 2014. године, која у оригиналу на енглеском језику и у преводу на српски језик гласи:
+ 
+COMMISSION IMPLEMENTING REGULATION (EU) 
+No 198/2014 of 28 February 2014 concerning the classification of certain goods in the Combined Nomenclature
+
+"Службени гласник РС", број 54 од 
+				20. маја 2014.
+ 
+THE EUROPEAN COMMISSION,
+Having regard to the Treaty on the Functioning of the European Union,
+Having regard to Council Regulation (EEC) No 2658/87 of 23 July 1987 on the tariff and statistical nomenclature and on the Common Customs Tariff(1), and in particular Article 9(1)(a) thereof,
+Whereas:
+(1) In order to ensure uniform application of the Combined Nomenclature annexed to Regulation (EEC) No 2658/87, it is necessary to adopt measures concerning the classification of the goods referred to in the Annex to this Regulation.
+(2) Regulation (EEC) No 2658/87 has laid down the general rules for the interpretation of the Combined Nomenclature. Those rules apply also to any other nomenclature which is wholly or partly based on it or which adds any additional subdivision to it and which is established by specific provisions of the Union, with a view to the application of tariff and other measures relating to trade in goods.
+(3) Pursuant to those general rules, the goods described in column (1) of the table set out in the Annex should be classified under the CN code indicated in column (2), by virtue of the reasons set out in column (3) of that table.
+(4) It is appropriate to provide that binding tariff information issued in respect of the goods concerned by this Regulation which does not conform to this Regulation may, for a certain period, continue to be invoked by the holder in accordance with Article 12(6) of Council Regulation (EEC) No 2913/92(2). That period should be set at three months.
+(5) The measures provided for in this Regulation are in accordance with the opinion of the Customs Code Committee,
+HAS ADOPTED THIS REGULATION:
+Article 1
+The goods described in column (1) of the table set out in the Annex shall be classified within the Combined Nomenclature under the CN code indicated in column (2) of that table.
+Article 2
+Binding tariff information which does not conform to this Regulation may continue to be invoked in accordance with Article 12(6) of Regulation (EEC) No 2913/92 for a period of three months from the date of entry into force of this Regulation.
+Article 3
+This Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union.
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+Done at Brussels, 28 February 2014.
+––––––––––
+(1) OJ L 256, 7.9.1987, p. 1.
+(2) Council Regulation (EEC) No 2913/92 of 12 October 1992 establishing the Community Customs Code (OJ L 302, 19.10.1992, p. 1).
+ 
+For the Commission, 
+On behalf of the President,
+Algirdas ŠEMETA
+Member of the Commission
+ANNEX
+
+
+
+
+Description of the goods
+
+
+Classification
+(CN code)
+
+
+Reasons
+
+
+
+
+(1)
+
+
+(2)
+
+
+(3)
+
+
+
+
+A product presented in tablets, put up for retail sale in a plastic box containing 30 tablets. The content of each tablet consists of the following components:
+– bromelain (500 mg),
+– cellulose,
+– calcium phosphate,
+– silica,
+– magnesium stearate.
+According to the label the product is presented as a food supplement for human consumption.
+
+
+2106 90 92
+
+
+Classification is determined by General Rules 1 and 6 for the interpretation of the Combined Nomenclature, Additional Note 5 to Chapter 21 and the wording of CN codes 2106, 2106 90 and 2106 90 92.
+The product does not exhibit clearly defined prophylactic or therapeutic properties. Consequently, it cannot be classified under heading 3004 as a medicament.
+As the product is a food preparation presented in the form of measured doses and intended for use as a food supplement, the requirements of Additional Note 5 to Chapter 21 are fulfilled.
+The product is a preparation of enzymes with added substances and a presentation that renders it suitable for a specific purpose, namely as a food supplement for human consumption (see also the Harmonized System Explanatory Notes to heading 3507, point (C), first paragraph). Consequently, as the product is covered by Additional Note 5 to Chapter 21, classification under heading 3507 as a prepared enzyme is excluded.
+The product is therefore to be classified under heading 2106 as a food preparation not elsewhere specified or included.
+
+
+
+
+ 
+УРЕДБА КОМИСИЈЕ (ЕУ) О СПРОВОЂЕЊУ број 198/2014
+од 28. фебруара 2014. године у вези са сврставањем одређене робе према Комбинованој номенклатури
+
+"Службени гласник РС", број 54 од 
+				20. маја 2014.
+ 
+ЕВРОПСКА КОМИСИЈА,
+имајући у виду Уговор о функционисању Европске уније,
+имајући у виду Уредбу Савета (ЕЕЗ) број 2658/87 од 23. јула 1987. године о тарифној и статистичкој номенклатури и Заједничкој царинској тарифи1, а посебно члан 9. став 1. тачка а), 
+с обзиром на то да:
+(1) Како би се осигурала једнообразна примена Комбиноване номенклатуре приложене уз Уредбу (ЕЕЗ) број 2658/87, неопходно је усвојити мере у вези са сврставањем робе наведене у Анексу ове уредбе;
+(2) Уредбом (ЕЕЗ) број 2658/87 утврђена су основна правила за примењивање Комбиноване номенклатуре. Ова правила се такође примењују на сваку другу номенклатуру која се у потпуности или делимично заснива на њој, или која јој додаје било какве потподеле и која је установљена посебним прописима Уније, са циљем примене тарифних и других мера које се односе на трговину робом;
+(3) У складу са тим основним правилима, роба описана у колони 1. табеле у Анексу сврстава се у CN ознаку наведену у колони 2, према разлозима датим у колони 3. те табеле;
+(4) Потребно је обезбедити да ималац обавезујуће тарифне информације, издате за робу на коју се односи ова уредба, а која није у складу са овом уредбом, може одређени период, да настави да се позива на њу, према члану 12. став 6. Уредбе Савета (ЕЕЗ) број 2913/922. Овај период треба да буде три месеца;
+(5) Мере предвиђене овом уредбом у складу су са мишљењем Одбора за Царински кодекс,
+ДОНЕЛА ЈЕ ОВУ УРЕДБУ:
+Члан 1.
+Роба описана у колони 1. табеле дате у Анексу сврстава се у оквиру Комбиноване номенклатуре у CN ознаку наведену у колони 2. те табеле.
+Члан 2.
+Могуће је позивати се на обавезујућу тарифну информацију која није у складу са овом уредбом, у складу са чланом 12. став 6. Уредбе (ЕЕЗ) број 2913/92, у периоду од три месеца од дана ступања на снагу ове уредбе.
+Члан 3.
+Ова уредба ступа на снагу 20. дана од дана објављивања у „Службеном листу Европске уније”.
+Ова уредба је обавезујућа у целини и непосредно се примењује у свим државама чланицама. 
+У Бриселу, 28. фебруара 2014. године 
+––––––––––
+1 OJ L 256, 7.9.1987. стр. 1
+2 Уредба Савета (ЕЕЗ) број 2913/92 од 12. октобра 1992. године којом је установљен Царински кодекс Заједнице (OJ L 302, 19.10.1992, стр. 1).
+ 
+ 
+За Комисију,
+у име председника,
+Algirdas ŠEMETA
+члан Комисије
+АНЕКС
+
+
+
+
+Опис робе
+
+
+Сврставање
+(CN ознака)
+
+
+Разлози
+
+
+
+
+(1)
+
+
+(2)
+
+
+(3)
+
+
+
+
+Производ који се испоручује у таблетама, припремљен за продају на мало у пластичној кутији са 30 таблета. Свака таблета се састоји од следећих компоненти:
+– бромелина (500 mg),
+– целулозе,
+– калцијум фосфата,
+– силицијум диоксида,
+– магнезијум стеарата.
+У складу са етикетом, производ се испоручује као додатак храни за људску исхрану.
+
+
+2106 90 92
+
+
+Сврставање је одређено Основним правилима 1. и 6. за примењивање Комбиноване номенклатуре, Додатном напоменом 5. уз Главу 21 и наименовањима уз CN ознаке 2106, 2106 90 и 2106 90 92.
+Производ нема јасно одређена профилактичка или терапеутска својства. Сходно томе, не сврстава се у тарифни број 3004 као лек.
+Како је производ прехрамбени препарат у облику одмерених доза и намењен за употребу као додатак храни, испуњени су захтеви Додатне напомене 4. уз Главу 21.
+Производ је препарат ензима са додатим материјама и у облику је таквом који га чини погодним за специфичну употребу, наиме као додатка храни за људску исхрану (видети такође ХС Коментар уз тарифни број 3507, тачка (C), први став). Сходно томе, како је производ обухваћен Додатном напоменом 5. уз Главу 21, искључује се сврставање у тарифни број 3507 као припремљеног ензима.
+Према томе, производ се сврстава у тарифни број 2106 као прехрамбени производ на другом месту непоменут нити обухваћен.

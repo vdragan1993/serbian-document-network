@@ -1,0 +1,1279 @@
+Одлуке о сврставању робе које је донео Комитет за Хармонизовани систем Светске царинске организације на 46. заседању септембра 2010. године
+"Службени гласник РС", број 11 од 22. фебруара 2011.
+ 
+На основу члана 3а став 4. Закона о Царинској тарифи („Службени гласник Републике Србије”, бр. 62/05, 61/07 и 5/09) објављују се Одлуке о сврставању робе које је донео Комитет за Хармонизовани систем Светске царинске организације (у даљем тексту: СЦО) на свом 46. заседању септембра 2010. године објављене на сајту СЦО 2010. године, а у складу са Уговором потписаним између СЦО и Управе царина Републике Србије од 28. априла 2008. године, које у оригиналу на енглеском језику и у преводу на српски језик гласе:
+The following list contains the classification decisions (other than those subject to a reservation) taken by the Harmonized System Committee (46th Session – September 2010) on specific products, together with their related Harmonized System code numbers and, in certain cases, the classification rationale.
+Advice
+Parties seeking to import or export merchandise covered by a decision are advised to verify the implementation of the decision by the importing or exporting country, as the case may be.
+
+
+
+
+
+No
+
+Product description
+
+Classification
+
+HS codes considered
+
+Classification rationale
+
+
+
+1.
+
+Two bakery additives. Each of these products is presented in the form of a white powder consisting of sorbic acid or calcium propionate covered by a very thin layer consisting of vegetable fat (oil) and mono-glycerides, and manufactured by a process referred to as „microencapsulation“. According to the information given, this process works by coating the chemicals at issue with an invisible microfilm of vegetable fat to create a free flowing powder that can easily be blended with dry ingredients prior to baking. A controlled release mechanism ensures that the sorbic acid or calcium propionate is not released from it‘s encapsulate until, e.g. bread, is baked past 60 °C, after the yeast has finished workin g. The products at issue are used as preservatives in long life bakers‘ wares, such as hamburger buns and hot dog buns to prevent the growth of mould, yeast and fungi.
+
+2106.90
+
+21.06 and 38.24
+
+GIRs 1 (Note 1 (b) to Chapter 38) and 6
+
+
+2.
+
+Neutral alcoholic base, of a kind used for the preparation of beverages, of an alcoholic strength by volume of 14 % vol., in the form of a clear, colourless, non-sparkling liquid exhibiting the smell and taste of ethanol. The product is obtained by fermentation of beer mash and subsequent cleaning and filtration.
+
+2208.90
+
+21.06, 22.06 and 22.08
+
+GIRs 1 and 6
+
+
+3.
+
+Neutral alcoholic base, of a kind used for the preparation of beverages, of an alcoholic strength by volume of 12 % vol., in the form of a clear, colourless liquid exhibiting the smell and taste of ethanol. The product is obtained by fermentation of fruit juices and subsequent clarification and filtration.
+
+2208.90
+
+21.06, 22.06 and 22.08
+
+GIRs 1 and 6
+
+
+4.
+
+Neutral alcoholic base, of a kind used for the preparation of beverages, of an alcoholic strength by volume of 21.9 % vol., in the form of a clear, colourless liquid exhibiting the smell and taste of ethanol. The product is obtained by mixing a fruit wine with a spirit and subsequent cleaning and filtration.
+
+2208.90
+
+21.06, 22.06 and 22.08
+
+GIRs 1 and 6
+
+
+5.
+
+Mureletecan (INN List 85).
+
+2939.99
+
+29.39 and 30.02
+
+
+
+6.
+
+Cositecan (INN List 100).
+
+2939.99
+
+29.39 and 30.02
+
+
+
+7.
+
+Certain INN products.
+(See “INN List 101” at the end of this publication.)
+
+Chapters 29, 30 and 35
+
+
+
+
+8.
+
+Certain INN products.
+(See “INN List 102” at the end of this publication.)
+
+Chapters 28, 29 and 30
+
+
+
+
+9.
+
+Laminated panel consisting of three layers of particle board, round (900 mm in diameter and 25 mm thick), covered with melamine- impregnated paper on the top and bottom surface. The side edge is covered with a strip of PVC (poly(vinyl chloride)) (2 mm thick). The article, as presented, had no features visible on the basis of which it could be identified as a part of furniture.
+
+4410.11
+
+44.10 and 94.03
+
+GIRs 1 and 6
+
+
+10.
+
+Wireless headset, i.e., a single (monaural) over-the-ear earphone combined in the same housing with a microphone and radio reception/transmission apparatus, enabling the headset to communicate wirelessly with other apparatus, such as a telephone for cellular networks. The headset communication utilizes an open wireless technology standard for exchanging data over short distances, for wireless exchange of voice or other data over short distances using a frequency-hopping spread spectrum technology with Enhanced Data Rate. The headset, alternate ear-hooks of different sizes, 120/230 V charger and user literature are presented put up in a set for retail sale.
+
+8517.62
+
+85.17 and 85.18
+
+GIRs 1 (Note 3 to Section XVI), 3 (b) and 6
+
+
+11.
+
+A colour monitor comprising a 22 inch (55.88 cm) TFT LCD (thin film transistor liquid crystal display) panel combined in the same housing with control circuitry, DVI-D (digital visual interface - for digital signal only) and VGA (Video Graphics Array) input connectors and adjustment LED (light emitting diode) touch-sensor controls. The monitor is of a kind solely or principally used in an automatic data processing system of heading 84.71.
+
+8528.51
+
+8528.51 and 8528.59
+
+GIRs 1 and 6
+
+
+12.
+
+A battery-operated device in the shape of a round tube resembling a normal cigarette (« electronic cigarette »), measuring approximately 150 mm in length and 11 mm in diameter. The device consists of (i) an atomizing part incorporating an air sensor, a pneumatic pressure switch, a vaporising chamber, a vaporizer and a replaceable cartridge with a mouthpiece, containing an absorbing material saturated with a liquid to be vaporised, and (ii) a battery part composed of a light-emitting diode (LED), a pneumatic pressure switch and rechargeable lithium battery. When a user inhales through the device, air flow is detected by the air sensor, which activates an atomizer that heats and vaporises the liquid in the cartridge. This produces a vapour mist which is inhaled by the user. The product is presented in a box for retail sale together with a power cord, a charger and five spare cartridges.
+
+8543.70
+
+84.79, 85.43, 90.19 and 96.14
+
+GRIs 1, 3 (b) and 6
+
+
+13.
+
+Network analyzer that analyzes the operational state of networks that employ multiple protocols (Ethernet, ATM (asynchronous transfer module), IPv6 (Internet Protocol version 6), VoIP (Voice-over-internet protocol), HSDPA (High-Speed Downlink Packet Access), UMTS (Universal Mobile Telecommunications System), CDMA (Code division multiple access), etc.), simulates traffic and fault conditions into existing networks to analyze effects during the design stage, and detects fault condition. It can provide an analysis of every packet on a network, add time stamp data to the packets, filter out packets that are not of interest, break down the packets that are of interest by checking every bit, and then provide the user information about the packet or sequence of packets, such as packet jitter, delay, dropped or lost packets, and bit or data errors. The analyzer includes an acquisition memory (512 MB) and a hot-swapping line interface module (LIM). The analyzer can be connected to an automatic data processing machine.
+
+9030.40
+
+90.30 and 90.31
+
+GIRs 1 and 6
+
+
+14.
+
+Network analyzer that analyzes the operational state of networks that employ multiple protocols (Ethernet, ATM (asynchronous transfer module), IPv6 (Internet Protocol version 6), VoIP (Voice-over-internet protocol), HSDPA (High-Speed Downlink Packet Access), UMTS (Universal Mobile Telecommunications System), CDMA (Code division multiple access), etc.), simulates traffic and fault conditions into existing networks to analyze effects during the design stage, and detects fault condition. It can provide an analysis of every packet on a network, add time stamp data to the packets, filter out packets that are not of interest, break down the packets that are of interest by checking every bit, and then provide the user information about the packet or sequence of packets, such as packet jitter, delay, dropped or lost packets, and bit or data errors. The analyzer includes an integrated automatic data processing machine, an acquisition memory (with capacity up to 512 MB), a removable hard disk (with capacity up to 120 GB) and a hot-swapping line interface module (LIM). The analyzer can be connected to an automatic data processing machine.
+
+9030.40
+
+90.30 and 90.31
+
+GIRs 1 and 6
+Copyright © 2010 World Customs Organization. All rights reserved. Requests and inquiries concerning translation, reproduction and adaptation rights should be addressed to copyright@wcoomd.org.
+ 
+CLASSIFICATION OF INN PRODUCTS (INN LIST 102)
+ 
+
+
+
+
+
+INN
+
+Classification
+
+
+
+afacifenacin
+
+2933.59
+
+
+afegostat
+
+2933.39
+
+
+aganirsen
+
+2934.99
+
+
+albitiazolium bromide
+
+2934.10
+
+
+ataluren
+
+2934.99
+
+
+beclanorsen
+
+2934.99
+
+
+briakinumab
+
+3002.10
+
+
+budiodarone
+
+2932.99
+
+
+burapitant
+
+2934.99
+
+
+danegaptide
+
+2933.99
+
+
+daratumumab
+
+3002.10
+
+
+elinogrel
+
+2935.00
+
+
+elpetrigine
+
+2933.99
+
+
+enisamium iodide
+
+2933.39
+
+
+etamicastat
+
+2934.99
+
+
+evatanepag
+
+2935.00
+
+
+fezakinumab
+
+3002.10
+
+
+filibuvir
+
+2934.99
+
+
+flutemetamol (18F)
+
+2844.40
+
+
+fonturacetam
+
+2933.79
+
+
+fresolimumab
+
+3002.10
+
+
+girentuximab
+
+3002.10
+
+
+gisadenafil
+
+2935.00
+
+
+imagabalin
+
+2922.49
+
+
+imetelstat
+
+2934.99
+
+
+intetumumab
+
+3002.10
+
+
+iodine (124I) girentuximab
+
+2844.40
+
+
+turofexorate isopropyl
+
+2933.99
+
+
+lebrikizumab
+
+3002.10
+
+
+lersivirine
+
+2933.19
+
+
+litronesib
+
+2935.00
+
+
+lomitapide
+
+2933.39
+
+
+losmapimod
+
+2933.39
+
+
+miravirsen
+
+2934.99
+
+
+mocetinostat
+
+2933.59
+
+
+naluzotan
+
+2935.00
+
+
+nelotanserin
+
+2933.19
+
+
+rilotumumab
+
+3002.10
+
+
+rontalizumab
+
+3002.10
+
+
+serdemetan
+
+2933.39
+
+
+setileuton
+
+2934.99
+
+
+sifalimumab
+
+3002.10
+
+
+sonedenoson
+
+2934.99
+
+
+tafamidis
+
+2934.99
+
+
+taliglucerase alfa
+
+3507.90
+
+
+tanexaban
+
+2933.99
+
+
+tecarfarin
+
+2932.29
+
+
+teglarinad chloride
+
+2933.39
+
+
+teprotumumab
+
+3002.10
+
+
+velusetrag
+
+2935.00
+
+
+zaurategrast
+
+2933.99
+Copyright © 2010 World Customs Organization. All rights reserved. Requests and inquiries concerning translation, reproduction and adaptation rights should be addressed to copyright@wcoomd.org.
+ 
+CLASSIFICATION OF INN PRODUCTS (INN LIST 105)
+ 
+
+
+
+
+
+INN
+
+Classification
+
+
+afatinib
+
+2934.99
+
+
+atagabalin
+
+2922.49
+
+
+benralizumab
+
+3002.10
+
+
+cabiotraxetan
+
+2934.99
+
+
+canagliflozin
+
+2934.99
+
+
+carotegrast
+
+2933.59
+
+
+condoliase
+
+3507.90
+
+
+dalotuzumab
+
+3002.10
+
+
+derenofylline
+
+2933.59
+
+
+dipraglurant
+
+2933.39
+
+
+duvoglustat
+
+2933.39
+
+
+florbetaben (18F)
+
+2844.40
+
+
+foretinib
+
+2934.99
+
+
+glembatumumab
+
+3002.10
+
+
+lasmiditan
+
+2933.39
+
+
+latrepirdine
+
+2933.39
+
+
+linifanib
+
+2933.99
+
+
+marizomib
+
+2934.99
+
+
+mavrilimumab
+
+3002.10
+
+
+moxetumomab pasudotox
+
+3002.10
+
+
+pridopidine
+
+2933.39
+
+
+raseglurant
+
+2933.39
+
+
+remimazolam
+
+2933.39
+
+
+resminostat
+
+2935.00
+
+
+revamilast
+
+2934.99
+
+
+secukinumab
+
+3002.10
+
+
+selexipag
+
+2935.00
+
+
+suvizumab
+
+3002.10
+
+
+tafoxiparin sodium
+
+3001.90
+
+
+tideglusib
+
+2934.99
+
+
+tivozanib
+
+2934.99
+
+
+topiroxostat
+
+2933.39
+
+
+tralokinumab
+
+3002.10
+
+
+veliparib
+
+2933.99
+
+
+verucerfont
+
+2934.99
+
+
+volasertib
+
+2933.59
+
+
+vonicog alfa
+
+3002.10
+
+
+yttrium (90Y) clivatuzumab tetraxetan
+
+2844.40
+Copyright © 2010 World Customs Organization. All rights reserved. Requests and inquiries concerning translation, reproduction and adaptation rights should be addressed to copyright@wcoomd.org.
+ 
+Следећа листа садржи одлуке о сврставању робе (осим оних које су предмет захтева за поновно разматрање) које је донео Комитет за Хармонизовани систем (46. заседање – септембар 2010. године) за одређене производе, заједно са тарифном ознаком и, у одређеним случајевима, основом за сврставање (Основна правила за примењивање Царинске тарифе, у даљем тексту: ОПП).
+Савет:
+Чланицама које желе да увезу или извезу робу обухваћену одлуком, саветује се да провере да ли земља из које увозе или у коју извозе робу примењује одлуку, у зависности од случаја.
+
+
+
+
+
+Бр.
+
+Опис производа
+
+Сврставање
+
+Разматране тарифне ознаке
+
+Основ сврставања
+
+
+
+1.
+
+Два пекарска адитива. Сваки од ових производа испоручен је у облику белог праха који се састоји од сорбинске киселине или калцијум пропионата превучених врло танким слојем који се састоји од биљне масноће (уље) и моно глицерида, а произведен је у поступку који се назива „микроенкапсулација”. Према датим информацијама, овај поступак врши се превлачењем наведених хемијских једињења невидљивим микрофилмом од биљне масноће да би се створио растресити прах који се лако може мешати са сувим састојцима пре печења. Механизам контролисаног отпуштања осигурава да се сорбинска киселина или калцијум пропионат не ослободе из своје енкапсулације док се, нпр. хлеб, не пече преко 60°C, након што је квасац престао да делује. Предметни производи користе се као конзерванси у дуготрајним пекарским производима, као што су земичке за хамбургере и земичке за виршле, да би се спречио развој буђи, квасца и гљивица.
+
+2106. 90
+
+21.06 и 38.24
+
+ОПП 1 (Напомена 1(б) уз Главу 38) и 6
+
+
+2.
+
+Неутрална алкохолна база, врсте која се користи за производњу пића, алкохолне јачине по запремини 14 % vol, у облику бистре, безбојне, непенушаве течности која има мирис и укус етанола. Производ је добијен ферментацијом пивског слада и накнадним избистравањем и филтрирањем. 
+
+2208. 90
+
+21.06, 22.06 и 22.08
+
+ОПП 1 и 6
+
+
+3.
+
+Неутрална алккохолна база, врсте која се користи за производњу пића, алкохолне јачине по запремини 12 % vol, у облику бистре, безбојне, течности која има мирис и укус етанола. Производ се добија ферментацијом воћних сокова и накнадним избистравањем и филтрирањем.
+
+2208. 90
+
+21.06, 22.06 и 22.08
+
+ОПП 1 и 6
+
+
+4.
+
+Неутрална алккохолна база, врсте која се користи за производњу пића, алкохолне јачине по запремини 21.9 % vol, у облику бистре, безбојне течности која има мирис и укус етанола. Производ се добија мешањем воћног вина и алкохола и накнадним избистравањем и филтрирањем.
+
+2208. 90
+
+21.06, 22.06 и 22.08
+
+ОПП 1 и 6
+
+
+5.
+
+Mureletecan („INN List 85”).
+
+2939. 99
+
+29.39 и 30.02
+
+
+
+6.
+
+Cositecan („INN List 100”).
+
+2939. 99
+
+29.39 и 30.02
+
+
+
+7.
+
+Одређени INN производи. (Видети „INN List 101” на крају ове публикације.)
+
+Главе 29, 30 и 35
+
+
+
+
+8.
+
+Одређени INN производи. (Видети „INN List 102” на крају ове публикације.)
+
+Главе 28, 29 и 30
+
+
+
+
+9.
+
+Ламинирана плоча која се састоји од три слоја плоче иверице, округла (900 mm у пречнику и дебљине 25 mm), прекривена са горње и доње стране хартијом импрегнисаном меламином. Бочна ивица прекривена је PVC траком (поли(винил хлорид)) (дебљине 2 mm). Производ, како је испоручен, нема видљивих својстава на основу којих би се могао препознати као део намештаја.
+
+4410. 11
+
+44.10 и 94.03
+
+ОПП 1и 6
+
+
+10.
+
+Бежична слушалица – сет, тј. једна (моноблок) слушалица „бубица” која пријања око уха, у истом кућишту комбинована са микрофоном и уређајем за пријем/емитовање радио таласа, који омогућавају овом сету да бежично комуницира са осталим уређајима, као што је телефон за мрежу станица. Комуникација овог сета користи отворени стандард технологије бежичног преноса за размену података на кратким растојањима, за размену гласа или других података на кратким растојањима користећи технологију фреквентних скокова у спектру (FHSS) са побољшаном брзином преноса (Enhanced Data Rate). Ова слушалица , причвршћивачи за ухо различитих димензија који се могу мењати, 120/230 V пуњач и корисничка литература испоручују се припремљени као сет за продају на мало.
+
+8517. 62
+
+8517 и 85.18
+
+ОПП 1 (Напомена 3 уз Одељак XVI), 3(б) и 6
+
+
+11.
+
+Колор монитор који састоји се од TFT LCD (дисплеј са течним кристалима са танким филмом транзистора) плоче од 22 inch (55.88 cm) у истом кућишту комбинованом са управљачким колом, DVI-D (дигитални видео интерфејс – само за дигитални сигнал) и VGA (Video Graphics Array) улазним конекторима и LED (светлећа диода) командама за подешавање са сензорима осетљивим на додир. Монитор је врсте која се искључиво или углавном користи за системе за аутоматску обраду података из тарифног броја 84.71.
+
+8528. 51
+
+8528.51 и 8528.59
+
+ОПП 1и 6
+
+
+12.
+
+Уређај који ради на батерије у облику округле цевчице која личи на обичну цигарету („електронска цигарета”), чије димензије износе приближно 150 mm дужине и пречника 11 mm. Уређај се састоји од (i) дела за атомизацију укључујући ваздушни сензор, прекидач пнеуматског притиска, комору за испаравање, испаривач и изменљив кертриџ са муштиклом, који садржи абсорбујућу материју засићену течношћу која ће испаравати, и (ii) дела за батерије састављеног од светлеће диоде (LED), прекидача пнеуматског притиска и литијумске батерије која се може пунити. Када корисник удахне кроз овај уређај, струјање ваздуха бива детектовано путем ваздушног сензора, који активира распршивач (атомизер) који загрева и испарава течност у кертриџу. Ово ствара испарење које корисник удише. Производ се испоручује у кутији за продају на мало, заједно са каблом за напајање, пуњачем и пет резервних кертриџа. 
+
+8543. 70
+
+84.79, 85.43, 90.19 и 96.14
+
+ОПП 1 и 6
+
+
+13.
+
+Анализатор мреже који анализира оперативно стање мрежа које раде са вишеструким протоколима (етернет, ATM (асинхрони начин преноса), IPv6 (интернет протокол верзија 6), VoIP (пренос гласа путем интернет протокола), HSDPA (пакетни пренос података велике брзине од базне станице ка мобилном телефону), UMTS (универзални систем мобилних телекомуникација), CDMA (вишеструки приступ са раздвојеним кодовима), итд.), у току фазе пројектовања симулира услове саобраћаја и грешке у постојећој мрежи, како би анализирао излаз и открио услове за грешке. Може да обезбеди анализу сваког пакета података у мрежи, пакету додаје податке о стварном времену, филтрира пакете који нису од значаја, пакете који су од значаја рашчлањава провером сваког бита, а потом обезбеђује корисничке информације: о пакетима или низовима пакета, као што је треперење фазе сигнала пакета, кашњењу, изостављеним или изгубљеним пакетима, грешкама у битовима или подацима. Анализатор укључује меморију за праћење (512 MB) и „hot-swap” (могуће укључити/искључити уређај без искључивања система) интерфејс модула за везу (LIM). Анализатор се може повезати са машином за аутоматску обраду података.
+
+9030. 40
+
+90.30 и 90.31
+
+ОПП 1 и 6
+
+
+14.
+
+Анализатор мреже који анализира оперативно стање мрежа које раде са вишеструким протоколима (етернет, ATM (асинхрони начин преноса), IPv6 (интернет протокол верзија 6), VoIP (пренос гласа путем интернет протокола), HSDPA (пакетни пренос података велике брзине од базне станице ка мобилном телефону), UMTS (универзални систем мобилних телекомуникација), CDMA (вишеструки приступ са раздвојеним кодовима), итд.), у току фазе пројектовања симулира услове саобраћаја и грешке у постојећој мрежи, како би анализирао излаз и открио услове за грешке. Може да обезбеди анализу сваког пакета података у мрежи, пакету додаје податке о стварном времену, филтрира пакете који нису од значаја, пакете који су од значаја рашчлањава провером сваког бита, а потом обезбеђује корисничке информације: о пакетима или низовима пакета, као што је треперење фазе сигнала пакета, кашњењу, изостављеним или изгубљеним пакетима, грешкама у битовима или подацима. Анализатор укључује интегрисану машину за аутоматску обраду података, меморију за праћење (капацитета до 512 МB), преносни хард диск (капацитета до 120 GB) и „hot-swap” (могуће укључити/искључити уређај без искључивања система) интерфејс модула за везу (LIM). Анализатор се може повезати са машином за аутоматску обраду података.
+
+9030. 40
+
+90.30 и 90.31
+
+ОПП 1 и 6
+ 
+СВРСТАВАЊЕ „INN” ПРОИЗВОДА (INN LIST 101)
+ 
+
+
+
+
+
+INN
+
+Сврставање
+
+
+
+afacifenacin 
+
+2933.59
+
+
+afegostat 
+
+2933.39
+
+
+aganirsen 
+
+2934.99
+
+
+albitiazolium bromide 
+
+2934.10
+
+
+ataluren 
+
+2934.99
+
+
+beclanorsen 
+
+2934.99
+
+
+briakinumab 
+
+3002.10
+
+
+budiodarone 
+
+2932.99
+
+
+burapitant 
+
+2934.99
+
+
+danegaptide 
+
+2933.99
+
+
+daratumumab 
+
+3002.10
+
+
+elinogrel 
+
+2935.00
+
+
+elpetrigine 
+
+2933.99
+
+
+enisamium iodide 
+
+2933.39
+
+
+etamicastat 
+
+2934.99
+
+
+evatanepag 
+
+2935.00
+
+
+fezakinumab 
+
+3002.10
+
+
+filibuvir 
+
+2934.99
+
+
+flutemetamol (18F) 
+
+2844.40
+
+
+fonturacetam 
+
+2933.79
+
+
+fresolimumab 
+
+3002.10
+
+
+girentuximab 
+
+3002.10
+
+
+gisadenafil 
+
+2935.00
+
+
+imagabalin 
+
+2922.49
+
+
+imetelstat 
+
+2934.99
+
+
+intetumumab 
+
+3002.10
+
+
+iodine (124I) girentuximab 
+
+2844.40
+
+
+turofexorate isopropyl 
+
+2933.99
+
+
+lebrikizumab 
+
+3002.10
+
+
+lersivirine 
+
+2933.19
+
+
+litronesib 
+
+2935.00
+
+
+lomitapide 
+
+2933.39
+
+
+losmapimod 
+
+2933.39
+
+
+miravirsen 
+
+2934.99
+
+
+mocetinostat 
+
+2933.59
+
+
+naluzotan 
+
+2935.00
+
+
+nelotanserin 
+
+2933.19
+
+
+rilotumumab 
+
+3002.10
+
+
+rontalizumab 
+
+3002.10
+
+
+serdemetan 
+
+2933.39
+
+
+setileuton 
+
+2934.99
+
+
+sifalimumab 
+
+3002.10
+
+
+sonedenoson 
+
+2934.99
+
+
+tafamidis 
+
+2934.99
+
+
+taliglucerase alfa 
+
+3507.90
+
+
+tanexaban 
+
+2933.99
+
+
+tecarfarin 
+
+2932.29
+
+
+teglarinad chloride 
+
+2933.39
+
+
+teprotumumab 
+
+3002.10
+
+
+velusetrag 
+
+2935.00
+
+
+zaurategrast 
+
+2933.99
+ 
+СВРСТАВАЊЕ „INN” ПРОИЗВОДА (INN LIST 102)
+ 
+
+
+
+
+
+INN
+
+Сврставање
+
+
+
+afatinib 
+
+2934.99
+
+
+atagabalin 
+
+2922.49
+
+
+benralizumab 
+
+3002.10
+
+
+cabiotraxetan 
+
+2934.99
+
+
+canagliflozin 
+
+2934.99
+
+
+carotegrast 
+
+2933.59
+
+
+condoliase 
+
+3507.90
+
+
+dalotuzumab 
+
+3002.10
+
+
+derenofylline 
+
+2933.59
+
+
+dipraglurant 
+
+2933.39
+
+
+duvoglustat 
+
+2933.39
+
+
+florbetaben (18F) 
+
+2844.40
+
+
+foretinib 
+
+2934.99
+
+
+glembatumumab 
+
+3002.10
+
+
+lasmiditan 
+
+2933.39
+
+
+latrepirdine 
+
+2933.39
+
+
+linifanib 
+
+2933.99
+
+
+marizomib 
+
+2934.99
+
+
+mavrilimumab 
+
+3002.10
+
+
+moxetumomab pasudotox 
+
+3002.10
+
+
+pridopidine 
+
+2933.39
+
+
+raseglurant 
+
+2933.39
+
+
+remimazolam 
+
+2933.39
+
+
+resminostat 
+
+2935.00
+
+
+revamilast 
+
+2934.99
+
+
+secukinumab 
+
+3002.10
+
+
+selexipag 
+
+2935.00
+
+
+suvizumab 
+
+3002.10
+
+
+tafoxiparin sodium 
+
+3001.90
+
+
+tideglusib 
+
+2934.99
+
+
+tivozanib 
+
+2934.99
+
+
+topiroxostat 
+
+2933.39
+
+
+tralokinumab 
+
+3002.10
+
+
+veliparib 
+
+2933.99
+
+
+verucerfont 
+
+2934.99
+
+
+volasertib 
+
+2933.59
+
+
+vonicog alfa 
+
+3002.10
+
+
+yttrium (90Y) clivatuzumab tetraxetan 
+
+2844.40

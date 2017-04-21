@@ -1,0 +1,829 @@
+На основу члана 3а став 4. Закона о Царинској тарифи („Службени гласник Републике Србије”, бр. 62/05, 61/07 и 5/09) објављује се Уредба Комисије (ЕЕЗ) број 2080/91 од 16. јула 1991. године, којом се замењују ознаке установљене на основу номенклатуре Заједничке царинске тарифе која важи од 31. децембра 1987. године, ознакама које су установљене на основу Комбиноване номенклатуре, у одређеним уредбама у вези са сврставањем робе, а која је објављена у „Службеном листу Европских заједница”, број L 193/6 од 17. јула 1991. године, која у оригиналу на енглеском језику и у преводу на српски језик гласи:
+COMMISSION REGULATION (EEC) No 2080/91 of 16 July 1991 replacing the codes established on the basis of the Common Customs Tariff nomenclature in force on 31 December 1987 with those established on the basis of the Combined Nomenclature in certain Regulations concerning the classification of goods
+"Службени гласник РС", број 84 од 24. септембра 2013.
+THE COMMISSION OF THE EUROPEAN COMMUNITIES,
+Having regard to the Treaty establishing the European Economic Community,
+Having regard to Council Regulation (EEC) No 2658/87 of 23 July 1987 on the tariff and statistical nomenclature and on the Common Customs Tariff(1), as last amended by Commission Regulation (EEC) No 1056/91(2), and in particular Article 15 thereof,
+Whereas Council Regulation (EEC) No 950/68 of 28 June 1968 on the Common Customs Tariff(3), repealed by Regulation (EEC) No 2658/87, established the nomenclature of the Common Customs Tariff on the basis of the Convention of 15 December 1950 on nomenclature for – the classification of goods in customs tariffs;
+Whereas the Commission has adopted a number of Regulations concerning the classification of goods in the nomenclature of the Common Customs Tariff on the basis of Regulation (EEC) No 97/69 of the Council of 16 January 1969 on measures to be taken for uniform application of the nomenclature of the Common Customs Tariff (4), repealed by Regulation (EEC) No 2658/87;
+Whereas Regulation (EEC) No 2658/87 established a goods nomenclature called the Combined Nomenclature, which simultaneously meets the requirements of the Common Customs Tariff and of the external trade statistics of the Community, and is based on the International Convention on the Harmonized Commodity Description and Coding System, replacing the Convention of 25 December 1950; 
+Whereas Article 15 (1) of Regulation (EEC) No 2658/87 lays down that the codes and descriptions of goods established on the basis of the Combined Nomenclature are to replace those established on the basis of the nomenclature of the Common Customs Tariff in force on 31 December 1987;
+Whereas those Regulations which are still of practical significance and whose transposition will involve no changes of substance should be amended accordingly and so to complement an initial series of Regulations which has been adopted by Commission Regulation (EEC) No 646/89 (5) and Regulation (EEC) No 2723/90 (6),
+HAS ADOPTED THIS REGULATION: 
+Article 1
+In the Regulations listed in column 1 of the Annex, which refer to the goods described in column 2, the codes based on the nomenclature of the Common Customs Tariff in column 3 shall be replaced by the codes based on the Combined Nomenclature listed in column 4.
+Article 2
+This Regulation shall enter into force on the day of its publication in the Official Journal of the European Communities.
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+Done at Brussels, 16 July 1991.
+–––––––––––––
+(1) OJ No L 256, 7. 9. 1987, p. 1.
+(2) OJ No L 107, 27. 4. 1991, p. 10.
+(3) OJ No L 172, 22. 7. 1968, p. 1.
+(4) OJ No L 14, 21. 1. 1969, p. 1.
+(5) OJ No L 71, 15. 3. 1989, p. 20.
+(6) OJ No L 261, 25. 9. 1990, p. 24.
+For the Commission 
+Christiane SCRIVENER 
+Member of the Commission
+ANNEX
+
+
+
+
+Regulation (EEC) No
+
+
+Description of the goods
+
+
+CCT heading number
+
+
+CN code
+
+
+
+
+(1)
+
+
+(2)
+
+
+(3)
+
+
+(4)
+
+
+
+
+2257/87 (l)
+
+
+1. Products of subheading 27.07 B of the Common Customs Tariff, destined to be submitted to a process from which products capable of being used as power or heating fuels are obtained, are classifed in subheading 27.07 B II if this process is of the kind listed in Additional Note 5 to Chapter 27 of the Common Customs Tariff
+
+
+27.07 B II
+
+
+2707 10 90 
+2707 20 90 
+2707 30 90 
+2707 50 91 
+2707 50 99
+
+
+
+
+
+
+2. Products of subheading 27.07 B are also classified in subheading 27.07 B II where they are to be submitted to a treatment of a different kind to that indicated in the preceding paragraph and from which products capable of being used as power of heating fuels are obtained if the latter are to be subjected to further industrial treatment
+
+
+27.07 B II
+
+
+2707 10 90 
+2707 20 90 
+2707 30 90 
+2707 50 91 
+2707 50 99
+
+
+
+
+
+
+If the abovementioned derived products are used as power or heating fuels, the products of subheading 27.07 B used are classified proportionally in subheading 27.07 B I
+
+
+27.07 B I
+
+
+2707 10 10 
+2707 20 10 
+2707 30 10 
+2707 50 10
+
+
+
+
+2585/86 (2)
+
+
+Gas oil for undergoing sulphuric acid processing involving the addition to the basic products of 98 % sulphuric acid in a quantity of 10 litres per 100 m3, i. e. 0,01 % by volume, followed by neutralization with 20 % sodium hydroxide solution in a quantity of 38 litres per 100 m3, i.e. 0,038 % by volume, and subsequent treatment with activated carbon by forced percolation under pump pressure in a filter of about 5 m3
+
+
+27.10 C I c)
+
+
+2710 00 69
+
+
+
+
+810/83 (3)
+
+
+1. Ceramic money-box in the form of a pig, about 15 cm long and 9 cm high, with a floral motif, having a slot in the back for inserting coins and with a stopper made of soft rubber set into a round hole in the base through which the coins can be extracted
+
+
+69.13
+
+
+6913
+
+
+
+
+
+
+2. Ceramic money-box in the form of a figurine of an elderly man (beggar), about 18 cm high, with face and clothes painted on, having a slot for inserting coins and with a stopper made of soft rubber set into a round hole in the base through which the coins can be extracted
+
+
+69.13
+
+
+6913
+
+
+
+
+
+
+3. Ceramic money-box in the form of a penguin, about 30 cm high, with both a slot in the back for inserting coins and a padlock at the base
+
+
+69.13
+
+
+6913
+
+
+
+
+
+
+4. Plastic money-box in the form of a penguin, about 16 cm high, with a red scarf and a slot in the back for inserting coins
+
+
+39.07 BV d)
+
+
+3926 40 00
+
+
+
+
+
+
+5. Money-box in the form of a stylized figure of a child in painted wood, about 16 cm high, consisting of a cylindrical container with a slot for inserting coins and surmounted by wooden peg, which can be taken out in order to extract the coins and which is secured to three spheres representing the arms and nodding head
+
+
+44.27 B
+
+
+4420 10
+
+
+
+
+
+
+6. Metal money-box in the form of a miniature letter-box (about 12 cm high, with a base approximately 5x6 cm), painted red, having a hole in the back for hanging on the wall, a slot in the front for inserting coins and a small door with a lock
+
+
+73.40 B
+
+
+7326 90 98
+
+
+
+
+2858/86 (4)
+
+
+1. Binder consisting of a paperboard rectangle (approximately 530 x 310 mm and 1,84 mm thick), covered on each side with a sheet of artificial plastic material (approximately 0,23 mm thick) welded on all four edges; this covered paperboard is then folded in two places to form the spine of the binder. Inside, there is a binding mechanism
+
+
+39.07
+
+
+3926 10 00
+
+
+
+
+
+
+2. Binder consisting of two paperboard rectangles (the covers, approximately 310 x 220 mm each and 1,64 mm thick), a paperboard strip (the spine, approximately 310 x 45 mm and 1,64 mm thick) and two narrow strips on either side of the spine (stiffened, approximately 310 x 14 mm each and 1,64 mm thick), covered on each side with a sheet of artificial plastic material (approximately 0,42 mm thick) welded on all four edges, along the length of the strip forming the spine of the folder and along the length of the stiffeners. Inside, there is a binding mechanism
+
+
+39.07
+
+
+3926 10 00
+
+
+
+
+
+
+3. Binder consisting of two paperboard rectangles (the covers, approximately 255 x 310 mm each and 2,05 mm thick) and a paperboard strip (the spine, approximately 51 x 310 mm and 2,05 mm thick), covered on each side with a sheet of artificial plastic material (approximately 0,40 mm thick) welded on all four edges and along the length of the strip forming the spine of the binder. Inside, there is a binding mechanism
+
+
+39.07
+
+
+3926 10 00
+
+
+
+
+
+
+4. Binder consisting of a paperboard rectangle (approximately 520 x 310 mm) having in its central part, along the two folding lines, two rectangular slots (approximately 290 x 6 mm) approximately 18 mm apart. The paperboard is covered on each side with a sheet of artifical plastic material welded on all four edges and in the part corresponding to the slots. Inside, there is a binding mechanism
+
+
+39.07
+
+
+3926 10 00
+
+
+
+
+3929/86 (5)
+
+
+Seven-ply panel from 1 981 to 2 400 mm long, from 762 to 1 220 mm wide and about 44 mm thick, consisting of a blockboard-type core between two panels of three-ply plywood, this seven-ply panel, which has two long edges (possibly veneered) and one or both short edges (possibly veneered) consisting primarily of a single piece of timber known as a ’lipping’, has not undergone any further working
+
+
+44.15
+
+
+4412
+
+
+
+
+3557/81 (6)
+
+
+Product put up in rolls, consisting of two sheets bonded one to the other, the one of semi-bleached kraftboard with a weight of 320 g/m2 and coated on both faces with a layer of polyethylene (14 and 18 g/m2 respectively), and the other of aluminium with a weight of 26 g/m2 and of a thickness of less than 0,20 mm, coated on the outer face with a layer of polyethylene (35 or 50 g/m2)
+
+
+48.07 D
+
+
+4811 39 00
+
+
+
+
+1592/71 (7)
+
+
+Covering materials (for roofs in particular) in rolls or in the form of plates or sheets, whether or not cut to size or shape in a special manner (such as shingles or shingle-board), consisting of a base of paper or roofing felt, whether or not impregnated with asphalt or a similar product, but coated on both sides with a layer of that material or immersed in the same material, whether or not coated with mineral substances (sand, slate debris, stones, etc.), or with one side covered by a thin layer of metal (copper or aluminium in particular)
+
+
+68.08
+
+
+6807 10 11 
+6807 90 00
+
+
+
+
+679/72 (8)
+
+
+’Vitreous china’ or ’semi-vitreous china’ which are ceramic products that have been vitrified to a greater or lesser extent of slightly greyish-white or artificially coloured ceramic material which is smooth to the tongue, shall, as appropriate, be classified under headings or subheadings Nos 69.09 A, 69.11, 69.13 B or 69.14 A of the Common Customs Tariff where, simultaneously, they have the following properties:
+(a) degree of porosity (coefficient of water absorption) not exceeding 3 %, measured according to the method set out in Annex I;
+(b) density of 2,2 or more:
+
+
+
+
+
+
+
+
+
+
+(c) translucency, where the thickness is of not more than approximately 3 mm, measured according to the method set out in Annex II. The latter criterion shall not apply, however, where the ceramic material is coloured in the body or is coated with coloured or opaque varnish or enamel
+
+
+69.09 A 
+69.11
+69.13b
+69.14A
+
+
+5909 11 00 
+6911
+6913 10 00
+6914 10 00
+
+
+
+
+1220/84 (9)
+
+
+1. Colourless glass rosettes (’strass’), octagonal (about 14 mm diameter), cut and polished, mechanically, and having several facets on both sides, fully pierced symmetrically in two places near the edge; they are normally mounted on electrical lighting fittings
+
+
+70.14 A I
+
+
+9405 91 11
+
+
+
+
+
+
+2. Colourless glass pendants (’strass’), oval (e. g. about 50 x 29 mm), cut and polished, mechanically, and having several facets on both sides, fully pierced near the apex; they are normally mounted on electrical lighting fittings
+
+
+70.14 A I
+
+
+9405 91 11
+
+
+
+
+
+
+3. Colourless glass balls (‘strass’), (about 30 mm diameter), cut and polished, mechanically, and having many facets fitted with small, metal attachment hooks; they are normally mounted on electrical lighting fittings
+
+
+70.14 A I
+
+
+9405 91 11
+
+
+
+
+
+
+4. Colourless glass beads (‘strass’), (about 10 mm diameter), cut and polished, mechanically, and having many facets, fully pierced along a central axis; they are normally used in the manufacture of imitation jewellery
+
+
+70.19 A I a)
+
+
+7018 10 11
+
+
+
+
+3558/81 (l0)
+
+
+Stud earrings, whether or not put up in sterile packaging, made of gold- or silver-plated steel, consisting of a shank with a decorative head and a ‘butterfly’ fastening, this shank being used to pierce the ear by means of a special device, which secures it in the ear lobe
+
+
+71.16 A
+
+
+7117 1991
+
+
+
+
+1030/86 (ll)
+
+
+Key-ring consisting of a small nickel-plated steel chain approximately 3 cm in length, with, at one end, a ring of the same metal that can be opened and closed and at the other a small protective cover of plastic material (approximately 5 X 2,5 cm) containing a miniature address book, the cover of which bears a promotional message
+
+
+73.40 B
+
+
+7326 20 90
+
+
+
+
+1480/83 (l2)
+
+
+Sets for children, consisting of:
+a base-metal chain, a cameo-type pendant of base metal and plastic, two earrings, a brooch and a ring of base metal and plastic, put up in the same packing;
+a base-metal chain, a pendant in the shape of a watch, two earrings, two bracelets and two rings of plastic, put up in the same packing
+
+
+97.03 B
+
+
+9503 70 00
+
+
+
+
+–––––––––––––
+(l) OJ No L 208, 30. 7. 1987, p. 8.
+(2) OJ No L 232, 19. 8. 1986, p. 5.
+(3) OJ No L 90, 8. 4. 1983, p. 11.
+(4) OJ No L 265, 17. 9. 1986, p. 5.
+(5) OJ No L 356, 17. 12. 1986, p. 5.
+(6) OJ No L 356, 11. 12. 1981, p. 26.
+(7) OJ No L 166, 24. 7. 1971, p. 39.
+(8) OJ No L 81, 5. 4. 1972, p. 1.
+(9) OJNo L 117, 3. 5. 1984, p. 20. 
+(l0) OJ No L 356, 11. 12. 1981, p. 28.
+(ll) OJ No L 95, 10. 4. 1986, p. 13. 
+(l2) OJ No L 151, 9. 6. 1983, p. 27.
+УРЕДБА КОМИСИЈЕ (ЕЕЗ) број 2080/91од 16. јула 1991. године којом се замењују ознаке установљене на основу номенклатуре Заједничке царинске тарифе која важи од 31. децембра 1987. године, ознакама које су установљене на основу Комбиноване номенклатуре, у одређеним уредбама у вези са сврставањем робе
+"Службени гласник РС", број 84 од 24. септембра 2013.
+КОМИСИЈА ЕВРОПСКИХ ЗАЈЕДНИЦА,
+Имајући у виду Уговор о оснивању Европске економске заједнице,
+Имајући у виду Уредбу Савета (ЕЕЗ) број 2658/87 од 23. јула 1987. године1 о тарифној и статистичкој номенклатури и Заједничкој царинској тарифи, последњи пут измењену и допуњену Уредбом Комисије (ЕЕЗ) број 1056/912, а посебно члан 15,
+С обзиром на то да је Уредбом Савета (ЕЕЗ) број 950/68 од 28. јуна 1968. године о Заједничкој царинској тарифи3, стављеном ван снаге Уредбом (ЕЕЗ) број 2658/87, установљена номенклатура Заједничке царинске тарифе на основу Конвенције од 15. децембра 1950. године о номенклатури за сврставање робе по царинским тарифама;
+С обзиром на то да је Комисија усвојила значајан број уредби о сврставању робе према номенклатури Заједничке царинске тарифе на основу Уредбе Савета (ЕЕЗ) број 97/69 од 16. јануара 1969. године о мерама које се предузимају како би се осигурала доследна примена номенклатуре Заједничке царинске тарифе4, а која је стављена ван снаге Уредбом (ЕЕЗ) број 2658/87;
+С обзиром на то да је Уредба (ЕЕЗ) број 2658/87 којом је установљена номенклатура робе, са називом Комбинована номенклатура, која истовремено испуњава захтеве и Заједничке царинске тарифе и статистике спољне трговине Заједнице, и заснована је на међународној Конвенцији о хармонизованом систему назива и шифарских ознака робе, заменила Конвенцију од 25. децембра 1950. године;
+С обзиром на то да је чланом 15. став 1. Уредбе (ЕЕЗ) број 2658/87 утврђено да ознаке и наименовања робе установљени на основу Комбиноване номенклатуре замењују оне установљене на основу номенклатури Заједничке царинске тарифе која важи од 31. децембра 1987. године;
+С обзиром на то да оне уредбе, које још увек имају практичан значај и чије транспоновање не подразумева промену суштине, сходно томе, треба да буду измењене и допуњене како би употпуниле иницијалну серију уредби које су донете Уредбом Комисије (ЕЕЗ) број 646/895 и Уредбом (ЕЕЗ) број 2723/906,
+ДОНЕЛА ЈЕ ОВУ УРЕДБУ:
+Члан 1.
+У уредбама из списка у колони 1. Анекса, које се односе на робу описану у колони 2, ознаке на основу номенклатуре Заједничке царинске тарифе у колони 3. замењују се ознакама на основу Комбиноване номенклатуре са списка у колони 4.
+Члан 2.
+Ова уредба ступa на снагу даном објављивања у „Службеном листу Европских заједница”.
+Ова уредба je обавезујућа у целини и непосредно се примењује у свим државама чланицама.
+У Бриселу, 16. јула 1991. године. 
+–––––––––––––
+1 OJ L 256, 7.9.1987, стр.1.
+2 OJ L 107, 27.4.1991, стр. 10.
+3 OJ L 172, 22.7.1968, стр. 1.
+4 OJ L 14, 21.1.1969, стр. 1.
+5 OJ L 71, 15.3.1989, стр. 20.
+6 OJ L 261, 25.9.1990. стр. 24.
+за Комисију
+Christiane SCRIVENER
+члан Комисије
+АНЕКС
+
+
+
+
+Уредба
+(ЕЕЗ) број
+
+
+Опис робе
+
+
+CCT
+тарифни
+број
+
+
+CN ознака
+
+
+
+
+(1)
+
+
+(2)
+
+
+(3)
+
+
+(4)
+
+
+
+
+2257/87 7,i
+
+
+1 Производи из тарифног подброја 27.07 B Заједничке царинске тарифе, намењени да се подвргавају процесу из којег се добијају производи који могу да се употребе као погонско или гориво за грејање, сврставају се у тарифни подброј 27.07 B II ако је тај процес оне врсте која је на списку у Додатној напомени 5. уз Главу 27 Заједничке царинске тарифе (CCT).
+
+
+27.07 B II
+
+
+2707 10 90
+2707 20 90
+2707 30 90
+2707 50 91
+2707 50 99
+
+
+
+
+2585/86 8,ii
+
+
+Гасно уље које се подвргава преради сумпорном киселином, што повлачи за собом додавање 98 % сумпорне киселине основним производима, у количини од 10 литара на 100 m3, тј. 0,01 % по запремини, након чега следи неутрализација 20 % раствором натријум хидроксида у количини од 38 литара на 100 m3, тј. 0,038 % по запремини, и каснији третман активним угљеником путем присилног процеђивања под притиском пумпе у филтеру од око 5 m3
+
+
+27.10 C I c)
+
+
+2710 00 69
+
+
+
+
+810/83 iii
+
+
+1. Керамичка штедна касица у облику прасета, дужине око 15 cm и висине око 9 cm, са цветним мотивом, са прорезом на леђима за убацивање кованица и затварачем израђеним од меке гуме постављеним у округли отвор у основи кроз који се новчићи могу извадити.
+
+
+69.13
+
+
+6913
+
+
+
+
+
+
+2. Керамичка штедна касица у облику фигурине старијег човека (просјака), висине око 18 cm, насликаног лица и одеће, са прорезом за убацивање новчића и са затварачем израђеним од меке гуме постављеним у округли отвор у основи кроз који се новчићи могу извадити.
+
+
+69.13
+
+
+6913
+
+
+
+
+
+
+3. Керамичка штедна касица у облику пингвина висине око 30 cm, са прорезом на леђима за убацивање новчића као и катанцем у основи.
+
+
+69.13
+
+
+6913
+
+
+
+
+
+
+4. Пластична штедна касица у облику пингвина висине око 16 cm са црвеним шалом и прорезом на леђима за убацивање новчића.
+
+
+39.07 BV d)
+
+
+3926 40 00
+
+
+
+
+
+
+5. Штедна касица у облику стилизоване фигуре детета, од обојеног дрвета, висине око 16 cm, састоји се од цилиндричног контејнера са прорезом за убацивање новчића и дрвеним клином који га затвара и који се може извлачити како би се извадили новчићи, се ослања се на три сфере које представљају руке и главу која се клима.
+
+
+44.27 B
+
+
+4420 10
+
+
+
+
+
+
+6. Штедна касица у облику минијатурног поштанског сандучета (висине око 12 cm, са основом приближно 5x6 cm), црвено обојена, са отвором на задњој страни за качење на зид, отвором на предњој страни за убацивање новчића и вратанцима са бравицом.
+
+
+73.40 B
+
+
+7326 90 989
+
+
+
+
+2858/86 10,iv
+
+
+1. Повез који се састоји од картонског правоугаоника (приближно 530 x 310 mm и 1,84 mm дебљине), прекривен са сваке стране листом вештачког, пластичног материјала (приближно 0,23 mm дебљине) завареним на све четири ивице; овај прекривени картон је затим пресавијен на два места како би образовао повеза. Са унутрашње стране налази се механизам за повезивање.
+
+
+39.07
+
+
+3926 10 00
+
+
+
+
+3929/86 v
+
+
+Седмослојна плоча дужине од 1981 до 2400 mm, ширине од 762 до 1220 mm и дебљине око 44 mm, састоји се од језгра од панел плоче између две плоче од трослојне шперплоче, ова седмослојна плоча, која има две дугачке ивице (могу бити и фурниране) и једну или обе кратке ивице (могу бити фурниране) и чини првенствено комад дрвне грађе познате као „летва”, и није претрпела даљу обраду.
+
+
+44.15
+
+
+4412
+
+
+
+
+3557/81 11,vi
+
+
+Производ припремљен у ролнама, састоји се од два листа спојених један за други, једног од полубељеног крафт картона, масе 320 g/m2 и превученог са обе стране слојем полиеилена (14 и 18 g/m2 сваки слој), и другог од алуминијума, масе 26 g/m2 и дебљине мање од 0,20 mm, превученог са спољне стране слојем полиетилена (35 или 50 g/m2).
+
+
+48.07 D
+
+
+4811 39 00
+
+
+
+
+1592/7112,vii
+
+
+Материјали за покривање (посебно кровова) у ролнама или у облику плоча или листова, без обзира да ли су сечени у величине, или облике, на специјалан начин (као што је шиндра или плоче од шиндре), састоје се од основе од хартије или „кровног филца”, импрегнисаних или не асфалтом или сличним производом, али премазаних са обе стране слојем тог материјала или потопљених у исти материјал, прекривених или не, минералним материјама (песком, отпацима од шкриљца, каменчићима, итд.), или са једном страном прекривеном танким слојем метала (посебно бакар или алуминијум).
+
+
+68.08
+
+
+6807 10 11 
+6807 90 00
+
+
+
+
+679/72 viii
+
+
+„Стакласти порцелан” или „полустакласти порцелан” који су керамички производи у већој или мањој мери витрификовани, од светло сивкастобелог или вештачки обојеног керамичког материјала који је гладак при додиру језиком, по потреби, сврставају се у тарифне бројеве или подбројеве 69.09 А, 69.11, 69.13 Б или 69.14 А Заједничке царинске тарифе, када, истовремено имају следећа својства:
+(а) степен порозности (коефицијент апсорпције воде) не преко 3%, мерено у складу са методом датом у Анексу I;
+(б) густину 2,2 или већу;
+
+
+
+
+
+
+
+
+
+
+(c) прозирност, где дебљина није већа од приближно 3 mm, мерено у складу са методом датом у Анексу II.
+Међутим, последњи критеријум се не примењује када је керамички материјал обојен у маси или премазан разнобојним или непрозирним лаком или емајлом.
+
+
+69.09 А
+69.11
+69.13 б
+69.14 А
+
+
+5909 11 00
+6911
+6913 10 00
+6914 10 00
+
+
+
+
+1220/84 ix
+
+
+1. Безбојне розете од стакла („штрас”), осмоугаонеl (око 14 mm пречника), машински сечене и полиране, и са неколико фасета на обе стране, потпуно пробушене симетрично на два места близу ивице; обично се монтирају на електрична светлећа тела.
+
+
+70.14 A I
+
+
+9405 91 1113
+
+
+
+
+
+
+2. Безбојни украси-привесци од стакла („штрас”), овални (око 50 x 29 mm), машински сечени и полирани, и са неколико фасета на обе стране, потпуно пробушен при врху; обично се монтирају на електрична светлећа тела.
+
+
+70.14 A I
+
+
+9405 91 1114
+
+
+
+
+
+
+3. Безбојне куглице од стакла („штрас”), (око 30 mm пречник), машински сечене и полиране, и са пуно фасета, које имају мале, металне куке за причвршћивање; обично се монтирају на електрична светлећа тела.
+
+
+70.14 A I
+
+
+9405 91 1115
+
+
+
+
+
+
+4.16
+
+
+
+
+
+
+
+
+3558/81 17,x 
+
+
+Наушнице „на шраф”, припремљене или неприпремљене у стерилном паковању, израђене од позлаћеног или посребреног челика, састоје се од осовинице са украсном главом и „лептир” копче, где се осовиница користи за бушење уха помоћу посебне справе, која је затвара у ушној ресици.
+
+
+71.16 A
+
+
+7117 1991
+
+
+
+
+1030/86 18,xi
+
+
+Алка за кључеве, састоји се од малог никлованог челичног ланца дужине приближно 3 cm, која са једне стране има алку од истог метала која се може отварати и затварати, а са друге, малу заштитну навлаку од пластичне масе (приближно 5 x 2,5 cm) која садржи минијатурни адресар, чија корица има рекламну поруку.
+
+
+73.40 B
+
+
+7326 20 90
+
+
+
+
+1480/83 19,xii
+
+
+Сет за децу, састоји се од:
+(1) ланчића од простог метала, камеја привеска од простог метала и пластике, две наушнице, броша и прстена од простог метала и пластике, припремљених у истом паковању;
+(2) ланчића од простог метала, привеска у облику сата, две наушнице, две наруквице и два прстена од пластике, припремљених у истом паковању.
+
+
+97.03 B
+
+
+9503 70 00
+
+
+
+
+7 Стављена ван снаге у складу са тач. 20. и 21. Анекса I, Уредбе Комисије (ЕЗ) број 705/05 од 4. маја 2005. године којом се мењају или стављају ван снаге одређене уредбе у вези са сврставањем робе према Комбинованој номенклатури (OJ L 118 од 5.5.2005, стр. 18.), која је објављена у „Службеном гласнику РС”, број 75/10 и тачком 20. Анекса III Уредбе Комисије (ЕЗ) број 1179/09 од 26. новембра 2009. године којом се мењају или стављају ван снаге одређене уредбе у вези са сврставањем робе према Комбинованој номенклатури (OJ L 317 од 3.12.2009, стр. 23.), која је објављена у „Службеном гласнику РС”, број 7/10.
+8 Стављена ван снаге у складу са тачком 19. Анекса III Уредбе Комисије (ЕЗ) број 1179/09 од 26. новембра 2009. године којом се мењају или стављају ван снаге одређене уредбе у вези са сврставањем робе према Комбинованој номенклатури (OJ L 317 од 3.12.2009, стр. 23.), која је објављена у „Службеном гласнику РС”, број 7/10.
+9 Замењено са „7326 90 98” у складу са тачком 61. Анекса А Уредбе Комисије (ЕЗ) број 936/99 од 27. априла 1999. године којом се мењају или стављају ван снаге одређене уредбе у вези са сврставањем робе према Комбинованој номенклатури (OJ L 117 од 5.5.1999, стр. 9.), која је објављена у „Службеном гласнику РС”, број 79/11 и тачком 68. Анекса I Уредбе Комисије (ЕЗ) број 705/05 од 4. маја 2005. године којом се мењају или стављају ван снаге одређене уредбе у вези са сврставањем робе према Комбинованој номенклатури (OJ L 118 од 5.5.2005, стр. 18.), која је објављена у „Службеном гласнику РС”, број 75/10.
+10 Стављена ван снаге у складу са тачком 1. Анекса III Уредбе Комисије (ЕЗ) број 441/13 од 7. маја 2013. године којом се мењају или стављају ван снаге одређене уредбе у вези са сврставањем робе према Комбинованој номенклатури (OJ L 130 од 15.5.2013, стр. 1.), која је објављена у „Службеном гласнику РС”, број 47/13.
+11 Стављена ван снаге у складу са тачком 51. Анекса I, Уредбе Комисије (ЕЗ) број 705/05 од 4. маја 2005. године којом се мењају или стављају ван снаге одређене уредбе у вези са сврставањем робе према Комбинованој номенклатури (OJ L 118 од 5.5.2005, стр. 18.), која је објављена у „Службеном гласнику РС” број 75/10 и тачком 8. Анекса III Уредбе Комисије (ЕЗ) број 1179/09 од 26. новембра 2009. године којом се мењају или стављају ван снаге одређене уредбе у вези са сврставањем робе према Комбинованој номенклатури (OJ L 317 од 3.12.2009, стр. 23.), која је објављена у „Службеном гласнику РС”, број 7/10.
+12 Стављена ван снаге у складу са тачком 67. Анекса I, Уредбе Комисије (ЕЗ) број 705/05 од 4. маја 2005. године којом се мењају или стављају ван снаге одређене уредбе у вези са сврставањем робе према Комбинованој номенклатури (OJ L 118 од 5.5.2005, стр. 18.), која је објављена у „Службеном гласнику РС” број 75/10 и тачком 2. Анекса III Уредбе Комисије (ЕЗ) број 1179/09 од 26. новембра 2009. године којом се мењају или стављају ван снаге одређене уредбе у вези са сврставањем робе према Комбинованој номенклатури (OJ L 317 од 3.12.2009, стр. 23.), која је објављена у „Службеном гласнику РС”, број 7/10.
+13 Замењено са „9405 91 10” у складу са тачком 3. Анекса I Уредбе Комисије (ЕЗ) број 441/13 од 7. маја 2013. године којом се мењају или стављају ван снаге одређене уредбе у вези са сврставањем робе према Комбинованој номенклатури (OJ L 130 од 15.5.2013, стр. 1.), која је објављена у „Службеном гласнику РС”, број 47/13.
+14 Замењено са „9405 91 10” у складу са тачком 4. Анекса I Уредбе Комисије (ЕЗ) број 441/13 од 7. маја 2013. године којом се мењају или стављају ван снаге одређене уредбе у вези са сврставањем робе према Комбинованој номенклатури (OJ L 130 од 15.5.2013, стр. 1.), која је објављена у „Службеном гласнику РС”, број 47/13.
+15 Замењено са „9405 91 10” у складу са тачком 5 Анекса I Уредбе Комисије (ЕЗ) број 441/13 од 7. маја 2013. године којом се мењају или стављају ван снаге одређене уредбе у вези са сврставањем робе према Комбинованој номенклатури (OJ L 130 од 15.5.2013, стр. 1.), која је објављена у „Службеном гласнику РС”, број 47/13.
+16 Обрисано у складу са тачком 1. Анекса II Уредбе Комисије (ЕЗ) број 1179/09 од 26. новембра 2009. године којом се мењају или стављају ван снаге одређене уредбе у вези са сврставањем робе према Комбинованој номенклатури (OJ L 317 од 3.12.2009, стр. 23.), која је објављена у „Службеном гласнику РС”, број 7/10.
+17 Замењено са „7117 19 00” у складу са тачком 2. Анекса I Уредбе Комисије (ЕЗ) број 441/13 од 7. маја 2013. године којом се мењају или стављају ван снаге одређене уредбе у вези са сврставањем робе према Комбинованој номенклатури (OJ L 130 од 15.5.2013, стр. 1.), која је објављена у „Службеном гласнику РС”, број 47/13.
+18 Замењено са „7326 20 00” у складу са тачком 4. Анекса I Уредбе Комисије (ЕЗ) број 1179/09 од 26. новембра 2009. године којом се мењају или стављају ван снаге одређене уредбе у вези са сврставањем робе према Комбинованој номенклатури (OJ L 317 од 3.12.2009, стр. 23.), која је објављена у „Службеном гласнику РС” број 7/10 и тачком 6. Анекса I Уредбе Комисије (ЕЗ) број 441/13 од 7. маја 2013. године којом се мењају или стављају ван снаге одређене уредбе у вези са сврставањем робе према Комбинованој номенклатури (OJ L 130 од 15.5.2013, стр. 1.), која је објављена у „Службеном гласнику РС”, број 47/13.
+19 Замењено са „9503 00 70” ознака у колони 4. у складу са тачком 3. Анекса I Уредбе Комисије (ЕЗ) број 1179/09 од 26. новембра 2009. године којом се мењају или стављају ван снаге одређене уредбе у вези са сврставањем робе према Комбинованој номенклатури (OJ L 317 од 3.12.2009, стр. 23.), која је објављена у „Службеном гласнику РС”, број 7/10.
+i OJ L 208, 30. 7. 1987, стр. 8.
+ii OJ L 232, 19. 8. 1986, стр. 5.
+iii OJ L 90, 8. 4. 1983, стр. 11.
+iv OJ L 265, 17. 9. 1986, стр. 5.
+v OJ L 356, 17. 12. 1986, стр. 5.
+vi OJ L 356, 11. 12. 1981, стр. 26.
+vii OJ L 166, 24. 7. 1971, стр. 39.
+viii OJ L 81, 5. 4. 1972, стр. 1.
+ix OJ L 117, 3. 5. 1984, стр. 20.
+x OJ L 356, 11. 12. 1981, стр. 28.
+xi OJ L 95, 10. 4. 1986, стр. 13.
+xii OJ L 151, 9. 6. 1983, стр. 27.

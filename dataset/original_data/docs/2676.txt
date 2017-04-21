@@ -1,0 +1,211 @@
+На основу члана 3а став 4. Закона о Царинској тарифи („Службени гласник РС”, бр. 62/05, 61/07 и 5/09) објављује се Уредба Комисије (ЕУ) о спровођењу број 311/2014 од 25. марта 2014. године у вези са сврставањем одређене робе у Комбинованој номенклатури објављена у „Службеном листу Европске уније”, број L 91/12 од 27. марта 2014. године, која у оригиналу на енглеском језику и у преводу на српски језик гласи:
+ 
+COMMISSION IMPLEMENTING REGULATION (EU) 
+No 311/2014 of 25 March 2014 concerning the classification of certain goods in the Combined Nomenclature
+
+"Службени гласник РС", број 54 од 
+				20. маја 2014.
+ 
+THE EUROPEAN COMMISSION,
+Having regard to the Treaty on the Functioning of the European Union,
+Having regard to Council Regulation (EEC) No 2658/87 of 23 July 1987 on the tariff and statistical nomenclature and on the Common Customs Tariff(1), and in particular Article 9(1)(a) thereof,
+Whereas:
+(1) In order to ensure uniform application of the Combined Nomenclature annexed to Regulation (EEC) No 2658/87, it is necessary to adopt measures concerning the classification of the goods referred to in the Annex to this Regulation.
+(2) Regulation (EEC) No 2658/87 has laid down the general rules for the interpretation of the Combined Nomenclature. Those rules apply also to any other nomenclature which is wholly or partly based on it or which adds any additional subdivision to it and which is established by specific provisions of the Union, with a view to the application of tariff and other measures relating to trade in goods.
+(3) Pursuant to those general rules, the goods described in column (1) of the table set out in the Annex should be classified under the CN codes indicated in column (2), by virtue of the reasons set out in column (3) of that table.
+(4) It is appropriate to provide that binding tariff information issued in respect of the goods concerned by this Regulation which does not conform to this Regulation may, for a certain period, continue to be invoked by the holder in accordance with Article 12(6) of Council Regulation (EEC) No 2913/92(2). That period should be set at three months.
+(5) The measures provided for in this Regulation are in accordance with the opinion of the Customs Code Committee,
+HAS ADOPTED THIS REGULATION:
+Article 1
+The goods described in column (1) of the table set out in the Annex shall be classified within the Combined Nomenclature under the CN codes indicated in column (2) of that table.
+Article 2
+Binding tariff information which does not conform to this Regulation may continue to be invoked in accordance with Article 12(6) of Regulation (EEC) No 2913/92 for a period of three months from the date of entry into force of this Regulation.
+Article 3
+This Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union.
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+Done at Brussels, 25 March 2014.
+––––––––––
+(1) OJ L 256, 7.9.1987, p. 1.
+(2) Council Regulation (EEC) No 2913/92 of 12 October 1992 establishing the Community Customs Code (OJ L 302, 19.10.1992, p. 1).
+ 
+For the Commission, 
+On behalf of the President,
+Algirdas ŠEMETA
+Member of the Commission
+ANNEX
+
+
+
+
+Description of the goods
+
+
+Classification 
+(CN code)
+
+
+Reasons
+
+
+
+
+(1)
+
+
+(2)
+
+
+(3)
+
+
+
+
+1. A machine with sound reproducing and editing functions in a housing with dimensions of approximately 43 × 15 × 8 cm.
+It is equipped with a CD reader and an audio output. It has knobs, push-buttons, sliders and a small liquid crystal display (LCD) indicator.
+The machine is capable of editing sound: it is equipped with seamless loop points, stutter starts, a beats per minute (BPM) counter and a fader.
+The machine is intended to be used for sound reproducing and editing in a non-professional environment.
+
+
+8519 81 35
+
+
+Classification is determined by general rules 1 and 6 for the interpretation of the Combined Nomenclature, note 3 to Section XVI and by the wording of CN codes 8519, 8519 81 and 8519 81 35.
+As the machine is designed for the purpose of performing two alternative functions (sound reproducing function and sound editing function), it is to be classified, by virtue of note 3 to Section XVI, as being that machine which performs the principal function.
+Due to its objective characteristics, namely the presence of only one input possibility for sound files (the CD reader) and the limited editing capability, the sound reproducing function is the machine‘s principal function.
+The machine is therefore to be classified under CN code 8519 81 35 as other sound recording or sound reproducing apparatus with laser reading system.
+
+
+
+
+2. A machine with sound reproducing and editing/mixing functions (so-called ‘disc jockey multi player’) in a housing with dimensions of approximately 40 × 32 × 10 cm.
+It is equipped with a CD reader and has various interfaces (USB, audio outputs, SD card reader). It has knobs, push-buttons, sliders and a 6,1 inches liquid crystal display (LCD) indicator.
+The machine is capable of editing and mixing sound. For those purposes it is, inter alia, equipped with:
+– an auto beats per minute (BPM) counter;
+– a fader start and back cue;
+– a track hot cue;
+– a loop;
+– a 4 beat loop;
+– cue point setting.
+The machine is intended to be used by professional disc-jockeys for reproducing, editing and mixing sound.
+
+
+8543 70 90
+
+
+Classification is determined by general rules 1 and 6 for the interpretation of the Combined Nomenclature, note 3 to Section XVI and by the wording of CN codes 8543, 8543 70 and 8543 70 90.
+As the machine is designed for the purpose of performing two alternative functions (sound reproducing function and sound editing/mixing function), it is to be classified, by virtue of note 3 to Section XVI, as being that machine which performs the principal function.
+Due to its objective characteristics, namely the number of technical features for editing and mixing sound, the possibility to mix sound files originating from various sources, the design and conception of the machine, the sound editing /mixing function is the machine‘s principal function. Consequently, classification under heading 8519 is excluded.
+The machine is therefore to be classified under CN code 8543 70 90 as other machines and apparatus, having individual functions, not specified or included elsewhere in Chapter 85.
+
+
+
+
+The sound files that are reproduced, edited and mixed can come from various sources (CD-reader, automatic data-processing (ADP) machine, USB memory or SD card).
+The machine can operate stand-alone or in conjunction with an ADP machine.
+
+
+
+
+
+
+
+
+ 
+УРЕДБА КОМИСИЈЕ (ЕУ) О СПРОВОЂЕЊУ број 311/2014
+од 25. марта 2014. године у вези са сврставањем одређенe робe према Комбинованој номенклатури
+
+"Службени гласник РС", број 54 од 
+				20. маја 2014.
+ 
+ЕВРОПСКА КОМИСИЈА,
+имајући у виду Уговор о функционисању Европске уније,
+имајући у виду Уредбу Савета (ЕЕЗ) број 2658/87 од 23. јула 1987. године о тарифној и статистичкој номенклатури и Заједничкој царинској тарифи1, а посебно члан 9. став 1. тачка а), 
+с обзиром на то да:
+(1) Како би се осигурала једнообразна примена Комбиноване номенклатуре приложене уз Уредбу (ЕЕЗ) број 2658/87, неопходно је усвојити мере у вези са сврставањем робе наведене у Анексу ове уредбе;
+(2) Уредбом (ЕЕЗ) број 2658/87 утврђена су основна правила за примењивање Комбиноване номенклатуре. Ова правила се такође примењују на сваку другу номенклатуру која се у потпуности или делимично заснива на њој, или која јој додаје било какве потподеле и која је установљена посебним прописима Уније, са циљем примене тарифних и других мера које се односе на трговину робом;
+(3) У складу са тим основним правилима, роба описана у колони 1. табеле у Анексу сврстава се у CN ознаку наведену у колони 2, према разлозима датим у колони 3. те табеле;
+(4) Потребно је обезбедити да ималац обавезујуће тарифне информације, издате за робу на коју се односи ова уредба, а која није у складу са овом уредбом, може одређени период, да настави да се позива на њу, према члану 12. став 6. Уредбе Савета (ЕЕЗ) број 2913/922. Овај период треба да буде три месеца;
+(5) Мере предвиђене овом уредбом у складу су са мишљењем Одбора за Царински кодекс,
+ДОНЕЛА ЈЕ ОВУ УРЕДБУ:
+Члан 1.
+Роба описана у колони 1. табеле дате у Анексу сврстава се у оквиру Комбиноване номенклатуре у CN ознаку наведену у колони 2. те табеле.
+Члан 2.
+Могуће је позивати се на обавезујућу тарифну информацију која није у складу са овом уредбом, у складу са чланом 12. став 6. Уредбе (ЕЕЗ) број 2913/92, у периоду од три месеца од дана ступања на снагу ове уредбе.
+Члан 3.
+Ова уредба ступа на снагу 20. дана од дана објављивања у „Службеном листу Европске уније”.
+Ова уредба је обавезујућа у целини и непосредно се примењује у свим државама чланицама.
+У Бриселу, 25. марта 2014. године
+––––––––––
+1 OJ L 256, 7.9.1987. стр. 1
+2 Уредба Савета (ЕЕЗ) број 2913/92 од 12. октобра 1992. године којом је установљен Царински кодекс Заједнице (OJ L 302, 19.10.1992, стр. 1).
+ 
+За Комисију,
+у име председника,
+Algirdas ŠEMETA
+члан Комисије
+АНЕКС
+
+
+
+
+Опис робе
+
+
+Сврставање
+(CN ознака)
+
+
+Разлози
+
+
+
+
+(1)
+
+
+(2)
+
+
+(3)
+
+
+
+
+1. Машина са функцијама репродукције и обраде звука, у кућишту димензија приближно 43 x 15 x 8 cm.
+Опремљена је CD читачем и аудио излазом. Има окретне регулаторе, тастере, клизаче и мали индикаторски LCD дисплеј.
+Машина може да обрађује звук: има команде за понављање без застајања, прекидање у репродукцији и поновно пуштање (stutter starts), одбројавање удара у минути (BPM) и регулатор јачине.
+Машина је намењена да се користи за репродукцију и обраду звука у окружењу које није професионално.
+
+
+8519 81 35
+
+
+Сврставање је одређено Основним правилима 1. и 6. за примењивање Комбиноване номенклатуре, Напоменом 3. уз Одељак XVI и наименовањима уз CN ознаке 8519, 8519 81 и 8519 81 35.
+Како је машина подесна за обављање две или више алтернативних функција (функција репродукције звука и функција обраде/мешања звука), сврстава се на основу Напомене 3. уз Одељак XVI, као она машина која обавља главну функцију.
+Због својих објективних карактеристика, наиме постојања само једног функционалног улаза за аудио датотеке (CD читач) и ограничене могућности обраде, главна функција машине је репродукција звука.
+Машина се, према томе, сврстава у CN ознаку 8519 81 35 као остали апарати за снимање и репродукцију звука са ласерским системом за очитавање.
+
+
+
+
+2. Машина са функцијама репродукције и обраде/мешања звука (такозвани „мултиплејер за диск џокеје”) у кућишту димензија приближно 40 x 32 x 10 cm.
+Опремљена је CD читачем и има различите интерфејсе (USB, аудио излазе, читач за SD картице). Има окретне регулаторе, тастере, клизаче и индикаторски LCD дисплеј од 6,1 инча.
+Машина може да обрађује и меша звук. За те сврхе она је, између осталог опремљена са:
+– аутоматским бројачем удара (бит) у минути (BPM);
+– означавањем за почетак и крај јачине звучног сигнала;
+– временским означавањем на песми која се репродукује;
+– понављањем без застајања;
+– понављањем са 4 битним прелазом;
+– означавањем почетка снимка.
+Машина је намењена да је користе професионални диск џокеји за репродукцију, обраду и мешање звука.
+Звучне датотеке које се репродукују, обрађују и мешају могу бити из различитих извора (CD читач, машина за аутоматску обраду података АОП, USB меморија или SD картица).
+Машина може да ради самостално или у спрези са машином АОП.
+
+
+8543 70 90
+
+
+Сврставање је одређено Основним правилима 1. и 6. за примењивање Комбиноване номенклатуре, Напоменом 3. уз Одељак XVI и наименовањима уз CN ознаке 8543, 8543 70 и 8543 70 90.
+Како је машина подесна за обављање две или више алтернативних функција (функција репродукције звука и функција обраде звука), сврстава се на основу Напомене 3. уз Одељак XVI, као она машина која обавља главну функцију.
+Због својих објективних карактеристика, наиме једног броја техничких карактеристика за обраду и мешање звука, могућности мешања звучних датотека који потичу из различитих извора, конструкције и концепције машине, функција обраде/мешања звука је главна функција машине. Сходно томе, искључује се сврставање у тарифни број 8519.
+Машина се, према томе, сврстава у CN ознаку 8543 70 90 као остале машине и апарати, са индивидуалним функцијама, непоменути нити обухваћени на другом месту у Глави 85.

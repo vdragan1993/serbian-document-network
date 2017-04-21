@@ -1,0 +1,263 @@
+На основу члана 3а став 4. Закона о Царинској тарифи („Службени гласник РС”, бр. 62/05, 61/07 и 5/09) објављује се Уредба Комисије (ЕУ) о спровођењу број 1037/2014 од 25. септембра 2014. године, у вези са сврставањем одређенe робe у Комбинованој номенклатури објављена у „Службеном листу Европске уније”, број L 287/9 од 1. октобра 2014. године, која у оригиналу на енглеском језику и у преводу на српски језик гласи:
+COMMISSION IMPLEMENTING REGULATION (EU) No 1037/2014 of 25 September 2014 concerning the classification of certain goods in the Combined Nomenclature"Службени гласник РС", број 137 од 16. децембра 2014.
+THE EUROPEAN COMMISSION,
+Having regard to the Treaty on the Functioning of the European Union,
+Having regard to Council Regulation (EEC) No 2658/87 of 23 July 1987 on the tariff and statistical nomenclature and on the Common Customs Tariff(1), and in particular Article 9(1)(a) thereof,
+Whereas:
+(1) In order to ensure uniform application of the Combined Nomenclature annexed to Regulation (EEC) No 2658/87, it is necessary to adopt measures concerning the classification of the goods referred to in the Annex to this Regulation.
+(2) Regulation (EEC) No 2658/87 has laid down the general rules for the interpretation of the Combined Nomenclature. Those rules apply also to any other nomenclature which is wholly or partly based on it or which adds any additional subdivision to it and which is established by specific provisions of the Union, with a view to the application of tariff and other measures relating to trade in goods.
+(3) Pursuant to those general rules, the goods described in column (1) of the table set out in the Annex should be classified under the CN code indicated in column (2), by virtue of the reasons set out in column (3) of that table.
+(4) It is appropriate to provide that binding tariff information issued in respect of the goods concerned by this Regulation which does not conform to this Regulation may, for a certain period, continue to be invoked by the holder in accordance with Article 12(6) of Council Regulation (EEC) No 2913/92(²). That period should be set at three months.
+(5) The measures provided for in this Regulation are in accordance with the opinion of the Customs Code Committee,
+HAS ADOPTED THIS REGULATION:
+Article 1
+The goods described in column (1) of the table set out in the Annex shall be classified within the Combined Nomenclature under the CN code indicated in column (2) of that table.
+Article 2
+Binding tariff information which does not conform to this Regulation may continue to be invoked in accordance with Article 12(6) of Regulation (EEC) No 2913/92 for a period of three months from the date of entry into force of this Regulation.
+Article 3
+This Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union.
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+Done at Brussels, 25 September 2014.
+––––––––––
+(1) OJ L 256, 7.9.1987, p. 1.
+(2) Council Regulation (EEC) No 2913/92 of 12 October 1992 establishing the Community Customs Code (OJ L 302, 19.10.1992, p. 1).
+For the Commission,
+On behalf of the President,
+Heinz ZOUREK
+Director-General for Taxation and Customs Union
+ANNEX
+
+
+
+
+Description of the goods
+
+
+Classification (CN-code)
+
+
+Reasons
+
+
+
+
+(1)
+
+
+(2)
+
+
+(3)
+
+
+
+
+1. A semiconductor component (so-called ‘LED module’) comprising a LED chip connected in parallel with a Zener protection diode, presented in a plastic housing with a domed transparent plastic cover, with dimensions of approximately 7 x 7 x 5 mm, without connecting pads.
+The physical construction of the component is indivisible in the sense that, although some of the elements could theoretically be removed and replaced, this would be a long and delicate task which would be uneconomic under normal manufacturing conditions.
+The LED module is designed to be assembled onto printed circuit boards by using, for example, surface-mount device (SMD) soldering techniques.
+It is presented for use in illumination applications such as mobile phone flash, automotive lighting, projectors, traffic signals, and household appliances.
+(*) See image 1.
+
+
+8541 40 10
+
+
+Classification is determined by general rules 1 and 6 for the interpretation of the Combined Nomenclature, note 8 to Chapter 85 and by the wording of CN codes 8541, 8541 40 and 8541 40 10.
+As the LED chip and the protection diode are combined to all intents and purposes indivisibly and the protection diode is only used for protecting the LED chip against overvoltage, the module‘s characteristics and properties as a light-emitting diode of heading 8541 are therefore not fundamentally altered. Consequently, by application of note 8 to Chapter 85, last paragraph, classification of the component under heading 9405 is excluded.
+The component is therefore to be classified under CN code 8541 40 10 as light-emitting diodes.
+
+
+
+
+2. A semiconductor component comprising a LED module mounted by soldering on a metal-core printed circuit board, with a height of approximately 7 mm and a diameter of approximately 21 mm.
+The LED module comprises a LED chip connected in parallel with a Zener protection diode, presented in a plastic housing with a domed transparent plastic cover.
+The metal-core printed circuit board is specifically designed as a heat sink; it contains soldering pads for connecting the power supply and is shaped for final application in lighting fitting articles.
+It is presented for use in illumination applications such as mobile phone flash, automotive lighting, projectors, traffic signals, and household appliances.
+(*) See image 2.
+
+
+8541 40 10
+
+
+Classification is determined by general rules 1 and 6 for the interpretation of the Combined Nomenclature, note 8 to Chapter 85 and by the wording of CN codes 8541, 8541 40 and 8541 40 10.
+Although the component comprises a LED module and a printed circuit board which can be disassembled, the function of the component remains the same as that of the LED module alone. The sole function of the metal-core printed circuit board is dissipating heat (heat sink) as the printed circuit does not provide any interconnections with other components but only allows a better thermal transfer from the LED module to the surrounding media. The component is thus to be classified as a LED module alone.
+As the LED chip and the protection diode are combined to all intents and purposes indivisibly and the protection diode is only used for protecting the LED chip against overvoltage, the module‘s characteristics and properties as a light-emitting diode of heading 8541 are therefore not fundamentally altered. Consequently, by application of note 8 to Chapter 85, last paragraph, classification of the component under heading 9405 is excluded.
+The component is therefore to be classified under CN code 8541 40 10 as light-emitting diodes.
+
+
+
+
+3. A semiconductor component (so-called ‘LED package’) comprising four LED chips, each one connected in parallel with a Zener protection diode, presented in a plastic housing with a transparent glass window on top and eight contact pads on the back, with dimensions of approximately 6 x 5 x 1 mm.
+The physical construction of the component is indivisible in the sense that, although some of the elements could theoretically be removed and replaced, this would be a long and delicate task which would be uneconomic under normal manufacturing conditions.
+The LED chips are not interconnected. The interconnections
+between the LED chips and the Zener diodes are made by wire bonding.
+The LED package is designed to be assembled onto printed circuit boards by using, for example, SMD soldering techniques.
+It is presented for use in illumination applications such as stage and entertainment lighting, mood lighting and architectural lighting indoor and outdoor.
+(*) See image 3.
+
+
+8541 40 10
+
+
+Classification is determined by general rules 1 and 6 for the interpretation of the Combined Nomenclature, note 8 to Chapter 85 and by the wording of CN codes 8541, 8541 40 and 8541 40 10.
+As the LED chips and the protection diodes are combined to all intents and purposes indivisibly, and the protection diodes are only used for protecting the LED chips against overvoltage, independently of the number of LED chips, the component‘s characteristics and properties as a light-emitting diode of heading 8541 is therefore not fundamentally altered. Consequently, by application of note 8 to Chapter 85, last paragraph, classification of the component
+under heading 9405 is excluded.
+The component is therefore to be classified under CN code 8541 40 10 as light-emitting diodes.
+
+
+
+
+4. A semiconductor component (so-called ‘LED array’) comprising 156 LED chips presented in a circular plastic housing with a transparent plastic cover and two electrical contact pads on top and a metallic heat sink on the back, with a height of approximately 2 mm and a diameter of approximately 49 mm.
+The physical construction of the component is indivisible in the sense that, although some of the elements could theoretically be removed and replaced, this would be a long and delicate task which would be uneconomic under normal manufacturing conditions.
+The LED chips are interconnected in a series-parallel array with the interconnections made by wire bonding.
+The LED array is designed to be assembled by screwing it to the final product.
+It is presented for use in general illumination applications such as retail and hospitality lighting, commercial and office lighting, residential and consumer lighting, industrial lighting, street and exterior area lighting and retrofit lamps.
+(*) See image 4.
+
+
+8541 40 10
+
+
+Classification is determined by general rules 1 and 6 for the interpretation of the Combined Nomenclature, note 8 to Chapter 85 and by the wording of CN codes 8541, 8541 40 and 8541 40 10.
+As the component is only composed of LED chips which are combined to all intents and purposes indivisibly, independently of the number of LED chips, the component still falls within heading 8541. Consequently, by application of note 8 to Chapter 85, last paragraph, classification of the component under heading 9405 is excluded.
+The component is therefore to be classified under CN code 8541 40 10 as light-emitting diodes.
+
+
+
+
+(*) The images are purely for information.
+
+
+
+
+
+ 
+ 
+УРЕДБА КОМИСИЈЕ (ЕУ) О СПРОВОЂЕЊУ број 1037/2014 од 25. септембра 2014. године у вези са сврставањем одређенe робe према Комбинованој номенклатури"Службени гласник РС", број 137 од 16. децембра 2014.
+ЕВРОПСКА КОМИСИЈА,
+Имајући у виду Уговор о функционисању Европске уније,
+Имајући у виду Уредбу Савета (ЕЕЗ) број 2658/87 од 23. јула 1987. године о тарифној и статистичкој номенклатури и Заједничкој царинској тарифи1, а посебно члан 9. став 1. тачка а),
+с обзиром на то да:
+(1) Како би се осигурала једнообразна примена Комбиноване номенклатуре приложене уз Уредбу (ЕЕЗ) број 2658/87, неопходно је усвојити мере у вези са сврставањем робе наведене у Анексу ове уредбе;
+(2) Уредбом (ЕЕЗ) број 2658/87 утврђена су основна правила за примењивање Комбиноване номенклатуре. Ова правила се такође примењују на сваку другу номенклатуру која се у потпуности или делимично заснива на њој, или која јој додаје било какве потподеле и која је установљена посебним прописима Уније, са циљем примене тарифних и других мера које се односе на трговину робом;
+(3) У складу са тим основним правилима, роба описана у колони 1. табеле у Анексу сврстава се у CN ознаку наведену у колони 2, према разлозима датим у колони 3. те табеле;
+(4) Потребно је обезбедити да ималац обавезујуће тарифне информације, издате за робу на коју се односи ова уредба, а која није у складу са овом уредбом, може одређени период, да настави да се позива на њу, према члану 12. став 6. Уредбе Савета (ЕЕЗ) број 2913/92². Овај период треба да буде три месеца; 
+(5) Мере предвиђене овом уредбом су у складу са мишљењем Одбора за Царински кодекс.
+ДОНЕЛА ЈЕ ОВУ УРЕДБУ:
+Члан 1.
+Роба описана у колони 1. табеле дате у Анексу сврстава се у оквиру Комбиноване номенклатуре у CN ознаку наведену у колони 2. те табеле.
+Члан 2.
+Могуће је позивати се на обавезујућу тарифну информацију која није у складу са овом уредбом, у складу са чланом 12. став 6. Уредбе (ЕЕЗ) број 2913/92, у периоду од три месеца од дана ступања на снагу ове уредбе.
+Члан 3.
+Ова уредба ступа на снагу 20. дана од дана објављивања у „Службеном листу Европске уније”.
+Ова уредба је обавезујућа у целини и непосредно се примењује у свим државама чланицама.
+У Бриселу, 25. септембра 2014. године. 
+––––––––––
+1 OJ L 256, 7.9.1987. стр.1.
+2 Уредба Савета (ЕЕЗ) број 2913/92 од 12. октобра 1992. године којом је установљен Царински кодекс Заједнице (OJ L 302, 19.10.1992, стр.1).
+За Комисију,
+у име председника,
+Heinz ZOUREK
+генерални директор за порезе и царинску унију
+АНЕКС
+
+
+
+
+Опис робе
+
+
+Сврставање
+(CN ознака)
+
+
+Разлози
+
+
+
+
+(1)
+
+
+(2)
+
+
+(3)
+
+
+
+
+1. Полупроводничка компонента (тзв. „LED модул”) састоји се од LED чипа паралелно везаног са Зенер заштитном диодом, испоручена у пластичном кућишту са провидним пластичним поклопцем у облику куполе, димензија приближно 7 x 7 x 5 mm, и без везних блокова. 
+Физичка структура ове компоненте је недељива у том смислу да, иако се неки елементи теоретски могу одвојити и заменити, то би био дуготрајан и деликатан посао који би био неекономичан у нормалним условима производње.
+LED модул је конструисан за уградњу у плоче са штампаним колима коришћењем, на пример,
+технике лемљења уређаја за површинску монтажу.
+Испоручује се за коришћење за потребе осветљавања као на пример за флеш мобилног телефона, светла за аутомобиле, за пројекторе, саобраћајну сигнализацију, и апарате за домаћинство.
+(*) Видети слику 1.
+
+
+8541 40 10
+
+
+Сврставање је одређено Основним правилима 1. и 6. за примењивање Комбиноване номенклатуре, Напоменом 8. уз Главу 85 и наименовањима уз CN ознаке 8541, 8541  40 и 8541 40 10.
+Како су LED чип и заштитна диода за све сврхе и намене, у комбинацији неодвојиви, а заштитна диода служи само за заштиту LED чипа од пренапона, карактеристике и својства модула, као диоде за емитовање светлости из тарифног броја 8541, према томе, нису у основи промењене. Сходно томе, искључује се сврставање у тарифни број 9405, применом Напомене 8. уз Главу 85, последњи став.
+Компонента се, према томе, сврстава у CN ознаку 8541 40 10 као диоде за емитовање светлости.
+
+
+
+
+2. Полупроводничка компонента која садржи LED модул уграђен поступком лемљења на плочу са штампаним колом са металним језгром, висине приближо 7 mm и пречника приближно 21 mm.
+LED модул садржи LED чип паралелно везан са Зенер заштитном диодом, испоручен у пластичном кућишту са провидним пластичним поклопцем у облику куполе.
+Плоча са штампаним колом са металним језгром, специјално је конструисана као хладњак; садржи везне блокове за лемљење за повезивање са напајањем и обликована је за коначну примену у светлећим телима.
+Испоручује се за коришћење за потребе осветљавања као на пример за флеш мобилног телефона, светла за аутомобиле, за пројекторе, саобраћајну сигнализацију, и апарате за домаћинство.
+(*) Видети слику 2. 
+
+
+8541 40 10
+
+
+Сврставање је одређено Основним правилима 1. и 6. за примењивање Комбиноване номенклатуре, Напоменом 8. уз Главу 85 и наименовањима уз CN ознаке 8541, 8541 40 и 8541 40 10.
+Иако компонента садржи LED модул и плочу са штампаним колом, који се могу раставити, функција компоненте остаје иста као и функција самог LED модула. Једина функција плоче са штампаним колом са металним језгром је одвођење топлоте, с обзиром на то да штампано коло не обезбеђује никакво међусобно повезивање са другим компонентама, већ једино бољи пренос топлоте са LED модула на околну средину. Компонента се, према томе, сврстава као засебан LED модул.
+Како су LED чип и заштитна диода, за све сврхе и намене, у комбинацији неодвојиви, а заштитна диода служи само за заштиту LED чипа од пренапона, карактеристике и својства модула, као диоде за емитовање светлости из тарифног броја 8541, према томе, нису у основи промењене. Сходно томе, искључује се сврставање у тарифни број 9405, применом Напомене 8. уз Главу 85, последњи став.
+Компонента се, према томе, сврстава у CN ознаку 8541 40 10 као диоде за емитовање светлости.
+
+
+
+
+3. Полупроводничка компонента (тзв. „LED пакет”) састоји се од четири LED чипа, од којих је сваки паралелно везан са Зенер заштитном диодом, испоручена у пластичном кућишту са провидним стакленим прозорчићем на врху и осам везних блокова на задњем делу, димензија приближно 6 x 5 x 1 mm. 
+Физичка структура ове компоненте је недељива у том смислу да, иако се неки елементи теоретски могу одвојити и заменити, то би био дуготрајан и деликатан посао који би био неекономичан у нормалним условима производње.
+LED чипови нису међусобно везани. Међусобна веза између LED чипова и Зенер диода остварена је повезивањем жицом.
+LED пакет је конструисан за уградњу у плоче са штампаним колима коришћењем, на пример, технике лемљења уређаја за површинску монтажу.
+Испоручује се за коришћење за потребе осветљавања као што су осветљење за бине и сценска расвета, амбијентално осветљење и унутрашње и спољашње архитектурно осветљење 
+(*) Видети слику 3. 
+
+
+8541 40 10
+
+
+Сврставање је одређено Основним правилима 1. и 6. за примењивање Комбиноване номенклатуре, Напоменом 8. уз Главу 85 и наименовањима уз CN ознаке 8541, 8541 40 и 8541 40 10.
+Како су LED чипови и заштитне диоде, за све сврхе и намене, у комбинацији неодвојиви, а заштитне диоде служе само за заштиту LED чипова од пренапона, без обзира на број LED чипова, карактеристике и својства компоненте, као диоде за емитовање светлости из тарифног броја 8541, према томе, нису у основи промењенe. Сходно томе, искључује се сврставање у тарифни број 9405, применом Напомене 8. уз Главу 85, последњи став.
+Компонентa сe, према томе, сврстава у CN ознаку 8541 40 10 као диоде за емитовање светлости.
+
+
+
+
+4. Полупроводничка компонента (тзв. „LED матрица”) састоји се од 156 LED чипoва испоручених у кружном пластичном кућишту са провидним пластичним поклопцем и два електрична
+везна блока на врху, и металним хладњаком на задњем делу, висине приближно 2 mm и пречника приближно 49 mm.
+Физичка структура ове компоненте је недељива у том смислу да, иако се неки елементи теоретски могу одвојити и заменити, то би био дуготрајан и деликатан посао који би био неекономичан у нормалним условима производње.
+LED чипoви су међусобно везани у матрицу са паралелним низовима, а међусобна веза остварена је повезивањем жицом.
+LED матрица је конструисана за уградњу вијчаном везом за финални производ.
+Испоручује се за коришћење за потребе општег осветљавања, као што су: осветљење у малопродајним и угоститељским објектима, осветљење у пословним просторима и канцеларијама, осветљење стамбеног простора и домаћинстава, индустријско осветљење, улично и осветљење спољашњег простора, ка и за ретрофит лампе.
+(*) Видети слику 4.
+
+
+8541 40 10
+
+
+Сврставање је одређено Основним правилима 1. и 6. за примењивање Комбиноване номенклатуре, Напоменом 8. уз Главу 85 и наименовањима уз CN ознаке 8541, 8541 40 и 8541 40 10.
+Како је компонента састављена само од LED чипoва, за све сврхе и намене, у комбинацији неодвојива, без обзира на број LED чипoва, ова је компонента још увек обухваћена тарифним бројем 8541. Сходно томе, искључује се сврставање у тарифни број 9405, применом Напомене 8. уз Главу 85, последњи став.
+Компонента се, према томе, сврстава у CN ознаку 8541 40 10 као диоде за емитовање светлости.
+
+
+
+
+(*) Слике су само информативног карактера

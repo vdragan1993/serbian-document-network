@@ -1,0 +1,128 @@
+На основу члана 3а став 4. Закона о Царинској тарифи („Службени гласник РС”, бр. 62/05, 61/07 и 5/09) објављује се Уредба Комисије (ЕЕЗ) број 3180/92 од 28. октобра 1992. године у вези са сврставањем одређених роба у Комбинованој номенклатури објављена у „Службеном листу Европских заједница”, број L 317/64 од 31. октобра 1992. године, која у оригиналу на енглеском језику и у преводу на српски језик гласи:
+COMMISSION REGULATION (EEC) No 3180/92of 28 October 1992 concerning the classification of certain goods in the combined  nomenclature
+"Службени гласник РС", број 47 од 29. маја 2013.
+THE COMMISSION OF THE EUROPEAN COMMUNITIES,
+Having regard to the Treaty establishing the European Economic Community,
+Having regard to Council Regulation (EEC) No 2658/87 on the tariff and statistical nomenclature and on the Common Customs Tariff(1), as last amended by Commission Regulation (EEC) No 1039/92(2), and in particular Article 9 thereof,
+Whereas in order to ensure uniform application of the combined nomenclature annexed to the said Regulation, it is necessary to adopt measures concerning the classification of the good referred to in the Annex to this Regulation ;
+Whereas Regulation (EEC) No 2658/87 has set down the general rules for the interpretation of the combined nomenclature and these rules also apply to any other nomenclature which is wholly or partly based on it or which adds any additional subdivisions to it and which is established by specific Community provisions, with a view to the application of tariff or other measures relating to trade in goods;
+Whereas, pursuant to the said general rules, the goods described in column 1 of the table annexed to the present Regulation must be classified under the appropriate CN codes indicated in column 2, by virtue of the reasons set out in column 3 ;
+Whereas it is appropriate that binding tariff information issued by the customs authorities of Member States in respect of the classification of goods in the combined nomenclature, and which do not conform to the rights established by this Regulation, can continue to be invoked under the provisions in Article 6 of Commission Regulation (EEC) No 3796/90(3) for a period of three months by the holder if a binding contract has been concluded such as is envisaged in Article 14 (3) (a) or (b) of Commission Regulation (EEC) No 1715/90(4);
+Whereas the measures provided for in this Regulation, are in accordance with the opinion of the Nomenclature Committee,
+HAS ADOPTED THIS REGULATION:
+Article 1
+The goods described in column 1 of the annexed table is now classified within the combined nomenclature under the appropriate CN code indicated in column 2 of the said table.
+Article 2
+Binding tariff information issued by the customs authorities of Member States which do not conform to the rights established by this Regulation can continue to be invoked under the provisions of Article 6 of Regulation (EEC) No 3796/90 for a period of three months by the holder if a binding contract has been concluded as envisaged in Article 14 (3) (a) or (b) of Regulation (EEC) No 1715/90.
+Article 3
+This Regulation shall enter into force on the 21st day following its publication in the Official Journal of the European Communities.
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+Done at Brussels, 28 October 1992.
+–––––––––––
+(1) OJ No L 256, 7. 9. 1987, p. 1. 
+(2) OJ No L 110, 28. 4. 1992, p. 42.
+(3) OJ No L 365, 28. 12. 1990, p. 17.
+(4) OJ No L 160, 26. 6. 1990, p. 1.
+For the Commission
+Christiane SCRIVENER
+Member of the Commission
+ANNEX
+
+
+
+
+Description of goods
+
+
+Classification CN code
+
+
+Reasons
+
+
+
+
+(1)
+
+
+(2)
+
+
+(3)
+
+
+
+
+A sub-assembly for incorporation into a microwave oven consisting of a printed circuit board which incorporates a power supply and logic functions in a single unit. The power supply includes a transformer, voltage rectifier and regulation circuit. The board also drives temperature sensing circuitry and an audio timing device. The unit also contains a clock and is combined with a metal chassis part, providing flameproof and electrical insulation to protect the user, which is also a structural member of the oven itself.
+
+
+8537 10 99
+
+
+Classification is determined by the provisions of general rules 1 and 6 for the interpretation of the combined nomenclature, Note 2 (a) to Section XVI, as well as the texts of CN codes 8537, 8537 10 and 8537 10 99.
+
+
+
+
+УРЕДБА КОМИСИЈЕ (ЕЕЗ) број 3180/92од 28. октобра 1992. године у вези са сврставањем одређених роба према Комбинованој номенклатури
+"Службени гласник РС", број 47 од 29. маја 2013.
+КОМИСИЈА ЕВРОПСКИХ ЗАЈЕДНИЦА,
+Имајући у виду Уговор о оснивању Европске економске заједнице,
+Имајући у виду Уредбу Савета (ЕЕЗ) број 2658/871 о тарифској и статистичкој номенклатури и Заједничкој царинској тарифи, последњи пут измењену и допуњену Уредбом Комисије (ЕЕЗ) број 1039/922, а посебно члан 9.,
+С обзиром на то да је да би се осигурала доследна примена Комбиноване номенклатуре дате у прилогу наведене уредбе, неопходно усвојити мере у вези са сврставањем роба из Анекса уз ову уредбу;
+С обзиром на то да су Уредбом (ЕЕЗ) број 2658/87 одређена основна правила за тумачење Комбиноване номенклатуре. Ова правила се такође примењују на било коју другу номенклатуру која се у потпуности или делимично заснива на њој, или којој су додате било које потподеле и која је установљена посебним прописима Заједнице, са циљем примене тарифских и других мера у вези са трговином робом;
+С обзиром на то да се, сходно тим основним правилима, роба описана у колони 1. табеле дате у прилогу сврстава у одговарајућу CN ознаку наведену у колони 2., према разлозима датим у колони 3. табеле;
+С обзиром на то да, по потреби, ималац обавезујуће тарифне информације, коју су издали царински органи држава чланица у вези са сврставањем роба према Комбинованој номенклатури, али која није сагласна са правима заснованим овом уредбом, може у складу са одредбама члана 6. Уредбе Комисије (ЕЕЗ) број 3796/903 да настави да се током периода од три месеца позива на исту, уколико је закључен уговор како је предвиђено чланом 14. став 3. тач. a) или б) Уредбе Комисије (ЕЕЗ) број 1715/904;
+С обзиром на то да су мере предвиђене овом уредбом у складу са мишљењем Одбора за номенклатуру,
+ДОНЕЛА ЈЕ ОВУ УРЕДБУ:
+Члан 1.
+Роба описана у колони 1. табеле дате у прилогу сврстава се у оквиру Комбиноване номенклатуре у одговарајуће CN ознаке дате у колони 2. наведене табеле.
+Члан 2.
+Ималац обавезујуће тарифне информације, коју су издали царински органи држава чланица, али која није сагласна са правима заснованим овом уредбом, може у складу са условима из члана 6. Уредбе Комисије (ЕЕЗ) број 3796/90, да настави да се током периода од три месеца позива на исту, уколико је закључен уговор како је предвиђено чланом 14. став 3. тач. a) или б) Уредбе Комисије (ЕЕЗ) број 1715/90.
+Члан 3.
+Ова уредба ступa на снагу 21. дана од дана објављивања у „Службеном листу Европских заједница”.
+Ова уредба je обавезујућа у целини и непосредно се примењује у свим државама чланицама.
+У Бриселу, 28. октобра 1992. године 
+–––––––––––
+1 OJ L 256, 7.9.1987, стр. 1.
+2 OJ L 110, 28.4.1992. стр. 42
+3 OJ L 365, 28.12.1990, стр. 17
+4 OJ L 160, 26.6.1990, стр. 1.
+За Комисију
+Christiane SCRIVENER
+члан Комисије
+АНЕКС
+
+
+
+
+Опис робе
+
+
+Сврставање
+(CN ознака)
+
+
+Разлози
+
+
+
+
+(1)
+
+
+(2)
+
+
+(3)
+
+
+
+
+Подсклоп, за уградњу у микроталасну пећницу, састоји се од плоче са штампаним колом у коју су уграђени напајање и логичке функције у једној јединици. Напајање укључује трансформатор и исправљач напона и регулационо коло. Плоча такође има температурно осетљиво коло као и звучни тајмер. Јединица такође има сат, и налази се у металном кућишту које обезбеђује термичку и електричну заштиту кориснику, и представља такође структурни део саме пећнице.
+
+
+8537 10 99
+
+
+Сврставање је одређено условима Основних правила 1. и 6. за примењивање Комбиноване номенклатуре, Напоменом 2(а) уз Одељак XVI као и наименовањима уз CN ознаке 8537, 8537 10 и 8537 10 99.

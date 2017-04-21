@@ -1,0 +1,261 @@
+На основу члана 3а став 4. Закона о Царинској тарифи („Службени гласник РС”, бр. 62/05, 61/07 и 5/09) објављује се Уредба Комисије (ЕЕЗ) број 1288/91 од 14. маја 1991. године у вези са сврставањем одређене робе у Комбинованој номенклатури објављена у „Службеном листу Европских заједница”, број L 122/11 од 17. маја 1991. године, која у оригиналу на енглеском језику и у преводу на српски језик гласи:
+COMMISSION REGULATION (EEC) No 1288/91 of 14 May 1991 concerning the classification of certain goods in the Combined Nomenclature
+"Службени гласник РС", број 84 од 24. септембра 2013.
+THE COMMISSION OF THE EUROPEAN COMMUNITIES,
+Having regard to the Treaty establishing the European Economic Community,
+Having regard to Council Regulation (EEC) No 2658/87 of 23 July 1987 on the tariff and statistical nomenclature and on the Common Customs Tariff (1), as last amended by Regulation (EEC) No 1056/91 (2), and in particular Article 9 thereof;
+Whereas, in order to ensure uniform application of the Combined Nomenclature annexed to the said Regulation, it is necessary to adopt measures concerning the classification of the goods referred to in the Annex to this Regulation;
+Whereas Regulation (EEC) No 2658/87 has set down the general rules for the interpretation of the Combined Nomenclature and these rules also apply to any other nomenclature which is wholly or partly based on it or which adds any additional subdivisions to it and which is established by specific Community provisions, with a view to the application of tariff or other measures relating to trade in goods;
+Whereas, pursuant to the said general rules, the goods described in column 1 of the table annexed to the present
+Regulation must be classified under the appropriate, CN codes indicated in column 2, by virtue of the reasons set out in column 3;
+Whereas the measures provided for in this Regulation are in accordance with the opinion of the Nomenclature Committe,
+HAS ADOPTED THIS REGULATION: 
+Article 1
+The goods described in column 1 of the annexed table are now classified within the Combined Nomenclature under the appropriate CN codes indicated in column 2 of the said table.
+Article 2
+This Regulation shall enter into force on the 21st day following its publication in the Official Journal of the European Communities.
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+Done at Brussels, 14 May 1991.
+––––––––––––––
+(1) OJ No L 256, 7. 9. 1987, p. 1. 
+(2) OJ No L 107, 27. 4. 1991, p. 10.
+For the Commission
+Christiane SCRIVENER
+Member of the Commission
+ANNEX
+
+
+
+
+Description of goods
+
+
+CN code classification
+
+
+Reasons
+
+
+
+
+(1)
+
+
+(2)
+
+
+(3)
+
+
+
+
+1. A small plate for an interchangeable tool, consisting of a compact layer of synthetic diamond permanently attached to a metal carbide substrate.
+
+
+8207 90 10
+
+
+Classification is determined by the provisions of general rules 1, 2 (a) and 6 of the Combined Nomenclature and the texts of CN codes 8207, 8207 90 and 8207 90 10.
+Having a working surface of synthetic diamond, these items cannot be classified in heading No 8209.
+
+
+
+
+2. A colour monitor, capable of accepting a signal only from the central processing unit of an automatic data processing machine. The monitor is not capable of reproducing a colour image from a composite video signal.
+
+
+8471 92 90
+
+
+Classification is determined by the provisions of general rules 1 and 6 of the Combined Nomenclature, Note 5 B to Chapter 84 and the texts of CN codes 8471, 8471 92 and 8471 92 90.
+
+
+
+
+3. Keyboard for an automatic data processing machine, in its own housing. This input unit does not have its own electrical supply and has to be attached, by its connecting cable, to the central processing unit of an automatic data processing machine to function.
+
+
+8471 92 90
+
+
+Classification is determined by the provisions of general rules 1 and 6 for the interpretation of the Combined Nomenclature, by Note 5 B to Chapter 84 and by the wording of CN codes 8471, 8471 92 and 8471 92 90. (See also the HS Explanatory Notes to heading No 84.71).
+
+
+
+
+4. Heating strips for self-regulation of the temperature of fluids, consisting of a copper conductor with a cross-section of 1,9 mm2, a self-regulating conducting filament, a fluoro- polymer insulating sleeve, a tinned copper braid with a cross-section of 2,8 mm2 and an outer fluoropolymer sleeve covering the braid. The beating strip varies the heating power at each point of the circuit with which it is associated depending upon the temperature it encounters. It is generally intended to be wrapped around piping.
+
+
+8516 80 90
+
+
+Classification is determined by the provisions of general rules 1 and 6 for the interpretation of the Combined Nomenclature and by the wording of CN codes 8516, 8516 80 and 8516 80 90.
+
+
+
+
+5. Optical reading heads for compact disc players, consisting of a laser diode and a photodiode, contained in a metal housing with not more than 10 connecting pins.
+
+
+8522 90 91
+
+
+Classification is determined by the provisions of general rules 1 and 6 of the Combined Nomenclature and the text of CN codes 8522, 8522 90 and 8522 90 91.
+These optical reading heads are assemblies of diodes and as such cannot be classified in CN code 8541.
+
+
+
+
+6. A disposable photographic camera, consisting of a plastic box measuring 98 x 58 x 35 mm, enclosing a sensitized 24-exposure 35 mm photographic film, having a lens, a shutter release, a viewfinder, an indicator of the number of exposures and a lever for winding on the film. The box cannot be reused after opening.
+
+
+9006 53 00
+
+
+Classification is determined by the provisions of general rules 1 and 6 for the interpretation of the Combined Nomenclature and by the wording of CN codes 9006 and 9006 53 00.
+
+
+
+
+7. Apparatus known as ‹chromatic tuners› having the following characteristics : It offers several tuning methods and two transposition functions adapted to a range of musical instruments ; it incorporates a microphone, a quartz oscillator, a pointer-type frequency meter and light-emitting diodes, it may also incorporate a loudspeaker; it has a seven octave tuning range (from 32,7 to 395,1 Hz).
+
+
+9209 10 00
+
+
+Classification is determined by the provisions of general rules 1, 4 and 6 for the interpretation of the Combined Nomenclature and by the wording of CN codes 9209 and 9209 10 00.
+
+
+
+
+УРЕДБА КОМИСИЈЕ (ЕЕЗ) број 1288/91од 14. маја 1991. године у вези са сврставањем одређенe робe према Комбинованој номенклатури
+"Службени гласник РС", број 84 од 24. септембра 2013.
+КОМИСИЈА ЕВРОПСКИХ ЗАЈЕДНИЦА,
+Имајући у виду Уговор о оснивању Европске економске заједнице,
+Имајући у виду Уредбу Савета (ЕЕЗ) број 2658/87 о тарифној и статистичкој номенклатури и Заједничкој царинској тарифи1, последњи пут измењену и допуњену Уредбом Комисије (ЕЕЗ) број 1056/912, а посебно члан 9,
+С обзиром на то да је како би се осигурала доследна примена Комбиноване номенклатуре приложене уз наведену уредбу, неопходно усвојити мере у вези са сврставањем робе наведене у Анексу ове уредбу;
+С обзиром на то да су Уредбом (ЕЕЗ) број 2658/87 утврђена основна правила за примењивање Комбиноване номенклатуре. Ова правила се такође примењују на сваку другу номенклатуру која се у потпуности или делимично заснива на њој, или јој додаје било какве потподеле и која је установљена посебним прописима Заједнице, са циљем примене тарифних и других мера које се односе на трговину робом;
+С обзиром на то да се у складу са тим основним правилима, роба описана у колони 1. приложене табеле сврстава у CN ознаку наведену у колони 2, према разлозима датим у колони 3. те табеле;
+С обзиром на то да су мере предвиђене овом уредбом у складу са мишљењем Одбора за номенклатуру, 
+ДОНЕЛА ЈЕ ОВУ УРЕДБУ:
+Члан 1.
+Роба описана у колони 1. приложене табеле сврстава се у оквиру Комбиноване номенклатуре у одговарајуће CN ознаке дате у колони 2. наведене табеле.
+Члан 2.
+Ова уредба ступa на снагу 21. дана од дана објављивања у „Службеном листу Европских заједница”.
+Ова уредба je обавезујућа у целини и непосредно се примењује у свим државама чланицама.
+У Бриселу, 14. маја 1991. године
+––––––––––––––
+1 OJ L 256, 7.9.1987, стр.1.
+2 OJ L 107, 27.4.1991, стр. 10. 
+за Комисију
+Christiane SCRIVENER
+члан Комисије
+АНЕКС
+
+
+
+
+Опис робе
+
+
+Сврставање
+(CN ознака)
+
+
+Разлози
+
+
+
+
+(1)
+
+
+(2)
+
+
+(3)
+
+
+
+
+1. Плочица за изменљиви алат, од компактног слоја синтетичког дијаманта трајно причвршћеног за подлогу од металног карбида.
+
+
+8207 90 10
+
+
+Сврставање је одређено условима Основних правила 1, 2(а) и 6. за примењивање Комбиноване номенклатуре и наименовањима уз CN ознаке 8207, 8207 90 и 8207 90 10.
+Како имају радну површину од синтетичког дијаманта, ови производи се не сврставају у тарифни број 8209.
+
+
+
+
+2.3
+
+
+
+
+
+
+
+
+3.4
+
+
+
+
+
+
+
+
+4. Грејне траке, за саморегулацију температуре флуида, састоје се од бакарног проводника попречног пресека 1,9 mm2, саморегулишућег проводничког влакна, изолационог плашта од флуорополимера, калајисаног бакарног оплета попречног пресека 2,8 mm2 и спољашњег плашта од флуорополимера који обавија оплет. Грејне траке мењају снагу грејања у свакој тачки струјног кола у које су повезане, зависно од тренутне температуре којој су изложене. Углавном се користе за обавијање цеви.
+
+
+8516 80 905
+
+
+Сврставање је одређено условима Основних правила 1. и 6. за примењивање Комбиноване номенклатуре и наименовањима уз CN ознаке 8516, 8516 80 и 8516 80 906.
+
+
+
+
+5.7
+
+
+
+
+
+
+
+
+6. Фотографски апарат за једнократну употребу, састоји се од пластичне кутије димензија 98 x 58 x 35 mm у којој се налази фотографски филм од 35 mm, осетљив на светлост, са 24 снимка, и који има објектив, окидач, тражило, индикатор броја снимака, и ручицу за премотавaње филма. Кутија се након отварања не може поново искористити.
+
+
+9006 53 008
+
+
+Сврставање је одређено условима Основних правила 1. и 6. за примењивање Комбиноване номенклатуре и наименовањима уз CN ознаке 9006 и 9006 53 008.
+
+
+
+
+7. Апарат познат као „хроматски штимер”‚ следећих карактеристика: пружа неколико метода штимовања и две транспозицијске функције прилагођене низу музичких инструмената; поседује уграђен микрофон, кварцни осцилатор, фреквенциометар у облику показивача и светлећу диоду, а такође може имати звучник; има опсег штимовања од седам октава (од 32,7 до 395,1 Hz)
+
+
+9209 10 009
+
+
+Сврставање је одређено условима Основних правила 1, 4. и 6. за примењивање Комбиноване номенклатуре и наименовањима уз CN ознаке 9209 и 9209 10 0010.
+
+
+
+
+–––––––––––––
+3 Брисано у складу са тачком 17. Анекса II Уредбе Комисије (ЕЗ) број 1179/09 од 26. новембра 2009. године којом се мењају или стављају ван снаге одређене уредбе у вези са сврставањем робе према Комбинованој номенклатури (OJ L 317 од 3.12.2009, стр. 23.), која је објављена у „Службеном гласнику РС”, број 7/10.
+4 Стављено ван снаге у складу са алинејом 4. Анекса Б Уредбе Комисије (ЕЗ) број 936/99 од 27. априла 1999. године којом се мењају или стављају ван снаге одређене уредбе у вези са сврставањем робе према Комбинованој номенклатури (OJ L 117 од 5.5.1999, стр. 9.), која је објављена у „Службеном гласнику РС”, број 79/11.
+5 Замењено са „8516 80 80” у складу са тачком 69. Анекса А Уредбе Комисије (ЕЗ) број 936/99 од 27. априла 1999. године којом се мењају или стављају ван снаге одређене уредбе у вези са сврставањем робе према Комбинованој номенклатури (OJ L 117 од 5.5.1999, стр. 9.), која је објављена у „Службеном гласнику РС” број 79/11 и са тачком 31. под (а) под (i) Анекса I Уредбе Комисије (ЕЗ) број 1179/09 од 26. новембра 2009. године којом се мењају или стављају ван снаге одређене уредбе у вези са сврставањем робе према Комбинованој номенклатури (OJ L 317 од 3.12.2009, стр. 23.), која је објављена у „Службеном гласнику РС”, број 7/10.
+6 Замењено са „8516 80 80” у складу са тачком 69. Анекса А Уредбе Комисије (ЕЗ) број 936/99 од 27. априла 1999. године којом се мењају или стављају ван снаге одређене уредбе у вези са сврставањем робе према Комбинованој номенклатури (OJ L 117 од 5.5.1999, стр. 9.), која је објављена у „Службеном гласнику РС”, број 79/11 и са тачком 31. под (а) под (ii) Анекса I Уредбе Комисије (ЕЗ) број 1179/09 од 26. новембра 2009. године којом се мењају или стављају ван снаге одређене уредбе у вези са сврставањем робе према Комбинованој номенклатури (OJ L 317 од 3.12.2009, стр. 23.), која је објављена у „Службеном гласнику РС”, број 7/10.
+7 Брисано у складу са тачком 18. Анекса II Уредбе Комисије (ЕЗ) број 1179/09 од 26. новембра 2009. године којом се мењају или стављају ван снаге одређене уредбе у вези са сврставањем робе према Комбинованој номенклатури (OJ L 317 од 3.12.2009, стр. 23.), која је објављена у „Службеном гласнику РС”, број 7/10.
+8 Замењено са „9006 53 10” у складу са тачком 99. Анекса А Уредбе Комисије (ЕЗ) број 936/99 од 27. априла 1999. године којом се мењају или стављају ван снаге одређене уредбе у вези са сврставањем робе према Комбинованој номенклатури (OJ L 117 од 5.5.1999, стр. 9.), која је објављена у „Службеном гласнику РС”, број 79/11.
+9 Замењено са „9209 99 40 ” у складу са тачком 32. под (b) под (i) Анекса I Уредбе Комисије (ЕЗ) број 1179/09 од 26. новембра 2009. године којом се мењају или стављају ван снаге одређене уредбе у вези са сврставањем робе према Комбинованој номенклатури (OJ L 317 од 3.12.2009, стр. 23.), која је објављена у „Службеном гласнику РС”, број 7/10.
+10 Замењено са „9209, 9209 99 и 9209 99 40 ” у складу са тачком 32. под (b) под (ii) Анекса I Уредбе Комисије (ЕЗ) број 1179/09 од 26. новембра 2009. године којом се мењају или стављају ван снаге одређене уредбе у вези са сврставањем робе према Комбинованој номенклатури (OJ L 317 од 3.12.2009, стр. 23.), која је објављена у „Службеном гласнику РС”, број 7/10.

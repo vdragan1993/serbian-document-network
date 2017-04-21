@@ -1,0 +1,588 @@
+На основу члана 3а став 4. Закона о Царинској тарифи („Службени гласник РС”, бр. 62/05, 61/07 и 5/09) објављује се Уредба Комисије (ЕУ) о спровођењу број 459/2014 од 29. априла 2014. године, о изменама и допунама одређених уредаба о сврставању робe у Комбинованој номенклатури, објављена у „Службеном листу Европске уније”, број L 133/43 од 6. маја 2014. године, која у оригиналу на енглеском језику и у преводу на српски језик гласи:
+COMMISSION IMPLEMENTING REGULATION (EU) No 459/2014 of 29 April 2014 amending certain regulations on the classification of goods in the Combined Nomenclature "Службени гласник РС", број 78 од 25. јула 2014.
+THE EUROPEAN COMMISSION,
+Having regard to the Treaty on the Functioning of the European Union,
+Having regard to Council Regulation (EEC) No 2658/87 of 23 July 1987 on the tariff and statistical nomenclature and on the Common Customs Tariff (¹), and in particular Article 9(1)(a) thereof,
+Whereas:
+(1) Council Regulation (EU) No 953/2013 (2) amended Annex I to Regulation (EEC) No 2658/87 and replaced CN codes 8528 59 10, 8528 59 40 and 8528 59 80 by CN codes 8528 59 20, 8528 59 31, 8528 59 39 and 8528 59 70.
+(2) Certain Commission Regulations concerning the classification of goods, adopted in order to ensure the uniform application of the Combined Nomenclature established by Regulation (EEC) No 2658/87, make reference to CN codes which no longer exist. They should therefore be amended in order to take into account the appropriate CN codes in force.
+(3) The Customs Code Committee has not issued an opinion on the item of Annex III of this Regulation within the time limit set by its Chairman, the measures provided for under Annex I, II and IV of this Regulation are in accordance with the opinion of the Customs Code Committee,
+HAS ADOPTED THIS REGULATION:
+Article 1
+1. The Annex to Commission Regulation (EC) No 1156/2008 (3), as amended by Implementing Regulation (EU) No 441/2013 (4), is replaced by the text set out in Annex I to this Regulation.
+2. Item 1 of the Annex to Commission Regulation (EC) No 1172/2008 (5), as amended by Implementing Regulation (EU) No 441/2013, is replaced by the text set out in Annex II to this Regulation.
+3. The Annex to Commission Implementing Regulation (EU) No 1196/2011 (6) is replaced by the text set out in Annex III to this Regulation.
+4. The Annex to Commission Implementing Regulation (EU) No 698/2012 (7) is replaced by the text set out in the Annex IV to this Regulation.
+Article 2
+This Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union.
+This Regulation shall be binding in its entirety and directly applicable in all Member States. 
+Done at Brussels, 29 April 2014.
+–––––––––––––––
+(1) OJ L 256, 7.9.1987, p. 1.
+(2) Council Regulation (EU) No 953/2013 of 26 September 2013 amending Annex I to Regulation (EEC) No 2658/87 on the tariff and statistical nomenclature and on the Common Customs Tariff (OJ L 263, 5.10.2013, p. 4).
+(3) Commission Regulation (EC) No 1156/2008 of 20 November 2008 concerning the classification of certain goods in the Combined Nomenclature (OJ L 310, 21.11.2008, p. 9).
+(4) Commission Implementing Regulation (EU) No 441/2013 of 7 May 2013 amending or repealing certain regulations on the classification of goods in the Combined Nomenclature (OJ L 130, 15.5.2013, p. 1).
+(5) Commission Regulation (EC) No 1172/2008 of 25 November 2008 concerning the classification of certain goods in the Combined Nomenclature (OJ L 317, 27.11.2008, p. 4).
+(6) Commission Implementing Regulation (EU) No 1196/2011 of 17 November 2011 concerning the classification of certain goods in the Combined Nomenclature (OJ L 303, 22.11.2011, p. 12).
+(7) Commission Implementing Regulation (EU) No 698/2012 of 25 July 2012 concerning the classification of certain goods in the Combined Nomenclature(OJL203,31.7.2012,34).
+For the Commission, 
+On behalf of the President,
+Algirdas ŠEMETA 
+Member of the Commission
+ANNEX I
+‘ANNEX
+
+
+
+
+Description of the goods
+
+
+Classification (CN code)
+
+
+Reasons
+
+
+
+
+(1)
+
+
+(2)
+
+
+(3)
+
+
+
+
+1. An apparatus for the recording, reproducing and displaying of still images (so-called „digital photo frame“), with overall dimensions 17 (L) x 12,9 (W) x 12,3 (D) cm, consisting of the following main components in a single housing:
+– a colour display of the liquid crystal device (LCD) type with a diagonal measurement of the screen of 13 cm (5,1 inches) and a resolution of 320 x 240 pixels,
+– a slot for a Subscriber Identity Module (SIM) card,
+– an infra-red interface,
+– an internal memory,
+– control buttons.
+The images are transferred to the internal memory of the apparatus from a compatible device (such as a mobile phone, automatic data-processing machine or a digital camera) via an infra-red signal or with a SIM card through the Multimedia Messaging Service (MMS).
+The images can also be transferred from the apparatus via the infra-red signal to a compatible device.
+The apparatus supports JPEG and GIF formats with a maximum resolution of 1 024 x 728 pixels.
+The apparatus can display images in a single- image or slideshow mode.
+Its internal memory can store up to 50 images.
+
+
+8528 59 70
+
+
+Classification is determined by general rules 1 and 6 for the interpretation of the Combined Nomenclature, note 3 to Section XVI and by the wording of CN codes 8 528, 8 528 59 and 8528 59 70.
+As the apparatus is designed for the purpose of performing three functions within the meaning of note 3 to Section XVI (recording, reproducing and displaying images), it is to be classified as if consisting only of that machine which performs the principal function.
+Due to its capability of displaying images, the principal function of the apparatus is considered to be that of a monitor, which is an individual function specified in heading 8528.
+The fact that the signals are not displayed directly from external sources does not exclude classification under heading 8528 since monitors of that heading may be capable of receiving a variety of signals from different sources (see also the Harmonized System Explanatory Notes (HSEN) to heading 8 528, third paragraph).
+The apparatus is therefore to be classified under CN code 8528 59 70 as other monitors.
+
+
+
+
+2. An apparatus for the recording, reproducing and displaying of still and video images, as well as for the recording and reproducing of sound (so-called „digital picture frame“), with overall dimensions 33 (W) x 24,1 (H) x 4,1 (D) cm, consisting of the following main components in a single housing:
+– a colour display of the liquid crystal device (LCD) type, with a diagonal measurement of the screen of 25,4 cm (10 inches) and a resolution of 800 x 480 pixels,
+– an internal memory with a storage capacity of 128 MB,
+– memory card slots,
+– built-in loudspeakers,
+– two USB interfaces,
+– control buttons.
+It supports the following formats:
+– audio: MP3,
+– still image: JPEG, GIF,
+– video: MPEG1, MPEG4, MOV, AVI.
+Different types of solid-state non-volatile storage devices can be inserted into the memory card slots.
+The images may be displayed in single image, slideshow or thumbnails mode.
+
+
+8528 59 70
+
+
+Classification is determined by general rules 1 and 6 for the interpretation of the Combined Nomenclature, note 3 to Section XVI and by the wording of CN codes 8 528, 8 528 59 and 8528 59 70.
+As the apparatus is designed for the purpose of performing three functions within the meaning of note 3 to Section XVI (recording, reproducing and displaying images), it is to be classified as if consisting only of that machine which performs the principal function.
+Given the design and the concept of the apparatus, its purpose is to display still and video images. Recording still and video images is to be considered as a secondary function of the apparatus. Therefore its principal function is considered to be that of a monitor, which is an individual function specified in heading 8528.
+The fact that the signals are not displayed directly from external sources does not exclude classification under heading 8528 since monitors of that heading may be capable of receiving a variety of signals from different sources (see also the HSEN to heading 8 528, third paragraph).
+The apparatus is not able to display signals directly from an automatic data-processing machine as the USB interfaces are only used for the transfer of media files. Consequently, classification under subheadings 8528 51 00 and 8528 59 31 is excluded.
+The apparatus is therefore to be classified under CN code 8528 59 70 as other monitors.‘
+
+
+
+
+ANNEX II
+‘ANNEX
+
+
+
+
+Description of the goods
+
+
+Classification (CN code)
+
+
+Reasons
+
+
+
+
+(1)
+
+
+(2)
+
+
+(3)
+
+
+
+
+
+
+1. A battery-operated apparatus consisting of a laser reading system for video reproducing and a colour monitor for video displaying (so- called „portable DVD player“). Its overall dimensions are 19 (L) x 14,2 (W) x 3,7 (H) cm and the weight is 800 grams.
+The monitor is of the liquid crystal device (LCD) type with a diagonal measurement of the screen of 21,6 cm (8,5 inches). The apparatus can be folded and its monitor rotated.
+The apparatus is equipped with built-in loudspeakers.
+It has the following interfaces:
+– memory card expansion slots,
+– a USB port,
+– composite video in and out,
+– headphone jacks.
+It can read optical media (for example, CD, DVD) and semiconductor media (for example, USB flash memory) in various audio and video formats.
+
+
+8528 59 70
+
+
+Classification is determined by general rules 1 and 6 for the interpretation of the Combined Nomenclature, note 3 to Section XVI and by the wording of CN codes 8 528, 8 528 59 and 8528 59 70.
+As the apparatus is designed for the purpose of performing two functions within the meaning of note 3 to Section XVI (reproducing and displaying video), it is to be classified as if consisting only of that machine which performs the principal function.
+Given the design and concept of the apparatus and more particularly the size of the screen which facilitates viewing of video sequences for longer periods, the principal function of the apparatus is that of displaying video.
+The apparatus is not able to display signals directly from an automatic data-processing machine as the USB port is only used for the transfer of media files. Consequently, classification under subheadings 8528 51 00 and 8528 59 31 is excluded.
+The apparatus is therefore to be classified under CN code 8528 59 70 as other monitors.’
+
+
+
+
+ANNEX III
+‘ANNEX
+
+
+
+
+Description of the goods
+
+
+Classification (CN code)
+
+
+Reasons
+
+
+
+
+(1)
+
+
+(2)
+
+
+(3)
+
+
+
+
+A portable, battery-powered electronic eyewear apparatus for displaying images (so-called „video glasses“) with dimensions in a folded state of approximately 15 x 3,5 x 2,5 cm. 
+The electronic eyewear apparatus consists of two liquid crystal device (LCD) screens, each with a resolution of 640 x 480 pixels (virtual equivalent of an 80 inch screen viewed 2 meters away) and sound-processing circuits, mounted in a frame similar to a frame for spectacles. 
+The apparatus is equipped with the following interfaces:
+– VGA input,
+– Audio Video (A/V) input.
+It can be connected to an automatic data-processing (ADP) machine and to apparatus such as video reproducers, television receivers or game consoles. It displays virtual 3-dimensional (3D) video images for entertainment purposes.
+
+
+8528 59 31
+
+
+Classification is determined by general rules 1 and 6 for the interpretation of the Combined Nomenclature and by the wording of CN codes 8528, 8528 59 and 8528 59 31.
+As the apparatus does not incorporate a tuner or any similar device enabling the reception of television signals, classification as reception apparatus for television under subheading 8528 72 is excluded.
+The apparatus uses 2 very small LCD screens (one in front of each eye) for creating a virtual image equivalent of an 80 inch screen viewed 2 meters away. Given these objective characteristics and properties, and in particular its ability to display 3D images, the apparatus is intended for entertainment purposes such as watching films, viewing television or gaming. Consequently, classification under subheading 8 528 51 is excluded as the apparatus cannot be considered of a kind solely or principally used in an ADP system of heading 8471.
+As the monitor is capable of displaying signals from an ADP machine at a level sufficient for practical use with the ADP machine, it is considered to be capable of displaying signals from automatic data-processing machines with an acceptable level of functionality.
+The monitor is therefore to be classified under CN code 8 528 59 31 as flat panel displays able to display signals from automatic data-processing machines with an acceptable level of functionality with a screen of the liquid crystal display (LCD) technology.’
+
+
+
+
+ANNEX IV
+‘ANNEX
+
+
+
+
+Description of the goods
+
+
+Classification (CN code)
+
+
+Reasons
+
+
+
+
+(1)
+
+
+(2)
+
+
+(3)
+
+
+
+
+1. A multifunctional apparatus (so-called „multimedia centre for motor vehicles“) of a kind used in motor vehicles, consisting of two main components:
+– a reception apparatus for radio-broadcasting combined with a CD/DVD player,
+– a detachable colour liquid crystal display (LCD) with a touch screen function with a diagonal measurement of the screen of approximately 17,5 cm (7 inches) and an aspect ratio of 16:9.
+The apparatus is equipped with connectors enabling the reception of video signals from external sources such as a rear-view camera.
+The apparatus is presented with a remote control.
+An additional display can be connected to the apparatus.
+
+
+8528 59 70
+
+
+Classification is determined by general rules (GIR) 1, 3(c) and 6 for the interpretation of the Combined Nomenclature and by the wording of CN codes 8528, 8528 59 and 8528 59 70.
+The apparatus is designed for the purpose of performing various functions (sound reproduction, video reproduction, radio-broadcasting, displaying video), none of which, in view of its design and concept, gives the apparatus its essential character.
+By application of GIR 3(c), the apparatus is therefore to be classified under CN code 8528 59 70 as other monitors.
+
+
+
+
+2. A multifunctional apparatus (so-called „multimedia centre for motor vehicles“) of a kind used in motor vehicles measuring approximately 17 x 5 x 16 cm.
+It combines, in the same housing, a reception apparatus for radio-broadcasting, a sound and a video reproducing apparatus and a colour liquid crystal display (LCD) with a diagonal measurement of the screen of approximately 8 cm (3,5 inches).
+The apparatus is equipped with connectors enabling the reception of video signals from external sources such as a rear-view camera.
+The apparatus can also reproduce sound and images from a USB memory stick.
+The apparatus is presented with a remote control.
+An additional display can be connected to the apparatus.
+
+
+8528 59 70
+
+
+Classification is determined by general rules (GIR) 1, 3(c) and 6 for the interpretation of the Combined Nomenclature and by the wording of CN codes 8528, 8528 59 and 8528 59 70.
+The apparatus is designed for the purpose of performing various functions (sound reproduction, video reproduction, radio-broadcasting, displaying video), none of which, in view of its design and concept, gives the apparatus its essential character.
+The apparatus is not able to display signals directly from an automatic data-processing machine as the USB interface is only used for reproducing audio or video from a USB memory stick. Consequently, classification under subheadings 8528 51 00 and 8528 59 31 is excluded.
+By application of GIR 3(c), the apparatus is therefore to be classified under CN code 8528 59 70 as other monitors.
+
+
+
+
+3. A multifunctional apparatus (so-called „multimedia centre for motor vehicles“) of a kind used in motor vehicles.
+It combines, in the same housing, a reception apparatus for radio-broadcasting, a sound and a video reproducing apparatus, a radio navigational apparatus and a colour liquid crystal display (LCD) with a diagonal measurement of the screen of approximately 18 cm (7 inches) and an aspect ratio of 16:9.
+The apparatus is equipped with connectors enabling the reception of video signals from external sources such as a rear-view camera or a DVB-T tuner.
+The apparatus can also reproduce sound and images from a memory card.
+The apparatus is presented with two remote controls.
+An additional display can be connected to the apparatus.
+
+
+8528 59 70
+
+
+Classification is determined by general rules (GIR) 1, 3(c) and 6 for the interpretation of the Combined Nomenclature and by the wording of CN codes 8528, 8528 59 and 8528 59 70.
+The apparatus is designed for the purpose of performing various functions (sound reproduction, video reproduction, radio navigational aid, radio-broadcasting, displaying video), none of which, in view of its design and concept, gives the apparatus its essential character.
+By application of GIR 3(c), the apparatus is therefore to be classified under CN code 8528 59 70 as other monitors.‘
+
+
+
+
+УРЕДБА КОМИСИЈЕ (ЕУ) О СПРОВОЂЕЊУ број 459/2014 од 29. априла 2014. године о изменама и допунама одређених уредаба о сврставању робe према Комбинованој номенклатури "Службени гласник РС", број 78 од 25. јула 2014.
+ЕВРОПСКА КОМИСИЈА,
+Имајући у виду Уговор о функционисању Европске уније,
+Имајући у виду Уредбу Савета (ЕЕЗ) број 2658/87 од 23. јула 1987. године о тарифној и статистичкој номенклатури и Заједничкој царинској тарифи1, а посебно члан 9. став 1. тачка а),
+с обзиром на то да:
+(1) Уредбом Савета (ЕУ) број 953/20132 измењен је и допуњен Анекс I Уредбе (ЕЕЗ) број 2658/87 и замењене су CN ознаке 8528 59 10, 8528 59 40 и 8528 59 80 CN ознакама 8528 59 20, 8528 59 31, 8528 59 39 и 8528 59 70;
+(2) Одређене уредбе Комисије у вези са сврставањем робе, усвојене како би се осигурала једнообразна примена Комбиноване номенклатуре установљене Уредбом (ЕЕЗ) број 2658/87, позивају се на CN ознаке које више не постоје. Оне се, према томе, мењају и допуњују да би се узеле у обзир одговарајуће CN ознаке које су на снази;
+(3) Одбор за Царински кодекс није издао мишљење о тачки Анекса III у року који је одредио председавајући, мере предвиђене Анексима I, II и IV ове уредбе у складу су са мишљењем Одбора за Царински кодекс,
+ДОНЕЛА ЈЕ ОВУ УРЕДБУ:
+Члан 1.
+1. Анекс Уредбе Комисије (ЕЗ) број 1156/20083, измењене и допуњене Уредбом (ЕУ) о спровођењу 441/20134, замењује се текстом датим у Анексу I ове уредбе.
+2. Тачка 1. Анекса Уредбе Комисије (ЕЗ) број 1172/20085, измењене и допуњене Уредбом (ЕУ) о спровођењу број 441/2013, замењује се текстом датим у Анексу II ове уредбе.
+3. Анекс Уредбе Комисије (ЕУ) о спровођењу број 1196/20116 замењује се текстом датим у Анексу III ове уредбе.
+4. Анекс Уредбе Комисије (ЕУ) о спровођењу број 698/20127 замењује се текстом датим у Анексу IV ове уредбу.
+Члан 2
+Ова уредба ступа на снагу 20. дана од дана објављивања у „Службеном листу Европске уније”.
+Ова уредба је обавезујућа у целини и непосредно се примењује у свим државама чланицама.
+У Бриселу, 29. априла 2014. године. 
+–––––––––––––––
+1 OJ L 256, 7.9.1987. стр.1 
+2 Уредба Савета (ЕУ) број 953/2013 од 26. септембра 2013 о изменама и допунама Анекса I Уредбе (ЕЕЗ) број 2658/87 о тарифној и статистичкој номенклатури и Заједничкој царинској тарифи (OJ L 263, 5.10.2013, стр. 4).
+3 Уредба Комисије (ЕЗ) број 1156/2008 од 20. новембра 2008. године у вези са сврставањем одређене робе према Комбинованој номенклатури (OJ L 310, 21.11.2008, стр. 9), која је објављена у „Службеном гласнику РС”, број 114/05 од 16.12.2008.
+4 Уредба Комисије (ЕУ) о спровођењу 441/2013 од 7. маја 2013. године о изменама, допунама и стављању ван снаге одређених уредби о сврставању робе према Комбинованој номенклатури (OJ L 130, 15.5.2013, стр.1), која је објављена у „Службеном гласнику РС”, број 47/13 од 29.05.2013.
+5 Уредба Комисије (ЕЗ) број 1172/2008 од 25. новембра 2008. године у вези са сврставањем одређене робе према Комбинованој номенклатури (OJ L 317, 27.11.2008, стр. 4) , која је објављена у „Службеном гласнику РС”, број 114/05 од 16.12.2008.
+6 Уредба Комисије (ЕУ) о спровођењу 1196/2011 од 17. новембра 2011. године у вези са сврставањем одређене робе према Комбинованој номенклатури (OJ L 303, 22.11.2011, стр. 12), која је објављена у „Службеном гласнику РС”, број 12/12 од 21.2.2012.
+7 Уредба Комисије (ЕУ) о спровођењу 698/2012 од 25. јула 2012. године у вези са сврставањем одређене робе према Комбинованој номенклатури (OJ L 203, 31.7.2012, стр. 34), која је објављена у „Службеном гласнику РС”, број 98/12 од 12.10.2012.
+За Комисију,
+у име председника,
+Algirdas ŠEMETA
+члан Комисије
+АНЕКС I
+„АНЕКС
+
+
+
+
+Опис робе
+
+
+Сврставање
+(CN знака)
+
+
+Разлози
+
+
+
+
+(1)
+
+
+(2)
+
+
+(3)
+
+
+
+
+1. Апарат за снимање, репродукцију и приказивање непокретних слика (тзв. „дигитални фото рам”), укупних димензија 17(Д) x 12,9(Ш) x 12,3(Д)cm који се састоји од следећих главних компоненти смештених у једном кућишту: 
+– колор дисплеја са течним кристалима, LCD типа, са дијагоналом екрана 13 cm (5,1 инча) и резолуције од 320 x 240 пиксела, 
+– отвора за SIM картицу,
+– интерфејса за инфрацрвени сигнал,
+– унутрашње меморије, 
+– контролне дугмади. 
+Слике се преносе на унутрашњу меморију апарата са компатибилног уређаја (као што су: мобилни телефон, машина за аутоматску обраду података или дигитална камера) преко инфрацрвеног сигнала или SIM картицом преко MMS. 
+Слике се такође могу преносити са апарата на компатибилан уређај преко инфрацрвеног сигнала.
+Апарат подржава JPEG и GIF формате са максималном резолуцијом од 1024 x 728 пиксела. 
+Слике се могу приказивати или појединачно или као слајдови.
+Унутрашња меморија може да сними до 50 слика.
+
+
+8528 59 70
+
+
+Сврставање је одређено Основним правилима 1. и 6. за примењивање Комбиноване номенклатуре, Напоменом 3 уз Одељак XVI и наименовањима уз CN ознаке 8528, 8528 59 и 8528 59 70.
+Пошто је апарат конструисан за сврхе вршења три функције у смислу Напомене 3 уз Одељак XVI (снимање, репродукција и приказивање), сврстава се као да се састоји само од те машине која врши главну функцију.
+Због његове способности да приказује слике, главном функцијом апарата сматра се функција монитора, која је индивидуална функција наведена у тар. броју 8528.
+Чињеница да се сигнали не приказују директно са спољних извора не искључује сврставање у тар. број 8528 пошто монитори из тог тар. броја могу бити способни за пријем разноврсних сигнала из различитих извора (видети такође ХС Коментар уз тар. број 8528, трећи став).
+Према томе, апарат се сврстава у CN ознаку 8528 59 70 као остали монитори.”
+
+
+
+
+2. Апарат за снимање, репродукцију и приказивање непокретних и покретних слика као и за снимање и репродукцију звука (тзв. „рам за дигиталне слике”), укупних димензија 33(Ш) x 24,1(В) x 4,1(Д)cm који се састоји од следећих главних компоненти смештених у једном кућишту: 
+– колор дисплеја са течним кристалима, LCD типа, са дијагоналом екрана 25,4 cm (10 инча) и резолуције од 800 x 480 пиксела,
+– унутрашње меморије капацитета 128 МВ,
+– отвора за меморијску картицу, 
+– уграђених звучника, 
+– два USB интерфејса, 
+– и контролне дугмади. 
+Он подржава следеће формате:
+– аудио: MP3,
+– непокретне слике: JPEG, GIF,
+– покретне слике: MPEG1, MPEG4, MOV, AV1. 
+Различите врсте полупроводничких меморија  независних од електричне енергије могу се ставити у отворе за меморијске картице.
+Слике се могу приказивати: појединачно, као слајдови или као „thumbnails” (приказивање више минијатурних слика погодних за брзо претраживање). 
+
+
+
+
+Сврставање је одређено Основним правилима 1. и 6. за примењивање Комбиноване номенклатуре, Напоменом 3 уз Одељак XVI и наименовањима уз CN ознаке 8528, 8528 59 и 8528 59 70.
+Пошто је апарат конструисан за сврхе вршења три функције у смислу Напомене 3 уз Одељак XVI (снимање, репродукција и приказивање), сврстава се као да се састоји само од те машине која врши главну функцију.
+С обзиром на конструкцију и концепт апарата, његова сврха је да приказује непокретне и покретне слике. Снимање непокретних и покретних слика треба сматрати секундарном функцијом апарата. Према томе, главном функцијом се сматра функција монитора која је индивидуална функција наведена у тарифном броју 8528.
+Чињеница да се сигнали не приказују директно са спољних извора не искључује сврставање у тар. број 8528 пошто монитори из тог тар. броја могу бити способни за пријем разноврсних сигнала из различитих извора (видети такође ХС Коментар уз тар. број 8528, трећи став).
+Апарат не може да приказује сигнале директно са машине за аутоматску обраду података пошто се USB интерфејси користе само за трансфер фајлова са медија. Сходно томе, искључује се сврставање у тарифне подбројеве 8528 51 00 и 8528 59 31.
+Према томе, апарат се сврстава у CN ознаку 8528 59 70 као остали монитори.
+
+
+
+
+АНЕКС II
+„АНЕКС
+
+
+
+
+Опис робе
+
+
+Сврставање
+(CN знака)
+
+
+Разлози
+
+
+
+
+(1)
+
+
+(2)
+
+
+(3)
+
+
+
+
+1. Апарат који ради на батерије а састоји се од ласерског система за очитавање видео записа и монитора у боји (тзв. “преносиви DVD плејер”). Његове укупне димензије су 19 (Д) x 14,2 (Ш) x 3,7 (В) cm и тежина 800 g. 
+Монитор је LCD типа са дијагоналом екрана од 21,6 cm (8,5 инча). Апарат се може преклапати а његов монитор ротирати. 
+Апарат је опремљен уграђеним звучницима. 
+Има следеће интерфејсе:
+– прикључке за проширење за меморијску картицу, 
+– USB прикључак,
+– композитни видео улаз и излаз,
+– и утичнице за слушалице.
+Он може очитавати оптичке подлоге (на пример CD, DVD) и полупроводничке подлоге (на пример USB флеш меморију) у различитим аудио и видео форматима.
+
+
+8528 59 70
+
+
+Сврставање је одређено Основним правилима 1. и 6. за примењивање Комбиноване номенклатуре, Напоменом 3 уз Одељак XVI и наименовањима уз CN ознаке 8528, 8528 59 и 8528 59 70.
+Пошто је апарат конструисан за сврхе вршења две функције у смислу Напомене 3 уз Одељак XVI (репродукција и приказивање видеа), сврстава се као да се састоји само од те машине која врши главну функцију.
+С обзиром на конструкцију и концепт апарата и поготово величину екрана који олакшава гледање видео секвенци у дужем периоду, главна функција апарата је приказивање видеа.
+Апарат не може да приказује сигнале директно са машине за аутоматску обраду података пошто се USB интерфејси користе само за трансфер фајлова са медија. Сходно томе, искључује се сврставање у тарифне подбројеве 8528 51 00 и 8528 59 31.
+Према томе, апарат се сврстава у CN ознаку 8528 59 70 као остали монитори.”
+
+
+
+
+АНЕКС III
+„АНЕКС
+
+
+
+
+Опис робе
+
+
+Сврставање
+(CN знака)
+
+
+Разлози
+
+
+
+
+(1)
+
+
+(2)
+
+
+(3)
+
+
+
+
+Преносиви, електронски апарат са батеријским напајањем, у виду наочара, за приказивање слика (тзв. ”видео наочаре‚), приближних димензија 15 x 3,5 x 2,5 cm, када је склопљен. 
+Електронски апарат, у виду наочара, састоји се од два уређаја са екранима на бази течних кристала (LCD), сваки резолуције 640 x 480 пиксела (који симулирју слику са екрана од 80 инча посматраног са раздаљине од 2 m) и звучних кола, уграђених у оквир сличан оквиру за наочаре. 
+Апарат је опремљен следећим интерфејсима:
+– VGA инпутом
+– аудио видео (A/V) инпутом.
+Апарат се може повезати са машином за аутоматску обраду података (АОП) и са апаратима као што су апарат за репродукцију слика, телевизијски пријемник или конзола за играње игара. Приказује виртуелне тродимензионалне (3D) слике за сврхе разоноде.
+
+
+8528 59 31
+
+
+Сврставање је одређено Основним правилима 1. и 6. за примењивање Комбиноване номенклатуре, Напоменом 3 уз Одељак XVI и наименовањима уз CN ознаке 8528, 8528 59 и 8528 59 31.
+Пошто апарат нема уграђен тјунер или било који сличан уређај који омогућава пријем телевизијског сигнала, искључује се сврставање као телевизијског пријемника у тарифни подброј 8528 72.
+Апарат користи два веома мала LCD екрана (по један испред сваког ока) за стварање виртуелне слике који симулирју слику са екрана од 80 инча посматраног са раздаљине од 2 m. С обзиром на ове објективне карактеристике и својства и, посебно, могућност приказивања 3D слика, апарат је намењен за сврхе забаве као што је гледање филмова, гледање телевизије или играње игара. Сходно томе, искључује се сврставање у тарифни подброј 8528 51, пошто се апарат не може сматрати оном врстом која се искључиво или углавном користи са АОП системом из тарифног броја 8471.
+Пошто монитор може да приказује сигнале са АОП машине на нивоу који је довољан за практично коришћење са АОП машином, сматра се да је способан да приказује сигнале са АОП машине са прихватљивим нивоом функционалности.
+Монитор се, према томе, сврстава у CN ознаку 8528 59 31 као монитор са равним дисплејом за приказивање сигнала са машине за аутоматску обраду података са прихватљивим нивоом функционалности са LCD екраном.”
+
+
+
+
+АНЕКС IV
+„АНЕКС
+
+
+
+
+Опис робе
+
+
+Сврставање
+(CN знака)
+
+
+Разлози
+
+
+
+
+(1)
+
+
+(2)
+
+
+(3)
+
+
+
+
+1. Мултифункционални апарат (тзв. „мултимедијални центар за моторна возила”) који се употребљава у моторним возилима, садржи две главне компоненте:
+– пријемника за радио-дифузију комбинованог са CD/DVD плејером,
+– LCD екрана у боји осетљивим на додир, који се може скидати, са дијагоналом екрана приближно 17,5 cm (7 инча) и размером слике 16:9.
+Апарат има конекторе који омогућавају пријем видео сигнала са спољних извора као што је камера на задњем делу моторног возила.
+Апарат се испоручује са даљинским управљачем.
+Са апаратом се може повезати и додатни екран.
+
+
+8528 59 70
+
+
+Сврставање је одређено Основним правилима (ОПП) 1, 3(в) и 6 за примењивање Комбиноване номенклатуре и наименовањима уз CN ознаке 8528, 8528 59 и 8528 59 70.
+Апарат је конструисан за сврхе вршења различитих функција (репродукција звука, репродукција слике, радио-дифузни пријем, приказивање видео садржаја), од којих ниједна, када су у питању његова конструкција и концепт, не даје апарату битан карактер.
+Према томе, применом ОПП 3(в), апарат се сврстава у CN ознаку 8528 59 70 као остали монитори.
+
+
+
+
+2. Мултифункционални апарат (тзв. „мултимедијални центар за моторна возила”) који се употребљава у моторним возилима, приближних димензија 17 x 5 x 16 cm.
+У истом кућишту комбинован је са пријемником за радио-дифузију, апаратом за репродукцију звука и слике и LCD екраном у боји са дијагоналом екрана приближно 8 cm (3, 5 инча).
+Апарат има конекторе који омогућавају пријем видео сигнала са спољних извора као што је камера на задњем делу моторног возила.
+Апарат може да репродукује звук и слике са USB меморијског стика.
+Апарат се испоручује са даљинским управљачем.
+Са апаратом се може повезати и додатни екран.
+
+
+8528 59 70
+
+
+Сврставање је одређено Основним правилима 1, 3(в) и 6 за примењивање Комбиноване номенклатуре и наименовањима уз CN ознаке 8528, 8528 59 и 8528 59 70.
+Апарат је конструисан за сврхе вршења различитих функција (репродукција звука, репродукција слике, радио-дифузни пријем, приказивање видео садржаја), од којих ниједна, када су у питању његова конструкција и концепт, не даје апарату битан карактер.
+Апарат не може да приказује сигнале директно са машине за аутоматску обраду података пошто се USB интерфејс користи само за репродукцију звука или слике са USB меморијског стика. Сходно томе, искључује се сврставање у тарифне подбројеве 8528 51 00 и 8528 59 31.
+Према томе, применом ОПП 3(в), апарат се сврстава у CN ознаку 8528 59 70 као монитор у боји са LCD екраном.
+
+
+
+
+3. Мултифункционални апарат (тзв. „мултимедијални центар за моторна возила”) који се употребљава у моторним возилима. 
+У истом кућишту комбинован је са пријемником за радио-дифузију, апаратом за репродукцију звука и слике, апаратом за радио навигацију и LCD екраном у боји са дијагоналом екрана приближно 18 cm (7 инча) и са размером слике 16:9.
+Апарат има конекторе који омогућавају пријем видео сигнала са спољних извора као што је камера на задњем делу моторног возила или DVB-T тјунер
+Апарат може да репродукује звук и слике са меморијске картице.
+Апарат се испоручује са даљинским управљачем.
+Са апаратом се може повезати и додатни екран.
+
+
+8528 59 70
+
+
+Сврставање је одређено Основним правилима (ОПП) 1, 3(в) и 6 за примењивање Комбиноване номенклатуре и наименовањима уз CN ознаке 8528, 8528 59 и 8528 59 70.
+Апарат је конструисан за сврхе вршења различитих функција (репродукција звука, репродукција слике, радио-дифузни пријем, приказивање видео садржаја), од којих ниједна, када су у питању његова конструкција и концепт, не даје апарату битан карактер.
+Према томе, применом ОПП 3(в), апарат се сврстава у CN ознаку 8528 59 70 као остали монитори.”

@@ -1,0 +1,144 @@
+На основу члана 3а став 4. Закона о Царинској тарифи („Службени гласник РС”, бр. 62/05, 61/07 и 5/09) објављује се Уредба Комисије (ЕУ) о спровођењу број 709/2013 од 24. јула 2013. године објављена у „Службеном листу Европске уније”, број L 200/12 од 25. јула 2013. године, којом се мења и допуњује Уредба Комисије (ЕУ) 717/10 од 6. августа 2010. године у вези са сврставањем одређених роба у Комбинованој номенклатури,објављена у „Службеном листу Европских заједница”, број L 210/24 од 11. августа 2010. године, а која у оригиналу на енглеском језику и у преводу на српски језик гласи:
+COMMISSION IMPLEMENTING REGULATION (EU) No 709/2013 of 24 July 2013 amending Regulation (EU) No 717/2010 concerning  the classification of certain goods in the Combined Nomenclature"Службени гласник РС", број 74 од 21. августа 2013.
+THE EUROPEAN COMMISSION,
+Having regard to the Treaty on the Functioning of the European Union,
+Having regard to Council Regulation (EEC) No 2658/87 of 23 July 1987 on the tariff and statistical nomenclature and on the Common Customs Tariff (1), and in particular Article 9(1)(a) thereof,
+Whereas:
+(1) Commission Regulation (EU) No 717/2010 (2) classified a so-called ”exhaust gas temperature sensor” under CN code 8533 40 10 as other variable resistors.
+(2) The product classified in Regulation (EU) No 717/2010 should be considered a fixed resistor because its resistance is not variable at will, but depends only on the temperature. It is therefore necessary to change the product‘s classification to CN code 8533 21 00.
+(3) Regulation (EU) No 717/2010 should therefore be amended accordingly.
+(4) The measures provided for in this Regulation are in accordance with the opinion of the Customs Code Committee,
+HAS ADOPTED THIS REGULATION:
+Article 1
+The Annex to Regulation (EU) No 717/2010 is replaced by the text set out in the Annex to this Regulation.
+Article 2
+Binding tariff information issued by the customs authorities of Member States which is not in accordance with Regulation (EU) No 717/2010, as amended by this Regulation, may continue to be invoked for a period of three months from the date of entry into force of this Regulation under Article 12(6) of Council Regulation (EEC) No 2913/92 (3).
+Article 3
+This Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union.
+This Regulation shall be binding in its entirety and directly applicable in all Member States. 
+Done at Brussels, 24 July 2013.
+–––––––––––––––
+(1) OJ L 256, 7.9.1987, p. 1.
+(2) OJ L 210, 11.8.2010, p. 24.
+(3) OJ L 302, 19.10.1992, p. 1.
+For the Commission, 
+On behalf of the President,
+Algirdas ŠEMETA
+Member of the Commission
+ANNEX
+
+
+
+
+Description of the goods
+
+
+Classification (CN-code)
+
+
+Reasons
+
+
+
+
+(1)
+
+
+(2)
+
+
+(3)
+
+
+
+
+A product (so-called ‘exhaust gas temperature sensor’) consisting of:
+– a thermistor with a power handling capacity not exceeding 20 W, in its own housing,
+– a fixing bolt,
+– a shaft facilitating fixation inside a vehicle’s exhaust system,
+– an electrical cable, with a heat resistant sleeve, which connects the product to a plug and which, in turn, enables connection to the vehicle’s engine management system.
+Depending on the temperature, the thermistor changes its resistance. When connected, this change of resistance produces a change of elec-trical current, which is transmitted to the engine management system.
+The product cannot convert the electrical current output into a temperature measurement or display the temperature.
+
+
+8533 21 00
+
+
+Classification is determined by General Rules 1 and 6 for the interpretation of the Combined Nomenclature and by the wording of CN codes 8533 and 8533 21 00.
+Classification under heading 9025 as a ther-mometer or as a part thereof is excluded as the product cannot measure nor display temperature.
+The product is a non-linear resistor the resistance of which changes with temperature and is not variable at will (see also the Harmonised System Explanatory Notes to heading 8533 (A)(5) and (B)).
+It is therefore to be classified under CN code 8533 21 00 as other fixed resistors for a power handling capacity not exceeding 20 W.’
+
+
+
+
+УРЕДБА КОМИСИЈЕ (ЕУ) број 709/2013 од 24. јула 2013. године којом се мења и допуњује Уредба Комисије (ЕУ) 717/2010 у вези са сврставањем одређене робе према Комбинованој номенклатури"Службени гласник РС", број 74 од 21. августа 2013.
+ЕВРОПСКА КОМИСИЈА,
+Имајући у виду Уговор о функционисању Европске уније,
+Имајући у виду Уредбу Савета (ЕЕЗ) број 2658/87 од 23. јула 1987. године о тарифној и статистичкој номенклатури и Заједничкој царинској тарифи1, а посебно члан 9. став 1. тачка а), 
+С обзиром на то да: 
+(1) је Уредбом Комисије (ЕУ) број 717/20102 такозвани „температурни сензор издувног гаса” сврстан у CN ознаку 8533 40 10 као остали променљиви отпорници;
+(2) производ сврстан Уредбом Комисије (ЕУ) број 717/2010 треба сматрати константним отпорником због тога што му се отпор не може подешавати по жељи, већ зависи само од температуре. Према томе, неопходно је променити сврставање у CN ознаку 8533 21 00;
+(3) у складу с тим треба изменити и допунити Уредбу (ЕУ) број 717/2010;
+(4) су мере предвиђене овом уредбом у складу са мишљењем Одбора за Царински закон.
+ДОНЕЛА ЈЕ ОВУ УРЕДБУ:
+Члан 1.
+Анекс уз Уредбу (ЕУ) број 717/10 замењује се текстом датим у анексу уз ову уредбу.
+Члан 2.
+Обавезујућа тарифна информација коју су издали царински органи државе чланице, а која није у складу са Уредбом (ЕУ) број 717/10 измењена и допуњена овом уредбом, наставиће да важи у периоду од три месеца од дана ступања на снагу ове уредбе по члану 12. став 6. Уредбе (ЕЕЗ) број 2913/923.
+Члан 3.
+Ова уредба ступа на снагу 20. дана од дана објављивања у „Службеном листу Европске уније”.
+Ова уредба је обавезујућа у целини и непосредно се примењује у свим државама чланицама. 
+У Бриселу, 24. јула 2013. године. 
+–––––––––––––––
+1 OJ L 256, 7.9.1987. стр. 1
+2 OJ L 210, 11.8.2010, стр. 24
+3 OJ L 302, 19.10.1992, стр. 1
+За Комисију,
+у име председника,
+Algirdas ŠEMETA
+члан Комисије
+АНЕКС
+
+
+
+
+Опис робе
+
+
+Сврставање
+(CN ознака)
+
+
+Разлози
+
+
+
+
+(1)
+
+
+(2)
+
+
+(3)
+
+
+
+
+Производ (такозвани „температурни сензор издувног гаса”) састоји се од:
+– термистора снаге не преко 20 W, у сопственом кућишту,
+– вијка за фиксирање,
+– осовине за олакшано фиксирање у издувном систему возила, и
+– електричног кабла, са топлотно отпорним плаштом, који повезује производ са утикачем а који, заузврат, омогућава повезивање са системом за управљање мотором возила.
+У зависности од температуре, термистор мења свој отпор. Када је повезан, ова промена отпора ствара промену електричне струје, која се преноси на управљачки систем мотора.
+Производ не може претварати излаз електричне струје у температурно мерење или приказивати температуру.
+
+
+8533 21 00
+
+
+Сврставање је одређено Основним правилима 1. и 6. за примењивање Комбиноване номенклатуре и наименовањима уз CN ознаке 8533 и 8533 21 00.
+Искључује се сврставање у тарифни број 9025, као термометра или његовог дела, јер производ не може мерити нити приказивати температуру.
+Производ је нелинеарни отпорник чији се отпор мења у зависности од температуре а не може се мењати по жељи (видети такође ХС Коментар уз тарифни број 8533 (А)(5) и (B)).
+Према томе, сврстава се у CN ознаку 8533 21 00 као остали остали константни отпорници снаге не преко 20 W.

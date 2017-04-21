@@ -1,0 +1,943 @@
+Одлуке  о сврставању робе које је донео Комитет за Хармонизовани систем Светске  царинске организације на свом 44. заседању  октобра 2009. године 
+„Службени гласник РС“, број 6 од 12. фебруара 2010.
+ 
+
+    На основу члана 3а став 4. Закона о Царинској тарифи („Службени гласник Републике Србије”, бр. 62/05 и 61/07) објављују се одлуке о сврставању робе које је донео Комитет за Хармонизовани систем Светске царинске организације (у даљем тексту: СЦО) на свом 44. заседању октобра 2009. године објављене на сајту СЦО у јануару 2009. године, а у складу са Уговором потписаним између СЦО и Управе царина Републике Србије од 28. априла. 2008. године, које у оригиналу на енглеском језику и у преводу на српски језик гласе:
+    The following list contains the classification decisions (other than those subject to a request for re-examination) taken by the Harmonized System Committee (44th Session – October 2009) on specific products, together with their related Harmonized System code numbers and, in certain cases, the classification rationale.
+ 
+
+    Advice
+ 
+      Parties seeking to import or export merchandise covered by a decision are advised to verify the implementation of the decision by the importing or exporting country, as the case may be.
+ 
+
+
+
+
+
+No
+
+
+Product   description
+
+
+Classification
+
+
+HS codes   considered
+
+
+Classification   rationale
+
+
+
+
+1.
+
+
+Certain INN products. (See “INN List 100” at the end   of this publication)
+
+
+Chapters 29   and 30
+
+
+ 
+
+
+ 
+
+
+
+
+2.
+
+
+A product consisting of two layers of transparent   films of polyester which are glued together. One side of the bottom layer is   self-adhesive and backed with a supporting paper. The product is manufactured   with a patented technology wherein essential fragrance oils are deposited   between the two films which pull apart and reseal to deliver a multiple   sample of olfactory fragrance trials; up to 25 times. The essential oils are   not perfumes and only mimic the scent of the perfume that is the subject of   the advertisement. The shape of the product can be customized based on the customer’s   requirements. On the product, the publicity may be printed on the surface   together with an indication about its use (e.g., Eau de Toilette, Tonic Body   Lotion, Deodorant). The product at issue is to be incorporated onto a   magazine page or card to form an integral part of an advertisement.
+
+
+3307.90
+
+
+33.03, 33.07   and 49.11
+
+
+GIRs 1 (Note   2 to Section VI and Note 4 to Chapter 33) and 6
+
+
+
+
+
+ 
+          Copyright © 2010 World Customs Organization. All rights reserved. Requests and inquiries concerning translation, reproduction and adaptation rights should be addressed to copyright@wcoomd.org.
+    
+
+
+
+
+
+No
+
+
+Product   description
+
+
+Classification
+
+
+HS codes   considered
+
+
+Classification   rationale
+
+
+
+
+3.
+
+
+Digital encoder, which converts analogue or digital   video, audio or data signals of the source information (such as Cable   television (CATV) programming) into digital signals by means of compressing   and encoding techniques in compliance with the second international standard   for the generic coding of moving pictures and associated audio information   developed by the Moving Pictures Expert Group (MPEG-2).
+
+
+8517.62
+
+
+85.17 and   85.25
+
+
+GIRs 1 and 6
+
+
+
+
+4.
+
+
+Digital multiplexer, which combines several input   MPEG-2 (second international standard for the generic coding of moving   pictures and associated audio information developed by the Moving Pictures   Expert Group) transport stream signals into a single MPEG-2 transport stream,   using multiplexing technologies, in order to increase efficiency in   transmission. The apparatus is capable of receiving up to 24 input MPEG-2   transport stream signals and integrating and reproducing those input   transport stream signals into a MPEG transport stream signal compliant with   DVB-ASI (Digital Video Broadcasting – Asynchronous Serial Interface)   standards. It can integrate multiple video, audio (including multi-channel   audio) and data signals in the same multiplexed output signal.
+
+
+8517.62
+
+
+85.17 and   85.25
+
+
+GIRs 1 and 6
+
+
+
+
+
+ 
+            Copyright © 2010 World Customs Organization. All rights reserved. Requests and inquiries concerning translation, reproduction and adaptation rights should be addressed to copyright@wcoomd.org.
+ 
+
+
+
+
+
+No
+
+
+Product   description
+
+
+Classification
+
+
+HS codes   considered
+
+
+Classification   rationale
+
+
+
+
+5.
+
+
+Remultiplexer, which combines up to 16 Asynchronous   Serial Interface (ASI) input signals into a transport stream output signal   compliant with DVB-ASI (Digital Video Broadcasting – Asynchronous Serial   Interface) standards, reshapes the bit rate of incoming transport streams,   and enables local programming to be inserted into the data stream. The   apparatus can convert CBR (Constant Bit Rate) streams into VBR (Variable Bit   Rate) signals and performs real time statistical multiplexing for dynamic   bandwidth allocation. The system operator can choose desired programs from   the incoming transport streams, discard one or more unwanted programs, and   switch programming line ups dynamically.
+
+
+8517.62
+
+
+85.17 and   85.25
+
+
+GIRs 1 and 6
+
+
+
+
+6.
+
+
+Modulator, which converts (modulates) MPEG 2 (second   international standard for the generic coding of moving pictures and   associated audio information developed by the Moving Pictures Expert Group)   transport stream signals into standard wireless transmission signals   (Quadrature Phase Shift Keying (QPSK), 8 Phase Shift Keying (8 PSK) or 160   Quardrature Amplitude Modulation (160 QAM)). The apparatus offers a   frequency-agile IF (intermediate frequency) output from 50 to 90, 100 to 180,   or 950 to 1750 MHz in 100 Hz steps. Variable data rates from 1 to 238   megabits per second can be set in 1 bit per second steps.
+
+
+8517.62
+
+
+85.17 and   85.25
+
+
+GIRs 1 and 6
+
+
+
+
+
+ 
+            Copyright © 2010 World Customs Organization. All rights reserved. Requests and inquiries concerning translation, reproduction and adaptation rights should be addressed to copyright@wcoomd.org.
+ 
+
+
+
+
+
+No
+
+
+Product description
+
+
+Classification
+
+
+HS codes   considered
+
+
+Classification   rationale
+
+
+
+
+7.
+
+
+Modulator, which converts (modulates) MPEG-2 (second   international standard for the generic coding of moving pictures and   associated audio information developed by the Moving Pictures Expert Group)   transport stream signals into standard wireless transmission signals   (Quadrature Phase Shift Keying (QPSK) or Binary Phase Shift Keying (BPSK)).   The apparatus offers an IF (intermediate frequency) output from 50 to 90, or   100 to 180 MHz in 100 Hz steps. Variable data rates from 1 to 78.75 megabits   per second can be set in 1 bit per second steps. The apparatus complies with   ETS (European Telecom Standard), DVB (Digital Video Broadcasting) and MPEG-2   standards.
+
+
+8517.62
+
+
+85.17 and   85.25
+
+
+GIRs 1 and 6
+
+
+
+
+8.
+
+
+Modulator, which converts (modulates) input MPEG-2   (second international standard for the generic coding of moving pictures and   associated audio information developed by the Moving Pictures Expert Group)   transport stream signals into standard terrestrial digital video broadcast   (DVB-T) transmission signals employing Orthogonal frequency-division   multiplexing (OFDM).
+
+
+8517.62
+
+
+85.17 and   85.25
+
+
+GIRs 1 and 6
+
+
+
+
+
+ 
+            Copyright © 2010 World Customs Organization. All rights reserved. Requests and inquiries concerning translation, reproduction and adaptation rights should be addressed to copyright@wcoomd.org.
+ 
+ 
+
+
+
+
+
+    No
+
+
+Product description
+
+
+Classification
+
+
+HS codes   considered
+
+
+Classification   rationale
+
+
+
+
+9.
+
+
+Wireless microphone set. Two wireless microphones,   which transmit in the UHF radio frequency band, packaged with a UHF   dual-channel wireless microphone receiver, which includes separate level   controls for controlling the output level of each of the two corresponding   microphones independently. The package includes an audio cable for connecting   the receiver to other audio or video equipment (such as an amplifier). The   components are contained in a reusable padded case with separate compartments   for protecting each component during travel.
+
+
+8518.10
+
+
+GIR 1, GIR 3   (b), 
+GIR 3 (c),   Note 3 
+to Section   XVI, 
+Note 4 to   Section XVI
+
+
+GIRs 1 
+(Note 4 to   Section XVI) and 6
+
+
+
+
+No
+
+
+Product description
+
+
+Classification
+
+
+HS codes   considered
+
+
+Classification   rationale
+
+
+
+
+10.
+
+
+Tipper lorry (length 7,775 mm, width 2,555 mm,   height 3,060 mm) with a six-cylinder compression-ignition internal combustion   piston engine (diesel) of a cylinder capacity of 11,051 cc. It has a gross   vehicle weight of 33,5 tonnes, a top speed of 97 km/h and a turning radius of   8 m. It has six forward speeds and one in reverse. The vehicle is equipped   with a flat load-bed tipper body and is intended for the transport and   dumping of excavated or other materials on construction sites.
+
+
+8704.23.
+
+
+8704.10 and   8704.23.
+
+
+GIRs 1 and 6
+
+
+
+
+
+ 
+          Copyright © 2010 World Customs Organization. All rights reserved. Requests and inquiries concerning translation, reproduction and adaptation rights should be addressed to copyright@wcoomd.org.
+    
+          
+
+
+
+
+
+No
+
+
+Product   description
+
+
+Classification
+
+
+HS codes   considered
+
+
+Classification   rationale
+
+
+
+
+11.
+
+
+Walking aid known as a rollator to assist persons   who have difficulty in walking, consisting of a tubular aluminium frame on   four tire wheels, with front swivel wheels, handles and brakes. The rollator   is adjustable in height and is equipped with a seat between the handles and   with a wire basket for storage purposes. This seat allows the user to take   short rest breaks whenever necessary. It enables a person to move forward by   pushing the rollator, thus providing support. Due to its collapsible design,   the product can be folded for transport.
+
+
+9021.10
+
+
+76.16, 87.16   and 90.21
+
+
+GIRs 1 (Note   6 to Chapter 90) and 6
+
+
+
+
+12.
+
+
+Protective sports equipment designed to be worn   during the practice of ice hockey (ice hockey pants with built-in guards and   pads), consisting of two primary components: an exterior textile shell and an   interior comprising several pieces of protective equipment of plastics,   specially designed for the protection of the body against injury during   sports activity.
+
+
+9506.99
+
+
+Section XI   and 95.06
+
+
+GIRs 1 and 6
+
+
+
+
+
+ 
+            Copyright © 2010 World Customs Organization. All rights reserved. Requests and inquiries concerning translation, reproduction and adaptation rights should be addressed to copyright@wcoomd.org.
+          
+ 
+CLASSIFICATION OF INN PRODUCTS (INN LIST 100)
+    
+
+
+
+
+
+INN
+
+
+Classification
+
+
+
+
+adarotene
+
+
+2918.29
+
+
+
+
+amenamevir
+
+
+2934.99
+
+
+
+
+balapiravir
+
+
+2934.99
+
+
+
+
+blinatumomab
+
+
+3002.10
+
+
+
+
+canosimibe
+
+
+2933.79
+
+
+
+
+cixutumumab
+
+
+3002.10
+
+
+
+
+cutamesine
+
+
+2933.59
+
+
+
+
+dutogliptin
+
+
+2933.99
+
+
+
+
+elotuzumab
+
+
+3002.10
+
+
+
+
+farletuzumab
+
+
+3002.10
+
+
+
+
+figitumumab
+
+
+3002.10
+
+
+
+
+fosbretabulin
+
+
+2919.90
+
+
+
+
+fostamatinib
+
+
+2934.99
+
+
+
+
+indeglitazar
+
+
+2935.00
+
+
+
+
+laninamivir
+
+
+2932.99
+
+
+
+
+lesogaberan
+
+
+2931.00
+
+
+
+
+limiglidole
+
+
+2933.99
+
+
+
+
+INN
+
+
+Classification
+
+
+
+
+necitumumab
+
+
+3002.10
+
+
+
+
+panobacumab
+
+
+3002.10
+
+
+
+
+
+ 
+          Copyright © 2010 World Customs Organization. All rights reserved. Requests and inquiries concerning translation, reproduction and adaptation rights should be addressed to copyright@wcoomd.org.
+    
+ 
+
+
+
+
+
+INN
+
+
+Classification
+
+
+
+
+ramucirumab
+
+
+3002.10
+
+
+
+
+robatumumab
+
+
+3002.10
+
+
+
+
+racotumomab
+
+
+3002.10
+
+
+
+
+selumetinib
+
+
+2933.99
+
+
+
+
+siltuximab
+
+
+3002.10
+
+
+
+
+solanezumab
+
+
+3002.10
+
+
+
+
+tilivapram
+
+
+2933.39
+
+
+
+
+toceranib
+
+
+2933.79
+
+
+
+
+tozasertib
+
+
+2933.59
+
+
+
+
+vedolizumab
+
+
+3002.10
+
+
+
+
+voreloxin
+
+
+2934.10
+
+
+
+
+zicronapine
+
+
+2933.59
+
+
+
+
+
+ 
+    Copyright © 2010 World Customs Organization. All rights reserved. Requests and inquiries concerning translation, reproduction and adaptation rights should be addressed to copyright@wcoomd.org.
+ 
+  
+    Следећа листа садржи одлуке о сврставању робе (осим оних које су предмет захтева за поновно разматрање) које је донео Комитет за ХС (44. заседање – октобар 2009. године) за специфичне производе, заједно са тарифном ознаком и, у извесним случајевима, основом  за сврставање (Основна правила за примењивање Царинске тарифе, у даљем тексту: ОПП). 
+ 
+    Савет
+ 
+    Чланицама које желе да увезу или извезу робу обухваћену одлуком, саветује се да провере да ли земља из које увозе или у коју извозе робу примењује одлуку, у зависности од случаја.
+    
+
+
+
+
+
+Бр.
+
+
+Опис   производа
+
+
+Сврставање
+
+
+Разматране   тар. ознаке
+
+
+Основ   сврставања
+
+
+
+
+1.
+
+
+Одређени INN производи. (Видети „(INN List 100“ на   крају ове публикације) 
+
+
+Главе 29 и 30
+
+
+ 
+
+
+ 
+
+
+
+
+2.   
+
+
+Производ који се састоји од два слоја транспарентних   филмова од полиестера који су слепљени заједно. Једна страна доњег слоја је   самолепљива и има подлогу од хартије.
+Производ је израђен патентираном технологијом где су   есенцијална мирисна уља нанешена између два филма која се раздвајају и   поново  спајају да би дала вишеструки узорак пробног мириса; до 25 пута.   Есенцијална уља нису парфеми и само имитирају мирис парфема који је предмет   рекламе. Облик производа може се подесити на основу захтева муштерије.   Реклама се може одштампати на површини заједно са назнаком о употреби (нпр.,   тоалетна вода, тоник лосион за тело, дезодоранс). Предметни производ се   додаје на страну магазина или картицу да оформи саставни део рекламе.
+
+
+3307.90
+
+
+33.03, 33.07   и 49.11
+
+
+ОПП 1   (Напомена 2 
+уз Одељак ВИ   и Напомена 4 
+уз Главу 33)   и 6
+
+
+
+
+3.
+
+
+Дигитални енкодер, који конвертује аналогне или   дигиталне видео, аудио или сигнале података изворне информације (као што је   програм кабловске телевизије (CATV)) у дигиталне сигнале путем компресије и   техником енкодирања у складу са другим интернационалним стандардом за   генеричко кодирање филмова и  повезаних аудио информација који је   поставила група стручњака за филм - „Moving Pictures Expert Group” (MPEG-2).
+
+
+8517.62
+
+
+85.17 и 85.25
+
+
+ОПП 1 и 6
+
+
+
+
+4.
+
+
+Дигитални мултиплексер, који комбинује неколико   улазних MPEG-2 (други интернационални стандард за генеричко кодирање филмова   и повезаних аудио информација који је поставила група стручњака за филм -   „Moving Pictures Expert Group” ) транспортних токова сигнала у један MPEG-2   транспортни ток, коришћењем технологије мултиплексирања, да би се повећала   ефикасност у преносу. Апарат је способан за пријем до 24 улазних MPEG-2   транспортних токова сигнала и интеграцију и репродукцију ових улазних   транспортних токова сигнала у MPEG транспортни ток сигнала који је   компатибилан са DVB-ASI (Digital Video Broadcasting- Asynchronous Interface)   стандардима. Он може интегрисати вишеструке видео, аудио (укључујући   вишеканални аудио) и сигнале података у истом мултиплексираном излазном   сигналу.
+
+
+8517.62
+
+
+85.17 и 85.25
+
+
+ОПП 1 и 6
+
+
+
+
+5.
+
+
+Ремултиплексер, који комбинује до 16    асинхроних серијских интерфејс (ASI) улазних сигнала у транспортни ток   излазног сигнала компатибилан са DVB-ASI (Digital Video Broadcasting-   Asynchronous Interface) стандардима, реструктуира брзину протока битова   долазног транспортног тока, и омогућава да се локално програмирање убаци у   ток података. Апарат може конвертовати CBR (Constant Bit Rate) токове у VBR   (Variable Bit Rate) сигнале и врши статистичко мултиплексирање у реалном   времену за динамичко додељивање пропусног опсега. Систем оператер може бирати   жељене програме из долазећих транспортних токова, одбацивати један или више   нежељених програма, и  динамично пребацивати програмске линије.
+
+
+8517.62
+
+
+85.17 и 85.25
+
+
+ОПП 1 и 6
+
+
+
+
+6.
+
+
+Модулатор, који конвертује (модулира) MPEG 2 (други   интернационални стандард за генеричко кодирање филмова и повезаних аудио   информација који је поставила група стручњака за филм - „Moving Pictures   Expert Group” ) транспортни ток сигнала у стандардне бежичне трансмисионе   сигнале (Quadrature Phase Shift Keying (QPSK), 8 Phase Shift Keying (8 PSK)   ili 160 Qudrature Amplitude Modulation (160 QUAM)). Апарат нуди фреквентно-   агилан IF (intermediate frequency) излаз од 50 д0 90, 100 до 180, или 950 до   1750 MHz у кораку од 100 Hz. Варијабилни податак који се креће у опсегу од 1   до 238 мегабита по секунди може бити сетован са кораком од 1 бита у секунди.
+
+
+8517.62
+
+
+85.17 и 85.25
+
+
+ОПП 1 и 6
+
+
+
+
+7.
+
+
+Модулатор, који конвертује (модулира) MPEG 2 (други   интернационални стандард за генеричко кодирање филмова и повезаних аудио   информација који је поставила група стручњака за филм - „Moving Pictures   Expert Group” ) транспортни ток сигнала у стандардне бежичне трансмисионе   сигнале (Quadrature Phase Shift Keying (QPSK) или Binary Phase Shift Keying   (BPSK)). Апарат нуди IF (intermediate frequency)  излаз од 50 до 90, или   100 до 180 MHz у кораку од 100 Hz. Варијабилни податак  који се креће у   опсегу од 1 до 78.75 мегабита по секунди може бити сетован са кораком од 1   бита у секунди. Апарат је усаглашен са ETS (European Telecom Standard), DVB   (Digital Video Broadcasting) и MPEG – 2 стандардима.
+
+
+8517.62
+
+
+85.17 и 85.25
+
+
+ОПП 1 и 6
+
+
+
+
+8.
+
+
+Модулатор, који конвертује (модулира) улазни MPEG –   2 (други интернационални стандард за генеричко кодирање филмова и повезаних   аудио информација који је поставила група стручњака за филм - „Moving   Pictures Expert Group”) транспортни ток сигнала у трансмисионе сигнале   стандардног земаљског дигиталног видео емитовања (DVB-T) коришћењем   ортогоналног мултиплексирања поделом фреквенција (Ортхогонал фреqуенцy-дивисион мултиплеxинг (OFDM)).
+
+
+8517.62
+
+
+85.17 и 85.25
+
+
+ОПП 1 и 6
+
+
+
+
+9.
+
+
+Бежични микрофонски сет. Два бежична микрофона, који   раде у UHF радио фреквентном опсегу, спаковани са UHF двоканалним бежичним   микрофонским пријемником, који обухвата различите нивое контроле за излазни   ниво сваког од та два одговарајућа микрофона независно. Паковање обухвата   аудио кабл за повезивање пријемника на другу аудио или видео опрему ( као што   је појачивач). Компоненте су смештене у постављеној кутији за вишеструку   употребу, са засебним одељцима који служе да заштите сваку компоненту током   путовања.
+
+
+8518.10
+
+
+ОПП1, ОПП 3   (б), 
+ОПП 3 (в),   Напомена 3 уз Одељак XVI, 
+Напомена 4 
+уз Одељак XVI
+
+
+ОПП 1   (Напомена 4 
+уз Одељак   XVI) и 6
+
+
+
+
+10.
+
+
+Самоистоваривач (кипер) (дужине 7,775 mm, ширине   2,555 mm, висине 3,060 mm) са шестцилиндричним клипним мотором са унутрашњим   сагоревањем на паљење помоћу компресије (дизел), запремине цилиндра 11,051   cc. Бруто маса возила је 33,5 тона, максимална брзина 97 km/h, радијус   окретања 8 m. Има шест брзина за кретање унапред и једну уназад. Возило је   опремљено равним сандуком за утовар и киповање и намењен је за транспорт и   истоваривање ископаних или других материјала на градилиштима.
+
+
+8704.23
+
+
+8704.10 и   8704.23
+
+
+ОПП 1 и 6
+
+
+
+
+11.
+
+
+Справа за помоћ особама које имају проблема са   ходањем позната као „шеталица“, састоји се од цевасте алуминијумске   конструкције на четири гумена точка, са предњим окретним точковима, ручкама и   кочницама. „Шеталица” се може подешавати по висини и има седиште између ручки   и жичану корпу за држање ствари. Седиште омогућава кориснику да се на кратко   одмори када је то потребно. Она омогућава особи да се креће напред гурајући   „шеталицу“, и тако јој пружа ослонац. Због своје сложиве конструкције,   производ се може склопити због транспорта.
+
+
+9021.10
+
+
+76.16, 87,16   и 90.21
+
+
+ОПП 1   (Напомена 6 
+уз Главу 90)   и 6
+
+
+
+
+12.
+
+
+Заштитна спортска опрема направљена да се носи током   играња хокеја на леду (панталоне за хокеј на леду са уграђеним штитницима и   јастучићима), састоји се од две примарне компоненте: спољашњег дела који се   састоји од текстила и унутрашњости која обухвата неколико комада заштитне   опреме од пластике, специјално направљене за заштиту тела од повреда током   спортске активности.
+
+
+9506.99
+
+
+Одељак XИ и   95.06
+
+
+ОПП 1 и 6
+
+
+
+
+
+ 
+ 
+    Оригинално објављено од стране СЦО на енглеском и француском под насловима:
+    Harmonized System Committee Decisions
+    http://www.wcoomd.org/ie/en/en.html 
+    Dйcisions du Comitй du Système Harmonisй
+    http://www.wcoomd.org/ie/fr/fr.html
+    © јануар 2010. године, Светска царинска организација (СЦО), Брисел, Белгија,
+    Сва права задржана
+    © Управа царина Републике Србије, јануар 2010. године за издање из јануара 2010. године
+    Објављено споразумно са СЦО, Брисел, Белгија.
+    Квалитет овог превода и његова повезаност са службеним текстом су одговорност Управе царина Републике Србије. Управа царина наводи да су само француска и енглеска верзија службене и могу се користити као референтне.

@@ -1,0 +1,275 @@
+На основу члана 3а став 4. Закона о Царинској тарифи („Службени гласник Републике Србије”, бр. 62/05, 61/07 и 5/09) објављује се Уредба Комисије (ЕУ) о спровођењу број 69/2013 од 23. јануара 2013. године, у вези са сврставањем одређених роба у Комбинованој номенклатури објављена у „Службеном листу Европске уније”, број L 26/1 од 26. јануара 2013. године, која у оригиналу на енглеском језику и у преводу на српски језик гласи: 
+COMMISSION IMPLEMENTING REGULATION (EU) No 69/2013 of 23 January 2013concerning the classification of certain goods in the Combined Nomenclature
+"Службени гласник РС", број 15 од 14. 
+				фебруара 2013.
+THE EUROPEAN COMMISSION,
+Having regard to the Treaty on the Functioning of the European Union,
+Having regard to Council Regulation (EEC) No 2658/87 of 23 July 1987 on the tariff and statistical nomenclature and on the Common Customs Tariff (1), and in particular Article 9(1)(a) thereof,
+Whereas:
+(1) In order to ensure uniform application of the Combined Nomenclature annexed to Regulation (EEC) No 2658/87, it is necessary to adopt measures concerning the classification of the goods referred to in the Annex to this Regulation.
+(2) Regulation (EEC) No 2658/87 has laid down the general rules for the interpretation of the Combined Nomenclature. Those rules apply also to any other nomenclature which is wholly or partly based on it or which adds any additional subdivision to it and which is established by specific provisions of the Union, with a view to the application of tariff and other measures relating to trade in goods.
+(3) Pursuant to those general rules, the goods described in column (1) of the table set out in the Annex should be classified under the CN code indicated in column (2), by virtue of the reasons set out in column (3) of that table.
+(4) It is appropriate to provide that binding tariff information which has been issued by the customs authorities of Member States in respect of the classification of goods in the Combined Nomenclature but which is not in accordance with this Regulation can, for a period of three months, continue to be invoked by the holder, under Article 12(6) of Council Regulation (EEC) No 2913/92 of 12 October 1992 establishing the Community Customs Code (2).
+(5) The measures provided for in this Regulation are in accordance with the opinion of the Customs Code Committee,
+HAS ADOPTED THIS REGULATION:
+Article 1
+The goods described in column (1) of the table set out in the Annex shall be classified within the Combined Nomenclature under the CN code indicated in column (2) of that table.
+Article 2
+Binding tariff information issued by the customs authorities of Member States, which is not in accordance with this Regulation, can continue to be invoked for a period of three months under Article 12(6) of Regulation (EEC) No 2913/92.
+Article 3
+This Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union.
+This Regulation shall be binding in its entirety and directly applicable in all Member States. 
+Done at Brussels, 23 January 2013.
+––––––––––––
+(1) OJ L 256, 7.9.1987, p. 1.
+(2) OJ L 302, 19.10.1992, p. 1
+For the Commission, 
+On behalf of the President,
+Algirdas ŠEMETA
+Member of the Commission
+ANNEX
+
+
+
+
+Description of the goods
+
+
+Classification (CN code)
+
+
+Reasons
+
+
+
+
+(1)
+
+
+(2)
+
+
+(3)
+
+
+
+
+1. An apparatus for the reception, recording or reproducing of audio and video (so-called 'digital media receiver') of a cylindrical shape with overall dimensions of approximately 13 (diameter) x 19 (height) cm.
+The apparatus incorporates: 
+– a microprocessor,
+– a hard disk drive of 500 GB,
+– an alphanumeric display,
+– an infrared receiver for the remote control.
+It is equipped with the following interfaces:
+– USB,
+– Ethernet,
+– HDMI, S-video, composite and component video outputs,
+– digital optical, digital coaxial and analogue audio outputs.
+It is also equipped with control buttons and supplied with a remote control.
+The apparatus is capable of receiving audio and video signals in digital format from an external source (for example, a router, an automatic data-processing machine, a digital camera, a USB memory). The data may be stored on its hard disk. The data is reproduced on a monitor, a television set or through a stereo system.
+The apparatus cannot gain access to the internet.
+
+
+8521 90 00
+
+
+Classification is determined by General Rules 1 and 6 for the interpretation of the Combined Nomenclature and by the wording of CN codes 8521 and 8521 90 00.
+Given its characteristics, namely the capacity to receive, record and reproduce video signals from various sources and the size of the hard disk, the apparatus is considered to be a video recording or reproducing apparatus of heading 8521.
+It is therefore to be classified as a video recording or reproducing apparatus under CN code 8521 90 00.
+
+
+
+
+2. An apparatus for the reception or reproduction of audio and video (so-called 'digital media receiver') of a cylindrical shape with overall dimensions of approximately 13 (diameter) x 19 (height) cm.
+The apparatus incorporates:
+– a microprocessor, 
+– an infrared receiver for the remote control,
+– an alpha-numeric display.
+It is equipped with the following interfaces:
+– USB,
+
+
+8521 90 00
+
+
+Classification is determined by General Rules 1, 2(a) and 6 for the interpretation of the Combined Nomenclature and by the wording of CN codes 8521 and 8521 90 00.
+Given that the apparatus has all the necessary electronics for performing the functions of video recording or reproducing of heading 8521 except for the hard disk, it is to be considered, as having, by virtue of General Rule 2(a), the essential character of a complete or finished product of heading 8521.
+The apparatus is therefore to be classified as an incomplete video recording or reproducing apparatus under CN code 8521 90 00.
+
+
+
+
+– Ethernet,
+– HDMI, S-video, composite and component video outputs,
+– digital optical, digital coaxial and analogue audio outputs,
+– a slot for a hard disk.
+It is also equipped with control buttons and supplied with a remote control.
+The apparatus is capable of receiving audio and video signals in digital format from an external source (for example, a router, an automatic data-processing machine, a digital camera, a USB memory). The data may be stored on a hard disk inserted after importation. The data is reproduced on a monitor, a television set or through a stereo system.
+The apparatus cannot gain access to the internet.
+
+
+
+
+
+
+
+
+
+
+3. An apparatus for the reception and processing of audio (so-called 'digital audio streamer') with overall dimensions of approximately 19 x 9 x 8 cm.
+The apparatus incorporates:
+– a microprocessor,
+– a vacuum fluorescent display with a resolution of 320 x 32 grayscale pixels,
+– an on-screen clock with alarm,
+– an infrared receiver for the remote control.
+It is equipped with the following interfaces:
+– Ethernet,
+– wireless Ethernet,
+– digital optical, digital coaxial and analogue audio outputs,
+– a headphone jack.
+It is supplied with a remote control.
+The apparatus can function either in a stand alone mode connecting to an internet network (without an automatic data- processing (ADP) machine) or with software running on an ADP machine.
+It is capable of reproducing audio files stored on the ADP machine or any internet radio.
+
+
+8519 89 19
+
+
+Classification is determined by General Rules 1 and 6 for the interpretation of the Combined Nomenclature and by the wording of CN codes 8519, 8519 89 and 8519 89 19.
+Given its characteristics, the apparatus is designed to receive and process sound either directly from the internet or an ADP machine to various audio apparatus.
+The apparatus is therefore to be classified under CN code 8519 89 19 as other sound reproducing apparatus, not incorporating a sound recording device.
+
+
+
+
+УРЕДБА КОМИСИЈЕ (ЕУ) О СПРОВОЂЕЊУ број 69/2013од 23. јануара 2013. годинеу вези са сврставањем одређених роба према Комбинованој номенклатури
+"Службени гласник РС", број 15 од 14. 
+				фебруара 2013.
+ЕВРОПСКА КОМИСИЈА,
+Имајући у виду Уговор о функционисању Европске уније,
+Имајући у виду Уредбу Савета (ЕЕЗ) број 2658/87 од 23. јула 1987. године, о тарифској и статистичкој номенклатури и Заједничкој царинској тарифи1, а посебно њен члан 9(1)(а),
+С обзиром на то:
+(1) да је, да би се осигурала доследна примена Комбиноване номенклатуре дате у прилогу Уредбе (ЕЕЗ) број 2658/87, неопходно усвојити мере у вези са сврставањем роба наведених у Анексу уз ову уредбу;
+(2) да су Уредбом (ЕЕЗ) број 2658/87 одређена основна правила за тумачење Комбиноване номенклатуре. Ова правила се такође примењују на било коју другу номенклатуру која се у потпуности или делимично заснива на њој, или којој су додате било које потподеле и која је установљена посебним прописима Уније, са циљем примене тарифских и других мера везаних за трговину робом;
+(3) да се сходно тим основним правилима, роба описана у колони 1 табеле дате у Анексу сврстава у CN ознаку наведену у колони 2, према разлозима датим у колони 3 табеле;
+(4) да је одговарајуће обезбедити да, ималац обавезујуће тарифне информације, коју су издали царински органи држава чланица у односу на сврставање робе према Комбинованој номенклатури али која није у складу са овом уредбом, може у периоду од три месеца, да настави да се позива на њу, према члану 12(6) Уредбе Савета (ЕЕЗ) број 2913/92 од 12. октобра 1992. године, којом је установљен Царински закон Заједнице2;
+(5) да су мере предвиђене овом уредбом у складу са мишљењем Одбора за Царински закон.
+УСВОЈИЛА ЈЕ ОВУ УРЕДБУ:
+Члан 1.
+Роба описана у колони 1 табеле дате у Анексу сврстава се у оквиру Комбиноване номенклатуре у CN ознаку наведену у колони 2 те табеле.
+Члан 2.
+Обавезујућа тарифна информација коју су издали царински органи државе чланице, а која није у складу са овом уредбом наставиће да важи у периоду од три месеца по члану 12(6) Уредбе (ЕЕЗ) број 2913/92.
+Члан 3.
+Ова уредба ступа на снагу 20. дана од дана објављивања у „Службеном листу Европске уније”.
+Ова уредба у потпуности је обавезујућа и директно применљива у свим државама чланицама.
+У Бриселу, 23. јануара 2013. године
+––––––––––––
+1 OJ L 256, 7.9.1987, стр.1.
+2 OJ L 302, 19.10.1992, стр.1
+ 
+За Комисију
+У име председника
+Algirdas Šemeta
+члан Комисије
+АНЕКС
+
+
+
+
+Опис робе
+
+
+Сврставање
+(CN ознака)
+
+
+Разлози
+
+
+
+
+(1)
+
+
+(2)
+
+
+(3)
+
+
+
+
+1. Апарат за пријем, снимање или репродукцију звука и слике (тзв. „дигитални медија пријемник”) у облику цилиндра са димензијама преко свега приближно 13 (пречник) x 19 (висина) cm.
+Апарат садржи:
+– микропроцесор,
+– хард диск драјв од 500GB,
+– алфанумерички дисплеј,
+– инфрацрвени пријемник за даљинско управљање.
+Има следеће интерфејсе:
+– USB,
+– етернет,
+– HDMI, S-video, композитне и компонентне видео излазе,
+– дигиталне оптичке, дититалне коаксијалне и аналогне аудио излазе.
+Такође је опремљен управљачким тастерима, као и даљинским управљачем.
+Апарат врши пријем аудио и видео сигнала у облику дигиталног формата из спољашњих извора (нпр. рутер, машина за аутоматску обраду података, дигитална камера, USB меморија). Подаци се могу меморисати на његовом хард диску. Подаци се репродукују на монитору, телевизијском сету или преко стерео система. 
+Апарат не може да оствари приступ интернету.
+
+
+8521 90 00
+
+
+Сврставање је одређено Основним правилима 1 и 6 за примењивање Комбиноване номенклатуре, и наименовањима уз CN ознаке 8521 и 8521 90 00.
+С обзиром на његове карактеристике, наиме способност пријема, снимања и репродукције видео сигнала из различитих извора и капацитета хард диска, апарат се сматра апаратом за снимање и репродукцију слике из тарифног броја 8521.
+Према томе, сврстава се као апарат за снимање и репродукцију слике из CN ознаке 8521 90 00.
+
+
+
+
+2. Апарат за пријем или репродукцију звука и слике (тзв. „дигитални медија пријемник”) у облику цилиндра са димензијама преко свега приближно 13 (пречник) x 19 (висина) cm.
+Апарат садржи:
+– микропроцесор,
+– алфанумерички дисплеј,
+– инфрацрвени пријемник за даљинско управљање.
+Има следеће интерфејсе:
+– USB,
+– етернет,
+– HDMI, S-video, композитне и компонентне видео излазе,
+– дигиталне оптичке, дититалне коаксијалне и аналогне аудио излазе,
+– слот за хард диск.
+Такође је опремљен управљачким тастерима, као и даљинским управљачем.
+Апарат врши пријем аудио и видео сигнала у облику дигиталног формата из спољашњих извора (нпр. рутер, машина за аутоматску обраду података, дигитална камера, USB меморија). Подаци се могу меморисати на хард диску који се уграђује након увоза. Подаци се репродукују на монитору, телевизијском сету или преко стерео система. 
+Апарат не може да оствари приступ интернету.
+
+
+8521 90 00
+
+
+Сврставање је одређено Основним правилима 1, 2(а) и 6 за примењивање Комбиноване номенклатуре, и наименовањима уз CN ознаке 8521 и 8521 90 00.
+С обзиром на то да апарат, осим хард диска, има сву неопходну електронику за обављање функција снимања или репродукције слика, из тарифног броја 8521, сматра се, на основу Основног правила 2(а), да има битан карактер комплетног или довршеног производа из тарифног броја 8521. 
+Према томе, апарат се сврстава као некомплетан апарат за снимање или репродукцију слика из CN ознаке 8521 90 00.
+
+
+
+
+3. Апарат за пријем и обраду звука (тзв. „дигитални аудио стример”) у облику цилиндра са димензијама преко свега приближно 19x9x8 cm.
+Апарат садржи:
+– микропроцесор,
+– флуоресцентни вакуум дисплеј резолуције 320x320 пиксела сивог тона,
+– екрански часовник са алармом
+– инфрацрвени пријемник за даљинско управљање.
+Има следеће интерфејсе:
+– етернет,
+– бежични етернет,
+– дигиталне оптичке, дититалне коаксијалне и аналогне аудио излазе,
+– прикључак за слушалице.
+Такође је опремљен и даљинским управљачем.
+Апарат може да ради или у самосталном режиму повезан са интернет мрежом (без (АОП) машине за аутоматску обраду података) или са софтвером који ради на АОП машини.
+Апарат може да репродукује аудио датотеке меморисане на АОП машини или са било ког интернет радиjа.
+
+
+8519 89 19
+
+
+Сврставање је одређено Основним правилима 1 и 6 за примењивање Комбиноване номенклатуре, и наименовањима уз CN ознаке 8519, 8519 89 и 8519 89 19.
+С обзиром на својства која има, апарат је конструисан да врши пријем и обраду звука било директно са интернета или са АОП машине, репродукујући га на различитим аудио апаратима.
+Према томе, апарат се сврстава у CN ознаку 8519 89 19 као остали апарати за репродукцију звука који немају уграђен уређај за снимање звука.

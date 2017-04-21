@@ -1,0 +1,172 @@
+На основу члана 3а став 4. Закона о Царинској тарифи („Службени гласник РС”, бр. 62/05, 61/07 и 5/09) објављује се Уредба Комисије (ЕУ) о спровођењу број 310/2014 од 25. марта 2014. године у вези са сврставањем одређенe робe у Комбинованој номенклатури објављена у „Службеном листу Европске уније”, број L 91/10 од 27. марта 2014. године, која у оригиналу на енглеском језику и у преводу на српски језик гласи:
+ 
+COMMISSION IMPLEMENTING REGULATION (EU) 
+No 310/2014 of 25 March 2014 concerning the classification of certain goods in the Combined Nomenclature
+
+"Службени гласник РС", број 54 од 
+				20. маја 2014.
+ 
+THE EUROPEAN COMMISSION,
+Having regard to the Treaty on the Functioning of the European Union,
+Having regard to Council Regulation (EEC) No 2658/87 of 23 July 1987 on the tariff and statistical nomenclature and on the Common Customs Tariff(1), and in particular Article 9(1)(a) thereof,
+Whereas:
+(1) In order to ensure uniform application of the Combined Nomenclature annexed to Regulation (EEC) No 2658/87, it is necessary to adopt measures concerning the classification of the goods referred to in the Annex to this Regulation.
+(2) Regulation (EEC) No 2658/87 has laid down the general rules for the interpretation of the Combined Nomenclature. Those rules apply also to any other nomenclature which is wholly or partly based on it or which adds any additional subdivision to it and which is established by specific provisions of the Union, with a view to the application of tariff and other measures relating to trade in goods.
+(3) Pursuant to those general rules, the goods described in column (1) of the table set out in the Annex should be classified under the CN code indicated in column (2), by virtue of the reasons set out in column (3) of that table.
+(4) It is appropriate to provide that binding tariff information issued in respect of the goods concerned by this Regulation which does not conform to this Regulation may, for a certain period, continue to be invoked by the holder in accordance with Article 12(6) of Council Regulation (EEC) No 2913/92(2). That period should be set at three months.
+(5) The measures provided for in this Regulation are in accordance with the opinion of the Customs Code Committee,
+HAS ADOPTED THIS REGULATION:
+Article 1
+The goods described in column (1) of the table set out in the Annex shall be classified within the Combined Nomenclature under the CN code indicated in column (2) of that table.
+Article 2
+Binding tariff information which does not conform to this Regulation may continue to be invoked in accordance with Article 12(6) of Regulation (EEC) No 2913/92 for a period of three months from the date of entry into force of this Regulation.
+Article 3
+This Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union.
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+Done at Brussels, 25 March 2014.
+––––––––––
+(1) OJ L 256, 7.9.1987, p. 1.
+(2) Council Regulation (EEC) No 2913/92 of 12 October 1992 establishing the Community Customs Code (OJ L 302, 19.10.1992, p. 1).
+ 
+For the Commission, 
+On behalf of the President,
+Algirdas ŠEMETA
+Member of the Commission
+ANNEX
+
+
+
+
+Description of the goods
+
+
+Classification (CN code)
+
+
+Reasons
+
+
+
+
+(1)
+
+
+(2)
+
+
+(3)
+
+
+
+
+A colour monitor of the liquid crystal display (LCD) type with a diagonal measurement of the screen of approximately 48 cm (19 inches) with dimensions of approximately 46 × 37 × 21 cm with:
+– a native resolution of 1 440 × 900 pixels,
+– supported resolutions of 640 × 480, 800 × 600, 1 024 × 768 and 1 280 × 1 024 pixels,
+– an aspect ratio of 16:10,
+– a pixel pitch of 0,285 mm,
+– a brightness of 300 cd/m²,
+– a contrast ratio of 500:1,
+– a response time of 8 ms,
+– two loudspeakers,
+– power and control buttons.
+It is equipped with the following interfaces:
+– a DVI-D,
+– two VGA.
+It has a stand with a tilt mechanism.
+The monitor is presented for use with automatic data-processing (ADP) machines.
+
+
+8528 51 00
+
+
+Classification is determined by general rules 1 and 6 for the interpretation of the Combined Nomenclature, and by the wording of CN codes 8528 and 8528 51 00.
+Given the objective characteristics of the product, such as the resolution, the supported resolutions, the aspect ratio, the pixel pitch suitable for prolonged close viewing, the brightness, the interfaces commonly used in ADP systems and the presence of tilt mechanisms, the intended use is that of a monitor of a kind solely or principally used in an ADP system of heading 8471.
+The monitor is therefore to be classified under CN code 8528 51 00 as other monitors of a kind solely or principally used in an automatic data-processing system of heading 8471.
+
+
+
+
+ 
+УРЕДБА КОМИСИЈЕ (ЕУ) О СПРОВОЂЕЊУ број 310/2014
+од 25. марта 2014. године у вези са сврставањем одређенe робe према Комбинованој номенклатури
+
+"Службени гласник РС", број 54 од 
+				20. маја 2014.
+ 
+ЕВРОПСКА КОМИСИЈА,
+имајући у виду Уговор о функционисању Европске уније,
+имајући у виду Уредбу Савета (ЕЕЗ) број 2658/87 од 23. јула 1987. године о тарифној и статистичкој номенклатури и Заједничкој царинској тарифи1, а посебно члан 9. став 1. тачка а), 
+с обзиром на то да:
+(1) Како би се осигурала једнообразна примена Комбиноване номенклатуре приложене уз Уредбу (ЕЕЗ) број 2658/87, неопходно је усвојити мере у вези са сврставањем робе наведене у Анексу ове уредбе;
+(2) Уредбом (ЕЕЗ) број 2658/87 утврђена су основна правила за примењивање Комбиноване номенклатуре. Ова правила се такође примењују на сваку другу номенклатуру која се у потпуности или делимично заснива на њој, или која јој додаје било какве потподеле и која је установљена посебним прописима Уније, са циљем примене тарифних и других мера које се односе на трговину робом;
+(3) У складу са тим основним правилима, роба описана у колони 1. табеле у Анексу сврстава се у CN ознаку наведену у колони 2, према разлозима датим у колони 3. те табеле;
+(4) Потребно је обезбедити да ималац обавезујуће тарифне информације, издате за робу на коју се односи ова уредба, а која није у складу са овом уредбом, може одређени период, да настави да се позива на њу, према члану 12. став 6. Уредбе Савета (ЕЕЗ) број 2913/922. Овај период треба да буде три месеца;
+(5) Мере предвиђене овом уредбом у складу су са мишљењем Одбора за Царински кодекс,
+ДОНЕЛА ЈЕ ОВУ УРЕДБУ:
+Члан 1.
+Роба описана у колони 1. табеле дате у Анексу сврстава се у оквиру Комбиноване номенклатуре у CN ознаку наведену у колони 2. те табеле.
+Члан 2.
+Могуће је позивати се на обавезујућу тарифну информацију која није у складу са овом уредбом, у складу са чланом 12. став 6. Уредбе (ЕЕЗ) број 2913/92, у периоду од три месеца од дана ступања на снагу ове уредбе.
+Члан 3.
+Ова уредба ступа на снагу 20. дана од дана објављивања у „Службеном листу Европске уније”.
+Ова уредба је обавезујућа у целини и непосредно се примењује у свим државама чланицама.
+У Бриселу, 25. марта 2014. године
+––––––––––
+1 OJ L 256, 7.9.1987. стр. 1
+2 Уредба Савета (ЕЕЗ) број 2913/92 од 12. октобра 1992. године којом је установљен Царински кодекс Заједнице (OJ L 302, 19.10.1992, стр. 1).
+ 
+За Комисију,
+у име председника,
+Algirdas ŠEMETA
+члан Комисије
+AНЕКС
+
+
+
+
+Опис робе
+
+
+Сврставање
+(CN ознака)
+
+
+Разлози
+
+
+
+
+(1)
+
+
+(2)
+
+
+(3)
+
+
+
+
+Монитор у боји, LCD типа, са дијагоналном димензијом екрана приближно 48 cm (19 инча), димензија приближнo 46 x 37 x 21 cm са:
+– природном резолуцијом 1440 x 900 пиксела,
+– подржаним резолуцијама 640 x 480, 800 x 600, 1024 x 768 и 1280 x 1024 пиксела,
+– размером екрана 16:10,
+– растојањем пиксела 0,285 mm,
+– осветљењем 300 cd/m² ,
+– односом контраста 500:1,
+– временом одзива 8 ms,
+– два звучника,
+– тастерима за укључивање и управљање.
+Има следеће интерфејсе:
+– DVI-D,
+– два VGA.
+Има постоље са механизмом за накретање. 
+Монитор се испоручује за коришћење са машинама за аутоматску обраду података (АОП машинама).
+
+
+8528 51 00
+
+
+Сврставање је одређено Основним правилима 1. и 6. за примењивање Комбиноване номенклатуре и наименовањима уз CN ознаке 8528 и 8528 51 00.
+С обзиром на објективне карактеристике производа, као што су резолуција, подржане резолуције, размера екрана, растојање пиксела погодно за продужено гледање из близине, осветљење, интерфејси који се обично користе у АОП системима и постојање механизма за накретање, намењен је да се користи као монитор оне врсте која се искључиво или углавном употребљава за АОП системе из тарифног броја 8471.
+Према томе, монитор се сврстава у CN ознаку 8528 51 00 као монитори врсте која се користи искључиво или углавном за системе за аутоматску обраду података из тарифног броја 8471.

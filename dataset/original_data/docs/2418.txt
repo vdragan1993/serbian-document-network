@@ -1,0 +1,119 @@
+На основу члана 3а став 4. Закона о Царинској тарифи („Службени гласник Републике Србије”, бр. 62/05, 61/07 и 5/09) објављује се Уредба Комисије (ЕЗ) број 869/94 од 18. априла 1994. године, у вези са сврставањем одређених роба у Комбинованој номенклатури објављена у „Службеном листу Европских заједница”, број L 101/1 од 20. априла 1994. године, која у оригиналу на енглеском језику и у преводу на српски језик гласи:
+COMMISSION REGULATION (EC) No 869/94 of 18 April 1994 concerning the classification of certain goods in the combined nomenclature
+"Службени гласник РС", број 117 од 12. 
+				децембра 2012.
+THE COMMISSION OF THE EUROPEAN COMMUNITIES,
+Having regard to the Treaty establishing the European Community,
+Having regard to Council Regulation (EEC) No 2658/87 of 23 July 1987 on the tariff and statistical nomenclature and on the Common Customs Tariff (1), as last amended by Commission Regulation (EC) No 779/94 (2), and in particular Article 9 thereof,
+Whereas in order to ensure uniform application of the combined nomenclature annexed to the said Regulation, it is necessary to adopt measures concerning the classification of the goods referred to in the Annex to this Regulation;
+Whereas Regulation (EEC) No 2658/87 has set down the general rules for the interpretation of the combined nomenclature and those rules also apply to any other nomenclature which is wholly or partly based on it or which adds any additional subdivision to it and which is established by specific Community provisions, with a view to the application of tariff and other measures relating to trade in goods;
+Whereas, pursuant to the said general rules, the goods described in column 1 of the table annexed to the present
+Regulation must be classified under the appropriate CN codes indicated in column 2, by virtue of the reasons set out in column 3;
+Whereas the measures provided for in this Regulation are in accordance with the opinion of the Tariff and Statistical Nomenclature Section of the Customs Code Committee,
+HAS ADOPTED THIS REGULATION: 
+Article 1
+The goods described in column 1 of the annexed table are now classified within the combined nomenclature under the appropriate CN code indicated in column 2 of the said table.
+Article 2
+This Regulation shall enter into force on the third day following its publication in the Official Journal of the European Communities.
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+Done at Brussels, 18 April 1994.
+––––––––––
+(1) OJ No L 256, 7. 9. 1987, p. 1. 
+(2) OJ No L 91, 8. 4. 1994, p. 12.
+For the Commission 
+Christiane SCRIVENER 
+Member of the Commission
+ANNEX
+
+
+
+
+Description of goods
+
+
+Classification CN code
+
+
+Reason
+
+
+
+
+(1)
+
+
+(2)
+
+
+(3)
+
+
+
+
+A pre-formatted magnetic floppy disk for use in automatic data processing machines
+
+
+8523 20 90
+
+
+Classification is determinated by the provisions of General Rules 1 and 6 for the interpretation of the combined nomenclature and the wording of CN codes 8523, 8523 20 and 8523 20 90.
+The formatting of the disk (recording with initialization data only) is not to be considered as a recording on the media itself within the meaning of heading 8524.
+
+
+
+
+УРЕДБА КОМИСИЈЕ (ЕЗ) број 869/94 од 18. априла 1994. године, у вези са сврставањем одређених роба према Комбинованој номенклатури
+"Службени гласник РС", број 117 од 12. децембра 
+				2012.
+КОМИСИЈА ЕВРОПСКИХ ЗАЈЕДНИЦА,
+Имајући у виду Уговор о оснивању Европске заједнице,
+Имајући у виду Уредбу Савета (ЕЕЗ) број 2658/87 о тарифској и статистичкој номенклатури и Заједничкој царинској тарифи1, како је задњи пут измењена Уредбом Комисије (ЕЗ) број 779/942, и посебно њен члан 9,
+С обзиром на то да би осигурала доследну примену Комбиноване номенклатуре дате у Анексу поменуте Уредбе, неопходно је усвојити мере у вези са сврставањем роба наведених у Анексу уз ову уредбу;
+С обзиром на то да су Уредбом (ЕЕЗ) број 2658/87 одређена основна правила за тумачење Комбиноване номенклатуре. Ова правила се такође примењују на било коју другу номенклатуру која се у потпуности или делимично заснива на њој, или којој су додате било које потподеле и која је установљена посебним прописима Уније, са циљем примене тарифских и других мера везаних за трговину робом;
+С обзиром на то да сходно тим основним правилима, роба описана у колони 1 табеле дате у Анексу сврстава у одговарајућу CN ознаку наведену у колони 2, према разлозима датим у колони 3 табеле;
+С обзиром на то да да су мере предвиђене овом уредбом у складу са мишљењем Групе за тарифску и статистичку номенклатуру Одбора за Царински закон, 
+ДОНЕЛА ЈЕ ОВУ УРЕДБУ:
+Члан 1.
+Роба описана у колони 1 табеле дате у Анексу сврстава се у оквиру Комбиноване номенклатуре у одговарајуће CN ознаке наведене у колони 2 поменуте табеле.
+Члан 2.
+Ова уредба ступа на снагу 21. дана од дана објављивања у „Службеном листу Европских заједница”.
+Ова уредба у потпуности је обавезујућа и директно применљива у свим државама чланицама.
+У Бриселу, 18. априла 1994. године 
+––––––––––
+1 OJ L 256, 7.9.1987, стр.1
+2 OJ L 91, 8.4.1994, стр. 12
+За Комисију
+Christiane SCRIVENER
+Члан Комисије
+АНЕКС
+
+
+
+
+Опис робе
+
+
+Сврставање
+(CN ознака)
+
+
+Разлози
+
+
+
+
+Преформатиран магнетни флопи диск, за коришћење у машини за аутоматску обраду података.
+
+
+8523 20 903
+
+
+Сврставање је одређено условима Основних правила 1 и 6 за примењивање Комбиноване номенклатуре и наименовањем уз CN ознаке 8523, 8523 20 и 8523 20 904.
+Форматирање диска (снимање само са иницијалним подацима) не сматра се снимањем на саму подлогу у смислу тарифног броја 8524.
+
+
+
+
+––––––––––
+3 замењено са „8523 29 15” у складу са тачком 64 под (а) Анекса I Уредбе Комисије (ЕЗ) број 1179/09 од 26. новембра 2009. године којом се мењају или стављају ван снаге одређене Уредбе у вези са сврставањем робе према Комбинованој номенклатури (OJ L 317 од 3.12.2009, стр. 23), која је објављена у „Службеном гласнику РС”, број 7/10
+4 замењено са „8523 29 и 8523 29 15” у складу са тачком 64 под (b) Анекса I Уредбе Комисије (ЕЗ) број 1179/09 од 26. новембра 2009. године којом се мењају или стављају ван снаге одређене Уредбе у вези са сврставањем робе према Комбинованој номенклатури (OJ L 317 од 3.12.2009, стр. 23), која је објављена у „Службеном гласнику РС”, број 7/10.

@@ -1,0 +1,150 @@
+На основу члана 3а став 4. Закона о Царинској тарифи („Службени гласник РС”, бр. 62/05, 61/07 и 5/09) објављује се Уредба Комисије (ЕУ) о спровођењу број 766/2013 од 7. августа 2013. године у вези са сврставањем одређене робе у Комбинованој номенклатури објављена у „Службеном листу Европске уније”, број L 214/3 од 9. августа 2013. године, која у оригиналу на енглеском језику и у преводу на српски језик гласи:
+COMMISSION IMPLEMENTING REGULATION (EU) No 766/2013 of 7 August 2013 concerning the classification of certain goods in the Combined Nomenclature"Службени гласник РС", број 84 од 24. септембра 2013.
+THE EUROPEAN COMMISSION,
+Having regard to the Treaty on the Functioning of the European Union,
+Having regard to Council Regulation (EEC) No 2658/87 of 23 July 1987 on the tariff and statistical nomenclature and on the Common Customs Tariff (1), and in particular Article 9(1)(a) thereof,
+Whereas:
+(1) In order to ensure uniform application of the Combined Nomenclature annexed to Regulation (EEC) No 2658/87, it is necessary to adopt measures concerning the classification of the goods referred to in the Annex to this Regulation.
+(2) Regulation (EEC) No 2658/87 has laid down the general rules for the interpretation of the Combined Nomenclature. Those rules apply also to any other nomenclature which is wholly or partly based on it or which adds any additional subdivision to it and which is established by specific provisions of the Union, with a view to the application of tariff and other measures relating to trade in goods.
+(3) Pursuant to those general rules, the goods described in column (1) of the table set out in the Annex should be classified under the CN code indicated in column (2), by virtue of the reasons set out in column (3) of that table.
+(4) It is appropriate to provide that binding tariff information which has been issued by the customs authorities of Member States in respect of the classification of goods in the Combined Nomenclature but which is not in accordance with this Regulation can, for a period of three months, continue to be invoked by the holder, under Article 12(6) of Council Regulation (EEC) No 2913/92 of 12 October 1992 establishing the Community Customs Code (2).
+(5) The measures provided for in this Regulation are in accordance with the opinion of the Customs Code Committee,
+HAS ADOPTED THIS REGULATION:
+Article 1
+The goods described in column (1) of the table set out in the Annex shall be classified within the Combined Nomenclature under the CN code indicated in column (2) of that table.
+Article 2
+Binding tariff information issued by the customs authorities of Member States, which is not in accordance with this Regulation, can continue to be invoked for a period of three months under Article 12(6) of Regulation (EEC) No 2913/92.
+Article 3
+This Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union.
+This Regulation shall be binding in its entirety and directly applicable in all Member States. 
+Done at Brussels, 7 August 2013.
+For the Commission, 
+On behalf of the President,
+Gunther OETTINGER
+Member of the Commission
+–––––––––––––
+(1) OJ L 256, 7.9.1987, p. 1.
+(2) OJ L 302, 19.10.1992, p. 1.
+ANNEX
+
+
+
+
+Description of the goods
+
+
+Classification (CN code)
+
+
+Reasons
+
+
+
+
+(1)
+
+
+(2)
+
+
+(3)
+
+
+
+
+Liquid product based on fermented milk products with added fruit and cereal flakes, consisting of (% by weight):
+– yoghurt (milk fat content 1,9% by weight) 78,9
+– sugar 8,4
+– water 7,4
+– peach 4,3
+– wheat flakes 0,6
+– rye flakes 0,3
+and small quantities of aroma preparations (flavourings), carotene (colouring agent) and microorganisms used in food products.
+The product, put up in a plastic bottle containing 400 g, is intended for direct consumption as a beverage.
+
+
+2202 90 95
+
+
+Classification is determined by General Rules 1 and 6 for the interpretation of the Combined Nomenclature, and by the wording of CN codes 2202, 2202 90 and 2202 90 95.
+Classification of the product under heading 0403 as liquid yoghurt is excluded because cereal flakes are not substances which may be added to the products of Chapter 4 (see also the Harmonized System (HS) Explanatory Notes to Chapter 4, General, point (I), second paragraph). In addition, cereals do not meet the criteria of the wording of heading 0403 as they cannot be considered to be ‚added fruit, nuts or cocoa‘.
+Classification under heading 1901 is also excluded because the product has the characteristics of a beverage of Chapter 22 (see also the HS Explanatory Notes to heading 1901, point (III), second paragraph).
+As the product is directly consumable as a beverage, it is covered by heading 2202.
+The product is therefore to be classified under heading 2202 as ‚other non-alcoholic beverage‘.
+
+
+
+
+УРЕДБА КОМИСИЈЕ (ЕУ) О СПРОВОЂЕЊУ број 766/2013од 7. августа 2013. године у вези са сврставањем одређене робе према Комбинованој номенклатури"Службени гласник РС", број 84 од 24. септембра 2013.
+ЕВРОПСКА КОМИСИЈА,
+Имајући у виду Уговор о функционисању Европске уније,
+Имајући у виду Уредбу Савета (ЕЕЗ) број 2658/87 од 23. јула 1987. године о тарифној и статистичкој номенклатури и Заједничкој царинској тарифи1, а посебно члан 9. став 1. тачка а), 
+С обзиром на то да:
+(1) је како би се осигурала једнообразна примена Комбиноване номенклатуре приложене уз Уредбу (ЕЕЗ) број 2658/87, неопходно усвојити мере у вези са сврставањем робе наведене у Анексу ове уредбе;
+(2) су Уредбом (ЕЕЗ) број 2658/87 утврђена основна правила за примењивање Комбиноване номенклатуре. Ова правила се такође примењују на сваку другу номенклатуру која се у потпуности или делимично заснива на њој, или јој додаје било какве потподеле и која је установљена посебним прописима Уније, са циљем примене тарифних и других мера које се односе на трговину робом;
+(3) се у складу са тим основним правилима, роба описана у колони 1. табеле у Анексу сврстава у CN ознаку наведену у колони 2, према разлозима датим у колони 3. те табеле;
+(4) је потребно обезбедити да ималац обавезујуће тарифне информације, коју су издали царински органи држава чланица у погледу сврставања робе према Комбинованој номенклатури, али која није у складу са овом уредбом, може у периоду од три месеца, да настави да се позива на њу, према члану 12. став 6. Уредбе Савета (ЕЕЗ) број 2913/92 од 12. октобра 1992. године којом је установљен Царински кодекс Заједнице2;
+(5) су мере предвиђене овом уредбом у складу са мишљењем Одбора за Царински закон,
+ДОНЕЛА ЈЕ ОВУ УРЕДБУ:
+Члан 1.
+Роба описана у колони 1. табеле дате у Анексу сврстава се у оквиру Комбиноване номенклатуре у CN ознаку наведену у колони 2. те табеле.
+Члан 2.
+Обавезујућа тарифна информација коју су издали царински органи држава чланица, али која није у складу са овом уредбом, може наставити да важи у периоду од три месеца према члану 12. став 6. Уредбе (ЕЕЗ) број 2913/92.
+Члан 3.
+Ова уредба ступа на снагу 20. дана од дана објављивања у „Службеном листу Европске уније”.
+Ова уредба је обавезујућа у целини и непосредно се примењује у свим државама чланицама. 
+У Бриселу, 7. августа 2013. године. 
+–––––––––––––
+1 OJ L 256, 7.9.1987. стр.1. 
+2 OJ L 302, 19.10.1992, стр.1.
+За Комисију,
+у име председника,
+Günther OETTINGER
+члан Комисије
+АНЕКС
+
+
+
+
+Опис робе
+
+
+Сврставање
+(CN ознака)
+
+
+Разлози
+
+
+
+
+(1)
+
+
+(2)
+
+
+(3)
+
+
+
+
+Производ у облику течности на бази ферментисаних млечних производа са додатком воћа и љуспица од житарица, састоји се од (% по маси): 
+– јогурта (садржај млечне масти 1,9% по маси) 78,9 
+– шећера 8,4
+– воде 7,4
+– брескве 4,3 
+– пшеничних љуспица 0,6
+– ражаних љуспица 0,3 
+и мале количине препарата за ароматизацију (арома), каротена (боја) и микроорганизама који се користе у прехрамбеним производима.
+Производ је припремљен у пластичне бочице од 400 g., и намењен је да се непосредно конзумира као пиће.
+
+
+2202 90 95
+
+
+Сврставање је одређено Основним правилима 1. и 6. за примењивање Комбиноване номенклатуре, и наименовањима уз CN ознаке 2202, 2202 90 и 2202 90 95.
+Искључује се сврставање производа као течног јогурта, у тарифни број 0403, због тога што љуспице од житарице нису материја која се може додати производима из Главе 4 (видети такође ХС Коментар уз Главу 4, Опште одредбе, тачка (I), други став). Осим тога, житарице не испуњавају услове наименовања тарифног броја 0403 с обзиром на то да се не могу сматрају „додатим воћем или какаом”.
+Такође се искључује сврставање у тарифни број 1901 због тога што производ има карактеристике пића из Главе 22 (видети такође ХС Коментар уз тарифни број 1901, тачка (III), други став).
+С обзиром на то да се производ може непосредно конзумирати као пиће, обухваћен је тарифним бројем 2202.
+Производ се, према томе, сврстава као „остала безалкохолна пића”.

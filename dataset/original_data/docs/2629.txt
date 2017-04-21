@@ -1,0 +1,295 @@
+На основу члана 3а став 4. Закона о Царинској тарифи („Службени гласник РС”, бр. 62/05, 61/07 и 5/09) објављује се Уредба Комисије (ЕУ) о спровођењу број 1038/2014 од 25. септембра 2014. године, у вези са сврставањем одређенe робe у Комбинованој номенклатури објављена у „Службеном листу Европске уније”, број L 287/14 од 1. октобра 2014. године, која у оригиналу на енглеском језику и у преводу на српски језик гласи:
+COMMISSION IMPLEMENTING REGULATION (EU) No 1038/2014 of 25 September 2014 concerning the classification of certain goods in the Combined Nomenclature"Службени гласник РС", број 137 од 16. децембра 2014.
+THE EUROPEAN COMMISSION,
+Having regard to the Treaty on the Functioning of the European Union,
+Having regard to Council Regulation (EEC) No 2658/87 of 23 July 1987 on the tariff and statistical nomenclature and on the Common Customs Tariff(1), and in particular Article 9(1)(a) thereof,
+Whereas:
+(1) In order to ensure uniform application of the Combined Nomenclature annexed to Regulation (EEC) No 2658/87, it is necessary to adopt measures concerning the classification of the goods referred to in the Annex to this Regulation.
+(2) Regulation (EEC) No 2658/87 has laid down the general rules for the interpretation of the Combined Nomenclature. Those rules apply also to any other nomenclature which is wholly or partly based on it or which adds any additional subdivision to it and which is established by specific provisions of the Union, with a view to the application of tariff and other measures relating to trade in goods.
+(3) Pursuant to those general rules, the goods described in column (1) of the table set out in the Annex should be classified under the CN codes indicated in column (2), by virtue of the reasons set out in column (3) of that table.
+(4) It is appropriate to provide that binding tariff information issued in respect of the goods concerned by this Regulation which does not conform to this Regulation may, for a certain period, continue to be invoked by the holder in accordance with Article 12(6) of Council Regulation (EEC) No 2913/92(²). That period should be set at three months.
+(5) The measures provided for in this Regulation are in accordance with the opinion of the Customs Code Committee,
+HAS ADOPTED THIS REGULATION:
+Article 1
+The goods described in column (1) of the table set out in the Annex shall be classified within the Combined Nomenclature under the CN codes indicated in column (2) of that table.
+Article 2
+Binding tariff information which does not conform to this Regulation may continue to be invoked in accordance with Article 12(6) of Regulation (EEC) No 2913/92 for a period of three months from the date of entry into force of this Regulation.
+Article 3
+This Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union.
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+Done at Brussels, 25 September 2014.
+––––––––––––
+(1) OJ L 256, 7.9.1987, p. 1.
+(2) Council Regulation (EEC) No 2913/92 of 12 October 1992 establishing the Community Customs Code (OJ L 302, 19.10.1992, p. 1).
+For the Commission,
+On behalf of the President,
+Heinz ZOUREK
+Director-General for Taxation and Customs Union
+ANNEX
+
+
+
+
+Description of the goods
+
+
+Classification 
+(CN code)
+
+
+Reasons
+
+
+
+
+(1)
+
+
+(2)
+
+
+(3)
+
+
+
+
+1. A plastic tube with a length of 142 cm with a plastic balloon at one end (so-called ‘balloon catheter’).
+The proximal segment of the catheter has a diameter of 0,63 mm and is made of hypotube material and coated with polytetrafluorethylene (PTFE).
+The distal segment of the catheter has a diameter in a range from 0,79 to 1,02 mm and is made of polyether bloc amide (PEBA) material and coated with hydrophilic material.
+The balloon has a length of 6 to 27 mm and a diameter of 2 to 5 mm.
+The tube has a Luer connection, an atraumatic (flexible) tip and 2 golden marker bands.
+The Luer connection makes it possible to connect the tube to an inflating device which is used to inflate the balloon.
+The atraumatic tip is used to move the catheter via a vein up through the body into the coronary artery. When the catheter is on the right place in the coronary artery, the balloon is inflated so that the fatty deposits (atherosclerotic plaque) are pressed against the wall of the vein. By compressing the plaque, the inside diameter of the vein increases.
+The marker bands make it possible to locate the exact position of the atraumatic tip in the body.
+The balloon catheter is removed from the body and discarded after treatment.
+The article is presented in packaging and is sterilised.
+(*) See image 1
+
+
+9018 39 00
+
+
+Classification is determined by general rules 1 and 6 for the interpretation of the Combined Nomenclature, and by the wording of CN codes 9018 and 9018 39 00.
+Due to its objective characteristics, namely the combination of the balloon, the atraumatic tip, the golden marker bands and the Luer connection, the tube can, upon presentation, be identified as an instrument or appliance of Chapter 90, used in medical sciences.
+Classification under heading 9021 is excluded as the tube is not implanted in the body to compensate for a defect or disability but it is removed after treatment.
+The product is therefore to be classified under CN code 9018 39 00 as catheters (see also the Harmonized System Explanatory Notes (HSEN) to heading 9018, Group (I)).
+
+
+
+
+2. A plastic curved tube (so-called ‘guide catheter’) with an inner diameter ranging from 1,47 mm to 2,29 mm and a length of 100 cm with a radiopaque marker and an atraumatic (flexible) tip.
+The article comprises a double interlock knit flat section of stainless steel, encapsulated in plastic material (PEBA, polyphthalamide (PPA), Nylon) and it has a lubricant coating applied to the silicon inner surface of the guide catheter.
+The guide catheter enables access to the coronary artery through a vein. Other appliances can be directed by this guide catheter to the artery.
+The radiopaque marker makes it possible to locate the exact position of the atraumatic tip in the body.
+The guide catheter is removed from the body and discarded after treatment.
+The article is presented in packaging and is sterilised.
+(*) See image 2
+
+
+9018 39 00
+
+
+Classification is determined by general rules 1 and 6 for the interpretation of the Combined Nomenclature, and by the wording of CN codes 9018 and 9018 39 00.
+Due to its objective characteristics, namely the combination of the curve, the radiopaque marker, the atraumatic tip and the lubricant coating, the tube can, upon presentation, be identified as an instrument or appliance of Chapter 90, used in medical sciences.
+Classification under heading 9021 is excluded as the tube is not implanted in the body to compensate for a defect or disability but it is removed after treatment.
+The product is therefore to be classified under CN code 9018 39 00 as catheters (see also the HSEN to heading 9018, Group (I)).
+
+
+
+
+3. A flexible metal wire (so-called ‘guide wire’) with a diameter of 0,35 mm, a length ranging from 180-300 cm, two radiopaque markers and a rounded tip.
+The wire is made of a metal alloy for biomedical use, with a proximal coating of PTFE and a distal coating of silicone or hydrophilic material.
+The radiopaque markers make it possible to locate the exact position of the wire in the body.
+The wire is used for guiding and positioning devices for interventions in the coronary artery.
+The guide wire is removed from the body and discarded after treatment.
+The article is presented in packaging and is sterilised.
+(*) See image 3
+
+
+9018 39 00
+
+
+Classification is determined by general rules 1 and 6 for the interpretation of the Combined Nomenclature, and by the wording of CN codes 9018 and 9018 39 00.
+Due to its objective characteristics, namely the combination of the design and the radiopaque markers, the wire can, upon presentation, be identified as an instrument or appliance of Chapter 90, used in medical sciences.
+Classification under heading 9021 is excluded as the wire is not implanted in the body to compensate for a defect or disability but it is removed after treatment.
+The product is therefore to be classified under CN code 9018 39 00 as wire guides (see also the HSEN to heading 9018 Group (I)).
+
+
+
+
+4. A hand-operated inflation device made of high-strength polycarbonate, equipped with a manometer and a volume scale. It has a high pressure hose connection (Luer-type) and can inflate, with precise pressure adjustments, up to 20 atmospheres (atm).
+The device is to be used in a medical environment for the inflation and deflation of balloon catheters.
+The manometer is used for monitoring the pressure inside the balloon catheter when inflating or deflating and during surgery.
+The volume scale indicates the amount of liquid (maximum 20 ml) that is, by means of pressure, inserted into the catheter and also the amount of liquid that flows back freely as the balloon deflates.
+The Luer connection makes it possible to connect the inflation device to the balloon catheter.
+The device is for single patient use only and is discarded after treatment.
+The article is presented in packaging and is sterilised.
+(*) See image 4
+
+
+9018 90 84
+
+
+Classification is determined by general rules 1 and 6 for the interpretation of the Combined Nomenclature and by the wording of CN codes 9018, 9018 90 and 9018 90 84.
+As a small amount of liquid is inserted into the catheter by means of pressure, but then flows back freely, the device does not raise or otherwise continuously displace volumes of liquids (see the HSEN to heading 8413, first paragraph). Consequently, classification under heading 8413 as pumps for liquids is excluded.
+Due to its objective characteristics, namely the combination of the design, the precise pressure adjustments, the small amount of liquid used and the Luer-type connection, the article can, upon presentation, be identified as an instrument or appliance of Chapter 90, used in medical sciences (see also the HSEN to heading 9018, fifth paragraph).
+Classification under heading 9021 is excluded as the article is not worn, carried or implanted in the body to compensate for a defect or disability.
+The product is therefore to be classified under CN code 9018 90 84 as other instruments and appliances used in medical, surgical, dental or veterinary sciences.
+
+
+
+
+(*) The images are purely for information.
+
+
+
+
+
+
+УРЕДБА КОМИСИЈЕ (ЕУ) О СПРОВОЂЕЊУ број 1038/2014 од 25. септембра 2014. године у вези са сврставањем одређенe робe према Комбинованој номенклатури"Службени гласник РС", број 137 од 16. децембра 2014.
+ЕВРОПСКА КОМИСИЈА,
+Имајући у виду Уговор о функционисању Европске уније,
+Имајући у виду Уредбу Савета (ЕЕЗ) број 2658/87 од 23. јула 1987. године о тарифној и статистичкој номенклатури и Заједничкој царинској тарифи¹, а посебно члан 9. став 1. тачка а),
+с обзиром на то да:
+(1) Како би се осигурала једнообразна примена Комбиноване номенклатуре приложене уз Уредбу (ЕЕЗ) број 2658/87, неопходно је усвојити мере у вези са сврставањем робе наведене у Анексу ове уредбе;
+(2) Уредбом (ЕЕЗ) број 2658/87 утврђена су основна правила за примењивање Комбиноване номенклатуре. Ова правила се такође примењују на сваку другу номенклатуру која се у потпуности или делимично заснива на њој, или која јој додаје било какве потподеле и која је установљена посебним прописима Уније, са циљем примене тарифних и других мера које се односе на трговину робом;
+(3) У складу са тим основним правилима, роба описана у колони 1. табеле у Анексу сврстава се у CN ознаку наведену у колони 2, према разлозима датим у колони 3. те табеле;
+(4) Потребно је обезбедити да ималац обавезујуће тарифне информације, издате за робу на коју се односи ова уредба, а која није у складу са овом уредбом, може одређени период, да настави да се позива на њу, према члану 12. став 6. Уредбе Савета (ЕЕЗ) број 2913/92². Овај период треба да буде три месеца; 
+(5) Мере предвиђене овом уредбом су у складу са мишљењем Одбора за Царински кодекс.
+ДОНЕЛА ЈЕ ОВУ УРЕДБУ:
+Члан 1.
+Роба описана у колони 1. табеле дате у Анексу сврстава се у оквиру Комбиноване номенклатуре у CN ознаку наведену у колони 2. те табеле.
+Члан 2.
+Могуће је позивати се на обавезујућу тарифну информацију која није у складу са овом уредбом, у складу са чланом 12. став 6. Уредбе (ЕЕЗ) број 2913/92, у периоду од три месеца од дана ступања на снагу ове уредбе.
+Члан 3.
+Ова уредба ступа на снагу 20. дана од дана објављивања у „Службеном листу Европске уније”.
+Ова уредба је обавезујућа у целини и непосредно се примењује у свим државама чланицама.
+У Бриселу, 25. септембра 2014. године. 
+–––––––––––––––
+1 OJ L 256, 7.9.1987. стр. 1
+2 Уредба Савета (ЕЕЗ) број 2913/92 од 12. октобра 1992. године којом је установљен Царински кодекс Заједнице (OJ L 302, 19.10.1992, стр.1).
+За Комисију,
+у име председника,
+Heinz ZOUREK
+генерални директор за порезе и царинску унију
+АНЕКС
+
+
+
+
+Опис робе
+
+
+Сврставање
+(CN ознака)
+
+
+Разлози
+
+
+
+
+(1)
+
+
+(2)
+
+
+(3)
+
+
+
+
+1. Пластична цев дужине 142 cm са пластичним балоном на једном крају (тзв. „балон катетер”).
+Проксимални сегмент катетера је пречника 0,63 mm и израђен је од материјала за хипоцеви и превучен политетрафлуоретиленом (PTFE).
+Дистални сегмент катетера је пречника у опсегу од 0,79 до 1,02 mm и израђен је од полиетер блок амида (PEBA) и превучен хидрофилним материјалом.
+Балон је дужине од 6 до 27 mm и пречника од 2 до 5 mm.
+Цев има Луер прикључак,
+атрауматски (флексибилни) врх и 2 златне маркер траке.
+Луер прикључак омогућава повезивање цеви за уређај за надувавање који се користи за надувавање балона.
+Атрауматски врх се користи за кретање катетера путем вене, кроз тело, до коронарне артерије. Када је катетер на правом месту у коронарној артерији, балон се надувава тако да масне наслаге (артеросклеротични плак) притискају зид вене. Сабијањем плака, повећава се пречник вене.
+Маркер траке омогућавају лоцирање тачног положаја атрауматског врха у телу.
+Балонски катетер се уклања из тела и одбацује након третмана.
+Производ се испоручује у паковању и стерилан је.
+(*) Видети слику 1
+
+
+9018 39 00
+
+
+Сврставање је одређено Основним правилима 1. и 6. за примењивање Комбиноване номенклатуре и наименовањима уз CN ознаке 9018 и 9018 39 00.
+Због својих објективних карактеристика, наиме комбинације балона, атрауматског врха, златних маркер трака и Луер прикључка, цев се, након испоруке, идентификује као инструмент или апарат из Главе 90, који се користи у медицини.
+Искључује се сврставање у тарифни број 9021, с обзиром на то, да се цев не уграђује
+у тело да надокнади недостатак или инвалидност, већ се уклања након третмана.
+Производ се, према томе, сврстава у CN ознаку 9018 39 00 као катетер (видети такође ХС Коментар уз тарифни број 9018, Група (I)).
+
+
+
+
+2. Пластична, закривљена цев (тзв. „уводни катетер”), унутрашњег пречника у опсегу од 1,47 mm до 2,29 mm и дужине 100 cm, са радионепропусним маркером и атрауматским (флексибилни) врхом.
+Производ се састоји од равног дела са дуплим преплетајем од нерђајућег челика који је инкапсулиран у пластични материјал (PEBA, полифталамид (PPA), најлон), а унутрашња силиконска површина уводног катетера превучена је лубрикантом.
+Уводни катетер, кроз вену омогућава улаз у коронарну артерију. Овим 
+уводним катетером други уређаји се могу усмерити до артерије.
+Радионепропусни маркер омогућава да се лоцира тачна позиције атрауматског врха у телу. 
+Уводни катетер се уклања из тела и одбацује након третмана.
+Производ се испоручује у паковању и стерилан је.
+(*) Видети слику 2
+
+
+9018 39 00
+
+
+Сврставање је одређено Основним правилима 1. и 6. за примењивање Комбиноване номенклатуре и наименовањима уз CN ознаке 9018 и 9018 39 00.
+Због својих објективних карактеристика, наиме комбинације закривљене цеви, радионепропусног маркера, атрауматског врха и превлаке од лубриканта, цев се, након испоруке, идентификује као инструмент или апарат из Главе 90, који се користи у медицини.
+Искључује се сврставање у тарифни број 9021 с обзиром на то да се цев не уграђује у тело да надокнади недостатак или инвалидност, већ се уклања након третмана.
+Производ се, према томе, сврстава у CN ознаку 9018 39 00 као катетер (видети такође ХС Коментар уз тарифни број 9018, Група (I)).
+
+
+
+
+3. Флексибилна метална жица (уводна жица) пречника 0,35 mm, дужине у опсегу од 180-300 cm, са 2 радионепропусна маркера и заобљеним врхом.
+Жица је израђена од легуре метала за биомедицинску употребу, са проксималном превлаком од PTFE и дисталном превлаком од силикона или хидрофилног материјала.
+Радионепропусни маркери омогућавају да се лоцира тачна позиције жице у телу.
+Жица се употребљава за увођење и позиционирање уређаја за интервенције у коронарној артерији.
+Уводна жица се уклања из тела и одбацује након третмана.
+Производ се испоручује у паковању и стерилан је.
+(*) Видети слику 3
+
+
+9018 39 00
+
+
+Сврставање је  одређено Основним правилима 1. и 6. за примењивање Комбиноване номенклатуре и наименовањима уз CN ознаке 9018 и 9018 39 00.
+Због својих објективних карактеристика, наиме комбинације конструкције и радионепропусних маркера, жица се, након испоруке, идентификује као инструмент или апарат из Главе 90, који се користи у медицини.
+Искључује се сврставање у тарифни број 9021 пошто се цев не уграђује у тело да надокнади недостатак или инвалидност, већ се уклања након третмана.
+Производ се, према томе, сврстава у CN ознаку 9018 39 00 као уводна жица (видети такође ХС Коментар уз тарифни број 9018, Група (I)).
+
+
+
+
+4. Ручни уређај за надувавање израђен од поликарбоната велике јачине, опремљен манометром и запреминском скалом. Има прикључак у виду црева за високе притиске (Луер тип) и може да надувава, са прецизним подешавањем, притисак до 20 атмосфера (atm).
+Уређај се употребљава у медицинском окружењу за надувавање и издувавање балон катетера.
+Манометар се употребљава за праћење притиска у балон катетеру када се надувава и издувава,
+као и током хируршког захвата.
+Запреминска скала показује количину течности (максимум 20 ml) која се, путем притиска, убацује у катетер, а такође и количину течности која се, како се балон издувава, слободно враћа назад.
+Луер прикључак омогућава повезивање уређаја за надувавање са балон катетером.
+Уређај се употребљава само за једног пацијента и одбацује се након интервенције.
+Производ се испоручује у паковању и стерилан је.
+(*) Видети слику 4
+
+
+9018 90 84
+
+
+Сврставање је одређено Основним правилима 1. и 6. за примењивање Комбиноване номенклатуре и наименовањима уз CN ознаке 9018, 9018 90 и 9018 90 84.
+Како се мала количина течности убацује у катетер путем притиска, али се потом слободно враћа, уређај 
+не подиже, нити на други начин континуирано преноси количине течности (видети ХС Коментар уз тарифни број 8413, први став). Сходно томе, искључује се сврставање у тарифни
+број 8413 као пумпе за течности.
+Због својих објективних карактеристика, наиме комбинације конструкције, прецизног подешавања притиска, малих количина течности које се користе у Луер-тип прикључку, производ се, након испоруке, може идентификовати као инструмент или апарат из Главе 90, који се употребљава у медицини (видети такође ХС Коментар уз тарифни број 9018, пети став).
+Искључује се сврставање у тарифни број 9021 као производа који се носи или уграђује у тело да би надокнадио недостатак или инвалидност.
+Производ се, према томе, сврстава у CN ознаку 9018 90 84 као остали инструменти и апарати за медицину, хирургију, зубарство и ветерину.
+
+
+
+
+(*) слике су само информативног карактера.

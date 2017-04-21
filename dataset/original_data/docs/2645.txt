@@ -1,0 +1,180 @@
+На основу члана 3а став 4. Закона о Царинској тарифи („Службени гласник РС”, бр. 62/05, 61/07 и 5/09) објављује се Уредба Комисије (ЕУ) о спровођењу број 766/2014 од 11. јула 2014. године, у вези са сврставањем одређенe робe у Комбинованој номенклатури објављена у „Службеном листу Европске уније”, број L 209/9 од 16. јула 2014. године, која у оригиналу на енглеском језику и у преводу на српски језик гласи:
+COMMISSION IMPLEMENTING REGULATION (EU) No 766/2014 of 11 July 2014 concerning the classification of certain goods in the Combined Nomenclature "Службени гласник РС", број 108 од 10. октобра 2014.
+THE EUROPEAN COMMISSION,
+Having regard to the Treaty on the Functioning of the European Union,
+Having regard to Council Regulation (EEC) No 2658/87 of 23 July 1987 on the tariff and statistical nomenclature and on the Common Customs Tariff (1), and in particular Article 9(1)(a) thereof,
+Whereas:
+(1) In order to ensure uniform application of the Combined Nomenclature annexed to Regulation (EEC) No 2658/87, it is necessary to adopt measures concerning the classification of the goods referred to in the Annex to this Regulation.
+(2) Regulation (EEC) No 2658/87 has laid down the general rules for the interpretation of the Combined Nomenclature. Those rules apply also to any other nomenclature which is wholly or partly based on it or which adds any additional subdivision to it and which is established by specific provisions of the Union, with a view to the application of tariff and other measures relating to trade in goods.
+(3) Pursuant to those general rules, the goods described in column (1) of the table set out in the Annex should be classified under the CN codes indicated in column (2), by virtue of the reasons set out in column (3) of that table.
+(4) It is appropriate to provide that binding tariff information issued in respect of the goods concerned by this Regulation which does not conform to this Regulation may, for a certain period, continue to be invoked by the holder in accordance with Article 12(6) of Council Regulation (EEC) No 2913/92 (2). That period should be set at three months.
+(5) The measures provided for in this Regulation are in accordance with the opinion of the Customs Code Committee,
+HAS ADOPTED THIS REGULATION:
+Article 1
+The goods described in column (1) of the table set out in the Annex shall be classified within the Combined Nomenclature under the CN codes indicated in column (2) of that table.
+Article 2
+Binding tariff information which does not conform to this Regulation may continue to be invoked in accordance with Article 12(6) of Regulation (EEC) No 2913/92 for a period of three months from the date of entry into force of this Regulation.
+Article 3
+This Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union.
+This Regulation shall be binding in its entirety and directly applicable in all Member States. 
+Done at Brussels, 11 July 2014.
+–––––––––––––––
+(1) OJ L 256, 7.9.1987, p. 1.
+(2) Council Regulation (EEC) No 2913/92 of 12 October 1992 establishing the Community Customs Code (OJ L 302, 19.10.1992, p. 1).
+For the Commission, 
+On behalf of the President,
+Algirdas ŠEMETA 
+Member of the Commission
+ANNEX
+
+
+
+
+Description of the goods
+
+
+Classification (CN code)
+
+
+Reasons
+
+
+
+
+(1)
+
+
+(2)
+
+
+(3)
+
+
+
+
+1. A product presented in liquid form and put up for retail sale in bottles containing 200 ml, 500 ml or 1 000 ml.
+The product consists of:
+– sodium chloride (0,9 %),
+– sterile water.
+Each bottle is equipped with an ergonomic eye cup, a dust cap and it is for a single use.
+According to the label, the product is used to rinse eyes in case of an emergency in order to remove foreign bodies and chemicals.
+
+
+3307 90 00
+
+
+Classification is determined by the general rules 1 and 6 for the interpretation of the Combined Nomenclature (GIR), note 2 to Section VI, note 3 to Chapter 33 and the wording of CN codes 3307 and 3307 90 00.
+As the product is put up in packings of a kind sold by retail, suitable for use as a cosmetic or toilet preparation, it is considered to be a cosmetic or toilet preparation. Its classification in Chapter 25 or Chapter 30 is therefore excluded (see note 2(d) to Chapter 25 and note 1(e) to Chapter 30).
+The product is therefore to be classified under heading 3307 as other cosmetic or toilet preparations not elsewhere specified or included.
+
+
+
+
+2. A product presented in liquid form and put up for retail sale in bottles containing 200 ml or 1 000 ml.
+The product consists of:
+– disodium phosphate (1-5 %),
+– potassium phosphate (1 %),
+– sterile water.
+Each bottle is equipped with an ergonomic eye cup, a dust cap and it is for a single use.
+According to the label, the product is used to rinse eyes in case of an emergency in order to neutralise acids and alkalis from the eyes.
+
+
+3307 90 00
+
+
+Classification is determined by the GIR 1 and 6, note 2 to Section VI, note 3 to Chapter 33 and the wording of CN codes 3307 and 3307 90 00.
+As the product is not a separate chemically defined compound, its classification in heading 2835 as phosphates is excluded (see note 1 to Chapter 28).
+As the product is put up in packings of a kind sold by retail, suitable for use as a cosmetic or toilet preparation, it is considered to be a cosmetic or toilet preparation. Its classification in Chapter 30 is therefore excluded (see note 1(e) to Chapter 30).
+The product is therefore to be classified under heading 3307 as other cosmetic or toilet preparations not elsewhere specified or included.
+
+
+
+
+УРЕДБА КОМИСИЈЕ (ЕУ) О СПРОВОЂЕЊУ број 766/2014 од 11. јула 2014. године у вези са сврставањем одређенe робe према Комбинованој номенклатури "Службени гласник РС", број 108 од 10. октобра 2014.
+ЕВРОПСКА КОМИСИЈА,
+Имајући у виду Уговор о функционисању Европске уније,
+Имајући у виду Уредбу Савета (ЕЕЗ) број 2658/87 од 23. јула 1987. године о тарифној и статистичкој номенклатури и Заједничкој царинској тарифи1, а посебно члан 9. став 1. тачка а),
+с обзиром на то да:
+(1) Како би се осигурала једнообразна примена Комбиноване номенклатуре приложене уз Уредбу (ЕЕЗ) број 2658/87, неопходно је усвојити мере у вези са сврставањем робе наведене у Анексу ове уредбе;
+(2) Уредбом (ЕЕЗ) број 2658/87 утврђена су основна правила за примењивање Комбиноване номенклатуре. Ова правила се такође примењују на сваку другу номенклатуру која се у потпуности или делимично заснива на њој, или која јој додаје било какве потподеле и која је установљена посебним прописима Уније, са циљем примене тарифних и других мера које се односе на трговину робом;
+(3) У складу са тим основним правилима, роба описана у колони 1. табеле у Анексу сврстава се у CN ознаку наведену у колони 2, према разлозима датим у колони 3. те табеле;
+(4) Потребно је обезбедити да ималац обавезујуће тарифне информације, издате за робу на коју се односи ова уредба, а која није у складу са овом уредбом, може одређени период, да настави да се позива на њу, према члану 12. став 6. Уредбе Савета (ЕЕЗ) број 2913/922. Овај период треба да буде три месеца; 
+(5) Мере предвиђене у овој уредби су у складу са мишљењем Одбора за Царински кодекс.
+ДОНЕЛА ЈЕ ОВУ УРЕДБУ:
+Члан 1.
+Роба описана у колони 1. табеле дате у Анексу сврстава се у оквиру Комбиноване номенклатуре у CN ознаку наведену у колони 2. те табеле.
+Члан 2.
+Могуће је позивати се на обавезујућу тарифну информацију која није у складу са овом уредбом, у складу са чланом 12. став 6. Уредбе (ЕЕЗ) број 2913/92, у периоду од три месеца од дана ступања на снагу ове уредбе.
+Члан 3.
+Ова уредба ступа на снагу 20. дана од дана објављивања у „Службеном листу Европске уније”.
+Ова уредба је обавезујућа у целини и непосредно се примењује у свим државама чланицама.
+У Бриселу, 11. јула 2014. године. 
+–––––––––––––––
+1 OJ L 256, 7.9.1987. стр.1. 
+2 Уредба Савета (ЕЕЗ) број 2913/92 од 12. октобра 1992. године којом је установљен Царински кодекс Заједнице (OJ L 302, 19.10.1992, стр.1). 
+За Комисију,
+у име председника,
+Algirdas ŠEMETA
+члан Комисије
+АНЕКС
+
+
+
+
+Опис робе
+
+
+Сврставање
+(CN ознака)
+
+
+Разлози
+
+
+
+
+(1)
+
+
+(2)
+
+
+(3)
+
+
+
+
+1. Производ испоручен у течном облику и припремљен за продају на мало у боцама од 200 ml, 500 ml или 1000 ml.
+Производ се састоји од:
+– натријум хлорида (0,9%),
+– стерилне воде.
+Свака бочица има ергономску купасту млазницу за око и поклопац за заштиту од прашине и користи се једнократно.
+Према наводима са етикете, производ се употребљава за испирање очију у хитним случајевима како би се уклонила страна тела и хемикалије.
+
+
+3307 90 00
+
+
+Сврставање је одређено Основним правилима 1. и 6. за примењивање Комбиноване номенклатуре (ОПП), Напоменом 2. уз Одељак VI, Напоменом 3. уз Главу 33 и наименовањима уз CN ознаке 3307 и 3307 90 00.
+Како је производ припремљен у паковању за продају на мало, погодан је за употребу у козметичке или тоалетне сврхе, сматра се козметичким или тоалетним препаратом. Према томе, искључује се његово сврставање у Главу 25 или у Главу 30 (видети Напомену 2(г) уз Главу 25 и Напомену 1(д) уз Главу 30).
+Производ се, према томе, сврстава у тарифни број 3307 као остали остали козметички или тоалетни препарати на другом месту непоменути нити обухваћени.
+
+
+
+
+2. Производ испоручен у течном облику и припремљен за продају на мало у боцама од 200 ml или 1000 ml.
+Производ се састоји од:
+– динатријум фосфата (1-5%),
+– калијум фосфата (1%),
+– стерилне воде.
+Свака бочица има ергономску купасту млазницу за око и поклопац за заштиту од прашине и користи се једнократно.
+Према наводима са етикете, производ се употребљава за испирање очију у хитним случајевима, како би се извршила неутрализација киселина и база из очију.
+
+
+3307 90 00
+
+
+Сврставање је одређено ОПП 1. и 6, Напоменом 2. уз Одељак VI, Напоменом 3. уз Главу 33 и наименовањима уз CN ознаке 3307 и 3307 90 00.
+Како производ није издвојено хемијски одређено једињење, искључује се његово сврставање у тарифни број 2835 као фосфата (видети Напомену 1. уз Главу 28).
+Како је производ припремљен у паковању за продају на мало, погодан за употребу у козметичке или тоалетне сврхе, сматра се козметичким или тоалетним препаратом. Према томе, искључује се његово сврставање у Главу 25 или у Главу 30 (видети Напомену 2(г) уз Главу 25 и Напомену 1(д) уз Главу 30).
+Производ се, према томе, сврстава у тарифни број 3307 као остали остали козметички или тоалетни препарати на другом месту непоменути нити обухваћени.

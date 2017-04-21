@@ -1,0 +1,138 @@
+На основу члана 3а став 4. Закона о Царинској тарифи („Службени гласник Републике Србије”, бр. 62/05, 61/07 и 5/09) објављује се Уредба Комисије (ЕУ) о спровођењу број 1124/2012 од 26. новембра 2012. године у вези са сврставањем одређених роба у Комбинованој номенклатури објављена у „Службеном листу Европске уније”, број L 331/7 од 1. децембра 2012. године, која у оригиналу на енглеском језику и у преводу на српски језик гласи: 
+COMMISSION IMPLEMENTING REGULATION (EU) No 1124/2012 of 26 November 2012 concerning the classification of certain goods in the Combined Nomenclature
+"Службени гласник РС", број 9 од 29. јануара 2013.
+THE EUROPEAN COMMISSION,
+Having regard to the Treaty on the Functioning of the European Union,
+Having regard to Council Regulation (EEC) No 2658/87 of 23 July 1987 on the tariff and statistical nomenclature and on the Common Customs Tariff (1), and in particular Article 9(1)(a) thereof,
+Whereas:
+(1) In order to ensure uniform application of the Combined Nomenclature annexed to Regulation (EEC) No 2658/87, it is necessary to adopt measures concerning the classification of the goods referred to in the Annex to this Regulation.
+(2) Regulation (EEC) No 2658/87 has laid down the general rules for the interpretation of the Combined Nomenclature. Those rules apply also to any other nomenclature which is wholly or partly based on it or which adds any additional subdivision to it and which is established by specific provisions of the Union, with a view to the application of tariff and other measures relating to trade in goods.
+(3) Pursuant to those general rules, the goods described in column (1) of the table set out in the Annex should be classified under the CN code indicated in column (2), by virtue of the reasons set out in column (3) of that table.
+(4) It is appropriate to provide that binding tariff information which has been issued by the customs authorities of Member States in respect of the classification of goods in the Combined Nomenclature but which is not in accordance with this Regulation can, for a period of three months, continue to be invoked by the holder, under Article 12(6) of Council Regulation (EEC) No 2913/92 of 12 October 1992 establishing the Community Customs Code (2).
+(5) The measures provided for in this Regulation are in accordance with the opinion of the Customs Code Committee,
+HAS ADOPTED THIS REGULATION:
+Article 1
+The goods described in column (1) of the table set out in the Annex shall be classified within the Combined Nomenclature under the CN code indicated in column (2) of that table.
+Article 2
+Binding tariff information issued by the customs authorities of Member States, which is not in accordance with this Regulation, can continue to be invoked for a period of three months under Article 12(6) of Regulation (EEC) No 2913/92.
+Article 3
+This Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union.
+This Regulation shall be binding in its entirety and directly applicable in all Member States. 
+Done at Brussels, 26 November 2012.
+––––––––––––
+(1) OJ L 256, 7.9.1987, p. 1.
+(2) OJ L 302, 19.10.1992, p. 1.
+For the Commission, 
+On behalf of the President,
+Algirdas ŠEMETA 
+Member of the Commission
+ANNEX
+
+
+
+
+Description of the goods
+
+
+Classification (CN code)
+
+
+Reasons
+
+
+
+
+(1)
+
+
+(2)
+
+
+(3)
+
+
+
+
+A hermetically sealed weighing sensor (so- called "load cell") incorporating a strain gauge in the form of a bridge circuit with dimensions of approximately 13 x 3 x 3 cm.
+The load cell operates at the deflection of the strain gauge filament when it is subjected to a physical force. The physical force creates a change in resistance of the filament, thereby unbalancing the bridge circuit which in turn changes the voltage of the current passing through.
+The load cell converts the physical force acting on it into an electrical signal proportional to that force. The signal is read out, processed and shown by a device not included upon presentation.
+The load cell is designed to be used, for example, in floor scales, blenders, hoppers and tank scales.
+
+
+9031 80 98
+
+
+Classification is determined by General Rules 1, 2(a) and 6 for the interpretation of the Combined Nomenclature, Note 1(m) to Section XVI and by the wording of CN codes 9031, 9031 80 and 9031 80 98.
+The load cell is designed for converting physical force into an electrical signal for measuring purposes. As it does not itself show the result of the measurement, it is considered to be an incomplete measuring instrument not specified or included elsewhere in Chapter 90. Consequently, classification under heading 8423 as a part of weighing machinery is excluded (see also the HS Explanatory Notes to heading 9031, (A), point (30)).
+The article is therefore to be classified under CN code 9031 80 98 as other instruments not specified or included elsewhere in Chapter 90.
+
+
+
+
+УРЕДБА КОМИСИЈЕ (ЕУ) О СПРОВОЂЕЊУ број 1124/2012 од 26. новембра 2012. годинеу вези са сврставањем одређених роба према Комбинованој номенклатури
+"Службени гласник РС", број 9 од 29. јануара 2013.l
+КОМИСИЈА ЕВРОПСКЕ УНИЈЕ,
+Имајући у виду Уговор о функционисању Европске уније,
+Имајући у виду Уредбу Савета (ЕЕЗ) број 2658/87 од 23. јула 1987. године о тарифској и статистичкој номенклатури и Заједничкој царинској тарифи1, а посебно њен члан 9(1)(а),
+С обзиром на то:
+(1) да је, да би се осигурала доследна примену Комбиноване номенклатуре дате у прилогу Уредбе (ЕЕЗ) број 2658/87, неопходно усвојити мере у вези са сврставањем роба наведених у Анексу уз ову уредбу;
+(2) да су Уредбом (ЕЕЗ) број 2658/87 одређена основна правила за тумачење Комбиноване номенклатуре. Ова правила се такође примењују на било коју другу номенклатуру која се у потпуности или делимично заснива на њој, или којој су додате било које потподеле и која је установљена посебним прописима Уније, са циљем примене тарифских и других мера везаних за трговину робом;
+(3) да се сходно тим основним правилима, роба описана у колони 1 табеле дате у Анексу сврстава у CN ознаку наведену у колони 2, према разлозима датим у колони 3 табеле;
+(4) да је одговарајуће обезбедити да, ималац обавезујуће тарифне информације, коју су издали царински органи држава чланица у односу на сврставање робе према Комбинованој номенклатури, али која није у складу са овом уредбом, може у периоду од три месеца, да настави да се позива на њу, према члану 12(6) Уредбе Савета (ЕЕЗ) број 2913/92 од 12. октобра 1992. године којом је установљен Царински закон Заједнице2;
+(5) да су мере предвиђене овом уредбом у складу са мишљењем Одбора за Царински закон.
+УСВОЈИЛА ЈЕ ОВУ УРЕДБУ:
+Члан 1.
+Роба описана у колони 1 табеле дате у Анексу сврстава се у оквиру Комбиноване номенклатуре у CN ознаку наведену у колони 2 те табеле.
+Члан 2.
+Обавезујућа тарифна информација коју су издали царински органи државе чланице, а која није у складу са овом уредбом наставиће да важи у периоду од три месеца по члану 12(6) Уредбе (ЕЕЗ) број 2913/92.
+Члан 3.
+Ова уредба ступа на снагу 20. дана од дана објављивања у „Службеном листу Европске уније”.
+Ова уредба у потпуности је обавезујућа и директно применљива у свим државама чланицама.
+У Бриселу, 26. новембра 2012. године
+––––––––––––
+1 OJ L 256, 7. 9. 1987, стр. 1.
+2 OJ L 302, 19. 10. 1992, стр. 1
+За Комисију
+У име председника
+Algirdas Šemeta
+члан Комисије
+АНЕКС
+
+
+
+
+Опис робе
+
+
+Сврставање
+(CN ознака)
+
+
+Разлози
+
+
+
+
+(1)
+
+
+(2)
+
+
+(3)
+
+
+
+
+Херметички заптивен сензор тежине (такозвана „мерна ћелија”) има уграђен мерач напрезања у облику мостног кола, димензија приближно 13 x 3 x 3 cm.
+Мерна ћелија (load cell) ради при угибању филамента мерача напрезања када на њега делује физичка сила. Физичка сила ствара промену отпора филамента и на тај начин нарушава равнотежу мостног кола које као одговор мења напон струје која пролази кроз њега.
+Мерна ћелија претвара физичку силу која на њу делује, у електрични сигнал пропорционалан тој сили. Сигнал се очитава, обрађује и приказује на уређају који није укључен у испоруку.
+Мерна ћелија је конструисана да се користи, на пример, у подним вагама, вагама у мешалицама, спремиштима и цистернама.
+
+
+9031 80 98
+
+
+Сврставање је одређено Основним правилима 1, 2(а) и 6 за примењивање Комбиноване номенклатуре, Напоменом 1 под (к) уз Одељак XVI и наименовањима уз CN ознаке 9031, 9031 80 и 9031 80 98.
+Мерна ћелија је пројектована за претварање физичке силе у електрични сигнал за потребе мерења. Пошто она сама не приказује резултате мерења, сматра се некомплетним инструментом за мерење, непоменутим нити обухваћеним на другом месту у Глави 90. Сходно томе, искључује се сврставање у тарифни број 8423 као дела ваге (видети такође ХС Коментар уз тарифни број 9031, (А), тачка (30)).
+Производ се, према томе, сврстава у CN ознаку 9031 80 98 као инструменти непоменути нити обухваћени на другом месту у Глави 90.

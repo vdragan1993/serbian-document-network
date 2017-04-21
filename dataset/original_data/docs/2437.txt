@@ -1,0 +1,273 @@
+На основу члана 3а став 4. Закона о Царинској тарифи („Службени гласник Републике Србије”, бр. 62/05, 61/07 и 5/09) објављује се Уредба Комисије (ЕЗ) број 1165/95 од 23. маја 1995. године у вези са сврставањем одређених роба у Комбинованој номенклатури објављена у „Службеном листу Европских заједница”, број L 117/15 од 24. маја 1995. године, која у оригиналу на енглеском језику и у преводу на српски језик гласи:
+ 
+COMMISSION REGULATION (EC) No 1165/95 
+	of 23 May 1995concerning the classification of certain goods inthe combined nomenclature
+
+"Службени гласник РС", број 90 од 18. 
+	септембра 2012.
+ 
+THE COMMISSION OF THE EUROPEAN COMMUNITIES,
+Having regard to the Treaty establishing the European Community,
+Having regard to Council Regulation (EEC) No 2658/87(1) on the tariff and statistical nomenclature and on the Common Customs Tariff, as last amended by Commission Regulation (EC) No 3115/94(2), and in particular Article 9,
+Whereas in order to ensure uniform application of the combined nomenclature annexed to the said Regulation, it is necessary to adopt measures concerning the classification of the goods referred to in the Annex to this Regulation;
+Whereas Regulation (EEC) No 2658/87 has set down the general rules for the interpretation of the combined nomenclature and those rules also apply to any other nomenclature which is wholly or partly based on it or which adds any additional subdivision to it and which is established by specific Community provisions, with a view to the application of tariff and other measures relating to trade in goods;
+Whereas, pursuant to the said general rules, the goods described in column 1 of the table annexed to the present Regulation must be classified under the appropriate CN codes indicated in column 2, by virtue of the reasons set out in column 3;
+Whereas it is acceptance that binding tariff information issued by the customs authorities of Member States in respect of the classification of goods in the combined nomenclature and which do not conform to the rights established by this Regulation, can continue to be invoked, under the provisions in Article 12(6) of Council Regulation (EEC) No 2913/92 establishing the Community Customs Code(3), for a period of three months by the holder;
+Whereas the tariff and statistical nomenclature section of the Customs Code Committee has not delivered an opinion with the time limit set by its chairman as regards products Nos 4 and 7 in the annexed table;
+Whereas the measures provided for in this Regulation are in accordance with the opinion of the tariff and statistical nomenclature section of the Customs Code Committee as regards products Nos 1, 3, 5 and 6 in the annexed table,
+HAS ADOPTED THIS REGULATION:
+Article 1
+The goods described in column 1 of the annexed table are now classified within the combined nomenclature under the appropriate CN codes indicated in column 2 of the said table.
+Article 2
+Binding tariff information isued by the customs authorities of Member States which do not conform to the rights established by this Regulation can continue to be invoked under the provisions of Article 12(6) of Regulation (EEC) No 2913/92 for a period of three months.
+Article 3
+This Regulation shall enter into force on the 21st day following its publication in the Official Journal of the European Communities.
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+Done at Brussels, 23 May 1995.
+––––––––––––––––
+(1) OJ No L 256, 7. 9. 1987, p. 1.
+(2) OJ No L 345, 31. 12. 1994, p. 1.
+(3) OJ No L 302, 19. 10. 1992, p. 1.
+For the Commission
+Mario MONTI
+Member of the Commission
+ANNEX
+
+
+
+
+Description of goods
+
+Classification CN code
+
+Reason
+
+
+
+(1)
+
+(2)
+
+(3)
+
+
+
+
+
+1. An ornamental article (luminous fountain or 'running tap'), put up unassembled in a packing for retail sale. Assembled, the various plastic components (a base about 15 cm diameter, incorporating a lighting system and an electric motor with a ppwer-supply cable, and equipped with a switch, three basins, various pipe connections, a tap, a small figure of a dancer, artificial flowers and foliage, etc.) form one or other of the articles depicted (*) (height between 30 cm and 40 cm)
+(*) See photograph.
+
+3926 40 00
+
+Classification is determined by the provisions of General Rules 1 and 6 for the interpretation of the combined nomenclature and by the wording of CN codes 3926 and 3926 40 00
+
+
+
+
+2. Slippers consisting of a textile upper and an outer sole of plastic (approximately one centimetre thick), the outside of which is entirely covered by a very thin layer of textile material, with poor wearing properties, stuck along the edges
+
+
+6404 19 10
+
+Classification is determined by the provisions of General Rules 1 and 6 for the interpretation of the combined nomenclature, note 4 (b) to Chapter 64 and by the wording of CN codes 6404, 6404 19 and 6404 19 10
+
+
+
+
+3. An automated cartridge system in a casing consisting, essentially, of:
+(a) one or more library storage modules (each containing cartridge storage cells and a microprocessor controlled robot and having one or more attached cartridge drive frames and control units); and
+(b) a library management unit with integral software (which acts as the link between the library storage modules and one or more central processing units).
+This system is specifically designed for the automatic loading, processing, storage and unloading of magnetic tape cartridges for automatic data processing purposes
+
+
+8471 99 10
+
+Classification is determined by the provisions of General Rules 1 and 6 for the interpretation' of the combined nomenclature, by note 5 B to Chapter 84 and by the wording of CN codes 8471, 8471 99 and 8471 99 10
+
+
+
+
+4. An adapter card for incorporation in cable linked digital automatic data-processing (ADP) machines enabling the exchange of data over a local area network (LAN) without using a modem.
+
+
+8517 82 90
+
+Classification is determined by the provisions of General Rules 1 and 6 for the interpretation of the combined nomenclature, by note 5 to Chapter 84 and by the wording of CN codes 8517, 8517 82 and 8517 82 90
+
+
+
+
+With such a card, an ADP-machine can be used as an input-output device for another machine or a central processing unit.
+The card constitutes a printed circuit of a size of about 10 x 21 cm incorporating integrated circuits and active and passive components.
+It is fitted with a row of pin contacts corresponding to an expansion slot in the ADP-machine, with an attachment to the connection cable of the LAN and light emitting diodes (LEDs)
+
+
+
+
+
+
+5. A miniature electro-acoustic receiver (earphone) in a housing whose exterior dimensions do not exceed 7 x 7x5 mm.
+The receiver comprises a magnet, a coil and a diaphragm to recieve electrical signals which cause the diaphragm to vibrate thus producing audible sound.
+The receiver may be used together with an amplifier as a hearing aid
+
+
+8518 30 90
+
+Classification is determined by the provisions of General Rules 1 and 6 for the interpretation of the combined nomenclature, by note 2 (a) to Chapter 90 and by the wording of CN codes 8518, 8518 30 and 8518 30 90
+
+
+
+
+6. A laser copier comprising mainly a device for scanning (scanner), a digital image processing device and a printing device (laser printer), contained in a housing.
+The scanning device uses an optical system, consisting of a lamp, mirrors, lenses and photocells to scan the original image line by line.
+The copies are produced electrostatically via a drum on the laser printer using the indirect process. The laser copier has several additional features for altering the original image, e.g. reduction, enlargement, shading
+
+
+9009 12 00
+
+Classification is determined by the provisions of General Rules 1 and 6 for the interpretation of the combined nomenclature and by the wording of CN codes 9009 and 9009 12 00
+
+
+
+
+7. Little star and heart shapes in a variety of colours (red, green and shiny silver) and multicoloured granules, the size of pinheads, made from plastic film, and used to decorate e.g. a table on which food for a carnival celebration, children's party or Advent festivity is served. The decorative effect is achieved by sprinkling the products
+
+
+9505 90 00
+
+Classification is determined by the provisions of General Rules 1 and 6 for the interpretation of the combined nomenclature and by the wording of CN codes 9505 and 9505 90 00
+
+
+
+
+
+ 
+ 
+УРЕДБА КОМИСИЈЕ (ЕЗ) број 1165/95од 23. маја 1995. годинеу вези са сврставањем одређених роба премаКомбинованој номенклатури
+
+"Службени гласник РС", број 90 од 18. 
+	септембра 2012.
+ 
+КОМИСИЈА ЕВРОПСКИХ ЗАЈЕДНИЦА,
+Имајући у виду Уговор о оснивању Европске заједнице,
+Имајући у виду Уредбу Савета (ЕЕЗ) број 2658/87 од 23. јула 1987. године о тарифској и статистичкој номенклатури и Заједничкој царинској тарифи1, како је задњи пут измењена Уредбом Комисије (ЕЗ) број 3115/942, и посебно њен члан 9,
+С обзиром на то да би осигурала доследну примену Комбиноване номенклатуре дате у Анексу поменуте Уредбе, неопходно је усвојити мере у вези са сврставањем роба наведених у Анексу уз ову уредбу;
+С обзиром на то да су Уредбом (ЕЕЗ) број 2658/87 одређена основна правила за тумачење Комбиноване номенклатуре. Ова правила се такође примењују на било коју другу номенклатуру која се у потпуности или делимично заснива на њој, или којој су додате било које потподеле и која је установљена посебним прописима Уније, са циљем примене тарифских и других мера везаних за трговину робом;
+С обзиром на то да сходно тим основним правилима, роба описана у колони 1 табеле дате у Анексу треба да се сврстава у одговарајућу CN ознаку наведену у колони 2, према разлозима датим у колони 3 табеле;
+С обзиром на то да да је прихваћено да се ималац обавезујуће тарифне информације, коју су издали царински органи држава чланица у односу на сврставање робе према Комбинованој номенклатури али која није у складу са овом уредбом, може у периоду од три месеца, наставити да се позива на њу, према члану 12(6) Уредбе Савета (ЕЕЗ) број 2913/92 којом је установљен Царински закон Заједнице3;
+С обзиром на то да Група за тарифску и статистичку номенклатуру Одбора за Царински закон није издао мишљење у року који је одредио председавајући кад су у питању производи бр. 4 и 7 из приложене табеле;
+С обзиром на то да да су мере предвиђене овом уредбом у складу са мишљењем Групе за тарифску и статистичку номенклатуру Одбора за Царински закон кад су у питању производи бр. 1, 3, 5, и 6 из приложене табеле.
+ДОНЕЛА ЈЕ ОВУ УРЕДБУ:
+Члан 1.
+Роба описана у колони 1 табеле дате у Анексу сврстаће се у оквиру Комбиноване номенклатуре у одговарајуће CN ознаке наведене у колони 2 поменуте табеле.
+Члан 2.
+Обавезујућа тарифна информација, коју су издали царински органи држава чланица али која није у складу са условима ове уредбе, може наставити да важи у периоду од три месеца, према члану 12(6) Уредбе Савета (ЕЕЗ) број 2913/92.
+Члан 3.
+Ова уредба ступа на снагу 21. дана од дана објављивања у „Службеном листу Европских заједница”.
+Ова уредба ће у потпуности бити обавезујућа и директно применљива у свим државама чланицама.
+У Бриселу, 23. маја 1995. године 
+–––––––––––––––
+1  OJ L 256, 7.9.1987, стр. 1
+2  OJ L 345, 31.12.1994, стр. 1
+3 OJ L 302, 19.10.1992, стр. 1
+ 
+За Комисију
+Mario MONTI
+Члан Комисије
+АНЕКС
+
+
+
+
+Опис робе
+
+Сврставање
+(CN ознака)
+
+Разлози
+
+
+
+
+
+1. Украсни производ („светлећа фонтана” или „проточна славина”), припремљен у несастављеном облику у паковању за продају на мало. Састављени, различити пластични делови (основе приближно 15 cm у пречнику, у које је уграђен светлосни систем и електрични мотор са каблом за напајање опремљен, са уграђеним прекидачем, три кадице, различитим цевним прикључцима, славином, малом статуетом плесача, вештачким цвећем и биљкама, итд.) чине један или други описани производ (*) (висине између 30 cm и 40 cm)
+(*) Видети фотографију.
+
+3926 40 00
+
+Сврставање је одређено условима Основних правила 1 и 6 за примењивање Комбиноване номенклатуре и наименовањем уз CN ознаке 3926 и 3926 40 00.
+
+
+
+
+2. Папуче, састављене од горњишта од текстила и спољашњег ђона од пластике (приближно 1 cm дебљине) који је цео прекривен веома танким слојем текстилног материјала слабих карактеристика на хабање, фиксираним дуж ивица.
+
+
+6404 19 10
+
+Сврставање је одређено условима Основних правила 1 и 6 за примењивање Комбиноване номенклатуре, Напоменом 4 (б) уз Главу 64 и наименовањем уз CN ознаке 6404, 6404 19 и 6404 19 10.
+
+
+
+
+3. Аутоматски систем касета, у кућишту, који се у основи састоји од: 
+				
+(а) једног или више модула за меморисање података у библиотеке (сваки садржи одељке за смештај касета и микропроцесорски контролисаног робота, и има додате један или више оквира за уградњу уређаја за репродукцију касета и управљачке јединице); и
+(б) јединицу за уређивање садржаја библиотека са интегрисаним софтвером (која ради као веза између модула за меморисање података у библиотеке и једну или више централних процесорских јединица). 
+				
+Овај систем је пројектован посебно за аутоматско преузимање („loading”), обраду, смештај и брисање магнетних трака касета, за сврхе аутоматске обраде података.
+
+
+8471 99 104
+
+Сврставање је одређено условима Основних правила 1 и 6 за примењивање Комбиноване номенклатуре, Напоменом 5 Б уз Главу 845 и наименовањем уз CN ознаке 8471, 8471 99 и 8471 99 106.
+
+
+
+
+4.7
+
+
+
+
+
+5. Минијатурни електро акустични пријемник (слушалица „бубица”), у кућишту спољашњих димензија не већих од 7 x 7 x 5 mm. Пријемник чине магнет, калем, и мембрана која вибрира при пријему електричних сигнала, тако производећи звук који се може чути. Пријемник се може користити заједно са појачавачем, као слушни апарат.
+
+
+8518 30 908
+
+Сврставање је одређено условима Основних правила 1 и 6 за примењивање Комбиноване номенклатуре, Напоменом 2 (а) уз Главу 90 и наименовањем уз CN ознаке 8518, 8518 30 и 8518 30 909.
+
+
+
+
+6. Ласерска машина за копирање састоји се углавном од уређаја за скенирање (скенера) уређаја за обраду дигиталних слика и уређаја за штампање (ласерски штампач), смештених у јединственом кућишту.
+Уређај за скенирање користи оптички систем, који се састоји од лампе, огледала, сочива и фотоћелија за скенирање слике оригинала, ред по ред.
+Копије се израђују електростатички, индиректиним поступком, преко бубња на ласерском штампачу. Ласерска машина за копирање има неколико додатних функционалности за мењање слике оригинала, нпр., смањење, повећање, сенчење.
+
+
+9009 12 0010
+
+Сврставање је одређено условима Основних правила 1 и 6 за примењивање Комбиноване номенклатуре и наименовањем уз CN ознаке 9009 и 9009 12 0011.
+
+
+
+
+7. Облици малих звезда и срца, различитих боја (црвена, зелена, светлеће сива) и шарене куглице величине главе прибадаче, израђене од пластичног филма, а користе се за украшавање нпр. стола са храном која се послужује за карневалске прославе, дечје журке или божићне прославе. Украсни ефекат постиже се посипањем производа.
+
+
+9505 90 00
+
+Сврставање је одређено условима Основних правила 1 и 6 за примењивање Комбиноване номенклатуре и наименовањем уз CN ознаке 9505 и 9505 90 00.
+
+
+
+
+4 замењено са „8471 80 00” у складу са тачком 65 Анекса А Уредбе Комисије (ЕЗ) број 936/1999 од 27. априла 1999. године којом се мењају или стављају ван снаге одређене Уредбе у вези са сврставањем робе према Комбинованој номенклатури (OJ L 117 од 5. маја 1999, стр. 9), која је објављена у „Службеном гласнику РС”, број 79/2011 и тачком 69 Анекса I Уредбе Комисије (ЕЗ) број 705/2005 од 4. маја 2005. године којом се мењају или стављају ван снаге одређене Уредбе у вези са сврставањем робе према Комбинованој номенклатури (OJ L 118 од 5. маја 2005, стр. 18), која је објављена у „Службеном гласнику РС”, број 75/2010.
+5 замењено са „напоменом 5(В) уз Главу 84” у складу са тачком 65 Анекса А Уредбе Комисије (ЕЗ) број 936/1999 од 27. априла 1999. године којом се мењају или стављају ван снаге одређене Уредбе у вези са сврставањем робе према Комбинованој номенклатури (OJ L 117 од 5. маја 1999, стр. 9), која је објављена у „Службеном гласнику РС”, број 79/2011.
+6 замењено са „8471 80, 8471 80 00 ” у складу са тачком 65 Анекса А Уредбе Комисије (ЕЗ) број 936/1999 од 27. априла 1999. године којом се мењају или стављају ван снаге одређене Уредбе у вези са сврставањем робе према Комбинованој номенклатури (OJ L 117 од 5. маја 1999, стр. 9), која је објављена у „Службеном гласнику РС”, број 79/2011 и тачком 69 Анекса I Уредбе Комисије (ЕЗ) број 705/2005 од 4. маја 2005. године којом се мењају или стављају ван снаге одређене Уредбе у вези са сврставањем робе према Комбинованој номенклатури (OJ L 118 од 5. маја 2005, стр. 18), која је објављена у „Службеном гласнику РС”, број 75/2010.
+7 поништено пресудом Европског суда (Пето веће) од 10. маја 2001. године у случају C-468/98.
+8 замењено са „8518 30 95” у складу са тачком 80 Анекса А Уредбе Комисије (ЕЗ) број 936/1999 од 27. априла 1999. године којом се мењају или стављају ван снаге одређене Уредбе у вези са сврставањем робе према Комбинованој номенклатури (OJ L 117 од 5. маја 1999, стр. 9), која је објављена у „Службеном гласнику РС”, број 79/2011и тачком 74 под (а) под (i) Анекса I Уредбе Комисије (ЕЗ) број 1179/2009 од 26. новембра 2009. године којом се мењају или стављају ван снаге одређене Уредбе у вези са сврставањем робе према Комбинованој номенклатури (OJ L 317 од 3. децембра 2009, стр. 23), која је објављена у „Службеном гласнику РС”, број 7/10.
+9 замењено са „8518 30 95” у складу са тачком 80 Анекса А Уредбе Комисије (ЕЗ) број 936/1999 од 27. априла 1999. године којом се мењају или стављају ван снаге одређене Уредбе у вези са сврставањем робе према Комбинованој номенклатури (OJ L 117 од 5. маја 1999, стр. 9), која је објављена у „Службеном гласнику РС” број 79/2011и тачком 74 под (а) под (ii) Анекса I Уредбе Комисије (ЕЗ) број 1179/2009 од 26. новембра 2009. године којом се мењају или стављају ван снаге одређене Уредбе у вези са сврставањем робе према Комбинованој номенклатури (OJ L 317 од 3. децембра 2009, стр. 23), која је објављена у „Службеном гласнику РС”, број 7/10.
+10 замењено са „8443 39 10” у складу са тачком 75 под (b) под (i) Анекса I Уредбе Комисије (ЕЗ) број 1179/2009 од 26. новембра 2009. године којом се мењају или стављају ван снаге одређене Уредбе у вези са сврставањем робе према Комбинованој номенклатури (OJ L 317 од 3. децембра 2009, стр. 23), која је објављена у „Службеном гласнику РС”, број 7/10.
+11 замењено са „8443, 8443 39 и 8443 39 10” у складу са тачком 75 под (b) под (ii) Анекса I Уредбе Комисије (ЕЗ) број 1179/2009 од 26. новембра 2009. године којом се мењају или стављају ван снаге одређене Уредбе у вези са сврставањем робе према Комбинованој номенклатури (OJ L 317 од 3. децембра 2009, стр. 23), која је објављена у „Службеном гласнику РС”, број 7/10.

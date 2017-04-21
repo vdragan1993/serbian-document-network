@@ -1,0 +1,163 @@
+На основу члана 3а став 4. Закона о Царинској тарифи („Службени гласник РС”, бр. 62/05, 61/07 и 5/09) објављује се Уредба Комисије (ЕУ) о спровођењу број 1036/2014 од 25. септембра 2014. године, у вези са сврставањем одређенe робe у Комбинованој номенклатури објављена у „Службеном листу Европске уније”, број L 287/6 од 1. октобра 2014. године, која у оригиналу на енглеском језику и у преводу на српски језик гласи:
+COMMISSION IMPLEMENTING REGULATION (EU) No 1036/2014 of 25 September 2014 concerning the classification of certain goods in the Combined Nomenclature"Службени гласник РС", број 137 од 16. децембра 2014.
+THE EUROPEAN COMMISSION,
+Having regard to the Treaty on the Functioning of the European Union,
+Having regard to Council Regulation (EEC) No 2658/87 of 23 July 1987 on the tariff and statistical nomenclature and on the Common Customs Tariff(1), and in particular Article 9(1)(a) thereof,
+Whereas:
+(1) In order to ensure uniform application of the Combined Nomenclature annexed to Regulation (EEC) No 2658/87, it is necessary to adopt measures concerning the classification of the goods referred to in the Annex to this Regulation.
+(2) Regulation (EEC) No 2658/87 has laid down the general rules for the interpretation of the Combined Nomenclature. Those rules apply also to any other nomenclature which is wholly or partly based on it or which adds any additional subdivision to it and which is established by specific provisions of the Union, with a view to the application of tariff and other measures relating to trade in goods.
+(3) Pursuant to those general rules, the goods described in column (1) of the table set out in the Annex should be classified under the CN code indicated in column (2), by virtue of the reasons set out in column (3) of that table.
+(4) It is appropriate to provide that binding tariff information issued in respect of the goods concerned by this Regulation which does not conform to this Regulation may, for a certain period, continue to be invoked by the holder in accordance with Article 12(6) of Council Regulation (EEC) No 2913/92(²). That period should be set at three months.
+(5) The measures provided for in this Regulation are in accordance with the opinion of the Customs Code Committee,
+HAS ADOPTED THIS REGULATION:
+Article 1
+The goods described in column (1) of the table set out in the Annex shall be classified within the Combined Nomenclature under the CN code indicated in column (2) of that table.
+Article 2
+Binding tariff information which does not conform to this Regulation may continue to be invoked in accordance with Article 12(6) of Regulation (EEC) No 2913/92 for a period of three months from the date of entry into force of this Regulation.
+Article 3
+This Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union.
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+Done at Brussels, 25 September 2014.
+––––––––––––
+(1) OJ L 256, 7.9.1987, p. 1.
+(2) Council Regulation (EEC) No 2913/92 of 12 October 1992 establishing the Community Customs Code (OJ L 302, 19.10.1992, p. 1).
+For the Commission,
+On behalf of the President,
+Heinz ZOUREK
+Director-General for Taxation and Customs Union
+ANNEX
+
+
+
+
+Description of the goods
+
+
+(CN-code)
+
+
+Reasons
+
+
+
+
+(1)
+
+
+(2)
+
+
+(3)
+
+
+
+
+A printed circuit assembly presented for incorporation into a reception apparatus for television incorporating a LCD screen and a video reproducing apparatus.
+The assembly comprises the following interfaces for connecting with external apparatus:
+– VGA input,
+– HDMI inputs (HDCP supported),
+– RGB video inputs (SCART connectors),
+– video component input,
+– CVBS video input and output,
+– audio input and output,
+– loudspeaker output,
+– USB socket.
+The assembly also comprises several internal interfaces, for example, a low-voltage differential signalling (LVDS) interface for connecting with a LCD screen and an interface to the internal power supply.
+The assembly does not incorporate a so-called ‘tuner’ comprising radio frequency circuits (RF block), intermediate frequency circuits (IF block) and demodulation circuits (DEM block), for the reception of digital television signals.
+The LCD screen is not included upon presentation.
+The assembly performs several functions, for example, analogue-digital conversion, video decoding (for example, MPEG4), scaling, audio decoding, audio amplification, HDMI receiver and LVDS output transmitter for an LCD screen.
+In addition to standard video or television signals, the scaler is also able to process several incoming resolutions of the automatic-data processing (ADP) machine type (up to 1 920 x 1 080 pixels) into the native resolution of a LCD screen.
+The assembly is able to reproduce images and sound from an USB memory.
+
+
+8529 90 65
+
+
+Classification is determined by general rules 1 and 6 for the interpretation of the Combined Nomenclature, note 2(b) to Section XVI and by the wording of CN codes 8529, 8529 90 and 8529 90 65.
+The assembly does not only have electronic components performing a video reproducing function, but it also contains components performing additional functions, such as the LVDS output transmitter for a LCD screen and the scaler which is, due to its ability to process several automatic data-processing type
+resolutions, specifically designed for reception apparatus for television incorporating a LCD screen. As the assembly contains more components (functionalities) than covered by heading 8521, classification under that heading as video reproducing apparatus is excluded.
+As the LCD screen is missing, classification under subheading 8528 72 40 as a reception apparatus for television with a screen is excluded.
+The assembly is therefore to be classified under CN code 8529 90 65 as electronic assemblies for apparatus of heading 8528.
+
+
+
+
+УРЕДБА КОМИСИЈЕ (ЕУ) О СПРОВОЂЕЊУ број 1036/2014 од 25. септембра 2014. године у вези са сврставањем одређенe робe према Комбинованој номенклатури"Службени гласник РС", број 137 од 16. децембра 2014.
+ЕВРОПСКА КОМИСИЈА,
+Имајући у виду Уговор о функционисању Европске уније,
+Имајући у виду Уредбу Савета (ЕЕЗ) број 2658/87 од 23. јула 1987. године о тарифној и статистичкој номенклатури и Заједничкој царинској тарифи1, а посебно члан 9. став 1. тачка а),
+с обзиром на то да:
+(1) Како би се осигурала једнообразна примена Комбиноване номенклатуре приложене уз Уредбу (ЕЕЗ) број 2658/87, неопходно је усвојити мере у вези са сврставањем робе наведене у Анексу ове уредбе;
+(2) Уредбом (ЕЕЗ) број 2658/87 утврђена су основна правила за примењивање Комбиноване номенклатуре. Ова правила се такође примењују на сваку другу номенклатуру која се у потпуности или делимично заснива на њој, или која јој додаје било какве потподеле и која је установљена посебним прописима Уније, са циљем примене тарифних и других мера које се односе на трговину робом;
+(3) У складу са тим основним правилима, роба описана у колони 1. табеле у Анексу сврстава се у CN ознаку наведену у колони 2, према разлозима датим у колони 3. те табеле;
+(4) Потребно је обезбедити да ималац обавезујуће тарифне информације, издате за робу на коју се односи ова уредба, а која није у складу са овом уредбом, може одређени период, да настави да се позива на њу, према члану 12. став 6. Уредбе Савета (ЕЕЗ) број 2913/92². Овај период треба да буде три месеца; 
+(5) Мере предвиђене овом уредбом су у складу са мишљењем Одбора за Царински кодекс.
+ДОНЕЛА ЈЕ ОВУ УРЕДБУ:
+Члан 1.
+Роба описана у колони 1. табеле дате у Анексу сврстава се у оквиру Комбиноване номенклатуре у CN ознаку наведену у колони 2. те табеле.
+Члан 2.
+Могуће је позивати се на обавезујућу тарифну информацију која није у складу са овом уредбом, у складу са чланом 12. став 6. Уредбе (ЕЕЗ) број 2913/92, у периоду од три месеца од дана ступања на снагу ове уредбе.
+Члан 3.
+Ова уредба ступа на снагу 20. дана од дана објављивања у „Службеном листу Европске уније”.
+Ова уредба је обавезујућа у целини и непосредно се примењује у свим државама чланицама.
+У Бриселу, 25. септембра 2014. године. 
+–––––––––––
+1 OJ L 256, 7.9.1987. стр.1
+2 Уредба Савета (ЕЕЗ) број 2913/92 од 12. октобра 1992. године којом је установљен Царински кодекс Заједнице (OJ L 302, 19.10.1992, стр. 1).
+За Комисију,
+у име председника,
+Heinz ZOUREK
+генерални директор за порезе и царинску унију
+АНЕКС
+
+
+
+
+Опис робе
+
+
+Сврставање
+(CN ознака)
+
+
+Разлози
+
+
+
+
+(1)
+
+
+(2)
+
+
+(3)
+
+
+
+
+Склоп штампаних кола испоручен за уградњу у телевизијски пријемник са уграђеним LCD екраном и апаратом за репродукцију слике.
+Склоп обухвата следеће интерфејсе за повезивање са спољашњим апаратима:
+– VGA улаз
+– HDMI улазе (са HDCP подршком)
+– RGB видео улазе (SCART конектори),
+– улаз за видео компоненту,
+– CVBS видео улаз и излаз,
+– аудио улаз и излаз,
+– излаз за звучник
+– USB утичницу.
+Склоп такође обухвата неколико унутрашњих интерфејса, на пример, нисконапонски диференцијални сигнални интерфејс (LVDS) за повезивање са LCD екраном и интерфејс за унутрашње напајање.
+Склоп не садржи тзв. „тјунер” који се састоји од радио фреквентног кола („RF блок”), међуфреквентног кола („IF блок”) и кола за демодулацију („DEM блок”), за пријем дигиталних телевизијских сигнала.
+LCD екран није укључен у испоруку.
+Склоп врши неколико функција, на пример, аналогно-дигиталну конверзију, видео декодирање (на пример, MPEG4), скалирање, аудио декодирање, аудио појачавање, HDMI пријем и LVDS излазни пренос на LCD екран.
+Поред стандардних видео или телевизијских сигнала, скалер такође може да обради неколико долазних резолуција са машине типа АОП (до 1920 x 1080 пиксела) на природну резолуцију LCD екрана.
+Склоп може да репродукује слике и звук са USB меморије.
+
+
+8529 90 65
+
+
+Сврставање је одређено Основним правилима 1. и 6. за примењивање Комбиноване номенклатуре, Напоменом 2(б) уз Одељак XVI и наименовањима уз CN ознаке 8529, 8529 90 и 8529 90 65.
+Склоп, осим што има електронске компоненте које врше функцију репродукције слике, такође садржи компоненте које врше додатне функције, као што су LVDS излазни предајник за LCD екран и скалер који је, због своје способности да обрађује неколико резолуција типичних за аутоматску обраду података, специјално конструисан за телевизијски пријемник са уграђеним LCD екраном. Како склоп садржи више компоненти (функционалности) од оних које су обухваћене тарифним бројем 8521, искључује се сврставање у тај тарифни број као апарата за репродукцију слике.
+Како недостаје LCD екран, искључује се сврставање у тарифни подброј 8528 72 40 као телевизијског пријемника са екраном.
+Склоп се, према томе, сврстава у CN ознаку 8529 90 65 као електронски склопови за апарате из тарифног броја 8528.

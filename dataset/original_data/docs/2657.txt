@@ -1,0 +1,205 @@
+На основу члана 3а став 4. Закона о Царинској тарифи („Службени гласник РС”, бр. 62/05, 61/07 и 5/09) објављује се Уредба Комисије (ЕУ) о спровођењу број 458/2014 од 29. априла 2014. године у вези са сврставањем одређенe робe у Комбинованој номенклатури објављена у „Службеном листу Европске уније”, број L 133/39 од 6. маја 2014. године, која у оригиналу на енглеском језику и у преводу на српски језик гласи:
+COMMISSION IMPLEMENTING REGULATION (EU) No 458/2014 of 29 April 2014 concerning the classification of certain goods in the Combined Nomenclature "Службени гласник РС", број 78 од 25. јула 2014.
+THE EUROPEAN COMMISSION,
+Having regard to the Treaty on the Functioning of the European Union,
+Having regard to Council Regulation (EEC) No 2658/87 of 23 July 1987 on the tariff and statistical nomenclature and on the Common Customs Tariff (1), and in particular Article 9(1)(a) thereof,
+Whereas:
+(1) In order to ensure uniform application of the Combined Nomenclature annexed to Regulation (EEC) No 2658/87, it is necessary to adopt measures concerning the classification of the goods referred to in the Annex to this Regulation.
+(2) Regulation (EEC) No 2658/87 has laid down the general rules for the interpretation of the Combined Nomenclature. Those rules apply also to any other nomenclature which is wholly or partly based on it or which adds any additional subdivision to it and which is established by specific provisions of the Union, with a view to the application of tariff and other measures relating to trade in goods.
+(3) Pursuant to those general rules, the goods described in column (1) of the table set out in the Annex should be classified under the CN codes indicated in column (2), by virtue of the reasons set out in column (3) of that table.
+(4) It is appropriate to provide that binding tariff information issued in respect of the goods concerned by this Regulation which does not conform to this Regulation may, for a certain period, continue to be invoked by the holder in accordance with Article 12(6) of Council Regulation (EEC) No 2913/92(2). That period should be set at three months.
+(5) The Customs Code Committee has not issued an opinion on item 1 of the Annex of this Regulation within the time limit set by its Chairman, the measures provided for under item 2 of the Annex of this Regulation are in accordance with the opinion of the Customs Code Committee,
+HAS ADOPTED THIS REGULATION:
+Article 1
+The goods described in column (1) of the table set out in the Annex shall be classified within the Combined Nomenclature under the CN codes indicated in column (2) of that table.
+Article 2
+Binding tariff information which does not conform to this Regulation may continue to be invoked in accordance with Article 12(6) of Regulation (EEC) No 2913/92 for a period of three months from the date of entry into force of this Regulation.
+Article 3
+This Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union.
+This Regulation shall be binding in its entirety and directly applicable in all Member States. 
+Done at Brussels, 29 April 2014.
+–––––––––––––
+(1) OJ L 256, 7.9.1987, p. 1.
+(2) Council Regulation (EEC) No 2913/92 of 12 October 1992 establishing the Community Customs Code (OJ L 302, 19.10.1992. p. 1).
+For the Commission, 
+On behalf of the President,
+Algirdas ŠEMETA 
+Member of the Commission
+ANNEX
+
+
+
+
+Description of the goods
+
+
+Classification (CN code)
+
+
+Reasons
+
+
+
+
+(1)
+
+
+(2)
+
+
+(3)
+
+
+
+
+1. A digital apparatus with the design of a traditional video camera recorder for capturing and recording still and video images onto an internal memory or a memory card.
+The apparatus is equipped with a 0,8 megapixels charge-coupled device (CCD) and a fold-able viewfinder of the liquid crystal display (LCD) type with a diagonal measurement of approximately 7 cm (2,7 inches) that can be used when capturing images or as a screen for displaying recorded images.
+The apparatus has the following interfaces:
+– a slot for memory cards,
+– composite video out,
+– audio output,
+– USB.
+The maximum resolution of the still images is 1 600 x 1 200 pixels (1,92 megapixels).
+The apparatus can record video at 50 frames per second with a maximum resolution of 720 x 576 pixels.
+The apparatus offers an optical zoom function during video recording.
+Upon presentation files cannot be transferred to the apparatus from an automatic data-processing machine via the USB interface.
+
+
+8525 80 91
+
+
+Classification is determined by general rules 1 and 6 for the interpretation of the Combined Nomenclature, note 3 to Section XVI and by the wording of CN codes 8525, 8525 80 and 8525 80 91.
+Given the objective characteristics of the apparatus, such as its design and shape, the presence of a CCD with a low resolution of 0,8 megapixels, the ability to record video in a quality of standard DVD video discs (resolution of 720 x 576 pixels at 50 frames per second) and to record still images of poor quality (maximum resolution of 1,92 megapixels), capturing and recording video images is the principal function of the apparatus within the meaning of note 3 to Section XVI (see also the order of the Court of Justice of the European Union of 9 December 2010 in Case C-193/10, KMB Europe v Hauptzollamt Duisburg (ECR 2010, p. I-12903, points 23 to 25)).
+The fact that the camera records video with lower resolution than 800 x 600 pixels does not change the apparatus’ principal function. Therefore, classification under subheading 8525 80 30 as a digital camera is excluded.
+The apparatus is only able to record sound and images taken by the television camera and the possibility of transferring files into the camera cannot be activated after presentation by simple modification of the apparatus by a user who does not have special skills.
+It is therefore to be classified under CN code 8525 80 91 as video camera recorders only able to record sound and images taken by the television camera.
+
+
+
+
+2. A digital apparatus with the design of a traditional video camera recorder for capturing and recording still and video images onto an internal memory or a memory card.
+The apparatus is equipped with a 0,8 megapixels charge-coupled device (CCD) and a fold- able viewfinder of the liquid crystal display (LCD) type with a diagonal measurement of approximately 7 cm (2,7 inches) that can be used when capturing images or as a screen for displaying recorded images.
+The apparatus has the following interfaces:
+– a slot for memory cards,
+– composite video out,
+– audio output,
+– USB.
+The maximum resolution of the still images is 1 600 x 1 200 pixels (1,92 megapixels).
+The apparatus can record video at 50 frames per second with a maximum resolution of 720 x 576 pixels.
+The apparatus offers an optical zoom function during video recording.
+Upon presentation files can be transferred to the apparatus from an automatic data-processing machine via the USB interface.
+
+
+8525 80 99
+
+
+Classification is determined by general rules 1 and 6 for the interpretation of the Combined Nomenclature, note 3 to Section XVI and by the wording of CN codes 8525, 8525 80 and 8525 80 99.
+Given the objective characteristics of the apparatus, such as its design and shape, the presence of a CCD with a low resolution of 0,8 megapixels, the ability to record video in a quality of standard DVD video discs (resolution of 720 x 576 pixels at 50 frames per second) and to record still images of poor quality (maximum resolution of 1,92 megapixels), capturing and recording video images is the principal function of the apparatus within the meaning of note 3 to Section XVI (see also the order of the Court of Justice of the European Union of 9 December 2010 in Case C-193/10, KMB Europe v Hauptzollamt Duisburg (ECR 2010, p. I-12903, points 23 to 25)).
+The fact that the camera records video with lower resolution than 800 x 600 pixels does not change the apparatus’ principal function. Therefore, classification under subheading 8525 80 30 as a digital camera is excluded.
+As the apparatus is capable of recording video files from sources other than the incorporated television camera, classification under subheading 8525 80 91 as video camera recorders only able to record sound and images taken by the television camera is excluded.
+The apparatus is therefore to be classified under CN code 8525 80 99 as other video camera recorders.
+
+
+
+
+УРЕДБА КОМИСИЈЕ (ЕУ) О СПРОВОЂЕЊУ број 458/2014 од 29. априла 2014. године у вези са сврставањем одређенe робe према Комбинованој номенклатури "Службени гласник РС", број 78 од 25. јула 2014.
+ЕВРОПСКА КОМИСИЈА,
+Имајући у виду Уговор о функционисању Европске уније,
+Имајући у виду Уредбу Савета (ЕЕЗ) број 2658/87 од 23. јула 1987. године о тарифној и статистичкој номенклатури и Заједничкој царинској тарифи1, а посебно члан 9. став 1. тачка а),
+с обзиром на то да:
+(1) Како би се осигурала једнообразна примена Комбиноване номенклатуре приложене уз Уредбу (ЕЕЗ) број 2658/87, неопходно је усвојити мере у вези са сврставањем робе наведене у Анексу ове уредбе;
+(2) Уредбом (ЕЕЗ) број 2658/87 утврђена су основна правила за примењивање Комбиноване номенклатуре. Ова правила се такође примењују на сваку другу номенклатуру која се у потпуности или делимично заснива на њој, или која јој додаје било какве потподеле и која је установљена посебним прописима Уније, са циљем примене тарифних и других мера које се односе на трговину робом;
+(3) У складу са тим основним правилима, роба описана у колони 1. табеле у Анексу сврстава се у CN ознаку наведену у колони 2, према разлозима датим у колони 3. те табеле;
+(4) Потребно је обезбедити да ималац обавезујуће тарифне информације, издате за робу на коју се односи ова уредба, а која није у складу са овом уредбом, може одређени период, да настави да се позива на њу, према члану 12. став 6. Уредбе Савета (ЕЕЗ) број 2913/922. Овај период треба да буде три месеца; 
+(5) Одбор за Царински кодекс није издао мишљење за тачку 1. Анекса ове уредбе у року који је одредио председавајући, а мере предвиђене у тачки 2. Анекса ове уредбе у складу су са мишљењем Одбора за Царински кодекс.
+ДОНЕЛА ЈЕ ОВУ УРЕДБУ:
+Члан 1.
+Роба описана у колони 1. табеле дате у Анексу сврстава се у оквиру Комбиноване номенклатуре у CN ознаку наведену у колони 2. те табеле.
+Члан 2.
+Могуће је позивати се на обавезујућу тарифну информацију која није у складу са овом уредбом, у складу са чланом 12. став 6. Уредбе (ЕЕЗ) број 2913/92, у периоду од три месеца од дана ступања на снагу ове уредбе.
+Члан 3.
+Ова уредба ступа на снагу 20. дана од дана објављивања у „Службеном листу Европске уније”.
+Ова уредба је обавезујућа у целини и непосредно се примењује у свим државама чланицама.
+У Бриселу, 29. априла 2014. године. 
+––––––––––––––
+1 OJ L 256, 7.9.1987. стр. 1. 
+2 Уредба Савета (ЕЕЗ) број 2913/92 од 12. октобра 1992. године којом је установљен Царински кодекс Заједнице (OJ L 302, 19.10.1992, стр. 1).
+За Комисију,
+у име председника,
+Algirdas ŠEMETA
+члан Комисије
+АНЕКС
+
+
+
+
+Опис робе
+
+
+Сврставање
+(CN ознака)
+
+
+Разлози
+
+
+
+
+(1)
+
+
+(2)
+
+
+(3)
+
+
+
+
+1. Дигитални апарат конструисан као традиционална видео камера са рекордером (камкордер) за каптурисање и снимање непокретних и видео слика на интерну меморију или меморијску картицу.
+Апарат је опремљен уређајем спрегнутог наелектрисања CCD од 0,8 мегапиксела и 
+преклопивим тражилом LCD типа, са дијагоналом димензије приближно 7 cm (2,7 инча) који се може користити за каптурисање слика или као екран за приказивање претходно снимљених слика.
+Апарат има следеће интерфејсе:
+– слот за меморијску картицу,
+– композитни видео излаз,
+– аудио излаз,
+– USB.
+Максимална резолуција непокретних слика је 1600 x 1200 пиксела (1,92 мегапиксела).
+Апарат може да снима видео слике са 50 фрејмова у секунди и максималном резолуцијом 720 x 576 пиксела.
+Апарат поседује функцију оптичког зума током видео снимања.
+Након приказивања датотеке се не могу пренети на апарат са машине за аутоматску обраду података преко USB интерфејса.
+
+
+8525 80 91
+
+
+Сврставање је одређено Основним правилима 1. и 6. за примењивање Комбиноване номенклатуре, Напоменом 3. уз Одељак XVI и наименовањима уз CN ознаке 8525 80 91.
+С обзиром на објективне карактеристике апарата, као што су конструкција и облик, присуство CCD мале резолуције од 0,8 мегапиксела, могућност да снима видео слике квалитета стандардних DVD видео дискова (резолуција 720 x 576 пиксела са 50 фрејмова у секунди) и да снима непокретне слике ниског квалитета (максимална резолуција 1,92 мегапиксела), каптурисање и снимање видео слика је главна функција апарата у смислу Напомене 3. уз Одељак XVI (видети такође налог Суда правде Европске уније од 9. децембра 2010. године по предмету C-193/10, KMB Europe v Hauptzollamt Duisburg (ECR 2010, стр. I–12903, тачке 23-25)).
+Чињеница да камера снима видео слике резолуције мање од 800 x 600 пиксела не мења главну функцију апарата. Према томе, искључује се сврставање у тарифни подброј 8525 80 30 као дигиталне камере.
+Апарат може да сними само звук и слике снимљене телевизијском камером и корисник који није специјално обучен не може, једноставним подешавањем апарата, да активира преношење датотеке у камеру након приказивања.
+Он се према томе сврстава у CN ознаку 8525 80 91 као видео камере са рекордером (камкордер) која може само да снима звук и слике снимљене телевизијском камером.
+
+
+
+
+2. Дигитални апарат конструисан као традиционална видео камера са рекордером (камкордер) за каптурисање и снимање непокретних и видео слика на интерну меморију или меморијску картицу.
+Апарат је опремљен уређајем спрегнутог наелектрисања CCD од 0,8 мегапиксела и преклопивим тражилом LCD типа са дијагоналом димензије приближно од 7 cm (2,7 инча) који се може користити за каптурисање слика или као екран за приказивање претходно снимљених слика.
+Апарат има следеће интерфејсе:
+– слот за меморијску картицу,
+– композитни видео излаз,
+– аудио излаз,
+– USB.
+Максимална резолуција непокретних слика је 1600 x 1200 пиксела (1,92 мегапиксела).
+Апарат може да снима видео слике са 50 фрејмова у секунди са максималном резолуцијом 720 x 576 пиксела.
+Апарат поседује функцију оптичког зума током видео снимања.
+Након приказивања датотеке се могу пренети на апарат са машине за аутоматску обраду података преко USB интерфејса.
+
+
+8525 80 99
+
+
+Сврставање је одређено Основним правилима 1. и 6. за примењивање Комбиноване номенклатуре, Напоменом 3. уз Одељак XVI и наименовањима уз CN ознаке 8525 80 99.
+С обзиром на објективне карактеристике апарата, као што су конструкција и облик, присуство CCD мале резолуције од 0,8 мегапиксела, могућност да снима видео слике квалитета стандардних DVD видео дискова (резолуција 720 x 576 пиксела при 50 фрејмова у секунди) и да снима непокретне слике ниског квалитета (максимална резолуција 1,92 мегапиксела), каптурисање и снимање видео слика је главна функција апарата у смислу Напомене 3. уз Одељак XVI (видети такође налог Суда правде Европске уније од 9. децембра 2010. године у предмету C-193/10, KMB Europe v Hauptzollamt Duisburg (ECR 2010, стр. I–12903, тачке 23-25)).
+Чињеница да камера снима видео слике резолуције мање од 800 x 600 пиксела не мења главну функцију апарата. Према томе, искључује се сврставање у тарифни подброј 8525 80 30 као дигиталне камере.
+Како апарат може да снима видеодатотеке из других извора осим уграђене телевизијске камере, искључује се сврставање у тарифни подброј 8525 80 91 као видео камере са рекордером (камкордер) која може само да снима звук и слике снимљене телевизијском камером.
+Апарат се, према томе, сврстава у CN ознаку 8525 80 99 као остале видео камере са рекордерима (камкордери).

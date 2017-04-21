@@ -1,0 +1,234 @@
+На основу члана 3а став 4. Закона о Царинској тарифи („Службени гласник РС”, бр. 62/05, 61/07 и 5/09) објављује се Уредба Комисије (ЕЕЗ) број 442/91 од 25. фебруара 1991. године у вези са сврставањем одређене робе у Комбинованој номенклатури објављена у „Службеном листу Европских заједница”, број L 52/11 од 27. фебруара 1991. године, која у оригиналу на енглеском језику и у преводу на српски језик гласи:
+COMMISSION REGULATION (EEC) No 442/91 of 25 February 1991  concerning the classification of certain goods in the Combined Nomenclature
+"Службени гласник РС", број 84 од 24. септембра 2013.
+THE COMMISSION OF THE EUROPEAN COMMUNITIES,
+Having regard to the Treaty establishing the European Economic Community,
+Having regard to Council Regulation (EEC) No 2658/87 (1) on the tariff and statistical nomenclature and on the Common Customs Tariff, as last amended by Regulation (EEC) No 53/91 (2), and in particular Article 9,
+Whereas in order to ensure uniform application of the combined nomenclature annexed to the said Regulation, it is necessary to adopt measures concerning the classification of the goods referred to in the Annex to this Regulation ;
+Whereas Regulation (EEC) No 2658/87 has set down the general rules for the interpretation of the combined nomenclature and these rules also apply to any other nomenclature which is wholly or partly based on it or which adds any additional subdivisions to it and which is established by specific Community provisions, with a view to the application of tariff or other measures relating to trade in goods;
+Whereas, pursuant to the said general rules, the goods described in column 1 of table annexed to the present Regulation must be classified under the appropriate CN codes indicated in column 2, by virtue of the reasons set out in column 3 ;
+Whereas the nomenclature Committee has not delivered an opinion within the time limit set by its chairman, as regards product Nos 1 and 4 in the annexed table ;
+Whereas the measures provided for in this Regulation are in accordance with the opinion of the nomenclature Committee as regards product Nos 2, 3 and 5 in the annexed table,
+HAS ADOPTED THIS REGULATION :
+Article 1
+The goods described in column 1 of the annexed table are now classified within the combined nomenclature under the appropriate CN codes indicated in column 2 of the said table.
+Article 2
+This Regulation shall enter into force on the 21st day after its publication in the Official Journal of the European Communities.
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+Done at Brussels, 25 February 1991.
+–––––––––––––
+(1) OJ No L 256, 7. 9. 1987, p. 1.
+(2) OJ No L 7, 10. 1. 1991, p. 14.
+For the Commission 
+Christiane SCRIVENER 
+Member of the Commission
+ANNEX
+
+
+
+
+Description of the goods
+
+
+Classification CN code
+
+
+Reasons
+
+
+
+
+(1)
+
+
+(2)
+
+
+(3)
+
+
+
+
+1. Round coniferous timber, milled to a constant diameter along the entire length, cut across the grain, one end of which has been pointed, of the kind used in horticultural landscaping, for constructing garden fences, enclosures, screens, etc.
+
+
+4407 10 99
+
+
+Classification is determined by the provisions of general rules 1 and 6 for the interpretation of the combined nomenclature, as well as the texts of CN codes 4407, 4407 10 and 4407 10 99.
+The goods cannot be classified under headings 4403 or 4404, because they have been milled; 4409, not having been profiled ; 4421, given that they are not sufficiently worked.
+
+
+
+
+2. Collapsible pallet collars consisting of four pieces of wood (2x2 pieces of the same length) with hinges on the ends to form a frame that is placed over the palette itself, (see photograph, case No 2)(¹)
+
+
+4421 90 99
+
+
+Classification is determined by the provisions of general rules 1 and 6 for the interpretation of the combined nomenclature, as well as the texts of CN codes 4421, 4421 90 and 4421 90 99.
+The goods have to be considered as parts of a pallet which cannot be classified in heading 4415 (see Harmonized System explanatory notes to headings 4415, section III and 4421, paragraph 2).
+
+
+
+
+3. Crown-shaped articles consisting of osier canes, partly decorated with artificial flowers, artificial leaves, ribbons, small representations of animals (such as a butterfly and a chicken). (See by way of example the photograph of case No 3) (¹)
+
+
+4602 10 91
+
+
+Classification is determined by the provisions of general rules 1, 3b and 6 for the interpretation of the combined nomenclature, note 1 to chapter 6 as well as the texts of CN codes 4602, 4602 10 and 4602 10 91.
+The essential character of these articles is conferred by the woven osier.
+
+
+
+
+4. Portable radio transmitters-receivers, of the walkie-talkie type, of plastics, whether or not incorporating a morse system, of a maximum power output not exceeding 5 milliwatts ERP (effective radiated power), battery-operated, and containing neither noise supressors, channel selectors or voltmeters.
+
+
+9503 90 31
+
+
+Classification is determined by the provisions of general rules 1 and 6 for the interpretation of the combined nomenclature, as well as the texts of CN codes 9503, 9503 90 and 9503 90 31. These apparatus cannot be classified under CN code 8525 20 90 because they do not have a power output greater than 5 milliwatts ERP and do not incorporate either noise supressors, channel selectors or voltmeters, they must be classified as toys.
+
+
+
+
+5. Bird‘s nest-shaped articles consisting of tressed osier canes, decorated with six chickens, artificial flowers and artificial leaves. (See photograph case No 5)
+
+
+9505 90 00
+
+
+Classification is determined by the provisions of general rules 1 and 6 for the interpretation of the combined nomenclature, as well as the texts of CN codes 9505, 9505 90 and 9505 90 00, as it consists of a decorative article ; the presence of chickens clearly links it to the Easter festivities.
+
+
+
+
+(¹) The photographs are purely for information.
+
+
+
+
+
+УРЕДБА КОМИСИЈЕ (ЕЕЗ) број 442/91 од 25. фебруара 1991. године у вези са сврставањем одређенe робe према Комбинованој номенклатури
+"Службени гласник РС", број 84 од 24. септембра 2013.
+ 
+КОМИСИЈА ЕВРОПСКИХ ЗАЈЕДНИЦА,
+Имајући у виду Уговор о оснивању Европске економске заједнице,
+Имајући у виду Уредбу Савета (ЕЕЗ) број 2658/87 о тарифној и статистичкој номенклатури и Заједничкој царинској тарифи1, последњи пут измењену и допуњену Уредбом Комисије (ЕЕЗ) број 53/912, а посебно члан 9,
+С обзиром на то да је како би се осигурала доследна примена Комбиноване номенклатуре приложене уз наведену уредбу, неопходно усвојити мере у вези са сврставањем робе наведене у Анексу ове уредбу;
+С обзиром на то да су Уредбом (ЕЕЗ) број 2658/87 утврђена основна правила за примењивање Комбиноване номенклатуре. Ова правила се такође примењују на сваку другу номенклатуру која се у потпуности или делимично заснива на њој, или јој додаје било какве потподеле и која је установљена посебним прописима Заједнице, са циљем примене тарифних и других мера које се односе на трговину робом;
+С обзиром на то да се у складу са тим основним правилима, роба описана у колони 1. приложене табеле сврстава у CN ознаку наведену у колони 2, према разлозима датим у колони 3. те табеле;
+С обзиром на то да Одбор за номенклатуру није доставио мишљење које се тиче производа бр. 1. и 4. у приложеној табели, у року који је одредио председавајући;
+С обзиром на то да су мере предвиђене овом уредбом у складу са мишљењем Одбора за номенклатуру које се тиче производа бр. 2, 3. и 5. у приложеној табели,
+ДОНЕЛА ЈЕ ОВУ УРЕДБУ:
+Члан 1.
+Роба описана у колони 1. приложене табеле сврстава се у оквиру Комбиноване номенклатуре у одговарајуће CN ознаке дате у колони 2. наведене табеле.
+Члан 2.
+Ова уредба ступa на снагу 21. дана од дана објављивања у „Службеном листу Европских заједница”.
+Ова уредба je обавезујућа у целини и непосредно се примењује у свим државама чланицама. 
+У Бриселу, 25. фебруара 1991. године 
+–––––––––––––
+1 OJ L 256, 7.9.1987, стр. 1.
+2 OJ L 7, 10.1.1991, стр. 14. 
+за Комисију
+Christiane SCRIVENER
+члан Комисије
+АНЕКС
+
+
+
+
+Опис робе
+
+
+Сврставање
+(CN ознака)
+
+
+Разлози
+
+
+
+
+(1)
+
+
+(2)
+
+
+(3)
+
+
+
+
+1. Обла четинарска грађа, целом дужином стругана на константни пречник, исечена попреко у односу на смер влакана, са једним зашиљеним крајем, врсте која се користи за хортикултурно баштованство, за градњу вртних и других ограда, преграда, заслона итд.
+
+
+4407 10 99
+
+
+Сврставање је одређено условима Основних правила 1. и 6. за примењивање Комбиноване номенклатуре као и наименовањима уз CN ознаке 4407, 4407 10 и 4407 10 99.
+Роба се не сврстава у тарифне бројеве 4403 или 4404 зато што је стругана; 4409 зато што није профилисана; 4421 с обзиром да није довољно обрађена.
+
+
+
+
+2.3
+
+
+
+
+
+
+
+
+3. Производи у облику венаца састоје се од врбовог прућа, делимично украшени вештачким цвећем, вештачким лишћем, тракама или малим моделима животиња (као што су лептир и пиле). (Као пример видети фотографију случаја број 3) (1).
+
+
+4602 10 914
+
+
+Сврставање је одређено условима Основних правила 1, 3(б) и 6. за примењивање Комбиноване номенклатуре, Напоменом 1. уз Главу 6 као и наименовањима уз CN ознаке 4602, 4602 10 и 4602 10 915.
+Битан карактер овим производима даје плетено врбово пруће.
+
+
+
+
+4. Преносиви радио примопредајник, типа воки-токи, од пластичне масе, са или без уграђеног морзеовог система, максималне излазне снаге не веће од 5 mW ERP (ефективна израчена снага), ради на батерије, али нема пригушиваче буке, бираче канала нити волтметре.
+
+
+9503 90 316
+
+
+Сврставање је одређено условима Основних правила 1. и 6. за примењивање Комбиноване номенклатуре као и наименовањима уз CN ознаке 9503, 9503 90 и 9503 90 317. Ови апарати не сврставају се у CN ознаку 8525 20 908 због тога што немају излазну снагу већу од 5 mW ERP и немају нити пригушиваче буке, бираче канала ни волтметре. Апарати се сврставају као играчке.
+
+
+
+
+5. Производи у облику птичјег гнезда састоје се од преплетеног врбовог прућа, украшени са шест пилића, вештачким цвећем и вештачким лишћем. (Видети фотографију случаја број 5).
+
+
+9505 90 00
+
+
+Сврставање је одређено условима Основних правила 1. и 6. за примењивање Комбиноване номенклатуре као и наименовањима уз CN ознаке 9505, 9505 90 и 9505 90 00, с обзиром на то да је украсни производ; присуство пилића га јасно јасно повезује са прославом Ускрса.
+
+
+
+
+(1) Фотографије су дате само информативно
+
+
+
+
+–––––––––––––
+3 Стављена ван снаге у складу са алинејом 5. Анекса B Уредбе Комисије (ЕЗ) број 936/99 од 27. априла 1999. године којом се мењају или стављају ван снаге одређене уредбе у вези са сврставањем робе према Комбинованој номенклатури (OJ L 117 од 5.5.1999, стр. 9.), која је објављена у „Службеном гласнику РС”, број 79/11
+4 Замењено са „4602 19 90” у складу са тачком 26. под (a) под (i) Анекса I Уредбе Комисије (ЕЗ) број 1179/09 од 26. новембра 2009. године којом се мењају или стављају ван снаге одређене уредбе у вези са сврставањем робе према Комбинованој номенклатури (OJ L 317 од 3.12.2009, стр. 23.), која је објављена у „Службеном гласнику РС”, број 7/10 и са тачком 21. под (а) Анекса I Уредбе Комисије (ЕЗ) број 441/2013 од 7. маја 2013. године којом се мењају или стављају ван снаге одређене уредбе у вези са сврставањем робе према Комбинованој номенклатури (OJ L 130 од 15.5.2013, стр. 1.), која је објављена у „Службеном гласнику РС”, број 47/13
+5 Замењено са „4602 19 90” у складу са тачком 26. под (a) под (ii) Анекса I Уредбе Комисије (ЕЗ) број 1179/09 од 26. новембра 2009. године којом се мењају или стављају ван снаге одређене уредбе у вези са сврставањем робе према Комбинованој номенклатури (OJ L 317 од 3.12.2009, стр. 23.), која је објављена у „Службеном гласнику РС”, број 7/10 и са тачком 21. под (б) Анекса I Уредбе Комисије (ЕЗ) број 441/2013 од 7. маја 2013. године којом се мењају или стављају ван снаге одређене уредбе у вези са сврставањем робе према Комбинованој номенклатури (OJ L 130 од 15.5.2013, стр. 1.), која је објављена у „Службеном гласнику РС”, број 47/13
+6 Замењено са „9503 00 95” у складу са тачком 78. Уредбе Комисије (ЕЗ) број 705/05 од 4. маја 2005. године којом се мењају или стављају ван снаге одређене Уредбе у вези са сврставањем робе према Комбинованој номенклатури (OJ L 118 од 5.5.2005, стр. 18), која је објављена у „Службеном гласнику РС”, број 75/10 и са тачком 27. под (b) под (i) Анекса I Уредбе Комисије (ЕЗ) број 1179/09 од 26. новембра 2009. године којом се мењају или стављају ван снаге одређене уредбе у вези са сврставањем робе према Комбинованој номенклатури (OJ L 317 од 3.12.2009, стр. 23.), која је објављена у „Службеном гласнику РС”, број 7/10
+7 Замењено са „9503 00 и 9503 00 95” у складу са тачком 78. Уредбе Комисије (ЕЗ) број 705/05 од 4. маја 2005. године којом се мењају или стављају ван снаге одређене уредбе у вези са сврставањем робе према Комбинованој номенклатури (OJ L 118 од 5.5.2005, стр. 18), која је објављена у „Службеном гласнику РС”, број 75/10 и са тачком 27. под (b) под (ii) Анекса I Уредбе Комисије (ЕЗ) број 1179/09 од 26. новембра 2009. године којом се мењају или стављају ван снаге одређене уредбе у вези са сврставањем робе према Комбинованој номенклатури (OJ L 317 од 3.12.2009, стр. 23.), која је објављена у „Службеном гласнику РС”, број 7/10
+8 Замењено са „8517 62 00” у складу са тачком 27. под (b) под (ii) Анекса I Уредбе Комисије (ЕЗ) број 1179/09 од 26. новембра 2009. године којом се мењају или стављају ван снаге одређене уредбе у вези са сврставањем робе према Комбинованој номенклатури (OJ L 317 од 3.12.2009, стр. 23.), која је објављена у „Службеном гласнику РС”, број 7/10

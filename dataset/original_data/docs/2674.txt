@@ -1,0 +1,157 @@
+На основу члана 3а став 4. Закона о Царинској тарифи („Службени гласник РС”, бр. 62/05, 61/07 и 5/09) објављује се Уредба Комисије (ЕУ) о спровођењу број 337/2014 од 28. марта 2014. године у вези са сврставањем одређене робе у Комбинованој номенклатури објављена у „Службеном листу Европске уније”, број L 99/3 од 2. априла 2014. године, која у оригиналу на енглеском језику и у преводу на српски језик гласи:
+ 
+COMMISSION IMPLEMENTING REGULATION (EU) 
+No 337/2014 of 28 March 2014 concerning the classification of certain goods in the Combined Nomenclature
+
+"Службени гласник РС", број 54 од 
+				20. маја 2014.
+ 
+THE EUROPEAN COMMISSION,
+Having regard to the Treaty on the Functioning of the European Union,
+Having regard to Council Regulation (EEC) No 2658/87 of 23 July 1987 on the tariff and statistical nomenclature and on the Common Customs Tariff (¹), and in particular Article 9(1)(a) thereof,
+Whereas:
+(1) In order to ensure uniform application of the Combined Nomenclature annexed to Regulation (EEC) No 2658/87, it is necessary to adopt measures concerning the classification of the goods referred to in the Annex to this Regulation.
+(2) Regulation (EEC) No 2658/87 has laid down the general rules for the interpretation of the Combined Nomenclature. Those rules apply also to any other nomenclature which is wholly or partly based on it or which adds any additional subdivision to it and which is established by specific provisions of the Union, with a view to the application of tariff and other measures relating to trade in goods.
+(3) Pursuant to those general rules, the goods described in column (1) of the table set out in the Annex should be classified under the CN code indicated in column (2), by virtue of the reasons set out in column (3) of that table.
+(4) It is appropriate to provide that binding tariff information issued in respect of the goods concerned by this Regulation which does not conform to this Regulation may, for a certain period, continue to be invoked by the holder in accordance with Article 12(6) of Council Regulation (EEC) No 2913/92(2). That period should be set at three months.
+(5) The measures provided for in this Regulation are in accordance with the opinion of the Customs Code Committee,
+HAS ADOPTED THIS REGULATION:
+Article 1
+The goods described in column (1) of the table set out in the Annex shall be classified within the Combined Nomenclature under the CN code indicated in column (2) of that table.
+Article 2
+Binding tariff information which does not conform to this Regulation may continue to be invoked in accordance with Article 12(6) of Regulation (EEC) No 2913/92 for a period of three months from the date of entry into force of this Regulation.
+Article 3
+This Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union.
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+Done at Brussels, 28 March 2014.
+–––––––––––––––
+(1) OJ L 256, 7.9.1987, p. 1.
+(2) Council Regulation (EEC) No 2913/92 of 12 October 1992 establishing the Community Customs Code (OJ L 302, 19.10.1992, p. 1).
+
+ 
+For the Commission,
+On behalf of the President,
+Algirdas ŠEMETA
+Member of the Commission
+
+ANNEX
+
+
+
+
+Description of the goods
+
+
+Classification (CN code)
+
+
+Reasons
+
+
+
+
+(1)
+
+
+(2)
+
+
+(3)
+
+
+
+
+An electric lighting article (so-called ‘LED floodlight’) in a rectangular shaped aluminium housing with a glass cover, with dimensions of approximately 23 × 19 × 13 cm.
+The article comprises an aluminium reflector and has a mounting bracket on the back for adjusting the light angle.
+It is fitted with a high-power LED chip and a power supply with a transformer.
+It has a power consumption of 95 W, a luminous efficacy of 100 lm/W and a beam angle of 120°.
+The article is used outdoors for illuminating, for example, landscapes, buildings, construction areas, billboards, lawns or gardens.
+(*) See image
+
+
+9405 40 99
+
+
+Classification is determined by General Rules 1 and 6 for the interpretation of the Combined Nomenclature and by the wording of CN codes 9405, 9405 40 and 9405 40 99.
+Given its objective characteristics, such as the wide beam angle, the article is intended to be used for illuminating large areas. Consequently, classification under subheading 9405 40 10 as spotlights is excluded (see also the Harmonised System Explanatory Notes to heading 9405, group (I), third paragraph).
+The article is therefore to be classified under CN code 9405 40 99 as other electric lamps and lighting fittings.
+
+
+
+
+(*) The image is purely for information.
+
+ 
+УРЕДБА КОМИСИЈЕ (ЕУ) О СПРОВОЂЕЊУ број 337/2014
+од 28. марта 2014. године у вези са сврставањем одређенe робe према Комбинованој номенклатури
+
+"Службени гласник РС", број 54 од 
+				20. маја 2014.
+ 
+ЕВРОПСКА КОМИСИЈА,
+имајући у виду Уговор о функционисању Европске уније,
+имајући у виду Уредбу Савета (ЕЕЗ) број 2658/87 од 23. јула 1987. године о тарифној и статистичкој номенклатури и Заједничкој царинској тарифи1, а посебно члан 9. став 1. тачка а), 
+с обзиром на то да:
+(1) Како би се осигурала једнообразна примена Комбиноване номенклатуре приложене уз Уредбу (ЕЕЗ) број 2658/87, неопходно је усвојити мере у вези са сврставањем робе наведене у Анексу ове уредбе;
+(2) Уредбом (ЕЕЗ) број 2658/87 утврђена су основна правила за примењивање Комбиноване номенклатуре. Ова правила се такође примењују на сваку другу номенклатуру која се у потпуности или делимично заснива на њој, или која јој додаје било какве потподеле и која је установљена посебним прописима Уније, са циљем примене тарифних и других мера које се односе на трговину робом;
+(3) У складу са тим основним правилима, роба описана у колони 1. табеле у Анексу сврстава се у CN ознаку наведену у колони 2, према разлозима датим у колони 3. те табеле;
+(4) Потребно је обезбедити да ималац обавезујуће тарифне информације, издате за робу на коју се односи ова уредба, а која није у складу са овом уредбом, може одређени период, да настави да се позива на њу, према члану 12. став 6. Уредбе Савета (ЕЕЗ) број 2913/922. Овај период треба да буде три месеца;
+(5) Мере предвиђене овом уредбом у складу су са мишљењем Одбора за Царински кодекс,
+ДОНЕЛА ЈЕ ОВУ УРЕДБУ:
+Члан 1.
+Роба описана у колони 1. табеле дате у Анексу сврстава се у оквиру Комбиноване номенклатуре у CN ознаку наведену у колони 2. те табеле.
+Члан 2.
+Могуће је позивати се на обавезујућу тарифну информацију која није у складу са овом уредбом, у складу са чланом 12. став 6. Уредбе (ЕЕЗ) број 2913/92, у периоду од три месеца од дана ступања на снагу ове уредбе.
+Члан 3.
+Ова уредба ступа на снагу 20. дана од дана објављивања у „Службеном листу Европске уније”.
+Ова уредба је обавезујућа у целини и непосредно се примењује у свим државама чланицама.
+У Бриселу, 28. марта 2014. године
+–––––––––––––––
+1 OJ L 256, 7.9.1987, стр 1.
+2 Уредба Савета (ЕЕЗ) број 2913/92 од 12. октобра 1992. године којом је установљен Царински кодекс Заједнице (OJ L 302, 19.10.1992, стр. 1).
+ 
+За Комисију,
+у име председника,
+Algirdas ŠEMETA
+члан Комисије
+АНЕКС
+
+
+
+
+Опис робе
+
+
+Сврставање
+(CN ознака)
+
+
+Разлози
+
+
+
+
+(1)
+
+
+(2)
+
+
+(3)
+
+
+
+
+Електрично светлеће тело (такозвана „LED рефлекторска лампа”) у алуминијумском кућишту правоугаоног облика са поклопцем од стакла, димензија приближно 23 x 19 x 13 cm.
+Производ има алуминијумски рефлектор и прибор за уградњу којим се подешава угао под којим пада светлост.
+Опремљен је LED чипом велике снаге и уређајем за напајање са трансформатором.
+Потрошња енергије му је 95 W, ефекат осветљености 100 lm/W и угао светлосног снопа 120°.
+Производ се користи у спољашњем простору за осветљавање, на пример, пејзажа, зграда, градилишта, билборда, травњака или вртова.
+
+
+9405 40 99
+
+
+Сврставање је одређено Основним правилима 1. и 6. за примењивање Комбиноване номенклатуре и наименовањима уз CN ознаке 9405, 9405 40 и 9405 40 99.
+С обзиром на његове објективне карактеристике, као што је широки угао светлосног снопа, производ је намењен да се користи за осветљавање великих површина. Сходно томе, искључује се сврставање у тарифни подброј 9405 40 10 као рефлектора (концентрисани светлосни сноп) (видети такође ХС Коментар уз тарифни број 9405, група (I), трећи став).
+Производ се, према томе, сврстава у CN ознаку 9405 40 99 као остале електричне лампе и светлећа тела.

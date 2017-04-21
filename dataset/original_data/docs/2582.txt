@@ -1,0 +1,260 @@
+На основу члана 3а став 4. Закона о Царинској тарифи („Службени гласник РС”, бр. 62/05, 61/07 и 5/09) објављује се Уредба Комисије (ЕУ) о спровођењу број 273/2013 од 19. марта 2013. године у вези са сврставањем одређених роба у Комбинованој номенклатури објављена у „Службеном листу Европске уније”, број L 84/1 од 23. марта 2013. године, која у оригиналу на енглеском језику и у преводу на српски језик гласи:
+COMMISSION IMPLEMENTING REGULATION (EU) No 273/2013 of 19 March 2013 concerning the classification of certain goods  in the Combined Nomenclature
+"Службени гласник РС", број 47 од 29. 
+				маја 2013.
+THE EUROPEAN COMMISSION,
+Having regard to the Treaty on the Functioning of the European Union,
+Having regard to Council Regulation (EEC) No 2658/87 of 23 July 1987 on the tariff and statistical nomenclature and on the Common Customs Tariff (¹), and in particular Article 9(1)(a) thereof,
+Whereas:
+(1) In order to ensure uniform application of the Combined Nomenclature annexed to Regulation (EEC) No 2658/87, it is necessary to adopt measures concerning the classification of the goods referred to in the Annex to this Regulation.
+(2) Regulation (EEC) No 2658/87 has laid down the general rules for the interpretation of the Combined Nomenclature. Those rules apply also to any other nomenclature which is wholly or partly based on it or which adds any additional subdivision to it and which is established by specific provisions of the Union, with a view to the application of tariff and other measures relating to trade in goods.
+(3) Pursuant to those general rules, the goods described in column (1) of the table set out in the Annex should be classified under the CN code indicated in column (2), by virtue of the reasons set out in column (3) of that table.
+(4) It is appropriate to provide that binding tariff information which has been issued by the customs authorities of Member States in respect of the classification of goods in the Combined Nomenclature but which is not in accordance with this Regulation can, for a period of three months, continue to be invoked by the holder, under Article 12(6) of Council Regulation (EEC) No 2913/92 of 12 October 1992 establishing the Community Customs Code (²).
+(5) The measures provided for in this Regulation are in accordance with the opinion of the Customs Code Committee,
+HAS ADOPTED THIS REGULATION:
+Article 1
+The goods described in column (1) of the table set out in the Annex shall be classified within the Combined Nomenclature under the CN code indicated in column (2) of that table.
+Article 2
+Binding tariff information issued by the customs authorities of Member States, which is not in accordance with this Regulation, can continue to be invoked for a period of three months under Article 12(6) of Regulation (EEC) No 2913/92.
+Article 3
+This Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union.
+This Regulation shall be binding in its entirety and directly applicable in all Member States. 
+Done at Brussels, 19 March 2013.
+–––––––––––––
+(1) OJ L 256, 7.9.1987, p. 1.
+(2) OJ L 302, 19.10.1992, p. 1.
+ 
+For the Commission, 
+On behalf of the President,
+Algirdas ŠEMETA
+Member of the Commission
+ANNEX
+
+
+
+
+Description of the goods
+
+
+Classification (CN code)
+
+
+Reasons
+
+
+
+
+(1)
+
+
+(2)
+
+
+(3)
+
+
+
+
+1. An electronic apparatus (so-called ‹body composition analyser›) incorporating an indicator panel with dimensions of approximately 30 x 30 x 4 cm, comprising the following main components:
+– for weighing: a load cell and hardware for processing and displaying the weight,
+– for measuring: 2 electrodes on the scale upper surface, control buttons and hardware for processing and displaying the measurements.
+Through the 2 electrodes in contact with the feet, the apparatus sends electrical currents which, using bioimpedance characteristics, allow the apparatus to determine, for example, the percentage of body fat, the percentage of muscle, the bone mass, the body water.
+The apparatus can also be used as a scale only.
+The apparatus can store data for 10 users. It can display values from 2 measurements per user.
+The apparatus is designed for domestic use.
+
+
+8423 10 90
+
+
+Classification is determined by General Rules 1, 3(b) and 6 for the interpretation of the Combined Nomenclature and by the wording of CN codes 8423, 8423 10 and 8423 10 90.
+The apparatus is a composite article consisting of components classified under Chapter 84 and Chapter 90. By virtue of General Rule 3(b) it is to be classified as if it consisted of the component which gives the article its essential character.
+Due to its objective characteristics, namely the measurement system with 2 electrodes only, it is considered that the component performing the weighing gives the apparatus its essential character.
+The apparatus is therefore to be classified under CN code 8423 10 90 as a personal weighing machine.
+
+
+
+
+2. An electronic apparatus (so-called ‹body composition analyser›) in a form of a personal scale incorporating an indicator panel with dimensions of approximately 36 x 32 x 6 cm, comprising the following main components:
+– for weighing: a load cell and hardware for processing and displaying the weight,
+– for measuring: a detachable hand bar with 4 electrodes, 4 electrodes on the scale upper surface, control buttons and hardware for processing and displaying the measurements.
+Through the 8 electrode system placed in the hands and under the feet, the apparatus sends electrical currents in multi-frequency measurement which, using bioimpedance characteristics, allow the apparatus to determine, for example, the percentage of body fat, the body fat mass, the body mass index (BMI), the skeletal muscle mass, the body water.
+The apparatus can be used either by health professionals in diagnosing obesity or by other users to provide information about their physique, or to check or improve it for sporting or appearance purposes.
+The apparatus can also be used as a scale only.
+The apparatus can store data for 99 users and 300 measurements. The data can be transferred to an automatic data-processing machine using a USB memory stick.
+
+
+9031 80 38
+
+
+Classification is determined by General Rules 1, 3(b) and 6 for the interpretation of the Combined Nomenclature and by the wording of CN codes 9031, 9031 80 and 9031 80 38.
+Classification under heading 9018 as a medical instrument or appliance is excluded as the apparatus is not generally used in professional practice (see first paragraph of the HS Explanatory Notes to heading 9018).
+The apparatus is a composite article consisting of components classified under Chapter 84 and Chapter 90. By virtue of General Rule 3(b) it is to be classified as if it consisted of the component which gives the article its essential character.
+Due to its objective characteristics, namely the measurement technology used, it is to be considered that the component performing the measurement gives the apparatus its essential character.
+The apparatus is therefore to be classified under CN code 9031 80 38 as other electronic measuring instruments.
+
+
+
+
+3. An electronic apparatus (so-called ‹body composition analyser›) with a weighing base and a column on top of which is a control board incorporating an indicator panel with the dimensions of approximately 120 x 87 x 52 cm, comprising the following main components:
+– for weighing: a load cell and hardware for processing and displaying the weight,
+– for measuring: 2 detachable hand bars with 2 electrodes each, 4 electrodes on the scale upper surface, control buttons and hardware for processing and displaying the measurements.
+Through the 8-point tactile electrode system placed in the hands and under the feet, the apparatus sends electrical currents in multi- frequency measurement which, using bioim- pedance characteristics, allow the apparatus to determine, for example, the intracellular water, the extracellular water, the protein mass, the mineral mass, the body fat mass, the total body water, the fat free mass, the body mass index (BMI), the skeletal muscle mass.
+The apparatus is equipped with the following connectors:
+– RJ45,
+– USB,
+– RS232,
+– 25 pin D-sub.
+The apparatus can be used either by health professionals in diagnosing obesity or by other users to provide information about their physique, or to check or improve it for sporting or appearance purposes.
+The apparatus can be connected to an automatic data-processing machine or a printer.
+
+
+9031 80 38
+
+
+Classification is determined by General Rules 1, 3(b) and 6 for the interpretation of the Combined Nomenclature and by the wording of CN codes 9031, 9031 80 and 9031 80 38.
+Classification under heading 9018 as a medical instrument or appliance is excluded as the apparatus is not generally used in professional practice (see first paragraph of the HS Explanatory Notes to heading 9018).
+The apparatus is a composite article consisting of components classified under Chapter 84 and Chapter 90. By virtue of General Rule 3(b) it is to be classified as if it consisted of the component which gives the article its essential character.
+Due to its objective characteristics, namely the measurement technology used, it is to be considered that the component performing the measurement gives the apparatus its essential character.
+The apparatus is therefore to be classified under CN code 9031 80 38 as other electronic measuring instruments.
+
+
+
+
+УРЕДБА КОМИСИЈЕ (ЕУ) О СПРОВОЂЕЊУ број 273/2013од 19. марта 2013. године у вези са сврставањем одређених роба  у Комбинованој номенклатури
+"Службени гласник РС", број 47 од 29. 
+				маја 2013.
+ЕВРОПСКА КОМИСИЈА,
+Имајући у виду Уговор о функционисању Европске уније,
+Имајући у виду Уредбу Савета (ЕЕЗ) број 2658/87 од 23. јула 1987. године о тарифској и статистичкој номенклатури и Заједничкој царинској тарифи1, а посебно њен члан 9. став 1. тачка а),
+С обзиром на то да:
+(1) је да би се осигурала доследна примена Комбиноване номенклатуре дате у прилогу Уредбе (ЕЕЗ) број 2658/87, неопходно усвојити мере у вези са сврставањем роба наведених у Анексу уз ову уредбу;
+(2) су Уредбом (ЕЕЗ) број 2658/87 одређена основна правила за тумачење Комбиноване номенклатуре. Ова правила се такође примењују на било коју другу номенклатуру која се у потпуности или делимично заснива на њој, или којој су додате било које потподеле и која је установљена посебним прописима Уније, са циљем примене тарифских и других мера везаних за трговину робом;
+(3) се сходно тим основним правилима, роба описана у колони 1 табеле дате у Анексу сврстава у CN ознаку наведену у колони 2, према разлозима датим у колони 3 табеле;
+(4) је предвиђено да, по потреби, ималац обавезујуће тарифне информације, коју су издали царински органи држава чланица у односу на сврставање робе према Комбинованој номенклатури, али која није у складу са овом уредбом, може у периоду од три месеца, да настави да се позива на њу, према члану 12. став 6. Уредбе Савета (ЕЕЗ) број 2913/92 од 12. октобра 1992. године којом је установљен Царински закон Заједнице2;
+(5) су мере предвиђене овом уредбом у складу са мишљењем Одбора за Царински закон.
+ДОНЕЛА ЈЕ ОВУ УРЕДБУ:
+Члан 1.
+Роба описана у колони 1 табеле дате у Анексу сврстава се у оквиру Комбиноване номенклатуре у CN ознаку наведену у колони 2 те табеле.
+Члан 2.
+Обавезујућа тарифна информација коју су издали царински органи државе чланице, а која није у складу са овом уредбом, наставиће да важи у периоду од три месеца по члану 12. став 6. Уредбе (ЕЕЗ) број 2913/92.
+Члан 3.
+Ова уредба ступа на снагу 20. дана од дана објављивања у „Службеном листу Европске уније”.
+Ова уредба је у потпуности обавезујућа и директно применљива у свим државама чланицама.
+У Бриселу, 19. марта 2013. године 
+–––––––––––––
+1 OJ L 256, 7.9.1987. стр. 1 
+2 OJ L 302, 19.10.1992, стр. 1
+ 
+За Комисију,
+у име председника,
+Algirdas ŠEMETA
+члан Комисије
+АНЕКС
+
+
+
+
+Опис робе
+
+
+Сврставање
+(CN ознака)
+
+
+Разлози
+
+
+
+
+(1)
+
+
+(2)
+
+
+(3)
+
+
+
+
+1. Електронски апарат (такозвани „анализатор телесног састава”) са уграђеном индикаторском плочом, димензија приближно 30 x 30 x 4 cm, састоји се од следећих главних компоненти:
+
+
+8423 10 90
+
+
+Сврставање је одређено Основним правилима 1, 3(b) и 6 за примењивање Комбиноване номенклатуре, и наименовањима уз CN ознаке 8423, 8423 10 и 8423 10 90.
+
+
+
+
+- за мерење масе: мерна ћелија (load cell) и хардвер за обраду и приказивање масе,
+- за остала мерења: 2 електроде на горњој површини ваге, управљачки тастери и хардвер за обраду и приказивање мерења.
+Преко две електроде које су у контакту са стопалима, апарат ствара електричну струју чије карактеристике биоимпедансе се користе да се омогући да апарат одреди, на пример, проценат телесне масноће, проценат мишићне масе, коштану масу, воду у телу.
+Апарат се може користити и само као вага за мерење.
+Апарат може меморисати податке за 10 корисника. Може да приказује вредности 2 мерења по кориснику.
+Апарат је конструисан за употребу у домаћинству.
+
+
+
+
+Апарат је сложени производ који се састоји од компоненти које се сврставају у Главу 84 и Главу 90. На основу ОПП 3(b) сврстава се као да се састоји од компоненте која му даје битан карактер.
+Због својих стварних карактеристика, наиме система за мерење од само 2 електроде, сматра се да компонента која врши мерење масе даје апарату битан карактер.
+Апарат се, према томе, сврстава у CN ознаку 8423 10 90 као персонална вага за мерење масе.
+
+
+
+
+2. Електронски апарат (такозвани „анализатор телесног састава”) у облику персоналне ваге са уграђеном индикаторском плочом, димензија приближно 36 x 32 x 6 cm, састоји се од следећих главних компоненти:
+- за мерење масе: мерна ћелија (load cell) и хардвер за обраду и приказивање масе,
+- за остала мерења: одвојива шипкаста ручка са 4 електроде, 4 електроде на горњој површини ваге, управљачки тастери и хардвер за обраду и приказивање мерења.
+Преко система од 8 електрода смештених у рукама и испод стопала, при мерењу апарат ствара електричне струје различитих фреквенција, чије карактеристике биоимпедансе се користе да се омогући да апарат одреди, на пример, проценат телесне масноће, масу телесне масноће, индекс телесне масе (BMI), масу скелетних мишића, воду у телу.
+Апарат могу да користе било здравствени радник при дијагностиковању гојазности, било други корисници да би добили информације о својој телесној грађи, или да би је за спортске или естетске сврхе, проверили или побољшали. 
+Апарат се може користити и само као вага.
+Апарат може меморисати податке за 99 корисника и 300 мерења. Подаци могу да се пренесу на машину за аутоматску обраду података коришћењем USB меморије.
+
+
+9031 80 38
+
+
+Сврставање је одређено Основним правилима 1, 3(b) и 6 за примењивање Комбиноване номенклатуре, и наименовањима уз CN ознаке 9031, 9031 80 и 9031 80 38.
+Искључује се сврставање у тарифни број 9018 као медицинског инструмента или апарата због тога што се не користи првенствено у професионалној пракси (видети први став ХС Коментара уз тарифни број 9018).
+Апарат је сложени производ који се састоји од компоненти које се сврставају у Главу 84 и Главу 90. На основу ОПП 3(b) сврстава се као да се састоји од компоненте која му даје битан карактер.
+Због својих стварних карактеристика, наиме технологије мерења која се користи, сматра се да компонента која врши мерење даје апарату битан карактер.
+Апарат се, према томе, сврстава у CN ознаку 9031 80 38 као остали електронски инструменти за мерење.
+
+
+
+
+3. Електронски апарат (такозвани „анализатор телесног састава”) са вагом у основи и стубом на чијем врху је управљачка табла са уграђеном индикаторском плочом, димензија приближно 120 x 87 x 52 cm, састоји се од следећих главних компоненти:
+- за мерење масе: мерна ћелија (load cell) и хардвер за обраду и приказивање масе,
+- за остала мерења: 2 одвојиве шипкасте ручице са по 2 електроде свака, 4 електроде на горњој површини ваге, управљачки тастери и хардвер за обраду и приказивање мерења.
+Преко система електрода са 8 додирних тачака смештених у рукама и испод стопала, при мерењу апарат шаље електричне
+
+
+9031 80 38
+
+
+Сврставање је одређено Основним правилима 1, 3(b) и 6 за примењивање Комбиноване номенклатуре, и наименовањима уз CN ознаке 9031, 9031 80 и 9031 80 38.
+Искључује се сврставање у тарифни број 9018 као медицинског инструмента или апарата, због тога што се не користи првенствено у професионалној пракси (видети први став ХС Коментара уз тарифни број 9018).
+Апарат је сложени производ који се састоји од компоненти које се сврставају у Главу 84 и Главу 90. На основу ОПП 3(b) сврстава се као да се састоји од компоненте која му даје битан карактер.
+Због својих стварних карактеристика, наиме технологије мерења
+
+
+
+
+струје различитих фреквенција, чије карактеристике биоимпедансе се користе да се омогући да апарат одреди, на пример, воду у ћелијама, воду ван ћелија, масу беланчевина, масу минерала, масу телесне масноће, укупну воду у телу, масу без масти, индекс телесне масе (BMI), масу скелетних мишића.
+Апарат има следеће конекторе:
+- RJ45,
+- USB,
+- RS232,
+- 25 pin D-sub.
+Апарат могу да користе било здравствени радник при дијагностиковању гојазности, било други корисници да би добили информације о својој телесној грађи, или да би је за спортске или естетске сврхе, проверили или побољшали.
+Апарат се може повезати са машином за аутоматску обраду података или штампач.
+
+
+
+
+која се користи, сматра се да компонента која врши мерење даје апарату битан карактер.
+Апарат се према томе сврстава у CN ознаку 9031 80 38 као остали електронски инструменти за мерење.

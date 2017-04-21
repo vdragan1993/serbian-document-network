@@ -1,0 +1,146 @@
+На основу члана 3а став 4. Закона о Царинској тарифи („Службени гласник РС”, бр. 62/05, 61/07 и 5/09) објављује се Уредба Комисије (ЕУ) о спровођењу број 279/2013 од 19. марта 2013. године у вези са сврставањем одређених роба у Комбинованој номенклатури објављена у „Службеном листу Европске уније”, број L 84/15 од 23. марта 2013. године, која у оригиналу на енглеском језику и у преводу на српски језик гласи:
+COMMISSION IMPLEMENTING REGULATION (EU) No 279/2013 of 19 March 2013 concerning the classification of certain goods in the Combined Nomenclature
+"Службени гласник РС", број 47 од 29. маја 2013.
+THE EUROPEAN COMMISSION,
+Having regard to the Treaty on the Functioning of the European Union,
+Having regard to Council Regulation (EEC) No 2658/87 of 23 July 1987 on the tariff and statistical nomenclature and on the Common Customs Tariff (1), and in particular Article 9(1)(a) thereof,
+Whereas:
+(1) In order to ensure uniform application of the Combined Nomenclature annexed to Regulation (EEC) No 2658/87, it is necessary to adopt measures concerning the classification of the goods referred to in the Annex to this Regulation.
+(2) Regulation (EEC) No 2658/87 has laid down the general rules for the interpretation of the Combined Nomenclature. Those rules apply also to any other nomenclature which is wholly or partly based on it or which adds any additional subdivision to it and which is established by specific provisions of the Union, with a view to the application of tariff and other measures relating to trade in goods.
+(3) Pursuant to those general rules, the goods described in column (1) of the table set out in the Annex should be classified under the CN code indicated in column (2), by virtue of the reasons set out in column (3) of that table.
+(4) It is appropriate to provide that binding tariff information which has been issued by the customs authorities of Member States in respect of the classification of goods in the Combined Nomenclature but which is not in accordance with this Regulation can, for a period of three months, continue to be invoked by the holder, under Article 12(6) of Council Regulation (EEC) No 2913/92 of 12 October 1992 establishing the Community Customs Code (2).
+(5) The measures provided for in this Regulation are in accordance with the opinion of the Customs Code Committee,
+HAS ADOPTED THIS REGULATION:
+Article 1
+The goods described in column (1) of the table set out in the Annex shall be classified within the Combined Nomenclature under the CN code indicated in column (2) of that table.
+Article 2
+Binding tariff information issued by the customs authorities of Member States, which is not in accordance with this Regulation, can continue to be invoked for a period of three months under Article 12(6) of Regulation (EEC) No 2913/92.
+Article 3
+This Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union.
+This Regulation shall be binding in its entirety and directly applicable in all Member States. 
+Done at Brussels, 19 March 2013.
+–––––––––––––
+(1) OJ L 256, 7.9.1987, p. 1.
+(2) OJ L 302, 19.10.1992, p. 1.
+For the Commission,
+On behalf of the President,
+Algirdas ŠEMETA
+Member of the Commission
+ANNEX
+
+
+
+
+Description of the goods
+
+
+Classification (CN code)
+
+
+Reasons
+
+
+
+
+(1)
+
+
+(2)
+
+
+(3)
+
+
+
+
+A flexible tube made of polyamide with a transparent tail end, reinforced inside with a fine wire braiding which is an integral part of the tube. The tube is 125,5 cm long and has an outside diameter of 2,8 mm.
+The tube is not sterilised upon presentation. It is presented uncoiled, in a double packaging.
+The tube is intended to be used by medical professionals to insert a ‘stent’ into the human body. The tube is not left in the body after use.
+
+
+3917 39 00
+
+
+Classification is determined by General Rules 1 and 6 for the interpretation of the Combined Nomenclature, Note 8 to Chapter 39 and by the wording of CN codes 3917 and 3917 39 00.
+Given its objective characteristics and properties, the goods meet the terms of heading 3917 and fulfil the requirements of Note 8 to Chapter 39.
+The intended use of the tube is not inherent to its objective characteristics as, upon presentation, the tube cannot be identified as an instrument or appliance used in medical sciences. Consequently, classification under heading 9018 is excluded.
+It is therefore to be classified under CN code 3917 39 00 as other tubes of plastics.
+
+
+
+
+УРЕДБА КОМИСИЈЕ (ЕУ) О СПРОВОЂЕЊУ број 279/2013од 19. марта 2013. године у вези са сврставањем одређених роба  у Комбинованој номенклатури
+"Службени гласник РС", број 47 од 29. маја 2013.
+ЕВРОПСКА КОМИСИЈА,
+Имајући у виду Уговор о функционисању Европске уније,
+Имајући у виду Уредбу Савета (ЕЕЗ) број 2658/87 од 23. јула 1987. године о тарифској и статистичкој номенклатури и Заједничкој царинској тарифи1, а посебно њен члан 9. став 1. тачка а),
+С обзиром на то:
+(1) да је да би се осигурала доследна примена Комбиноване номенклатуре дате у прилогу Уредбе (ЕЕЗ) број 2658/87, неопходно усвојити мере у вези са сврставањем роба наведених у Анексу уз ову уредбу;
+(2) да су Уредбом (ЕЕЗ) број 2658/87 одређена основна правила за тумачење Комбиноване номенклатуре. Ова правила се такође примењују на било коју другу номенклатуру која се у потпуности или делимично заснива на њој, или којој су додате било које потподеле и која је установљена посебним прописима Уније, са циљем примене тарифских и других мера везаних за трговину робом;
+(3) да се сходно тим основним правилима, роба описана у колони 1 табеле дате у Анексу сврстава у CN ознаку наведену у колони 2, према разлозима датим у колони 3 табеле;
+(4) да је предвиђено да, по потреби, ималац обавезујуће тарифне информације, коју су издали царински органи држава чланица у односу на сврставање робе према Комбинованој номенклатури, али која није у складу са овом уредбом, може у периоду од три месеца, да настави да се позива на њу, према члану 12. став 6. Уредбе Савета (ЕЕЗ) број 2913/92 од 12. октобра 1992. године којом је установљен Царински закон Заједнице2;
+(5) да су мере предвиђене овом уредбом у складу са мишљењем Одбора за Царински закон.
+ДОНЕЛА ЈЕ ОВУ УРЕДБУ:
+Члан 1.
+Роба описана у колони 1 табеле дате у Анексу сврстава се у оквиру Комбиноване номенклатуре у CN ознаку наведену у колони 2 те табеле.
+Члан 2.
+Обавезујућа тарифна информација коју су издали царински органи државе чланице, а која није у складу са овом уредбом, наставиће да важи у периоду од три месеца по члану 12. став 6. Уредбе (ЕЕЗ) број 2913/92.
+Члан 3.
+Ова уредба ступа на снагу 20. дана од дана објављивања у „Службеном листу Европске уније”.
+Ова уредба је у потпуности обавезујућа и директно применљива у свим државама чланицама.
+У Бриселу, 19. марта 2013. године. 
+–––––––––––––
+1 OJ L 256, 7.9.1987. стр.1. 
+2 OJ L 302, 19.10.1992, стр.1. 
+За Комисију,
+у име председника,
+Algirdas ŠEMETA
+члан Комисије
+АНЕКС
+
+
+
+
+Опис робе
+
+
+Сврставање (CN ознака)
+
+
+Разлози
+
+
+
+
+(1)
+
+
+(2)
+
+
+(3)
+
+
+
+
+Савитљива цев израђена од полиамида са провидним завршетком, ојачана изнутра фином плетеницом од жице која је саставни
+
+
+3917 39 00
+
+
+Сврставање је одређено Основним правилима 1 и 6 за примењивање Комбиноване номенклатуре, Напоменом 8 уз Главу 39 и наименовањима уз CN ознаке 3917 и 3917 39 00.
+
+
+
+
+део цеви. Цев је дугачка 125,5 cm и има спољашњи пречник 2,8 mm.
+Цев по испоруци није стерилисана. Испоручује се ненамотана, у паковању од два комада.
+Цев је намењена да је користе професионални медицински радници за увођење „стента” у људско тело. Цев се не оставља у телу након употребе.
+
+
+
+
+С обзиром на стварне карактеристике и својства, роба задовољава услове тарифног броја 3917 и испуњава захтеве Напомене 8 уз Главу 39.
+Намена за коју се цев користи није од значаја у односу на њене стварне карактеристике, јер се након испоруке, не може утврдити да цев представља инструмент или апарат за медицину. Сходно томе, искључује се сврставање у тарифни број 9018.
+Производ се, према томе, сврстава у CN ознаку 3917 39 00 као остале цеви од пластичне масе.

@@ -1,0 +1,155 @@
+На основу члана 3а став 4. Закона о Царинској тарифи („Службени гласник Републике Србије”, бр. 62/05, 61/07 и 5/09) објављује се Уредба Комисије (ЕУ) о спровођењу број 726/2012 од 6. августа 2012. године у вези са сврставањем одређених роба у Комбинованој номенклатури објављена у „Службеном листу Европске уније”, број L 213/3 од 10. августа 2012. године, која у оригиналу на енглеском језику и у преводу на српски језик гласи: 
+COMMISSION IMPLEMENTING REGULATION (EU)No 726/2012 of 6 August 2012concerning the classification of certain goodsin the Combined Nomenclature
+"Службени гласник РС", број 98 од 12. 
+				октобра 2012.
+THE EUROPEAN COMMISSION,
+Having regard to the Treaty on the Functioning of the European Union,
+Having regard to Council Regulation (EEC) No 2658/87 of 23 July 1987 on the tariff and statistical nomenclature and on the Common Customs Tariff(1), and in particular Article 9(1)(a) thereof,
+Whereas:
+(1) In order to ensure uniform application of the Combined Nomenclature annexed to Regulation (EEC) No 2658/87, it is necessary to adopt measures concerning the classification of the goods referred to in the Annex to this Regulation.
+(2) Regulation (EEC) No 2658/87 has laid down the general rules for the interpretation of the Combined Nomenclature. Those rules apply also to any other nomenclature which is wholly or partly based on it or which adds any additional subdivision to it and which is established by specific provisions of the Union, with a view to the application of tariff and other measures relating to trade in goods.
+(3) Pursuant to those general rules, the goods described in column (1) of the table set out in the Annex should be classified under the CN code indicated in column (2), by virtue of the reasons set out in column (3) of that table.
+(4) It is appropriate to provide that binding tariff information which has been issued by the customs authorities of Member States in respect of the classification of goods in the Combined Nomenclature but which is not in accordance with this Regulation can, for a period of three months, continue to be invoked by the holder, under Article 12(6) of Council Regulation (EEC) No 2913/92 of 12 October 1992 establishing the Community Customs Code(2).
+(5) The measures provided for in this Regulation are in accordance with the opinion of the Customs Code Committee.
+HAS ADOPTED THIS REGULATION:
+Article 1
+The goods described in column (1) of the table set out in the Annex shall be classified within the Combined Nomenclature under the CN code indicated in column (2) of that table.
+Article 2
+Binding tariff information issued by the customs authorities of Member States, which is not in accordance with this Regulation, can continue to be invoked for a period of three months under Article 12(6) of Regulation (EEC) No 2913/92.
+Article 3
+This Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union.
+This Regulation shall be binding in its entirety and directly applicable in all Member States. 
+Done at Brussels, 6 August 2012.
+–––––––––––––––
+(1) OJ L 256, 7.9.1987, p. 1.
+(2) OJ L 302, 19.10.1992, p. 1.
+ 
+For the Commission,
+				 
+On behalf of the President,
+Antonio TAJANI
+Vice-President
+ANNEX
+
+
+
+
+Description of the goods
+
+
+Classification (CN code)
+
+
+Reasons
+
+
+
+
+(i)
+
+
+(2)
+
+
+(3)
+
+
+
+
+An electronic apparatus (so-called ‚remote elevator monitoring unit‘) in a housing with dimensions of approximately 28 * 22 * 9 cm for incorporation into a lift shaft.
+The apparatus, which receives information from various external sensors, is used for monitoring the functioning of the lift operations and detecting any malfunctions, for example, in starting and stopping, door opening and closing, levelling, in the traction motor, brake, cabin lighting. The information received is checked and processed by the apparatus and transmitted via a modem to a maintenance centre.
+
+
+9031 90 85
+
+
+Classification is determined by General Rules 1 and 6 for the interpretation of the Combined Nomenclature, Note 2(b) to Chapter 90 and by the wording of CN codes 9031, 9031 90 and 9031 90 85.
+As the apparatus does not incorporate a modem or other communication device, classification as an apparatus for communication in a wired network under heading 8517 is excluded.
+
+
+
+
+After presentation and incorporation of a modem, the apparatus can provide two-way voice communication between the lift cabin and the maintenance centre through a microphone and a loudspeaker installed in the cabin.
+
+
+
+
+As the apparatus does not provide any sound or visual signals, classification as an electric sound or visual signalling apparatus under heading 8531 is excluded.
+The apparatus monitors and checks the functioning of the lift and processes the data received. The sensors, where the signals to be processed are generated, are not incorporated in the apparatus. The apparatus does not itself display those signals. For these reasons, the apparatus is considered a part of a checking instrument. Consequently, classification as an incomplete machine of heading 9031 is excluded.
+The apparatus is therefore to be classified under CN code 9031 90 85 as a part of checking instruments, appliances and machines, not specified or included elsewhere in Chapter 90.
+
+
+
+
+УРЕДБА КОМИСИЈЕ (ЕУ) О СПРОВОЂЕЊУ број 726/2012од 6. августа 2012. годинеу вези са сврставањем одређених роба премаКомбинованој номенклатури
+"Службени гласник РС", број 98 од 12. 
+				октобра 2012.
+КОМИСИЈА ЕВРОПСКЕ УНИЈЕ,
+Имајући у виду Уговор о функционисању Европске уније,
+Имајући у виду Уредбу Савета (ЕЕЗ) број 2658/87 од 23. јула 1987. године о тарифској и статистичкој номенклатури и Заједничкој царинској тарифи1, а посебно њен члан 9(1)(а),
+С обзиром на то:
+(1) да је, да би се осигурала доследна примену Комбиноване номенклатуре дате у прилогу Уредбе (ЕЕЗ) број 2658/87, неопходно усвојити мере у вези са сврставањем роба наведених у Анексу уз ову уредбу;
+(2) да су Уредбом (ЕЕЗ) број 2658/87 одређена основна правила за тумачење Комбиноване номенклатуре. Ова правила се такође примењују на било коју другу номенклатуру која се у потпуности или делимично заснива на њој, или којој су додате било које потподеле и која је установљена посебним прописима Уније, са циљем примене тарифских и других мера везаних за трговину робом;
+(3) да се сходно тим основним правилима, роба описана у колони 1 табеле дате у Анексу сврстава у CN ознаку наведену у колони 2, према разлозима датим у колони 3 табеле;
+(4) да је одговарајуће обезбедити да, ималац обавезујуће тарифне информације, коју су издали царински органи држава чланица у односу на сврставање робе према Комбинованој номенклатури али која није у складу са овом уредбом, може у периоду од три месеца, да настави да се позива на њу, према члану 12(6) Уредбе Савета (ЕЕЗ) број 2913/92 од 12. октобра 1992. године којом је установљен Царински закон Заједнице2;
+(5) да су мере предвиђене овом уредбом у складу са мишљењем Одбора за Царински закон.
+УСВОЈИЛА ЈЕ ОВУ УРЕДБУ:
+Члан 1.
+Роба описана у колони 1 табеле дате у Анексу сврстава се у оквиру Комбиноване номенклатуре у CN ознаку наведену у колони 2 те табеле.
+Члан 2.
+Обавезујућа тарифна информација коју су издали царински органи државе чланице, а која није у складу са овом уредбом наставиће да важи у периоду од три месеца по члану 12(6) Уредбе (ЕЕЗ) број 2913/92.
+Члан 3.
+Ова уредба ступа на снагу 20. дана од дана објављивања у „Службеном листу Европске уније”.
+Ова уредба у потпуности је обавезујућа и директно применљива у свим државама чланицама.
+У Бриселу, 6. августа 2012. године
+–––––––––––––––
+1 OJ L 256, 7.9.1987, стр.1.
+2 OJ L 302, 19.10.1992, стр.1
+ 
+За Комисију
+У име председника
+Antonio Tajani
+заменик председника
+АНЕКС
+
+
+
+
+Опис робе
+
+
+Сврставање
+(CN ознака)
+
+
+Разлози
+
+
+
+
+(1)
+
+
+(2)
+
+
+(3)
+
+
+
+
+
+
+Електронски апарат (такозвана „даљинска јединица за надгледање лифта”) у кућишту димензија приближно 28 x 22 x 9 cm, која се уграђује у окно лифта.
+Апарат, који прима информације од различитих спољашњих сензора, употребљава се за надгледање функционисања рада лифта и откривање било каквих неправилности, на пример, при стартовању и заустављању, отварању и затварању врата, нивелисању, у вучном мотору, кочницама, осветљењу кабине. Добијене информације апарат проверава и обрађује, и преноси их путем модема у центар за одржавање.
+После испоруке и уградње модема, апарат може омогућити двосмерну гласовну комуникацију између кабине лифта и центра за одржавање, преко микрофона и звучника инсталираних у кабини.
+
+
+9031 90 85
+
+
+Сврставање је одређено Основним правилима 1 и 6 за примењивање Комбиноване номенклатуре, Напоменом 2(б) уз Главу 90 и наименовањима уз CN ознаке 9031, 9031 90 и 9031 90 85.
+Пошто апарат нема уграђен модем или други комуникациони уређај, искључује се сврставање у тарифни број 8517, као апарата за комуникацију у жичној мрежи.
+Пошто апарат не обезбеђује било какву звучну или визуелну сигнализацију, искључује се сврставање у тарифни број 8531, као електричног апарата за звучну или визуелну сигнализацију.
+Апарат врши надгледање и проверава функционисање лифта и обрађује добијене податке. Сензори, у којима се генеришу сигнали који ће се обрађивати, нису уграђени у апарат. Сам апарат не приказује те сигнале. Из тих разлога, апарат се сматра делом инструмента за контролу. Сходно томе, искључује се сврставање као некомплетне машине из тарифног броја 9031.
+Апарат, према томе, сврстава у CN ознаку 9031 90 85 као део инструмената, апарата и машина за контролу, непоменутих нити обухваћених на другом месту у глави 90.

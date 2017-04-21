@@ -1,0 +1,165 @@
+На основу члана 3а став 4. Закона о Царинској тарифи („Службени гласник Републике Србије”, бр. 62/05, 61/07 и 5/09) објављује се Уредба Комисије (ЕУ) о спровођењу број 1125/2012 од 26. новембра 2012. године, у вези са сврставањем одређених роба у Комбинованој номенклатури објављена у „Службеном листу Европске уније”, број L 331/9 од 1. децембра 2012. године, која у оригиналу на енглеском језику и у преводу на српски језик гласи: 
+COMMISSION IMPLEMENTING REGULATION (EU) No 1125/2012 of 26 November 2012 concerning the classification of certain goods in the Combined Nomenclature
+"Службени гласник РС", број 9 од 29. јануара 2013.
+THE EUROPEAN COMMISSION,
+Having regard to the Treaty on the Functioning of the European Union,
+Having regard to Council Regulation (EEC) No 2658/87 of 23 July 1987 on the tariff and statistical nomenclature and on the Common Customs Tariff (1), and in particular Article 9(1)(a) thereof,
+Whereas:
+(1) In order to ensure uniform application of the Combined Nomenclature annexed to Regulation (EEC) No 2658/87, it is necessary to adopt measures concerning the classification of the goods referred to in the Annex to this Regulation.
+(2) Regulation (EEC) No 2658/87 has laid down the general rules for the interpretation of the Combined Nomenclature. Those rules apply also to any other nomenclature which is wholly or partly based on it or which adds any additional subdivision to it and which is established by specific provisions of the Union, with a view to the application of tariff and other measures relating to trade in goods.
+(3) Pursuant to those general rules, the goods described in column (1) of the table set out in the Annex should be classified under the CN code indicated in column (2), by virtue of the reasons set out in column (3) of that table.
+(4) It is appropriate to provide that binding tariff information which has been issued by the customs authorities of Member States in respect of the classification of goods in the Combined Nomenclature but which is not in accordance with this Regulation can, for a period of three months, continue to be invoked by the holder, under Article 12(6) of Council Regulation (EEC) No 2913/92 of 12 October 1992 establishing the Community Customs Code (2).
+(5) The measures provided for in this Regulation are in accordance with the opinion of the Customs Code Committee,
+HAS ADOPTED THIS REGULATION:
+Article 1
+The goods described in column (1) of the table set out in the Annex shall be classified within the Combined Nomenclature under the CN code indicated in column (2) of that table.
+Article 2
+Binding tariff information issued by the customs authorities of Member States, which is not in accordance with this Regulation, can continue to be invoked for a period of three months under Article 12(6) of Regulation (EEC) No 2913/92.
+Article 3
+This Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union.
+This Regulation shall be binding in its entirety and directly applicable in all Member States. 
+Done at Brussels, 26. November 2012.
+––––––––––––
+(1) OJ L 256, 7.9.1987, p. 1.
+(2) OJ L 302, 19.10.1992, p. 1.
+For the Commission, 
+On behalf of the President,
+Algirdas ŠEMETA
+Member of the Commission
+ANNEX
+
+
+
+
+Description of the goods
+
+
+Classification (CN code)
+
+
+Reasons
+
+
+
+
+(1)
+
+
+(2)
+
+
+(3)
+
+
+
+
+A microprocessor-controlled hand-held machine (so- called ”electronic hot air blowing gun”), for generating temperatures of between 50 and 630 °C, with a maximum output power of 2 000 W and dimensions of approximately 26 x 20 x 9 cm.
+The machine comprises:
+– a heating element;
+– a fan with a motor for blowing air at 3 different speeds;
+– a display for indicating the temperature.
+
+
+ 8419 89 98
+
+
+Classification is determined by General Rules 1 and 6 for the interpretation of the Combined Nomenclature, Note 2 to Chapter 84 and by the wording of CN codes 8419, 8419 89 and 8419 89 98.
+As the machine is designed for use by craftsmen and is not of a kind normally used in households, classification under heading 8516 as an electrothermic appliance of a kind used for domestic purposes is excluded.
+
+
+
+
+The machine is for use by craftsmen, for example, in stripping paint, shrinking tubing on cables, forming PVC, soft soldering, welding and joining plastic, welding plastic pipes and rods and foil welding.
+(*) See image.
+
+
+
+
+The machine corresponds to the descriptions of both headings 8419 and 8467. In accordance with Note 2 to Chapter 84, classification under heading 8467 as a tool for working in the hand with self-contained electric motor is excluded.
+The machine is therefore to be classified under CN code 8419 89 98 as machinery for the treatment of materials by a process involving a change of temperature.
+
+
+
+
+(*) The image is purely for information.
+
+
+
+
+
+УРЕДБА КОМИСИЈЕ (ЕУ) О СПРОВОЂЕЊУ број 1125/2012 од 26. новембра 2012. годинеу вези са сврставањем одређених роба према Комбинованој номенклатури
+"Службени гласник РС", број 9 од 29. јануара 2013.
+КОМИСИЈА ЕВРОПСКЕ УНИЈЕ,
+Имајући у виду Уговор о функционисању Европске уније,
+Имајући у виду Уредбу Савета (ЕЕЗ) број 2658/87 од 23. јула 1987. године, о тарифској и статистичкој номенклатури и Заједничкој царинској тарифи1, а посебно њен члан 9(1)(а),
+С обзиром на то:
+(1) да је, да би се осигурала доследна примену Комбиноване номенклатуре дате у прилогу Уредбе (ЕЕЗ) број 2658/87, неопходно усвојити мере у вези са сврставањем роба наведених у Анексу уз ову уредбу;
+(2) да су Уредбом (ЕЕЗ) број 2658/87 одређена основна правила за тумачење Комбиноване номенклатуре. Ова правила се такође примењују на било коју другу номенклатуру која се у потпуности или делимично заснива на њој, или којој су додате било које потподеле и која је установљена посебним прописима Уније, са циљем примене тарифских и других мера везаних за трговину робом;
+(3) да се сходно тим основним правилима, роба описана у колони 1 табеле дате у Анексу сврстава у CN ознаку наведену у колони 2, према разлозима датим у колони 3 табеле;
+(4) да је одговарајуће обезбедити да, ималац обавезујуће тарифне информације, коју су издали царински органи држава чланица у односу на сврставање робе према Комбинованој номенклатури али која није у складу са овом уредбом, може у периоду од три месеца, да настави да се позива на њу, према члану 12(6) Уредбе Савета (ЕЕЗ) број 2913/92 од 12. октобра 1992. године којом је установљен Царински закон Заједнице2;
+(5) да су мере предвиђене овом уредбом у складу са мишљењем Одбора за Царински закон.
+УСВОЈИЛА ЈЕ ОВУ УРЕДБУ:
+Члан 1.
+Роба описана у колони 1 табеле дате у Анексу сврстава се у оквиру Комбиноване номенклатуре у CN ознаку наведену у колони 2 те табеле.
+Члан 2.
+Обавезујућа тарифна информација коју су издали царински органи државе чланице, а која није у складу са овом уредбом наставиће да важи у периоду од три месеца по члану 12(6) Уредбе (ЕЕЗ) број 2913/92.
+Члан 3.
+Ова уредба ступа на снагу 20. дана од дана објављивања у „Службеном листу Европске уније”.
+Ова уредба у потпуности је обавезујућа и директно применљива у свим државама чланицама.
+У Бриселу, 26. новембра 2012. године
+––––––––––––
+1 OJ L 256, 7.9.1987, стр.1.
+2 OJ L 302, 19.10.1992, стр.1
+За Комисију
+У име председника
+Algirdas Šemeta
+члан Комисије
+АНЕКС
+
+
+
+
+Опис робе
+
+
+Сврставање
+(CN ознака)
+
+
+Разлози
+
+
+
+
+(1)
+
+
+(2)
+
+
+(3)
+
+
+
+
+Ручна машина управљана микропроцесором (такозвани „електронски пиштољ врелог ваздуха”) за стварање температура између 50 и 630°C, максималне излазне снаге 2000 W и димензија приближно 26 x 20 x 9 cm.
+Машина се састоји од:
+– грејног елемента;
+– вентилатора са мотором за издувавање ваздуха са три различите брзине;
+– дисплеја за приказивање температуре.
+Машину користе занатлије, на пример, за скидање слоја боје, смањивање цеви преко каблова, обликовање PVC, меко лемљење, заваривање и спајање пластичне масе, заваривање пластичних цеви и шипки и заваривање фолије.
+(*) Видети слику.
+
+
+8419 89 98
+
+
+Сврставање је одређено Основним правилима 1 и 6 за примењивање Комбиноване номенклатуре, Напоменом 2 уз Главу 84 и наименовањима уз CN ознаке 8419, 8419 89 и 8419 89 98.
+Пошто је машина конструисана да је користе занатлије и није од оне врсте која се нормално користи у домаћинству, искључује се сврставање у тарифни број 8516 као електро-термичког уређаја за домаћинство.
+Машина одговара наименовањима оба тарифна броја и 8419 и 8467. У складу са Напоменом 2 уз Главу 84, искључује се сврставање у тарифни број 8467 као ручне алатке са уграђеним електромотором.
+Машина се, према томе, сврстава у CN ознаку 8419 89 98 као машина за обраду материјала променом температуре.
+
+
+
+
+(*) Фотографија има само информативни карактер

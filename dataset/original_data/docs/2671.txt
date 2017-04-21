@@ -1,0 +1,374 @@
+На основу члана 3а став 4. Закона о Царинској тарифи („Службени гласник РС”, бр. 62/05, 61/07 и 5/09) објављује се Уредба Комисије (ЕЕЗ) број 2275/88 од 25. јула 1988. године у вези са сврставањем одређенe робe у Комбинованој номенклатури објављена у „Службеном листу Европских заједница”, број L 200/10 од 26. јула 1988. године, која у оригиналу на енглеском језику и у преводу на српски језик гласи:
+COMMISSION REGULATION (EEC) No 2275/88of 25 July 1988 concerning the classification of certain goods in the combined nomenclature
+"Службени гласник РС", број 65 од 27. јуна 2014.
+THE COMMISSION OF THE EUROPEAN COMMUNITIES,
+Having regard to the Treaty establishing the European Economic Community,
+Having regard to Council Regulation (EEC) No 2658/87(1) on the tariff and statistical nomenclature and on the Common Customs Tariff, as last amended by Regulation (EEC) No 1858/88(2), and in particular Article 9,
+Whereas in order to ensure uniform application of the combined nomenclature annexed to the said Regulation, it is necessary to adopt measures concerning the classification of the goods referred to in the Annex to this Regulation;
+Whereas Regulation (EEC) No 2658/87 has set down the general rules for the interpretation of the combined nomenclature and these rules also apply to any other nomenclature which is wholly or partly based on it or which adds any additional subdivisions to it and which is established by specific Community provisions, with a view to the application of tariff or other measures relating to trade in goods;
+Whereas, pursuant to the said general rules, the goods described in column 1 of the table annexed to the present 
+Regulation must be classified under the appropriate CN codes indicated in column 2, by virtue of the reasons set out in column 3;
+Whereas the nomenclature committee has not delivered an opinion within the time limit set by its chairman,
+HAS ADOPTED THIS REGULATION:
+Article 1
+The goods described in column 1 of the annexed table are now classified within the combined nomenclature under the appropriate CN codes indicated in column 2 of the said table.
+Article 2
+this Regulation shall enter into force on the 21st day after its publication in the Official Journal of the European Communities.
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+Done at Brussels, 25 July 1988.
+––––––––––
+(1) OJ No L 256, 7. 9. 1987, p. 1. 
+(2) OJ No L 166, 1. 7. 1988, p. 10.
+ 
+For the Commission 
+COCKFIELD
+Vice-President
+ANNEX
+
+
+
+
+Description of the goods
+
+
+Classification (CN code)
+
+
+Reasons
+
+
+
+
+(1)
+
+
+(2)
+
+
+(3)
+
+
+
+
+1. Grains of Zizania aquatica (’wild rice’) not dehulled, resembling pine needles, brown in colour
+
+
+1008 90 90
+
+
+Classification is determined by the, provisions of general rules 1 and 6 and the texts of CN codes 1008 and 1008 90 90. The outer green layer has been removed from the product but the black pericarp remians. The product cannot therefore be classified as husked grain of CN code 1104 29 10.
+
+
+
+
+2. Powder of dead monocellular algae (Spirulina or Chlorella) whether or not put up in the form of tablets or capsules for human consumption.
+
+
+2102 20 90
+
+
+Classification is determined by the provisions of general rules 1 and 6 and the texts of CN codes 2102, 2102 20 and 2102 20 90. See also HS explanatory notes to heading 2102, item B. The manner in which the goods are presented does not affect the classification.
+
+
+
+
+3. Milk product consisting of skimmed milk powder containing 50 – 100 million live yoghurt bacteria (Streptococcus thermophilus and Lactobacillus bulgaricus) per gram, with a fat content not exceeding 3 %.
+
+
+0403 10 11
+
+
+Classification is determined by the provisions of general rules 1 and 6 and the texts of CN codes 0403, 0403 10 and 0403 10 11. The product is essentially a milk product of CN codes 0403 rather than a microbial culture of CN code 3002.
+
+
+
+
+4. Product obtained by dry turboseparation of wheat flour and having the following analytical characteristics (by dry weight):
+– starch content: 83 % using the modified Ewers polarimetric method,
+– ash content: 0,4 %,
+– protein content: approximately 4,5 %
+
+
+110 100 00
+
+
+Classification is determined by the provisions of general rule 1 and the texts of CN code 110100 00 and of note 2 to Chapter 11. This product presents the characteristics of a wheat flour. Although it is enriched with starch and has a reduced protein content, it does not meet the analytical criteria for classification as a wheat starch of CN code 1108 11.
+
+
+
+
+5. Famotidine (INN)
+
+
+2934 10 00
+
+
+Classification is determined by the provisions of general rules 1 and 6 and the texts of CN codes 2934 and 2934 10 00. The compound is not a sulphonamfde of heading 29.35 because the sulphur atom of the S02NH2 group is not directly linked to a carbon atom. The structure includes . an unfused thiazole ring.
+
+
+
+
+6. Preparation of the kind used as raw material in the production of cosmetics having the following composition :
+– animal placenta extracts approximately 10 % by weight,
+– maize germ oil approximately 90 % by weight.
+
+
+3823 90 99
+
+
+Classification is determined by the provisions of general rules 1 and 6 and the texts of CN codes 3823 and 3823 90 99. The product cannot be considered as a protein substance of CN code 3504. It is covered by the second part of the text of CN code 3823. It is an intermediate product not yet having the characteristics of a cosmetic preparation.
+
+
+
+
+7. Preparation of the kind used as raw material in the production of cosmetics having the following composition:
+– Collagen approximately 3 % by weight,
+– Glycerol approximately 44 % by weight,
+– Water approximately 53 % by weight.
+
+
+3823 90 99
+
+
+Classification is determined by the pro visions of general rules 1 and 6 and the texts of CN codes 3823 and 3823 90 99. The product cannot be considered as a protein substance of CN code 3504. It is covered by the second part of the text of CN code 3823. It is an intermediate product not yet having the characteristics of a cosmetic preparation.
+
+
+
+
+8. Preparation of the kind used as raw material in the production of cosmetics having the following composition :
+– Elastin approximately 5 % by weight,
+– Propare-1, 2-diol approximately 45 % by weight,
+– Water approximately 50 % by weight.
+
+
+3823 90 99
+
+
+Classification is determined by the provisions of general rules 1 and 6 and the texts of CN codes 3823 and 3823 90 99. The product cannot be considered as a protein substance of CN code 3504. It is covered by the second part of the text of CN code 3823. It is an intermadiate product not yet having the characteristics of a cosmetic preparation.
+
+
+
+
+9. Mechanical assembly for a video recording or reproducing apparatus of CN code 8521, equipped with recording and reproducing heads (Mecadeck).
+
+
+8521 10 39
+
+
+Classification is determined by the provisions of general rules 1, 2 (a) and 6 and the texts of CN codes 8521, 8521 10 and 8521 10 39.
+This mechanical assembly presents the essential characteristics of a video recording or reproducing apparatus.
+
+
+
+
+10. Flat non-alloy steel product, obtained by the continuous casting process, having dimensions of 1 700 mm x 6 000 mm x 70 mm, with as-rolled edges
+
+
+7208
+
+
+Classification is determined by the provisions of general rule 1 and the text of CN code 7208. The dimensions of the product do not result from simple rough rolling and the product is therefore regarded as a flat rolled product (plate) of CN code 7208 rather than as a semifinished product (slab) of CN code 7207.
+
+
+
+
+11. Flat non-alloy steel product obtained by the continuous casting process, having dimensions of 2 520 mm x 4 400 mm x 90 mm, with sheared edges
+
+
+7208
+
+
+Classification is determined by the provisions of general rule 1 and the text of CN code 7208. The dimensions of the product do not result from simple rough rolling and the product is therefore regarded as a flat rolled product (plate) of CN code 7208 rather than as a semifinished product (slab) of CN code 7207.
+
+
+
+
+УРЕДБА КОМИСИЈЕ (ЕЕЗ) број 2275/88од 25. јула 1988. године у вези са сврставањем одређенe робe према Комбинованој номенклатури
+"Службени гласник РС", број 65 од 27. јуна 2014.
+КОМИСИЈА ЕВРОПСКИХ ЗАЈЕДНИЦА,
+Имајући у виду Уговор о оснивању Европске економске заједнице,
+Имајући у виду Уредбу Савета (ЕЕЗ) број 2658/871 о тарифној и статистичкој номенклатури и Заједничкој царинској тарифи, последњи пут измењену и допуњену Уредбом (ЕЕЗ) број 1858/882, посебно члан 9,
+С обзиром на то да је како би се осигурала доследна примена Комбиноване номенклатуре приложене уз поменуту уредбу, неопходно усвојити мере у вези са сврставањем робе наведене у Анексу уз ову уредбу;
+С обзиром на то да су Уредбом (ЕЕЗ) број 2658/87 утврђена основна правила за примењивање Комбиноване номенклатуре. Ова правила се такође примењују на сваку другу номенклатуру која се у потпуности или делимично заснива на њој, или јој додаје било какве потподеле и која је установљена посебним прописима Заједнице, са циљем примене тарифних и других мера које се односе на трговину робом;
+С обзиром на то да се у складу са тим основним правилима, роба описана у колони 1. табеле приложене уз ову уредбу, сврстава у CN ознаку наведену у колони 2, према разлозима датим у колони 3. те табеле;
+С обзиром на то да Одбор за номенклатуру није доставио мишљење у року који је одредио председавајући,
+ДОНЕЛА ЈЕ ОВУ УРЕДБУ:
+Члан 1.
+Роба описана у колони 1. приложене табеле, сада се сврстава у оквиру Комбиноване номенклатуре у одговарајуће CN ознаке дате у колони 2. наведене табеле.
+Члан 2.
+Ова уредба ступa на снагу 21. дана од дана објављивања у „Службеном листу Европских заједница”.
+Ова уредба je обавезујућа у целини, и непосредно се примењује у свим државама чланицама.
+У Бриселу, 25. јула 1988. године. 
+––––––––––
+1 OJ L 256, 7.9.1987, стр.1.
+2 OJ L 166, 1.7.1988, стр. 10.
+За Комисију
+COCKFIELD
+потпредседник
+АНЕКС
+
+
+
+
+Опис робе
+
+
+Сврставање
+(CN ознака)
+
+
+Разлози
+
+
+
+
+(1)
+
+
+(2)
+
+
+(3)
+
+
+
+
+1. Зрна Zizania aquatica („дивљи пиринач”‚) у љусци, која личе на борове иглице, смеђе боје.
+
+
+1008 90 903
+
+
+Сврставање је одређено условима Основних правила 1. и 6. и наименовањима уз CN ознаке 1008 и 1008 90 904. Спољашњи зелени слој је уклоњен са производа док је црни перикарп остао. Производ се, према томе, не сврстава као ољуштена зрна из CN ознаке 1104 29 105.
+
+
+
+
+2.6
+
+
+
+
+
+
+
+
+3. Млечни производ који се састоји од обраног млека у праху које садржи 50 –100 милиона живих бактерија за добијање јогурта (Streptococcus thermophilus и Lactobacillus bulgaricus) по граму, са садржајем масти не преко 3%.
+
+
+0403 10 11
+
+
+Сврставање је одређено условима Основних правила 1. и 6. и наименовањима уз CN ознаке 0403, 0403 10 и 0403 10 11. Производ је у суштини млечни производ (јогурт) из CN ознаке 0403 пре него култура микроорганизама из CN ознаке 3002.
+
+
+
+
+4. Производ, добијен сувом турбо сепарацијом пшеничног брашна, који има следеће аналитичке карактеристике (по сувој материји):
+– садржај скроба: 83 % према модификованој полариметријској методи по Еверсу;
+– садржај пепела 0,4 %;
+– садржај беланчевина приближно 4,5 %.
+
+
+1101 00 007
+
+
+Сврставање је одређено условима Основног правила 1. и наименовањем уз CN ознаку 1101 00 008 и Напоменом 2. уз Главу 11. Овај производ има карактеристике пшеничног брашна. Иако је обогаћен скробом и има смањен садржај беланчевина, он не испуњава критеријуме за сврставање као пшенични скроб у CN ознаку 1108 11 00.
+
+
+
+
+5. 9
+
+
+
+
+
+
+
+
+6. Препарат врсте која се употребљава као сировина у производњи козметичких производа, следећег састава:
+– екстракт животињске плаценте приближно 10 % по маси,
+– уље из кукурузних клица приближно 90 % по маси.
+
+
+3823 90 9910
+
+
+Сврставање је одређено условима Основних правила 1. и 6. и наименовањима уз CN ознаке 3823 и 3823 90 9911. Производ се не може сматрати протеинском материјом из CN ознаке 3504. Он је обухваћен другим делом наименовања уз CN ознаку 382311. То је међупроизвод који још нема карактеристике козметичког препарата.
+
+
+
+
+7. Препарат врсте која се употребљава као сировина у производњи козметичких производа, следећег састава:
+колаген приближно 3% по маси,
+– глицерин приближно 44% по маси,
+– вода приближно 53% по маси. 
+
+
+3823 90 9912
+
+
+Сврставање је одређено условима Основних правила 1. и 6. и наименовањима уз CN ознаке 3823 и 3823 90 9913. Производ се не може сматрати протеинском материјом из CN ознаке 3504. Обухваћен је другим делом наименовања уз CN ознаку 382313. Он је међупроизвод који још нема карактеристике козметичког препарата.
+
+
+
+
+8. Препарат врсте која се употребљава као сировина у производњи козметичких производа, следећег састава:
+– еластин приближно 5% по маси,
+– пропан-1, 2-диол приближно 45% по маси,
+– вода приближно 50% по маси. 
+
+
+3823 90 9914
+
+
+Сврставање је одређено условима Основних правила 1. и 6. и наименовањима уз CN ознаке 3823 и 3823 90 9915. Производ се не може сматрати протеинском материјом из CN ознаке 3504. Он је обухваћен другим делом наименовања уз CN ознаку 382315. Он је међупроизвод који још нема карактеристике козметичког препарата.
+
+
+
+
+9.16
+
+
+
+
+
+
+
+
+10.17
+
+
+
+
+
+
+
+
+11.18
+
+
+
+
+
+
+
+
+––––––––––
+3 Замењено са „1008 90 00” у складу са тачком 7. под (а) Анекса I Уредбе Комисије (ЕЗ) број 441/13 од 7. маја 2013. године којом се мењају или стављају ван снаге одређене уредбе у вези са сврставањем робе према Комбинованој номенклатури (OJ L 130 од 15.5.2013, стр. 1.), која је објављена у „Службеном гласнику РС”, број 47/13.
+4 Замењено са „1008 90 00” у складу са тачком 7. под (b) Анекса I Уредбе Комисије (ЕЗ) број 441/13 од 7. маја 2013. године којом се мењају или стављају ван снаге одређене уредбе у вези са сврставањем робе према Комбинованој номенклатури (OJ L 130 од 15.5.2013, стр. 1.), која је објављена у „Службеном гласнику РС”, број 47/13.
+5 Замењено са „1104 29 17” у складу са тачком 5. под (а) Анекса I Уредбе Комисије (ЕЗ) број 1179/09 од 26. новембра 2009. године којом се мењају или стављају ван снаге одређене уредбе у вези са сврставањем робе према Комбинованој номенклатури (OJ L 317 од 3.12.2009, стр. 23.), која је објављена у „Службеном гласнику РС”, број 7/10 и тачком 7. под (b) Анекса I Уредбе Комисије (ЕЗ) број 441/13 од 7. маја 2013. године којом се мењају или стављају ван снаге одређене уредбе у вези са сврставањем робе према Комбинованој номенклатури (OJ L 130 од 15.5.2013, стр. 1.), која је објављена у „Службеном гласнику РС”, број 47/13.
+6 Брисано у складу са тачком 7. Анекса II Уредбе Комисије (ЕЗ) број 1179/09 од 26. новембра 2009. године којом се мењају или стављају ван снаге одређене уредбе у вези са сврставањем робе према Комбинованој номенклатури (OJ L 317 од 3.12.2009, стр. 23.), која је објављена у „Службеном гласнику РС”, број 7/10.
+7 Замењено са „1101 00 11 или 1101 00 15” у складу са тачком 3. Анекса А Уредбе Комисије (ЕЗ) број 936/99 од 27. априла 1999. године којом се мењају или стављају ван снаге одређене уредбе у вези са сврставањем робе према Комбинованој номенклатури (OJ L 117 од 5.5.1999, стр. 9.), која је објављена у „Службеном гласнику РС”, број 79/11.
+8 Замењено са „1101 00 11 или 1101 00 15” у складу са тачком 3. Анекса А Уредбе Комисије (ЕЗ) број 936/99 од 27. априла 1999. године којом се мењају или стављају ван снаге одређене уредбе у вези са сврставањем робе према Комбинованој номенклатури (OJ L 117 од 5.5.1999, стр. 9.), која је објављена у „Службеном гласнику РС”, број 79/11.
+9 Брисано у складу са тачком 8. Анекса II Уредбе Комисије (ЕЗ) број 1179/09 од 26. новембра 2009. године којом се мењају или стављају ван снаге одређене уредбе у вези са сврставањем робе према Комбинованој номенклатури (OJ L 317 од 3.12.2009, стр. 23.), која је објављена у „Службеном гласнику РС”, број 7/10.
+10 Замењено са „3824 90 97” у складу са тачком 39. Анекса А Уредбе Комисије (ЕЗ) број 936/99 од 27. априла 1999. године којом се мењају или стављају ван снаге одређене уредбе у вези са сврставањем робе према Комбинованој номенклатури (OJ L 117 од 5.5.1999, стр. 9.), која је објављена у „Службеном гласнику РС”, број 79/11, са тачком 30. Анекса I, Уредбе Комисије (ЕЗ) број 705/05 од 4. маја 2005. године којом се мењају или стављају ван снаге одређене уредбе у вези са сврставањем робе према Комбинованој номенклатури (OJ L 118 од 5.5.2005, стр. 18.), која је објављена у „Службеном гласнику РС”, број 75/10 и тачком 6. под (b) под (i) Анекса I Уредбе Комисије (ЕЗ) број 1179/09 од 26. новембра 2009. године којом се мењају или стављају ван снаге одређене уредбе у вези са сврставањем робе према Комбинованој номенклатури (OJ L 317 од 3.12.2009, стр. 23.), која је објављена у „Службеном гласнику РС”, број 7/10.
+11 Замењено са „3824 90 97” у складу са тачком 39. Анекса А Уредбе Комисије (ЕЗ) број 936/99 од 27. априла 1999. године којом се мењају или стављају ван снаге одређене уредбе у вези са сврставањем робе према Комбинованој номенклатури (OJ L 117 од 5.5.1999, стр. 9.), која је објављена у „Службеном гласнику РС”, број 79/11, са тачком 30. Анекса I, Уредбе Комисије (ЕЗ) број 705/05 од 4. маја 2005. године којом се мењају или стављају ван снаге одређене уредбе у вези са сврставањем робе према Комбинованој номенклатури (OJ L 118 од 5.5.2005, стр. 18.), која је објављена у „Службеном гласнику РС”, број 75/10 и тачком 6. под (b) под (ii) Анекса I Уредбе Комисије (ЕЗ) број 1179/09 од 26. новембра 2009. године којом се мењају или стављају ван снаге одређене уредбе у вези са сврставањем робе према Комбинованој номенклатури (OJ L 317 од 3.12.2009, стр. 23.), која је објављена у „Службеном гласнику РС”, број 7/10.
+12 Замењено са „3824 90 97” у складу са тачком 40. Анекса А Уредбе Комисије (ЕЗ) број 936/99 од 27. априла 1999. године којом се мењају или стављају ван снаге одређене уредбе у вези са сврставањем робе према Комбинованој номенклатури (OJ L 117 од 5.5.1999, стр. 9.), која је објављена у „Службеном гласнику РС”, број 79/11, са тачком 31. Анекса I Уредбе Комисије (ЕЗ) број 705/05 од 4. маја 2005. године којом се мењају или стављају ван снаге одређене уредбе у вези са сврставањем робе према Комбинованој номенклатури (OJ L 118 од 5.5.2005, стр. 18.), која је објављена у „Службеном гласнику РС”, број 75/10 и тачком 7. под (c) под (i) Анекса I Уредбе Комисије (ЕЗ) број 1179/09 од 26. новембра 2009. године којом се мењају или стављају ван снаге одређене уредбе у вези са сврставањем робе према Комбинованој номенклатури (OJ L 317 од 3.12.2009, стр. 23.), која је објављена у „Службеном гласнику РС”, број 7/10.
+13 Замењено са „3824 90 97” у складу са тачком 40. Анекса А Уредбе Комисије (ЕЗ) број 936/99 од 27. априла 1999. године којом се мењају или стављају ван снаге одређене уредбе у вези са сврставањем робе према Комбинованој номенклатури (OJ L 117 од 5.5.1999, стр. 9.), која је објављена у „Службеном гласнику РС”, број 79/11, са тачком 31. Анекса I Уредбе Комисије (ЕЗ) број 705/05 од 4. маја 2005. године којом се мењају или стављају ван снаге одређене уредбе у вези са сврставањем робе према Комбинованој номенклатури (OJ L 118 од 5.5.2005, стр. 18.), која је објављена у „Службеном гласнику РС”, број 75/10 и тачком 7. под (c) под (ii) Анекса I Уредбе Комисије (ЕЗ) број 1179/09 од 26. новембра 2009. године којом се мењају или стављају ван снаге одређене уредбе у вези са сврставањем робе према Комбинованој номенклатури (OJ L 317 од 3.12.2009, стр. 23.), која је објављена у „Службеном гласнику РС”, број 7/10.
+14 Замењено са „3824 90 97” у складу са тачком 41. Анекса А Уредбе Комисије (ЕЗ) број 936/99 од 27. априла 1999. године којом се мењају или стављају ван снаге одређене уредбе у вези са сврставањем робе према Комбинованој номенклатури (OJ L 117 од 5.5.1999, стр. 9.), која је објављена у „Службеном гласнику РС”, број 79/11, са тачком 32. Анекса I Уредбе Комисије (ЕЗ) број 705/05 од 4. маја 2005. године којом се мењају или стављају ван снаге одређене уредбе у вези са сврставањем робе према Комбинованој номенклатури (OJ L 118 од 5.5.2005, стр. 18.), која је објављена у „Службеном гласнику РС”, број 75/10 и тачком 8. под (d) под (i) Анекса I Уредбе Комисије (ЕЗ) број 1179/09 од 26. новембра 2009. године којом се мењају или стављају ван снаге одређене уредбе у вези са сврставањем робе према Комбинованој номенклатури (OJ L 317 од 3.12.2009, стр. 23.), која је објављена у „Службеном гласнику РС”, број 7/10.
+15 Замењено са „3824 90 97” у складу са тачком 41. Анекса А Уредбе Комисије (ЕЗ) број 936/99 од 27. априла 1999. године којом се мењају или стављају ван снаге одређене уредбе у вези са сврставањем робе према Комбинованој номенклатури (OJ L 117 од 5.5.1999, стр. 9.), која је објављена у „Службеном гласнику РС”, број 79/11, са тачком 32. Анекса I Уредбе Комисије (ЕЗ) број 705/05 од 4. маја 2005. године којом се мењају или стављају ван снаге одређене уредбе у вези са сврставањем робе према Комбинованој номенклатури (OJ L 118 од 5.5.2005, стр. 18.), која је објављена у „Службеном гласнику РС”, број 75/10 и тачком 8. под (d) под (ii) Анекса I Уредбе Комисије (ЕЗ) број 1179/09 од 26. новембра 2009. године којом се мењају или стављају ван снаге одређене уредбе у вези са сврставањем робе према Комбинованој номенклатури (OJ L 317 од 3.12.2009, стр. 23.), која је објављена у „Службеном гласнику РС”, број 7/10.
+16 Брисано у складу са Уредбом Комисије (ЕЕЗ) број 3085/91 од 21. октобра 1991. о изменама и допунама Уредбе (ЕЕЗ) број 2275/88 у вези са сврставањем одређене робе у Комбинованој номенклатури (OJ L 291 од 23.10.1991, стр. 12), која је објављена у „Службеном гласнику РС”, број 32/14.
+17 Брисано у складу са тачком 9. Анекса II Уредбе Комисије (ЕЗ) број 1179/09 од 26. новембра 2009. године којом се мењају или стављају ван снаге одређене уредбе у вези са сврставањем робе према Комбинованој номенклатури (OJ L 317 од 3.12.2009, стр. 23.), која је објављена у „Службеном гласнику РС”, број 7/10.
+18 Брисано у складу са тачком 10. Анекса II Уредбе Комисије (ЕЗ) број 1179/09 од 26. новембра 2009. године којом се мењају или стављају ван снаге одређене уредбе у вези са сврставањем робе према Комбинованој номенклатури (OJ L 317 од 3.12.2009, стр. 23.), која је објављена у „Службеном гласнику РС”, број 7/10.

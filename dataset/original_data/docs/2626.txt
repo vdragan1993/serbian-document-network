@@ -1,0 +1,153 @@
+На основу члана 3а став 4. Закона о Царинској тарифи („Службени гласник РС”, бр. 62/05, 61/07 и 5/09) објављује се Уредба Комисије (ЕУ) о спровођењу број 1214/2014 од 11. новембра 2014. године, у вези са сврставањем одређенe робe у Комбинованој номенклатури објављена у „Службеном листу Европске уније”, број L 329/8 од 14. новембра 2014. године, која у оригиналу на енглеском језику и у преводу на српски језик гласи:
+COMMISSION IMPLEMENTING REGULATION (EU) No 1214/2014 of 11 November 2014 concerning the classification of certain goods in the Combined Nomenclature"Службени гласник РС", број 137 од 16. децембра 2014.
+THE EUROPEAN COMMISSION,
+Having regard to the Treaty on the Functioning of the European Union,
+Having regard to Council Regulation (EEC) No 2658/87 of 23 July 1987 on the tariff and statistical nomenclature and on the Common Customs Tariff(1), and in particular Article 9(1)(a) thereof,
+Whereas:
+(1) In order to ensure uniform application of the Combined Nomenclature annexed to Regulation (EEC) No 2658/87, it is necessary to adopt measures concerning the classification of the goods referred to in the Annex to this Regulation.
+(2) Regulation (EEC) No 2658/87 has laid down the general rules for the interpretation of the Combined Nomenclature. Those rules apply also to any other nomenclature which is wholly or partly based on it or which adds any additional subdivision to it and which is established by specific provisions of the Union, with a view to the application of tariff and other measures relating to trade in goods.
+(3) Pursuant to those general rules, the goods described in column (1) of the table set out in the Annex should be classified under the CN code indicated in column (2), by virtue of the reasons set out in column (3) of that table.
+(4) It is appropriate to provide that binding tariff information issued in respect of the goods concerned by this Regulation which does not conform to this Regulation may, for a certain period, continue to be invoked by the holder in accordance with Article 12(6) of Council Regulation (EEC) No 2913/92(²). That period should be set at three months.
+(5) The measures provided for in this Regulation are in accordance with the opinion of the Customs Code Committee,
+HAS ADOPTED THIS REGULATION:
+Article 1
+The goods described in column (1) of the table set out in the Annex shall be classified within the Combined Nomenclature under the CN code indicated in column (2) of that table.
+Article 2
+Binding tariff information which does not conform to this Regulation may continue to be invoked in accordance with Article 12(6) of Regulation (EEC) No 2913/92 for a period of three months from the date of entry into force of this Regulation.
+Article 3
+This Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union.
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+Done at Brussels, 11 November 2014.
+–––––––––––
+(1) OJ L 256, 7.9.1987, p. 1.
+(2) Council Regulation (EEC) No 2913/92 of 12 October 1992 establishing the Community Customs Code (OJ L 302, 19.10.1992, p. 1).
+For the Commission,
+On behalf of the President,
+Heinz ZOUREK
+Director-General for Taxation and Customs Union
+ANNEX
+
+
+
+
+Description of the goods
+
+
+Classification (CN-code)
+
+
+Reasons
+
+
+
+
+(1)
+
+
+(2)
+
+
+(3)
+
+
+
+
+A solid, cylindrical, threaded product (so-called ‘pangea dual core screw’) made of extra hard titanium alloy, of a length of between 20 and 45 mm.
+The shank is wholly threaded with a dual core thread containing a transition zone for the core diameter change. It is of a constant outer diameter of 4,0 mm, with a self-tapping profile and a blunt, threaded tip.
+The product has a polyaxial (movable) U-shaped, internally threaded head that offers 25° of angula-tion around its axis allowing its adjustment.
+The product has a specialised saddle in locking cap for fixing a rod (presented separately) in its head.
+The product corresponds to the ISO/TC 150 standards for implant screws and is presented for use in trauma surgery as a part of a system for posterior stabilisation of the spine. It is installed using specific tools.
+At importation, it is not presented in a sterilised packing. The product is marked with a number and therefore traceable throughout production and distribution.
+(*) See image
+
+
+9021 10 90
+
+
+Classification is determined by general rules 1 and 6 for the interpretation of the Combined Nomenclature, note 2(b) to Chapter 90 and by the wording of CN codes 9021, 9021 10 and 9021 10 90.
+Due to its objective characteristics, namely the presence of the polyaxial U-shaped head with the locking cap, the product does not entirely correspond to a screw of base metal. Consequently, it cannot be considered a part of general use (screw) as referred to in note 2 to Section XV. Therefore, classification under heading 8108 is excluded.
+The product is therefore to be classified under CN code 9021 10 90 as splints and other fracture appliances.
+
+
+
+
+(*) The image is purely for information.
+
+
+
+
+
+УРЕДБА КОМИСИЈЕ (ЕУ) О СПРОВОЂЕЊУ број 1214/2014 од 11. новембра 2014. године у вези са сврставањем одређенe робe према Комбинованој номенклатури"Службени гласник РС", број 137 од 16. децембра 2014.
+ЕВРОПСКА КОМИСИЈА,
+Имајући у виду Уговор о функционисању Европске уније,
+Имајући у виду Уредбу Савета (ЕЕЗ) број 2658/87 од 23. јула 1987. године о тарифној и статистичкој номенклатури и Заједничкој царинској тарифи1, а посебно члан 9. став 1. тачка а),
+с обзиром на то да:
+(1) Како би се осигурала једнообразна примена Комбиноване номенклатуре приложене уз Уредбу (ЕЕЗ) број 2658/87, неопходно је усвојити мере у вези са сврставањем робе наведене у Анексу ове уредбе;
+(2) Уредбом (ЕЕЗ) број 2658/87 утврђена су основна правила за примењивање Комбиноване номенклатуре. Ова правила се такође примењују на сваку другу номенклатуру која се у потпуности или делимично заснива на њој, или која јој додаје било какве потподеле и која је установљена посебним прописима Уније, са циљем примене тарифних и других мера које се односе на трговину робом;
+(3) У складу са тим основним правилима, роба описана у колони 1. табеле у Анексу сврстава се у CN ознаку наведену у колони 2, према разлозима датим у колони 3. те табеле;
+(4) Потребно је обезбедити да ималац обавезујуће тарифне информације, издате за робу на коју се односи ова уредба, а која није у складу са овом уредбом, може одређени период, да настави да се позива на њу, према члану 12. став 6. Уредбе Савета (ЕЕЗ) број 2913/92². Овај период треба да буде три месеца; 
+(5) Мере предвиђене овом уредбом су у складу са мишљењем Одбора за Царински кодекс.
+ДОНЕЛА ЈЕ ОВУ УРЕДБУ:
+Члан 1.
+Роба описана у колони 1. табеле дате у Анексу сврстава се у оквиру Комбиноване номенклатуре у CN ознаку наведену у колони 2. те табеле.
+Члан 2.
+Могуће је позивати се на обавезујућу тарифну информацију која није у складу са овом уредбом, у складу са чланом 12. став 6. Уредбе (ЕЕЗ) број 2913/92, у периоду од три месеца од дана ступања на снагу ове уредбе.
+Члан 3.
+Ова уредба ступа на снагу 20. дана од дана објављивања у „Службеном листу Европске уније”.
+Ова уредба је обавезујућа у целини и непосредно се примењује у свим државама чланицама.
+У Бриселу, 11. новембра 2014. године. 
+–––––––––––
+1 OJ L 256, 7.9.1987. стр.1
+2 Уредба Савета (ЕЕЗ) број 2913/92 од 12. октобра 1992. године којом је установљен Царински кодекс Заједнице (OJ L 302, 19.10.1992, стр.1).
+За Комисију,
+у име председника,
+Heinz ZOUREK
+генерални директор за порезе и царинску унију
+АНЕКС
+
+
+
+
+Опис робе
+
+
+Сврставање
+(CN ознака)
+
+
+Разлози
+
+
+
+
+(1)
+
+
+(2)
+
+
+(3)
+
+
+
+
+Чврст цилиндрични производ, са урезаним навојем, (тзв. „пангеа вијак са два језгра”), израђен од изузетно тврде легуре титана, дужине између 20 и 45 mm.
+Стабло целом дужином има урезан навој са два језгра, које има прелазну зону за промену пречника језгра. Има константан спољашњи пречник од 4,0 mm, са самоурезујућим профилом и заобљеним врхом са навојем.
+Производ има полиаксијалну (покретну), „U” профилисану главу, са навојем са унутрашње стране, која дозвољава угаони померај од 25° у односу на своју осу, обезбеђујући подешавање производа. 
+Производ има специјално лежиште у поклопцу за брављење, за фиксирање шипке (испоручује се засебно) у главу производа.
+Производ одговара ISO/TC 150 стандардима за вијке за уградњу и испоручује се за употребу у трауматолошкој хирургији као део система за постериорну стабилизацију кичме. Уграђује се коришћењем специјалних алата.
+Приликом увоза, не испоручује се у стерилном паковању. Производ је обележен бројем и, према томе, може се пратити током производње и дистрибуције.
+
+
+9021 10 90
+
+
+Сврставање је одређено Основним правилима 1. и 6. за примењивање Комбиноване номенклатуре, Напоменом 2. под (б) уз Главу 90 и наименовањима уз CN ознаке 9021, 9021 10 и 9021 10 90.
+Због својих објективних својстава, наиме, постојања полиаксијалне „U” профилисане главе са поклопцем за брављење, производ не одговара у потпуности вијку од простог метала. 
+Сходно томе, не сматра се делом опште употребе (вијак) како је наведено у Напомени 2. уз Одељак XV. Према томе, искључује се сврставање у тарифни број 8108.
+Производ се, према томе, сврстава у CN ознаку 9021 10 90, као шине и друге справе за обраду прелома.
+
+
+
+
+(*) Слика је само информативног карактера.

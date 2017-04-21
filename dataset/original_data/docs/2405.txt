@@ -1,0 +1,174 @@
+На основу члана 3а став 4. Закона о Царинској тарифи („Службени гласник Републике Србије”, бр. 62/05, 61/07 и 5/09) објављује се Уредба Комисије (ЕЗ) број 955/98 од 29. априла 1998. Године, у вези са сврставањем одређених роба у Комбинованој номенклатури објављена у „Службеном листу Европских заједница”, број L 133/12 од 7. маја 1998. године, која у оригиналу на енглеском језику и у преводу на српски језик гласи:
+COMMISSION REGULATION (EC) No 955/98 of 29 April 1998 concerning the classification of certain goods in the Combined Nomenclature
+"Службени гласник РС", број 118 од 14. децембра 
+				2012.
+THE COMMISSION OF THE EUROPEAN COMMUNITIES,
+Having regard to the Treaty establishing the European Community,
+Having regard to Council Regulation (EEC) No 2658/ 87 (1) on the tariff and statistical nomenclature and on the Common Customs Tariff, as last amended by Commission Regulation (EC) No 2509/97 (2), and in particular Article 9,
+Whereas in order to ensure uniform application of the Combined Nomenclature annexed to the said Regulation, it is necessary to adopt measures concerning the classification of the goods referred to in the Annex to this Regulation;
+Whereas Regulation (EEC) No 2658/87 has set down the general rules for the interpretation of the Combined Nomenclature and those rules also apply to any other nomenclature which is wholly or partly based on it or which adds any additional subdivision to it and which is established by specific Community provisions, with a view to the application of tariff and other measures relating to trade in goods;
+Whereas, pursuant to the said general rules, the goods described in column 1 of the table annexed to the present Regulation must be classified within the appropriate CN codes indicated in column 2, by virtue of the reasons set out in column 3;
+Whereas it is accepted that binding tariff information issued by the customs authorities of Member States in respect of the classification of goods in the Combined Nomenclature and which do not conform to the rights established by this Regulation, can continue to be invoked, under the provisions in Article 12(6) of Council Regulation (EEC) No 2913/92 establishing the Community Customs Code (3), for a period of three months by the holder;
+Whereas the measures provided for in this Regulation are in accordance with the opinion of the Tariff and Statistical Nomenclature Section of the Customs Code Committee,
+HAS ADOPTED THIS REGULATION: 
+Article 1
+The goods described in column 1 of the annexed table are now classified within the Combined Nomenclature within the appropriate CN codes indicated in column 2 of the said table.
+Article 2
+Binding tariff information issued by the customs authorities of Member States which do not conform to the rights established by this Regulation can continue to be invoked under the provisions of Article 12(6) of Regulation (EEC) No 2913/92 for a period of three months.
+Article 3
+This Regulation shall enter into force on the 21st day following its publication in the Official Journal of the European Communities.
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+Done at Brussels, 29 April 1998.
+–––––––––––––
+(1) OJ L 256, 7. 9. 1987, p. 1.
+(2) OJ L 345, 16. 12. 1997, p. 44.
+(3) OJ L 302, 19. 10. 1992, p. 1.
+For the Commission 
+Mario MONTI 
+Member of the Commission
+ANNEX
+
+
+
+
+Description
+
+
+Classification (CN code)
+
+
+Reason
+
+
+
+
+(1)
+
+
+(2)
+
+
+(3)
+
+
+
+
+1. Wireless stereo headphone set, consisting of:
+– battery operated headphones with in-built high-frequency radio receiver,
+– a high-frequency radio transmitter with three channels with a range of 100 m and
+– an adapter to connect the transmitter to various audio devices
+
+
+8518 30 80
+
+
+Classification is determined by the provisions of General Rules 1 and 6 for the interpretation of the Combined Nomenclature, note 4 to section XVI and the wording of the CN codes 8518, 8518 30 and 8518 30 80
+
+
+
+
+2. Audio-frenquency device, containing a sound processor, which receives and converts signals from different sources (e.g. CD-players, videoplayers or film projectors) into audio signals.
+
+
+8543 89 95
+
+
+Classification is determined by the provisions of General Rules 1, 3c and 6 for the interpretation of the Combined Nomenclature and the wording of the CN codes 8543, 8543 89 and 8543 89 95.
+
+
+
+
+It has the following functions: 
+– simulation of acoustic environments (e.g. the acoustics of a church or a discotheque) and 
+– audio frequency amplification
+
+
+
+
+A principal function cannot be determined
+
+
+
+
+УРЕДБА КОМИСИЈЕ (ЕЗ) број 955/98од 29. априла 1998. године у вези са сврставањем одређених роба  према Комбинованој номенклатури
+"Службени гласник РС", број 118 од 14. децембра 2012.
+КОМИСИЈА ЕВРОПСКИХ ЗАЈЕДНИЦА,
+Имајући у виду Уговор о оснивању Европске заједнице,
+Имајући у виду Уредбу Савета (ЕЕЗ) број 2658/871 о тарифској и статистичкој номенклатури и Заједничкој царинској тарифи, која је последњи пут измењена и допуњена Уредбом Комисије (ЕЗ) број 2509/972, а посебно њен члан 9,
+С обзиром на то да је, да би осигурала доследну примену Комбиноване номенклатуре приложене уз наведену уредбу, неопходно усвојити мере у вези са сврставањем роба наведених у Анексу уз ову уредбу;
+С обзиром на то, да су Уредбом (ЕЕЗ) број 2658/87 утврђена основна правила за примењивање Комбиноване номенклатуре, као и да се ова правила такође примењују на било коју другу номенклатуру која се у потпуности или делимично заснива на њој, или којој су додате било које потподеле, а која је установљена посебним прописима Заједнице, са циљем примене тарифских и других мера у вези са трговином робом;
+С обзиром на то да се, сходно наведеним основним правилима, роба описана у колони 1 табеле приложене уз ову уредбу, сврстава у CN ознаку наведену у колони 2, на основу разлога утврђених у колони 3 табеле;
+С обзиром на то, да се прихвата да ималац обавезујуће тарифне информације, коју су издали царински органи држава чланица и односи се на сврставање робе према Комбинованој номенклатури, а која није у складу са овом уредбом, на основу одредби члана 12(6) Уредбе Савета (ЕЕЗ) број 2913/92 од 12. октобра 1992. године којом је установљен Царински закон Заједнице3, може да настави да се позива на њу, у периоду од три месеца;
+С обзиром на то, да су мере предвиђене овом уредбом у складу са мишљењем Oдсека за тарифску и статистичку номенклатуру Одбора за Царински закон,
+ДОНЕЛА ЈЕ ОВУ УРЕДБУ:
+Члан 1.
+Роба описана у колони 1 приложене табеле сврстава се у оквиру Комбиноване номенклатуре у одговарајуће CN ознаке, назначене у колони 2 наведене табеле.
+Члан 2.
+Обавезујућа тарифна информација, коју су издали царински органи држава чланица, а која није у складу са правима утврђеним овом уредбом, на основу одредби члана12(6) Уредбе Савета (ЕЕЗ) број 2913/92, може да настави да важи у периоду од три месеца.
+Члан 3.
+Ова уредба ступа на снагу 21. дана од дана објављивања у „Службеном листу Европских заједница”.
+Ова уредба је обавезујућа у целини и непосредно се примењује у свим државама чланицама.
+У Бриселу, 29. априлa 1998. године 
+–––––––––––––
+1 OJ L 256, 7.9.1987, стр.1. 
+2 OJ L 345, 16.12.1997, стр. 44
+3 OJ L 302, 19.10.1992, стр.1
+За Комисију
+Mario MONTI
+Члан Комисије
+АНЕКС
+
+
+
+
+Опис робе
+
+
+Сврставање (CN ознака)
+
+
+Разлози
+
+
+
+
+
+
+(1)
+
+
+(2)
+
+
+(3)
+
+
+
+
+1.Сет бежичних стерео слушалица, састоје се од:
+– слушалица са уграђеним високо фреквентним радио пријемником, које раде на батерије,
+– високо фреквентног радио предајника са три канала у домету од 100 m, и 
+– адаптера за повезивање предајника са различитим аудио уређајима
+
+
+8518 30 804
+
+
+Сврставање је одређено условима Основних правила 1 и 6 за примењивање Комбиноване Номенклатуре, напоменом 4 уз Одељак XVI и наименовањима уз CN ознаке 8518, 8518 30 и 8518 30 805.
+
+
+
+
+2.6
+
+
+
+
+
+
+
+
+–––––––––––––
+4 замењено са „8518 30 95” у складу са тачком 108 под (а) Анекса I Уредбе Комисије (ЕЗ) број 1179/09 од 26. новембра 2009. године којом се мењају или стављају ван снаге одређене Уредбе у вези са сврставањем робе према Комбинованој номенклатури (OJ L 317 од 3.12.2009, стр. 23), која је објављена у „Службеном гласнику РС”, број 7/10
+5 замењено са „8518 30 95” у складу са тачком 108 под (b) Анекса I Уредбе Комисије (ЕЗ) број 1179/09 од 26. новембра 2009. године којом се мењају или стављају ван снаге одређене Уредбе у вези са сврставањем робе према Комбинованој номенклатури (OJ L 317 од 3.12.2009, стр. 23), која је објављена у „Службеном гласнику РС”, број 7/10
+6 брише се у складу са чланом 3. Уредбе Комисије (ЕЗ) број 129/2005 од 20. јануара 2005. године у вези са сврставањем одређених роба у Комбинованој номенклатури и изменама и допунама Уредбе (ЕУ) број 955/98.

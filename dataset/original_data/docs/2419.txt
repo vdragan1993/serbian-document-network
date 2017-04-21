@@ -1,0 +1,279 @@
+На основу члана 3а став 4. Закона о Царинској тарифи („Службени гласник Републике Србије”, бр. 62/05, 61/07 и 5/09) објављује се Уредба Комисије (ЕЗ) број 754/94 од 30. марта 1994. године у вези са сврставањем одређених роба у Комбинованој номенклатури објављена у „Службеном листу Европских заједница”, број L 89/2 од 6. априла 1994. године, која у оригиналу на енглеском језику и у преводу на српски језик гласи:
+COMMISSION REGULATION (EC) No 754/94 of 30 March 1994 concerning the classification of certain goods in the combined nomenclature
+"Службени гласник РС", број 117 од 12. децембра 
+				2012.
+THE COMMISSION OF THE EUROPEAN COMMUNITIES,
+Having regard to the Treaty establishing the European Community,
+Having regard to Council Regulation (EEC) No 2658/87 on the tariff and statistical nomenclature and on the Common Customs Tariff (1), as last amended by Commission Regulation (EC) No 535/94 (2), and in particular Article 9 thereof,
+Whereas in order to ensure uniform application of the combined nomenclature annexed to the said Regulation, it is necessary to adopt measures concerning the classification of the goods referred to in the Annex to this Regulation;
+Whereas Regulation (EEC) No 2658/87 has set down the general rules for the interpretation of the combined nomenclature and those rules also apply to any other nomenclature which is wholly or partly based on it or which adds any additional subdivision to it and which is established by specific Community provisions, with a view to the application of tariff and other measures relating to trade in goods;
+Whereas, pursuant to the said general rules, the goods described in column 1 of the table annexed to the present Regulation must be classified under the appropriate CN codes indicated in column 2, by virtue of the reasons set out in column 3;
+Whereas it is acceptance that binding tariff information issued by the customs authorities of Member States in respect of the classification of goods in the combined nomenclature and which do not conform to the rights established by this Regulation, can continue to be invoked, under the provisions in Article 12 (6) of Council Regulation (EEC) No 2913/92 of 12 October 1992 establishing the Community Customs Code (3), for a period of three months by the holder;
+Whereas the Tariff and Statistical Nomenclature Section of the Customs Code Committee has not delivered an opinion within the time limit set by its chairman, as regards product Nos 1 and 4 in the annexed table;
+Whereas the measures provided for in this Regulation are in accordance with the opinion of the Tariff and Statistical Nomenclature Section of the Customs Code Committee, as regards product Nos 2, 3, 5, 6 and 7 in the annexed table,
+HAS ADOPTED THIS REGULATION: 
+Article 1
+The goods described in column 1 of the annexed table are now classified within the combined nomenclature under the appropriate CN codes indicated in column 2 of the said table.
+Article 2
+Binding tariff information issued by the customs authorities of Member States which do not conform to the rights established by this Regulation can continue to be invoked under the provisions of Article 12 (6) of Regulation (EEC) No 2913/92 for a period of three months.
+Article 3
+This Regulation shall enter into force on the 21st day following its publication in the Official Journal of the European Communities.
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+Done at Brussels, 30 March 1994.
+ 
+–––––––––––––––
+(1) OJ No L 256, 7. 9. 1987, p. 1.
+(2) OJ No L 68, 11. 3. 1994, p. 15.
+(3) OJ No L 302, 19. 10. 1992, p. 1.
+For the Commission
+Christiane SCRIVENER
+Member of the Commission
+ANNEX
+
+
+
+
+Description of goods
+
+
+Classification CN code
+
+
+Reasons
+
+
+
+
+(1)
+
+
+(2)
+
+
+(3)
+
+
+
+
+1. A product known as a graphics or digitzing tablet consisting a flat plastic housing containing electronic and electrical components such as processors, printed circuit board and interfacing circuitry. The uppermost surface, whose active area is approximately 28 cm by 28 cm, is fitted with a menu overlay. The tablet comes with a stylus and is linked via cable direct to the central processing unit of an automatic data-processing machine.
+
+
+8471 92 80
+
+
+Classification is determined by the provisions of General Rules 1 and 6 for the interpretation of the combined nomenclature, by Note 5 (B) to Chapter 84 and by the wording of CN codes 8471, 8471 92 and 8471 92 80.
+
+
+
+
+2. A colour with high-resolution 35,5 cm cathode-ray tube with a shadow mask, dot pitch of 0,31 mm for pixels of the same colour, mains adpater and circuit assemblies for processing RGB video and synchronous input signals (video bandwidth 0 MHz) and driving the picture tube of text and graphics reproduction as part of EDP and other information processing systems. The monitor is not capable of reproducing a colour image from a composite video signal.
+
+
+8471 92 80
+
+
+Classification is determined by the provisions of General Rules 1 and 6 for the interpretation of the combined nomenclature, by Note 5 (B) to Chapter 84 and by the wording of CN codes 8471, 8471 92 and 8471 92 80.
+
+
+
+
+3. A battery-driven modem contained in a housing measuring 10,2 x 6,1 x 2,5 cm in dimension fitted with four LEDs which indicate call status, speed, carrier frequency and battery depletion. The modem also has a data connector, telephone connections, acoustic-coupler connection and standarized miniature telephone jack. The modem is used for asynchronous data transmission between automatic data processing equipment via telephone lines in full duplex and acoustic-coupler mode at a speed of 300 or 1 200 bits per second.
+
+
+8517 40 00
+
+
+Classification is determined by the provisions of General Rules 1 and 6 for the interpretation of the combined nomenclature and by the wording of CN codes 8517 and 8517 40 00 (see also the Explanatory Notes to the Harmonized System, heading 85.17, part III).
+
+
+
+
+4. A multi-media interactive system in a single housing (43,8 x 31,75 x 9,4 cm) capable of reproducing on a monitor, loudspeakers or headphones, audio, graphics, text and video data recorded on compact disc (CD).
+An infra red remote control for the unit‘s special audio and video functions forms part of the system.
+Through the addition of other accessories (e.g. disk drive, keyboard and mouse), it may be used as a personal computer. The housing comprises the following components :
+– a printed circuit board, including a digital processing unit (CPU, 1 MB RAM and Si2 KB ROM), a graphics component, a video component, a sound component with own CD audio unit, and
+– a CD — ROM (for data, sound and picture reproduction from 5“ compact discs only).
+The system is capable of providing approximately 70 minutes of highfidelity music and high to low resolution graphics. The video reproduction capability of still-image pictures of a maximum length of approximately five minutes.
+
+
+8521 90 00
+
+
+Classification is determined by the provisions of General Rules 1, 3 (c) and 6 for the interpretation of the combined nomenclature, Note 5 to Chapter 84 to the combined nomenclature as well as the texts of CN codes 8521 and 8521 90 00.
+
+
+
+
+5. A CD interactive system in a single housing for the reproduction of digitally recorded pictures and sound for television by means of a laser optical reading system. It is supplied with a mouse and infra red remote control unit.
+It contains a control unit that processes signals from the playing unit, from the remote control or from the mouse unit, to the television dispaly and loudspeaker unit, enabling interaction with picture and sound.
+
+
+8521 90 00
+
+
+Classification is determined by the provisions of General Rules 1, 3 (c) and 6 for the interpretation of the combined nomenclature, Note 5 to Chapter 84 to the combined nomenclature as well as the texts of CN codes 8521 and 8521 90 00.
+
+
+
+
+6. The components of ‚radio conferencing apparatus‘ not presented together for retail sale in a single package consisting of:
+(a) a transmitter microphone comprising a highly sensitive transmitting device for radio communication with a built-in microphone, and aerial; and
+(b) one or more receivers comprising receiving devices for radio communication with frequency module and socket for connection to a hearing aid, whether or not incorporating a directional microphone.
+
+
+8525 10 90 8527 90 99
+
+
+Classification is determined by the provisions of General Rules 1 and 6 for the interpretation of the combined nomenclature and by the wording of CN codes 8525, 8525 10, 8525 10 90, 8527, 8527 90 and 8527 90 99.
+Classification under heading 9021 is precluded because the goods are not considered to be designed exclusively as a hearing aid or an accessory for a hearing aid within the meaning of the heading.
+
+
+
+
+7. A colour video monitor capable of reproducing a colour image from a composite video signal, with a 33 cm cathode-ray tube, mains adapter, loudspeaker signal inputs (video, audio) and circuit assemblies for processing the video/audio and synchronous input signals and driving the picture tube (dot pitch 0,64 mm) and the loudspeaker. The monitor is designed for the reproduction of still or animated images and shades following cable connection to computers, video recorders, video disk players or other picture sources.
+
+
+8528 10 31
+
+
+Classification is determined by the provisions of General Rules 1 and 6 for the interpretation of the combined nomenclature and by the wording of CN codes 8528, 8528 10 and 8528 10 31.
+
+
+
+
+УРЕДБА КОМИСИЈЕ (ЕЗ) број 754/94од 30. марта 1994. године у вези са сврставањем одређених роба према Комбинованој номенклатури
+"Службени гласник РС", број 117 од 12. децембра 
+				2012.
+КОМИСИЈА ЕВРОПСКИХ ЗАЈЕДНИЦА,
+Имајући у виду Уговор о оснивању Европске заједнице,
+Имајући у виду Уредбу Савета (ЕЕЗ) број 2658/87 о тарифској и статистичкој номенклатури и Заједничкој царинској тарифи1, како је задњи пут измењена Уредбом Комисије (ЕЗ) број 535/942, и посебно њен члан 9,
+С обзиром на то да би осигурала доследну примену Комбиноване номенклатуре дате у Анексу поменуте Уредбе, неопходно је усвојити мере у вези са сврставањем роба наведених у Анексу уз ову уредбу;
+С обзиром на то да су Уредбом (ЕЕЗ) број 2658/87 одређена основна правила за тумачење Комбиноване номенклатуре. Ова правила се такође примењују на било коју другу номенклатуру која се у потпуности или делимично заснива на њој, или којој су додате било које потподеле и која је установљена посебним прописима Уније, са циљем примене тарифских и других мера везаних за трговину робом;
+С обзиром на то да се, сходно тим основним правилима, роба описана у колони 1 табеле дате у Анексу, сврстава у одговарајућу CN ознаку наведену у колони 2, према разлозима датим у колони 3 табеле;
+С обзиром на то да је прихваћено да ималац обавезујуће тарифне информације, коју су издали царински органи држава чланица у односу на сврставање робе према Комбинованој номенклатури али која није у складу са овом уредбом може, према члану 12(6) Уредбе Савета (ЕЕЗ) број 2913/92 од 12. октобра 1992. којом је установљен Царински закон Заједнице3, да настави да се позива на њу у периоду од три месеца;
+С обзиром на то да Група за тарифску и статистичку номенклатуру Одбора за Царински закон није издала мишљење у року који је одредио председавајући када су у питању производи бр. 1 и 4 из приложене табеле;
+С обзиром на то да да су мере предвиђене овом уредбом у складу са мишљењем Групе за тарифску и статистичку номенклатуру Одбора за Царински закон кад су у питању производи бр. 2, 3, 5, 6 и 7 из приложене табеле. 
+ДОНЕЛА ЈЕ ОВУ УРЕДБУ:
+Члан 1.
+Роба описана у колони 1 табеле дате у Анексу сврстава се у оквиру Комбиноване номенклатуре у одговарајуће CN ознаке наведене у колони 2 поменуте табеле.
+Члан 2.
+Обавезујућа тарифна информација, коју су издали царински органи држава чланица али која није у складу са условима ове уредбе, може наставити да важи у периоду од три месеца, према члану 12(6) Уредбе Савета (ЕЕЗ) број 2913/92.
+Члан 3.
+Ова уредба ступа на снагу 21. дана од дана објављивања у „Службеном листу Европских заједница”.
+ 
+Ова уредба у потпуности је обавезујућа и директно применљива у свим државама чланицама.
+У Бриселу, 30. марта 1994. године 
+–––––––––––––––
+1 OJ L 256, 7.9.1987, стр. 1
+2 OJ L 68, 11.3. 1994, стр. 15
+3 OJ L 302, 19.10.1992, стр. 1
+За Комисију
+Christiane SCRIVENER
+Члан Комисије
+АНЕКС
+
+
+
+
+								Опис робе
+
+								Сврставање
+								(CN ознака)
+
+								Разлози
+
+
+
+1. Производ, познат као „графичка” или „дигитална табла”, састоји се од равног пластичног кућишта које садржи електронске и електричне компоненте, као што су процесор, плоча са штампаним колом и коло интерфејса. Горња површина, чија је активна површина приближно 28 x 28 cm има приказ менија. Поред табле постоји и „писаљка”, са повезивањем преко кабла директно за централну процесорску јединицу машине за аутоматску обраду података.
+
+
+8471 92 804
+
+
+Сврставање је одређено условима Основних правила 1 и 6 за примењивање Комбиноване номенклатуре, напоменом 5 (Б) уз Главу 84 и наименовањем уз CN ознаке 8471, 8471 92 и 8471 92 805.
+
+
+
+
+2. 6
+
+
+
+
+
+
+
+
+3. Модем који ради на батерије, састоји се од кућишта димензија 10,2 x 6,1 x 2,5 cm, у које су уграђене четири LED диоде које указују на статус позива, брзину, носећу фреквенција и статус батерије. Модем такође има „дата” конектор (конектор за податке), телефонске конекторе, звучни конектор и стандардни минијатурни телефонски прикључак. Модем се користи за асинхрони пренос података између машине за аутоматску обраду података, преко телефонске линије, у пуном дуплекс моду и у моду акустичне спреге, при брзинама од 300 или 1200 бита у секунди.
+
+
+8517 40 007
+
+
+Сврставање је одређено условима Основних правила 1 и 6 за примењивање Комбиноване номенклатуре и наименовањима уз CN ознаке 8517 и 8517 40 00 (видети такође ХС Коментар, тарифни број 85.17, део III).8
+
+
+
+
+4. Мултимедијални интерактивни систем, у јединственом кућишту димензија 43,8 x 31,75 x 9,4 cm, који може да на монитору, звучницима или слушалицама, репродукује звучне, графичке, текстуалне или видео податке снимљене на компакт диску (CD). 
+Део система чини и инфра црвени даљински управљач за посебне аудио и видео функције јединице.
+Додавањем другог прибора (нпр., диск драјва, тастатуре и миша), може се користити као персонални рачунар. Кућиште садржи следеће компоненте:
+– плочу са штампаним колима са дигиталном процесорском јединицом (CPU, 1 MB RAM, и S12 KB ROM), графичком компонентом, видео компонентом, звучном компонентом са сопственом CD-звучном јединицом, 
+– CD-ROM (за репродукцију података, звука и слике само са 5” компакт дискова). 
+Систем може да репродукује приближно 70 минута музике у „hi-fi” квалитету, са графиком од високе до ниске резолуције. Репродукција видео садржаја непокретних слика омогућена је у трајању од приближно пет минута.
+
+
+8521 90 00
+
+
+Сврставање је одређено условима Основних правила 1, 3(в) и 6 за примењивање Комбиноване номенклатуре, Напоменом 5 уз Главу 84 и наименовањима уз CN ознаке 8521 и 8521 90 00.
+
+
+
+
+5. Интерактивни CD-систем у јединственом кућишту, за репродукцију дигитално снимљених слика и звука, за телевизију, путем ласерског оптичког система за очитавање. Поседује миша и инфра црвени даљински управљач. 
+Садржи управљачку јединицу која усмерава сигнале из плејера, или миша или даљинског управљача, на екран и звучнике, омогућујући интеракцију слике и звука.
+
+
+8521 90 00
+
+
+Сврставање је одређено условима Основних правила 1, 3(в) и 6 за примењивање Комбиноване номенклатуре, Напоменом 5 уз Главу 84 и наименовањима уз CN ознаке 8521 и 8521 90 00.
+
+
+
+
+6. Компоненте уређаја за „радио конференцију” које нису испоручене у једном заједничком паковању за продају на мало, састоје се од:
+(а) микрофона предајника којег чини уређај високе осетљивости за пренос за радио комуникацију, са уграђеним микрофоном и антеном; и
+(б) једног или више пријемника, који представљају уређаје за радио комуникацију са фреквентним модулатором, и прикључком за повезивање са слушалицама, било да садрже или не садрже усмерени микрофон.
+
+
+8525 10 909
+8527 90 9910
+
+
+Сврставање је одређено условима Основних правила 1 и 6 за примењивање Комбиноване номенклатуре, Напоменом 5 уз Главу 84 и наименовањима уз CN ознаке 8525, 8525 10, 8525 10 90, 8527, 8527 90 и 8527 90 9911.
+Искључује се сврставање у тарифни број 9021 због тога што се роба не сматра искључиво конструисаном за побољшање слуха или прибором за побољшање слуха у смислу тог тарифног броја.
+
+
+
+
+7.12
+
+
+
+
+
+
+
+
+–––––––––––––––
+4 замењено са „8471 60 70” у складу са тачком 62 Анекса А Уредбе Комисије (ЕЗ) број 936/99 од 27. априла 1999. године којом се мењају или стављају ван снаге одређене Уредбе у вези са сврставањем робе према Комбинованој номенклатури (OJ L 117 од 5.5.1999, стр. 9), која је објављена у „Службеном гласнику РС”, број 79/11 и са тачком 61 под (а) под (i) Анекса I Уредбе Комисије (ЕЗ) број 1179/09 од 26. новембра 2009. године којом се мењају или стављају ван снаге одређене Уредбе у вези са сврставањем робе према Комбинованој номенклатури (OJ L 317 од 3.12.2009, стр. 23), која је објављена у „Службеном гласнику РС”, број 7/10
+5 замењено са „...напоменом 5 (В) уз Главу 84,...8471 60 и 8471 60 70” у складу са тачком 62 Анекса А Уредбе Комисије (ЕЗ) број 936/99 од 27. априла 1999. године којом се мењају или стављају ван снаге одређене Уредбе у вези са сврставањем робе према Комбинованој номенклатури (OJ L 117 од 5.5.1999, стр. 9), која је објављена у „Службеном гласнику РС”, број 79/11 и тачком 61 под (а) под (ii) Анекса I Уредбе Комисије (ЕЗ) број 1179/09 од 26. новембра 2009. године којом се мењају или стављају ван снаге одређене Уредбе у вези са сврставањем робе према Комбинованој номенклатури (OJ L 317 од 3.12.2009, стр. 23), која је објављена у „Службеном гласнику РС”, број 7/10
+6 брисано у складу са тачком 23 Анекса II Уредбе Комисије (ЕЗ) број 1179/2009 од 26. новембра 2009, којом се мењају или стављају ван снаге одређене Уредбе у вези са сврставањем робе према Комбинованој номенклатури (OJ L 317 од 3.12.2009, стр. 23), која је објављена у „Службеном гласнику РС”, број 7/10
+7 замењено са „8517 62 00” у складу са тачком 70 Анекса А Уредбе Комисије (ЕЗ) број 936/99 од 27. априла 1999. године којом се мењају или стављају ван снаге одређене Уредбе у вези са сврставањем робе према Комбинованој номенклатури (OJ L 117 од 5.5.1999, стр. 9), која је објављена у „Службеном гласнику РС”, број 79/11 и тачком 62 под (b) под (i) Анекса I Уредбе Комисије (ЕЗ) број 1179/09 од 26. новембра 2009. године којом се мењају или стављају ван снаге одређене Уредбе у вези са сврставањем робе према Комбинованој номенклатури (OJ L 317 од 3.12.2009, стр. 23), која је објављена у „Службеном гласнику РС”, број 7/10
+8 замењено са „Сврставање је одређено Основним правилима 1 и 6 за примењивање Комбиноване номенклатуре и наименовањима уз CN ознаке 8517 и 8517 62 00 (видети такође ХС Коментар, тарифни број 85.17, део II)“ у складу са тачком 70 Анекса А Уредбе Комисије (ЕЗ) број 936/99 од 27. априла 1999. године којом се мењају или стављају ван снаге одређене Уредбе у вези са сврставањем робе према Комбинованој номенклатури (OJ L 117 од 5.5.1999, стр. 9), која је објављена у „Службеном гласнику РС” број 79/1 и; тачком 62 под (b) под (ii) Анекса I Уредбе Комисије (ЕЗ) број 1179/09 од 26. новембра 2009. године којом се мењају или стављају ван снаге одређене Уредбе у вези са сврставањем робе према Комбинованој номенклатури (OJ L 317 од 3.12.2009, стр. 23), која је објављена у „Службеном гласнику РС”, број 7/10
+9 замењено са „8518 10 95” у складу са тачком 84 Анекса А Уредбе Комисије (ЕЗ) број 936/99 од 27. априла 1999. године којом се мењају или стављају ван снаге одређене Уредбе у вези са сврставањем робе према Комбинованој номенклатури (OJ L 117 од 5.5.1999, стр. 9), која је објављена у „Службеном гласнику РС”, број 79/11 и тачком 63 под (c) под (i) Анекса I Уредбе Комисије (ЕЗ) број 1179/09 од 26. новембра 2009. године којом се мењају или стављају ван снаге одређене Уредбе у вези са сврставањем робе према Комбинованој номенклатури (OJ L 317 од 3.12.2009, стр. 23), која је објављена у „Службеном гласнику РС”, број 7/10
+10 замењено са „8517 69 39” у складу са тачком 87 Анекса А Уредбе Комисије (ЕЗ) број 936/99 од 27. априла 1999. године којом се мењају или стављају ван снаге одређене Уредбе у вези са сврставањем робе према Комбинованој номенклатури (OJ L 117 од 5.5.1999, стр. 9), која је објављена у „Службеном гласнику РС”, број 79/11 и са тачком 63 под (c) под (i) Анекса I Уредбе Комисије (ЕЗ) број 1179/09 од 26. новембра 2009. године којом се мењају или стављају ван снаге одређене Уредбе у вези са сврставањем робе према Комбинованој номенклатури (OJ L 317 од 3.12.2009, стр. 23), која је објављена у „Службеном гласнику РС”, број 7/10
+11 замењено са „8518, 8518 10, 8518 10 95, 8517, 8517 69 и 8517 69 39” у складу са тачкама 84 и 87 Анекса А Уредбе Комисије (ЕЗ) број 936/99 од 27. априла 1999. године којом се мењају или стављају ван снаге одређене Уредбе у вези са сврставањем робе према Комбинованој номенклатури (OJ L 117 од 5.5.1999, стр. 9), која је објављена у „Службеном гласнику РС” број 79/11 и тачком 63 под (c) под (ii) Анекса I Уредбе Комисије (ЕЗ) број 1179/09 од 26. новембра 2009. године којом се мењају или стављају ван снаге одређене Уредбе у вези са сврставањем робе према Комбинованој номенклатури (OJ L 317 од 3.12.2009, стр. 23), која је објављена у „Службеном гласнику РС”, број 7/10
+12 брише се у складу са тачком 24 Анекса II Уредбе Комисије (ЕЗ) број 1179/09 од 26. новембра 2009. године којом се мењају или стављају ван снаге одређене Уредбе у вези са сврставањем робе према Комбинованој номенклатури (OJ L 317 од 3.12.2009, стр. 23), која је објављена у „Службеном гласнику РС”, број 7/10

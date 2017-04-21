@@ -1,0 +1,173 @@
+На основу члана 3а став 4. Закона о Царинској тарифи („Службени гласник РС”, бр. 62/05, 61/07 и 5/09) објављује се Уредба Комисије (ЕЕЗ) број 316/91 од 7. фебруара 1991. године у вези са сврставањем одређенe робe у Комбинованој номенклатури објављена у „Службеном листу Европских заједница”, број L 37/25 од 9. фебруара 1991. године, која у оригиналу на енглеском језику и у преводу на српски језик гласи:
+COMMISSION REGULATION (EEC) No 316/91 of 7 February 1991 concerning the classification of certain goods in the Combined Nomenclature"Службени гласник РС", број 84 од 24. септембра 2013.
+THE COMMISSION OF THE EUROPEAN COMMUNITIES,
+Having regard to the Treaty establishing the European Economic Community,
+Having regard to Council Regulation (EEC) No 2658/87 of 23 July 1987 on the tariff and statistical nomenclature and on the Common Customs tariff (1) as last amended by Regulation (EEC) No 53/91 (2), and in particular Article 9 thereof,
+Whereas in order to ensure uniform application of the combined nomenclature annexed to the said Regulation, it is necessary to adopt measures concerning the classification of the goods referred to in the Annex to this Regulation;
+Whereas Regulation (EEC) No 2658/87 has set down the general rules for the interpretation of the combined nomenclature and these rules also apply to any other nomenclature which is wholly or partly based on it or which adds any additional subdivisions to it and which is established by specific Community provisions, with a view to the application of tariff or other measures relating to trade in goods;
+Whereas, pursuant to the said general rules, the goods described in column 1 of the table annexed to the present Regulation must be classified under the appropriate CN codes indicated in column 2, by virtue of the reasons set out in column 3;
+Whereas the measures provided for in this Regulation are in accordance with the opinion of the Nomenclature Committee,
+HAS ADOPTED THIS REGULATION: 
+Article 1
+The goods described in column 1 of the annexed table are now classified within the combined nomenclature under the appropriate CN codes indicated in column 2 of the said table.
+Article 2
+This Regulation shall enter into force on the 21st day after its publication in the Official Journal of the European Communities.
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+Done at Brussels, 7 February 1991.
+–––––––––––––
+(1) OJ No L 256, 7. 9. 1987, p. 1. 
+(2) OJ No L 7, 10. 1. 1991, p. 14.
+For the Commission 
+Christiane SCRIVENER 
+Member of the Commission
+ANNEX
+
+
+
+
+Description of goods
+
+
+Classification CN code
+
+
+Reasons
+
+
+
+
+(1)
+
+
+(2)
+
+
+(3)
+
+
+
+
+1. Grated cheese which as a result of its high moisture content and conditions of transport or packaging (partially vacuum packed) becomes agglomerated.
+2. White pasty substance known as ’creamed coconut’ manufactured by means of the fine grinding of coconut pulp and pasteurized. It is presented in immediate packings with a net content of 200 g and is generally intended for use in the kitchen in the preparation of sauces, etc.
+3. Product obtained merely by the etherification of starch with epichlorohydrin and sodium monochloracetate in the presence of sodium hydroxide, having the following characteristics :
+Appearance white, crumbly powder
+Dry matter 92,8 %
+Ash (at 600 ° C) 15,1%
+Containing sodium and chloride ions
+Solubility turbid solution in water, swells considerably 
+Solution pH 11,6
+Microscopic starch-type,image unrecognizable
+Iodine test dark blue
+Paper positive forchromatography starch ether
+IR spectrum characteristic carboxymethyl ether bands
+
+
+0406 20 90 
+2008 19 90
+3505 10 50
+
+
+Classification is determined by the provisions of General Rules 1 and 6 for the interpretation of the combined nomenclature and by the wording of CN codes 0406, 0406 20 and 0406 20 90.
+Classification is determined by the provisions of General Rules 1 and 6 for the interpretation of the combined nomenclature and by the wording of CN codes 2008, 2008 19 and 2008 19 90.
+Classification in Chapter 8 is ruled out because of pasteurization (see also the explanatory notes to the HS heading 20.08, first paragraph). The pasty consistency of the product also excludes classification under heading 1106 (see also the explanatory notes to the CN codes 2008 11 10 to 2008 19 90, second paragraph, second indent).
+Classification is determined by the provisions of General Rules 1 and 6 for the interpretation of the combined nomenclature and by the wording of CN codes 3505, 3505 10 and 3505 10 50.
+
+
+
+
+УРЕДБА КОМИСИЈЕ (ЕЕЗ) број 316/91 од 7. фебруара 1991. године у вези са сврставањем одређенe робe према Комбинованој номенклатури"Службени гласник РС", број 84 од 24. септембра 2013.
+КОМИСИЈА ЕВРОПСКИХ ЗАЈЕДНИЦА,
+Имајући у виду Уговор о оснивању Европске економске заједнице,
+Имајући у виду Уредбу Савета (ЕЕЗ) број 2658/87 о тарифној и статистичкој номенклатури и Заједничкој царинској тарифи1, последњи пут измењену и допуњену Уредбом Комисије (ЕЕЗ) број 53/912, а посебно члан 9,
+С обзиром на то да је како би се осигурала доследна примена Комбиноване номенклатуре приложене уз наведену уредбу, неопходно усвојити мере у вези са сврставањем робе наведене у Анексу ове уредбу;
+С обзиром на то да су Уредбом (ЕЕЗ) број 2658/87 утврђена основна правила за примењивање Комбиноване номенклатуре. Ова правила се такође примењују на сваку другу номенклатуру која се у потпуности или делимично заснива на њој, или јој додаје било какве потподеле и која је установљена посебним прописима Заједнице, са циљем примене тарифних и других мера које се односе на трговину робом;
+С обзиром на то да се у складу са тим основним правилима, роба описана у колони 1. приложене табеле сврстава у CN ознаку наведену у колони 2, према разлозима датим у колони 3. те табеле;
+С обзиром на то да су мере предвиђене овом уредбом у складу са мишљењем Одбора за номенклатуру.
+ДОНЕЛА ЈЕ ОВУ УРЕДБУ:
+Члан 1.
+Роба описана у колони 1. приложене табеле сврстава се у оквиру Комбиноване номенклатуре у одговарајуће CN ознаке дате у колони 2. наведене табеле.
+Члан 2.
+Ова уредба ступa на снагу 21. дана од дана објављивања у „Службеном листу Европских заједница”.
+Ова уредба je обавезујућа у целини и непосредно се примењује у свим државама чланицама.
+У Бриселу, 7. фебруара 1991. године 
+–––––––––––––
+1 OJ L 256, 7.9.1987, стр.1.
+2 OJ L 7, 10.1.1991, стр.14. 
+за Комисију
+Christiane SCRIVENER
+члан Комисије
+АНЕКС
+
+
+
+
+Опис робе
+
+
+Сврставање
+(CN ознака)
+
+
+Разлози
+
+
+
+
+(1)
+
+
+(2)
+
+
+(3)
+
+
+
+
+1. Рендани сир који се као последица високог садржаја влаге и услова транспорта или паковања (делимично вакуумирано паковање), агломерисао.
+
+
+0406 20 90
+
+
+Сврставање је одређено условима Основних правила 1. и 6. за примењивање Комбиноване номенклатуре и наименовањима уз CN ознаке 0406, 0406 20 и 0406 20 90.
+
+
+
+
+2. Бела, тестаста материја, позната као „кокосов крем”, добијенa ситним млевењем кокосове пулпе и њеном пастеризацијом. Испоручује се у амбалажи нето масе 200 g, и углавном је намењена да се користи у кулинарству за припремање сосова, итд.
+
+
+2008 19 903
+
+
+Сврставање је одређено условима Основних правила 1. и 6. за примењивање Комбиноване номенклатуре и наименовањима уз CN ознаке 2008, 2008 19 и 2008 19 903.
+Искључује се сврставање у Главу 8 због пастеризације (видети такође ХС Коментар уз тарифни број 20.08, први став). Тестаста конзистенција производа такође искључује сврставање у тарифни број 1106 (видети такође Допунски коментар уз CN ознаке 2008 11 10 до 2008 19 90, други став, друга алинеја)4.
+
+
+
+
+3. Производ добијен само етерификацијом скроба са епихлорохидрином и натријум монохлорацетатом у присуству натријум хидрохсида, следећих карактеристика:
+изглед бели, трошан прах
+сува материја 92,8 %
+пепео (на 600° C) 15,1 % 
+састав јони натријума и хлора
+растворљивост мутан раствор у води, знатно бубри
+pH раствора 11,6 
+микроскопска . типа скроба,слика. непрепознатљива
+јодни тест тамно плави 
+хроматографија позитивна нана хартији позитивна на скробни етар
+IR спектроскопија карактеристичне карбоксиметил етарске везе
+
+
+3505 10 50
+
+
+Сврставање је одређено условима Основних правила 1. и 6. за примењивање Комбиноване номенклатуре и наименовањима уз CN ознаке 3505, 3505 10 и 3505 10 50.
+
+
+
+
+–––––––––––––
+3 Замењено са „2008 19 91” у складу са тачком 7. Анекса А Уредбе Комисије (ЕЗ) број 936/99 од 27. априла 1999. године којом се мењају или стављају ван снаге одређене уредбе у вези са сврставањем робе према Комбинованој номенклатури (OJ L 117 од 5.5.1999, стр. 9.), која је објављена у „Службеном гласнику РС”, број 79/11 и са тачком 9. Уредбе Комисије (ЕЗ) број 705/05 од 4. маја 2005. године којом се мењају или стављају ван снаге одређене уредбе у вези са сврставањем робе према Комбинованој номенклатури (OJ L 118 од 5.5.2005, стр. 18), која је објављена у „Службеном гласнику РС”, број 75/10
+4 Замењено са „(видети такође Допунски коментар уз CN ознаке 2008 11 10 до 2008 19 99, други став, тачка 2.)” у складу са тачком 24. Анекса I Уредбе Комисије (ЕЗ) број 1179/09 од 26. новембра 2009. године којом се мењају или стављају ван снаге одређене уредбе у вези са сврставањем робе према Комбинованој номенклатури (OJ L 317 од 3.12.2009, стр. 23), која је објављена у „Службеном гласнику РС”, број 7/10

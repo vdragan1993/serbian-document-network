@@ -1,0 +1,156 @@
+На основу члана 3а став 4. Закона о Царинској тарифи („Службени гласник РС”, бр. 62/05, 61/07 и 5/09) објављује се Уредба Комисије (ЕУ) о спровођењу број 876/2014 од 8. августа 2014. године, у вези са сврставањем одређенe робe у Комбинованој номенклатури објављена у „Службеном листу Европске уније”, број L 240/12 од 13. августа 2014. године, која у оригиналу на енглеском језику и у преводу на српски језик гласи:
+COMMISSION IMPLEMENTING REGULATION (EU) No 876/2014 of 8 August 2014 concerning the classification of certain goods in the Combined Nomenclature "Службени гласник РС", број 120 од 4. новембра 2014.
+THE EUROPEAN COMMISSION,
+Having regard to the Treaty on the Functioning of the European Union,
+Having regard to Council Regulation (EEC) No 2658/87 of 23 July 1987 on the tariff and statistical nomenclature and on the Common Customs Tariff (¹), and in particular Article 9(1)(a) thereof,
+Whereas:
+(1) In order to ensure uniform application of the Combined Nomenclature annexed to Regulation (EEC) No 2658/87, it is necessary to adopt measures concerning the classification of the goods referred to in the Annex to this Regulation.
+(2) Regulation (EEC) No 2658/87 has laid down the general rules for the interpretation of the Combined Nomenclature. Those rules apply also to any other nomenclature which is wholly or partly based on it or which adds any additional subdivision to it and which is established by specific provisions of the Union, with a view to the application of tariff and other measures relating to trade in goods.
+(3) Pursuant to those general rules, the goods described in column (1) of the table set out in the Annex should be classified under the CN code indicated in column (2), by virtue of the reasons set out in column (3) of that table.
+(4) It is appropriate to provide that binding tariff information issued in respect of the goods concerned by this Regulation which does not conform to this Regulation may, for a certain period, continue to be invoked by the holder in accordance with Article 12(6) of Council Regulation (EEC) No 2913/92 (2). That period should be set at three months.
+(5) The measures provided for in this Regulation are in accordance with the opinion of the Customs Code Committee,
+HAS ADOPTED THIS REGULATION:
+Article 1
+The goods described in column (1) of the table set out in the Annex shall be classified within the Combined Nomenclature under the CN code indicated in column (2) of that table.
+Article 2
+Binding tariff information which does not conform to this Regulation may continue to be invoked in accordance with Article 12(6) of Regulation (EEC) No 2913/92 for a period of three months from the date of entry into force of this Regulation.
+Article 3
+This Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union.
+This Regulation shall be binding in its entirety and directly applicable in all Member States. 
+Done at Brussels, 8 August 2014.
+––––––––––––––
+(1) OJ L 256, 7.9.1987, p. 1.
+(2) Council Regulation (EEC) No 2913/92 of 12 October 1992 establishing the Community Customs Code (OJ L 302, 19.10.1992, p. 1).
+For the Commission,
+On behalf of the President,
+Martine REICHERTS 
+Member of the Commission
+ANNEX
+
+
+
+
+Description of the goods
+
+
+Classification (CN code)
+
+
+Reasons
+
+
+
+
+(1)
+
+
+(2)
+
+
+(3)
+
+
+
+
+A portable battery-operated apparatus for capturing and recording still and video images (so-called ‘action camera’) with dimensions of approximately 6 х 4 х 2 cm and a weight of approximately 74 g, comprising:
+– an ultra wide angle camera lens,
+– a liquid crystal device (LCD) status indicator,
+– micro USB and micro HDMI interfaces,
+– a slot for micro SD card,
+– built in WiFi,
+– a port for optional accessories.
+The apparatus does not have a zoom, view- finder or a screen for displaying recorded images. The apparatus is not designed to be held in the hand but to be mounted on, for example, a helmet. It is presented to be used for capturing dynamic impressions of the environment as experienced during outdoor activities such as biking, surfing and skiing. The video quality can be adjusted ranging from 848 * 480 to 1 920 * 1 080 pixels.
+Still images can only be recorded in a 5,0 megapixel quality. The quality for still images (such as image sharpness, colour, object composition) cannot be adjusted on the apparatus.
+The apparatus is capable of capturing and recording video files in MPEG4 format. The highest video recording is in a resolution of 1 920 x 1 080 pixels at 30 frames per second for a continuous period of
+maximum three hours with a fully charged battery. The capturing can only be stopped by the user. The captured images are recorded in separate files lasting approximately 15 minutes each.
+Upon presentation files can be transferred to the apparatus from an automatic data-processing machine via the USB interface.
+
+
+8525 80 99
+
+
+Classification is determined by general rules 1 and 6 for the interpretation of the Combined Nomenclature, note 3 to Section XVI and by the wording of CN codes 8525, 8525 80 and 8525 80 99.
+Given the objective characteristics of the apparatus, such as its small size and weight, the fact that it is to be mounted on, for example, a helmet, its capacity to record video for a continuous period of maximum 3 hours, the principal function of the camera is capturing video images.
+Although the apparatus has the design of a digital camera, it is capable of recording video in a quality of at least 800 * 600 pixels at 30 frames per second for a continuous period of maximum 3 hours. The capturing is not automatically switched off after 30 minutes (see also the Explanatory Notes to the Combined Nomenclature to subheadings 8525 80 30, 8 525 80 91 and 8 525 80 99). The fact that the captured images are recorded in separate files that last approximately 15 minutes each does not influence the duration of the continuous video recording capability of the camera. Classification under subheading 8525 80 30 as digital cameras is therefore excluded.
+As the apparatus is capable of recording video files from sources other than the incorporated camera lens, classification under CN code 8525 80 91 as video camera recorders only able to record sound and
+images taken by the television camera is excluded.
+The apparatus is therefore to be classified under CN code 8525 80 99 as other video camera recorders.
+
+
+
+
+УРЕДБА КОМИСИЈЕ (ЕУ) О СПРОВОЂЕЊУ број 876/2014 од 8. августа 2014. године у вези са сврставањем одређенe робe према Комбинованој номенклатури "Службени гласник РС", број 120 од 4. новембра 2014.
+ЕВРОПСКА КОМИСИЈА,
+Имајући у виду Уговор о функционисању Европске уније,
+Имајући у виду Уредбу Савета (ЕЕЗ) број 2658/87 од 23. јула 1987. године о тарифној и статистичкој номенклатури и Заједничкој царинској тарифи1, а посебно члан 9. став 1. тачка а),
+с обзиром на то да:
+(1) Како би се осигурала једнообразна примена Комбиноване номенклатуре приложене уз Уредбу (ЕЕЗ) број 2658/87, неопходно је усвојити мере у вези са сврставањем робе наведене у Анексу ове уредбе;
+(2) Уредбом (ЕЕЗ) број 2658/87 утврђена су основна правила за примењивање Комбиноване номенклатуре. Ова правила се такође примењују на сваку другу номенклатуру која се у потпуности или делимично заснива на њој, или која јој додаје било какве потподеле и која је установљена посебним прописима Уније, са циљем примене тарифних и других мера које се односе на трговину робом;
+(3) У складу са тим основним правилима, роба описана у колони 1. табеле у Анексу сврстава се у CN ознаку наведену у колони 2, према разлозима датим у колони 3. те табеле;
+(4) Потребно је обезбедити да ималац обавезујуће тарифне информације, издате за робу на коју се односи ова уредба, а која није у складу са овом уредбом, може одређени период, да настави да се позива на њу, према члану 12. став 6. Уредбе Савета (ЕЕЗ) број 2913/922. Овај период треба да буде три месеца; 
+(5) Мере предвиђене у овој уредби су у складу са мишљењем Одбора за Царински кодекс.
+ДОНЕЛА ЈЕ ОВУ УРЕДБУ:
+Члан 1.
+Роба описана у колони 1. табеле дате у Анексу сврстава се у оквиру Комбиноване номенклатуре у CN ознаку наведену у колони 2. те табеле.
+Члан 2.
+Могуће је позивати се на обавезујућу тарифну информацију која није у складу са овом уредбом, у складу са чланом 12. став 6. Уредбе (ЕЕЗ) број 2913/92, у периоду од три месеца од дана ступања на снагу ове уредбе.
+Члан 3.
+Ова уредба ступа на снагу 20. дана од дана објављивања у „Службеном листу Европске уније”.
+Ова уредба је обавезујућа у целини и непосредно се примењује у свим државама чланицама.
+У Бриселу, 8. августа 2014. године. 
+––––––––––––––
+1 OJ L 256, 7.9.1987. стр. 1 
+2 Уредба Савета (ЕЕЗ) број 2913/92 од 12. октобра 1992. године којом је установљен Царински кодекс Заједнице (OJ L 302, 19.10.1992, стр. 1). 
+За Комисију,
+у име председника,
+Martine REICHERTS
+члан Комисије
+АНЕКС
+
+
+
+
+Опис робе
+
+
+Сврставање
+(CN ознака)
+
+
+Разлози
+
+
+
+
+(1)
+
+
+(2)
+
+
+(3)
+
+
+
+
+Преносиви апарат који ради на батерије за сликање и снимање непокретних и видео слика (тзв. „акциона камера”) димензија приближно 6 x 4 x 2 cm и масе приближно 74 g, састоји се од:
+– ултра широкоугаоног објектива,
+– LCD индикатора статуса,
+– микро USB и микро HDMI интерфејса,
+– слота за микро SD картицу,
+– уграђеног WiFi,
+– порта за опциони прибор.
+Апарат нема зум, тражило или екран за приказивање снимљених слика. Апарат није конструисан да се држи у руци већ да се постави, на пример, на кацигу. Испоручује се како би се користио за сликање окружења, у покрету, у току активности на отвореном, као што су вожња бициклом, сурфовање и скијање. Квалитет видео слике се може подесити у опсегу од 848 x 480 до 1920 x 1080 пиксела.
+Непокретне слике се могу снимити само у квалитету 5,0 мегапиксела. Квалитет непокретних слика (као што су оштрина слике, боја, композиција објекта) не могу се подесити на апарату.
+Апарат може да слика и снима видео датотеке у MPEG4 формату. Највиши квалитет видео снимања је у резолуцији 1920 x 1080 пиксела при 30 фрејмова у секунди, непрекидно у периоду од максимум три сата, са потпуно пуним батеријама. Сликање може да прекине само корисник. Слике се снимају у посебне датотеке са дужином трајања приближно 15 минута свака.
+Након што је испоручен, датотеке се, са машине за аутоматску обраду података, преко USB интерфејса, могу преносити на апарат.
+
+
+8525 80 99
+
+
+Сврставање је одређено Основним правилима 1. и 6. за примењивање Комбиноване номенклатуре, Напоменом 3. уз Одељак XVI и наименовањима уз CN ознаке 8525, 8525 80 и 8525 80 99.
+С обзиром на објективне карактеристике апарата, као што су његова мала величина и маса, чињенице да се поставља, на пример, на кацигу, његов капацитет да снима видео током непрекидног периода од максимум 3 сата, главна функција камере је снимање видео слика.
+Иако апарат има конструкцију дигиталне камере, он може да снима видео квалитета најмање 800 x 600 пиксела при 30 фрејмова у секунди у непрекидном периоду од максимум 3 сата. Сликање се не искључује аутоматски након 30 минута (видети такође Допунски коментар за Комбиновану номенклатуру уз тарифне подбројеве 8525 80 30, 8525 80 91 и 8525 80 99). Чињеница да су слике снимљене у засебним фајловима који трају приближно 15 минута сваки, не утиче на дужину трајања непрекидног видео снимања камером. Према томе, искључује се, сврставање у тарифни подброј 8525 80 30 као дигиталне камере.
+Како апарат може да снима видео датотеке и из других извора осим уграђеног објектива камере, искључује се сврставање у CN ознаку 8525 80 91 као видео камере са рекордером која може да снима само звук и слике снимљене телевизијском камером.
+Апарат се, према томе, сврстава у CN 8525 80 99 ознаку као остале видео камере са рекордерима.

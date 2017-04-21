@@ -1,0 +1,474 @@
+Одлуке о сврставању робе које је донео Комитет за Хармонизовани систем Светске царинске организације на свом 30. заседању новембра 2002. године
+"Службени гласник РС", број 97 од 21. децембра 2010.
+На основу члана 3а став 4. Закона о Царинској тарифи („Службени гласник Републике Србије”, бр. 62/05, 61/07 и 5/09) објављују се Одлуке о сврставању робе које је донео Комитет за Хармонизовани систем Светске царинске организације (у даљем тексту: СЦО) на свом 30. заседању новембра 2002. године објављене на сајту СЦО 2002. године, а у складу са Уговором потписаним између СЦО и Управе царина Републике Србије од 28. априла 2008. године, које у оригиналу на енглеском језику и у преводу на српски језик гласе:
+The following list contains the classification decisions (other than those subject to a reservation) taken by the Harmonized System Committee (30th Session - November 2002) on specific products, together with their related Harmonized System code numbers and, in certain cases, the classification rationale.
+Advice
+Parties seeking to import or export merchandise covered by a decision are advised to verify the implementation of the decision by the importing or exporting country, as the case may be.
+
+
+
+
+No.
+
+Product description
+
+Classification
+
+HS codes Considered
+
+Classification rationale
+
+
+
+1.
+
+Bakers&apos; wares (a kind of "waffles"), made from water, wheat flour, eggs, leavening agents, sugar, whey powder and fat (typically soya-bean oil). After the ingredients are blended into a batter, the batter is poured into a patterned waffle iron. After the product is fully baked, it is frozen. The average moisture content is 48 % after baking and 45 % after being frozen.
+
+1905.32
+
+1905.32 and 1905.90
+
+GIR 1
+
+
+2.
+
+One-component wet process polyurethane resin containing, [by weight] [by volume] polyol (15 %), isocyanate (7 %), glycol (8 %) and dimethylformamide (70 %), used in the production of artificial leather with a hard touch and high flexibility.
+
+3208.90
+
+
+GRIs 1 (Note 4 to Chapter 32 and Note 2 (d) to Chapter 39) and 6
+
+
+3.
+
+An injectable intracutaneous gel put up in measured doses in packings for retail sale; in a box containing a 1 ml syringe of colourless glass and a needle in blister pack; in two dosages 0.4 or 0.7 ml. It is used for wrinkle correction and lip enhancement via injection into the skin or lips. The gel is supplied in glass syringes and consists of : water (1 ml), sodium chloride (9 mg), hyaluronic acid (20 mg), sodium phosphate monobasic and sodium phosphate dibasic. Hyaluronic acid is biosynthetically produced by bacterial fermentation and stabilised.
+
+3304.99
+
+30.04 
+33.04
+
+GIRs 1 and 6. In view of the fact that it was put up as a set the product was also classified by application of GIR 3 (b).
+
+
+4.
+
+A product obtained as a by-product of Fischer-Tropsch synthesis, consisting of 63 - 65 % ethyl alcohol, 35 - 37 % isopropyl alcohol and a maximum of 1 % C3/C4 alcohols.
+
+3814.00
+
+
+GRI 1
+
+
+5.
+
+Assortment of articles consisting of a rotating plastic compartmentalized holder containing a pair of scissors, a cutter, four pencils, two ball-point pens, a ruler marked in centimetres, a roll of adhesive tape, an adhesive-tape dispenser, a pencil sharpener, a stapler, a box of strips of staples, a bag of plastic-headed drawing pins, a bag of paper clips, an eraser and a block of note paper (9 x 7 cm), put up in a box for retail sale.
+
+3926.10
+
+
+GIRs 3 (b) and 6
+
+
+6.
+
+Rectangular panels of wood (approximately 122 cm x 244 cm x 1.8 cm), sanded, obtained by gluing a number of strips of wood edge-to-edge, having a width of approximately 3.8 cm.
+
+4421.90
+
+
+GIRs 1 and 6
+
+
+7.
+
+Article made from textile fabric (100 % cotton), rectangular in shape (76 x 63 cm), consisting of a front quilted panel, a back panel, and decorative ruffles. The front panel, the visible side of which is made of patchwork, is cut from quilted fabric produced by quilting a layer of polyester padding which has been placed between two layers of fabric. The front and back panels are joined together in such a manner as to create a pocket and the back panel has an opening, fitted with a zip fastener, through which a pillow or cushion can be inserted.
+
+6304.92
+
+
+GIRs 1 and 6
+
+
+8.
+
+Automatic, sliding metal (steel) door (and its mechanism) for lifts (elevators), presented separately, intended to be fitted into the walls at the entrance to the lift shaft on each floor of a building; the door (and its mechanism) does not travel up and down the building with the lift cage.
+
+7308.30
+
+
+GIRs 1 and 6
+
+
+9.
+
+Grounding rods in the form of solid-rod electrodes made of drawn carbon steel, with an electrolytically deposited copper jacket. The copper layer, with a maximum thickness of 254 microns (d), ensures a perfect bond between the two metals. These rods are between 8 and 10 feet (2.5 and 3.1 meters) long, can weigh up to 5 kg and their lower ends, which can be connected together using threaded bronze couplings, are pointed. These rods are used for high-tension lines, substations, communication lines, buildings, street lamps, lightning arresters, antennas, etc. and any installation requiring safe, effective and durable grounding.
+
+7326.90
+
+
+GIRs 1 (Note 7 to Section XVI) and 6
+
+
+10.
+
+A machine that packages capsules/tablets by the following process :
+(a) "blisters", being indentations of an appropriate shape and size to hold a capsule/tablet, are formed in a plastic film, which enters the machine as a continuous sheet;
+(b) a capsule/tablet is then fed into each blister;
+(c) the top is sealed with aluminium foil, which bonds to the plastic;
+(d) the sheet is then die-cut into individual blister packs; and
+(e) the machine also prints the foil, but it is not clear at what stage that occurs.
+It is a continuous process and results in a blister-pack of capsules/tablets that is put up for retail sale, in a manner that is commonly used to present such articles.
+
+8422.40
+
+84.22 
+84.77 
+84.79
+8422.30 
+8422.40
+
+GIRs 1 and 6
+
+
+11.
+
+Electrostatic chuck (ESC) consisting of an aluminium pedestal with a thin copper film between layers of polyimide. The polyimide coating protects the copper from the plasma and from arcing. The pedestal bolts to the surface of the simplified cathode. The ESC pedestal is either notched or flatted, depending on the type of wafer being used.
+Helium channels cut into the top and bottom of the ESC distribute helium across the back of the wafer. The helium flow increases heat transfer from the wafer to the ESC pedestal. This helps prevent photoresist reticulation on the wafer. The helium is routed up through the cathode to the back of the wafer.
+When a plasma ignites the chamber, it creates a charge at the backside of the wafer. A positive DC voltage is then applied to the copper film of the ESC. This results in a charge opposite in polarity to the charge at the backside of the wafer. The opposite charges attract, forming an electrostatic bond between the wafer and the ESC. This „chucks“ the wafer, keeping the wafer in place when the backside helium pressure is enabled. After processing, the backside helium pressure is reduced and the voltage is lowered, allowing the plasma to dissipate the excess static charge. This „dechucks“ the wafer. After dechucking, the wafer is ready to be transferred out of the chamber.
+
+8466.20
+
+84.66 
+85.05
+
+GIRs 1 (Note 2 (b) to Section XVI) and 6
+
+
+12.
+
+Snow-clearing machine, designed to be mounted on a lorry, consisting of (1) a tank for storing sand and/or salt, equipped with a lump-breaking agitator which turns at the same time as an endless screw (the system can also make brine, using a dissolving bag), (2) a system for crushing/grinding the lumps of salt, and (3) a hydraulic projection system with spreading disk. The machine‘s various functions are operated from the cab of the lorry, by remote control.
+
+8479.10
+
+
+GIRs 1 and 6
+
+
+13.
+
+Nickel cadmium rechargeable battery designed for a particular brand of cellular telephone. It comprises the following:
+• 3 x nickel cadmium batteries;
+• Printed circuit board which connects the batteries to the cellular telephone‘s circuits;
+• Conductive strips which run between the batteries;
+• Outer plastic casing specially designed to form a whole with the cellular telephone. This receptacle houses the battery pack components;
+• A circuit board containing a resistor and a capacitor which combine to allow for the safe recharging of the batteries.
+The battery pack assembly serves as the power source for its host cellular telephone. It has no other function. The outer casing is said to be ergonomically designed so that it forms the back of the telephone.
+
+8507.30
+
+85.07 
+85.25
+
+GIRs 1 and 6
+
+
+14.
+
+A battery pack comprised of the following :
+• 3 or 6 nickel hydride accumulators;
+• Electrical connectors to the telephone;
+• A thermistor which monitors the temperature of the battery pack and cuts it off if it is outside the temperature range;
+• A positive temperature coefficient (PTC) current protection circuit protecting against short circuit by increasing the resistance if too high a current passes through the battery pack thus preventing more current from passing;
+• The rear outer casing so that the pack forms part of the telephone;
+• The inner plastic cover.
+
+8507.80
+
+85.07 
+85.25
+
+GIRs 1 and 6
+
+
+15.
+
+Grounding devices welded to cables and connection wires, consisting of copper-coated carbon steel grounding rods, terminals, bronze couplings and special uncovered copper or copper-coated steel cables and wires. These assemblies may include inspection boxes to permit regular checks of the electrical resistance and to protect the rods from external shocks. These assemblies are used to protect high-tension lines, substations, communication lines, buildings, street lamps, lightning arresters, all kinds of antennas, etc., and any installation requiring safe, effective and durable grounding.
+
+8535.90 or 8536.30, depending on the voltage
+
+
+
+
+16.
+
+Car safety seats suitable for use for the carriage of infants and toddlers in motor vehicles. They are removable and are attached to the vehicle‘s seats by means of the seat belt and a tether strap.
+
+9401.80
+
+
+GIRs 1 and 6
+
+
+17.
+
+Baby walker consisting of a folding circular tubular-steel frame mounted on eight casters. It moves on the casters and includes a seat formed by a piece of fabric in which two holes have been made to allow the baby‘s legs to pass through, together with a table to which toys are attached. It is intended to help babies to learn to walk in safety.
+
+9403.70
+
+
+GIRs 1 and 6
+
+
+18.
+
+„Roller shoes“ consisting of sports footwear covering the ankle, with uppers of leather and outer soles of rubber, incorporating two permanently attached, retractable wheels that fit into special cavities in the outer sole, thus providing the option of using the footwear as in-line skates (roller blades) when the wheels are pulled out.
+
+9506.70
+
+
+GIRs 1 and 6
+Copyright © 2003 the World Customs Organization
+Следећа листа садржи одлуке о сврставању робе (осим оних које су предмет захтева за поновно разматрање) које је донео Комитет за ХС (30. Заседање – новембар 2002. године) за одређене производе, заједно са тарифном ознаком и, у одређеним случајевима, основом за сврставање (Основна правила за примењивање Царинске тарифе, у даљем тексту: ОПП).
+Савет:
+Чланицама које желе да увезу или извезу робу обухваћену одлуком, саветује се да провере да ли земља из које увозе или у коју извозе робу примењује одлуку, у зависности од случаја.
+
+
+
+
+Бр.
+
+Опис производа
+
+Сврставање
+
+Разматране тарифне ознаке
+
+Основ сврставања
+
+
+
+1.
+
+Пекарски производи (врста вафли), израђени од воде, пшеничног брашна, јаја, средстава за дизање, шећера, сурутке у праху и масноће (уобичајено уље од сојиног семена). Након што се састојци измешају у житку масу, иста се улива у металне калупе за вафле. Након што је производ потпуно испечен, замрзава се. Просечни садржај влаге је 48% након печења и 45% након што је смрзнут
+
+1905. 32
+
+1905.32 и 1905.90
+
+ОПП 1
+
+
+2.
+
+Једнокомпонентна полиуретанска смола за мокри поступак садржи (по маси) (по запремини) полиол (15%), изоцианат (7%), гликол (8%) и диметилформамид (70%), користи се у производњи вештачке коже, тврда на додир и високе еластичности.
+
+3208. 90
+
+
+ОПП 1 (Напомена 4 уз Главу 32 и Напомена 2(г) уз Главу 39) и 6
+
+
+3.
+
+Гел за поткожно убризгавање припремљен у одмерене дозе у паковања за продају на мало; у кутије које садрже шприц од 1 ml од безбојног стакле и игле у блистер паковању; у две дозе 0.4 или 0.7 ml. Употребљава се за корекцију бора и повећавање усана путем убризгавања у кожу или усне. Гел се испоручује у стакленом шприцу и садржи: воду (1 ml), натријум хлорид (9 mg), хијалуронску киселину (20 mg), монобазни натријум фосфати и двобазни натријум фосфат. Хијалуронска киселина биосинтетички је произведена бактеријском ферментацијом и стабилизована.
+
+3304. 99
+
+30.04
+33.04
+
+ОПП 1 и 6. У погледу чињенице да је припремљен као сет, производ је такође сврстана применом ОПП 3(б)
+
+
+4.
+
+Производ добијен као споредни производ Fischer-Tropsch синтезе, састоји се од 63 – 65 % етил алкохола, 35 – 37 % изопропил алкохола и максимум 1 % C3/C4 алкохола.
+
+3814. 00
+
+
+ОПП 1
+
+
+5.
+
+Одабир производа састоји се од ротирајућег пластичног држача са преградама који садржи пар маказа, ножић, четири оловке, две хемијске оловке, лењир са поделом у центиметрима, котур самолепљиве траке, диспенсер за самолепљиву траку, оштрач за оловке, хефталицу, кутију прошивених спајалица у тракама, врећицу ексерчића за цртаће табле са пластичном главом, врећицу спајалица за акта и писма, гумицу и блок са листовима за поруке (9 x 7 cm), припремљен у кутију за продају на мало.
+
+3926. 10
+
+
+ОПП 3(б) и 6
+
+
+6.
+
+Правоугаона плоча од дрвета (приближно 122 cm x 244 cm x 1.8 cm), брушена, добијена лепљењем ивице за ивицу већег броја трака од дрвета, чија је ширина приближно 3.8 cm.
+
+4421. 90
+
+
+ОПП 1 и 6
+
+
+7.
+
+Производ израђен од текстилног материјала (100% памук), правоугаоног облика (76 x 63 cm), састоји се од горње прошивене стране, доње стране, и украсних набора. Горња страна, чије је лице израђено од пачворка, искројена је из прошивеног материјала добијеног прошивањем слоја полиестарског пуњења које се налази између два слоја материјала. Горња и доња страна међусобно су спојена на такав начин да образују џеп, а доња страна има отвор са патент затварачем, кроз који се може уметнути јастук или сл.
+
+6304. 92
+
+
+ОПП 1 и 6
+
+
+8.
+
+Аутоматска, клизна метална (челик) врата (и њихов механизам) за лифтове (елеватори), испоручена одвојено, намењена су да се монтирају у зидове на улазу у простор за лифт на сваком спрату зграде; врата (и њихов механизам) не крећу се горе-доле са кабином лифта.
+
+7308. 30
+
+
+ОПП 1 и 6
+
+
+9.
+
+Штапови за уземљење у облику штапних електрода пуног пресека израђених од вученог угљеничног челика, са електролитички нанетом бакарном превлаком. Слој бакра, максималне дебљине 254 microns (D), обезбеђује савршену везу између два метала. Ове шипке дужине су између 8 и 10 стопа (2.5 и 3.1 метра), и могу имати масу до 5 kg а њихови доњи крајеви, који се међусобно могу повезати бронзаном спојницом с навојем, су зашиљени. Ови штапови користе се за високо-напонске водове, подстанице, комуникационе линије, зграде, улично осветљење, громобране, антене, итд. и за било коју инсталацију која захтева сигурно, ефикасно и трајно уземљење.
+
+7326. 90
+
+
+ОПП 1 (Напомена 7 уз Одељак XVI) и 6
+
+
+10.
+
+Машина за паковање капсула/таблета следећим поступком: 
+(а) „блистери”, који су удубљења одговарајућег облика и величине за смештај капсула/ таблета, образују се у филму од пластике, који у машину улази као бесконачна табла; 
+(б) капсула/таблета ставља се у сваки блистер;
+(ц) горња страна заптива се алуминијуском фолијом, која се спаја са пластиком;
+(д) табла се потом шаблонски сече у појединачна блистер паковања;
+(е) машина такође штампа фолију, али није јасно у којој фази се то дешава. 
+Овај поступак је непрекидан и за производ даје капсуле/ таблете у блистер паковању које су припремљене за продају на мало, на начин који се уобичајено користи за испоруку оваквих производа.
+
+8422. 40
+
+84.22
+84.77
+84.79
+8422.30
+8422.40
+
+ОПП 1 и 6
+
+
+11.
+
+Електростатичка стега (ESC) састоји се од алуминијумског лежишта са танким бакарним филмом између слојева полиамида. Превлака од полиамида штити бакар од плазме и од електричног лука. Лежиште се вијцима причвршћује за површину једноставне катоде. ESC лежиште је удубљено или равно, у зависности од типа полупроводничког диска који се користи. Канали за хелијум просечени на врху и дну ESC спроводе хелијум преко доње стране диска. Струјање хелијума повећава пренос топлоте од полупроводничког диска до лежишта ESC. Ово доприноси спречавању фоторезистентне ретикулације полупроводничког диска. Хелијум се усмерава кроз катоду до доње стране диска. Када плазма усија комору, ствара се наелектрисање на доњој страни полупроводничког диска. Позитивни напон једносмерне струје тада се преноси на бакарни филм ESC. Ово ствара супротно наелектрисање у односу на наелектрисање доње стране полупроводничког диска. Супротна наелектрисања се привлаче, образујући електростатичку везу између диска и ESC. Ово „стеже” полупроводнички диск, држећи га у месту док притисак хелијума на доњој страни делује. Након обраде, притисак хелијума на доњу страну се смањује и напон је нижи, омогућујући да плазма потроши вишак статичког наелектрисања. Ово „отпушта” полупроводнички диск. Након отпуштања, полупроводнички диск је спреман за излазак из коморе.
+
+8466. 201
+
+84.66
+85.05
+
+ОПП 1 (Напомена 2(б) уз Одељак XVI) и 6
+
+
+12.
+
+Машина за чишћење снега, пројектована да се монтира на камион, састоји се од (1) танка за складиштење песка и/или соли, опремљена мешалицом за уситњавање груменова која се окреће истовремено са бесконачним навојним вретеном (систем такође може да прави слани раствор, користећи врећу за растварање), (2) систем за дробљење/млевење груменова соли, и (3) хидраулички систем за избацивање са диском за растурање. Разним функцијама машине управља се из кабине камиона, даљинским управљањем.
+
+8479. 10
+
+
+ОПП 1 и 6
+
+
+13.
+
+Никл кадмијумска пуњива батерија конструисана за посебан тип мобилног телефона. Садржи следеће:
+– 3 x никл кадмијумске батерије;
+– плочу са штампаним колом која повезује батерије са колом мобилног телефона; 
+– проводне траке које пролазе између батерија; 
+– спољашња футрола од пластике посебно је израђена да образује целину са мобилним телефоном. У ову кутију смештене су компоненте батеријског модула; 
+– плочу са штампаним колом која садржи отпорник и кондензатор који у садејству обезбеђују сигурно допуњавање батерија. 
+Батеријски модул служи као извор струје за свог „домаћина” мобилни телефон. Другу функцију нема. Каже се да је спољашњи футрола ергономски осмишљена тако да образује задњу страну телефона.
+
+8507. 30
+
+85.07
+85.25
+
+ОПП 1 и 6
+
+
+14.
+
+Батеријски модул садржи следеће: 
+– 3 или 6 никл хидрид акумулатора; 
+– електричне конекторе за телефон; 
+– термистор који прати температуру батеријског модула и искључује га уколико је изван температурног опсега; 
+– заштитно струјно коло позитивног температурног коефицијента (PTC) које штити од кратког споја тако што повећава отпор ако исувише јака струја пролази кроз батеријски модул, и на тај начин спречава даљи проток струје;
+– спољашњу футролу са задње стране тако да модул образује део телефона; 
+– унутрашњи пластични омот.
+
+8507. 80
+
+85.07
+85.25
+
+ОПП 1 и 6
+
+
+15.
+
+Уређај за уземљење заварен за каблове и жице за повезивање, састоји се од штапа за уземљење од угљеничног челика превученог бакром, прикључака, бронзане спојнице и специјалних челичних каблова и жица, прекривених или непрекривених бакром. Ови склопови могу укључивати и инспекцијске кутије да би се обезбедиле редовне провере електричног отпора и заштитили штапови од спољашњих удара. Ови склопови користе се за заштиту високонапонских водова, подстанице, комуникационе линије, зграде, улично осветљење, громобране, све врсте антена, итд., и за било коју инсталацију која захтева сигурно, ефикасно и трајно уземљење.
+
+8535. 90 или 8536. 30, у зависности од напона
+
+
+
+
+16.
+
+Безбедносно седиште за кола за превоз беба и деца која су тек проходала, у моторним возилима. Она се могу премештати, а причвршћена су за седишта возила путем појасева са седишта и затезних трака.
+
+9401. 80
+
+
+ОПП 1 и 6
+
+
+17.
+
+Ходалица за бебе (дубак) састоји се од кружног рама од челичних цеви који се може склопити, монтираног на осам точкића. Креће се преко точкића и укључује седиште образовано од комада материјала у којем су направљене две рупе које омогућавају да кроз њих прођу ноге бебе, заједно са сточићем за који су причвршћене играчке. Намењена је за помоћ бебама да безбедно науче да ходају.
+
+9403. 70
+
+
+ОПП 1 и 6
+
+
+18.
+
+„Ципеле ролери” представљају спортску обућу која покрива глежањ, са горњиштем од коже и спољашњим ђоновима од гуме, са два трајно причвршћена точкића, који се могу увлачити и који одговарају посебним удубљењима у спољашњем ђону, тако стварајући могућност да се, када су точкићи извучени, обућа користи као ролери (клизач са точкићима).
+
+9506. 70
+
+
+ОПП 1 и 6
+Harmonized System Committee Decisions
+http://www.wcoomd.org/ie/en/en.html
+Décisions du Comité du Systéme Harmonisé
+http://www.wcoomd.org/ie/fr/fr.html
+© 2002.година, Светска царинска организација (СЦО), Брисел, Белгија
+Сва права задржана
+© Управа царина Републике Србије, 2010. Година за издање из 2002. Године
+Објављено споразумно са СЦО, Брисел, Белгија
+Квалитет овог превода и његова повезаност са службеним текстом су одговорност Управе царина Републике Србије.
+Управа царина наводи да су само француска и енглеска верзија службене и могу се користити као референтне.1
+––––––––––––––
+1 Оригинално објављено од стране СЦО на енглеском и француском под насловима:

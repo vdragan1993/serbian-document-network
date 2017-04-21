@@ -1,0 +1,172 @@
+На основу члана 3а став 4. Закона о Царинској тарифи („Службени гласник Републике Србије”, бр. 62/05, 61/07 и 5/09) објављује се Уредба Комисије (ЕУ) о спровођењу број 1170/2012 од 3. децембра 2012. године у вези са сврставањем одређених роба у Комбинованој номенклатури објављена у „Службеном листу Европске уније”, број L 337/6 од 11. децембра 2012. године, која у оригиналу на енглеском језику и у преводу на српски језик гласи: 
+COMMISSION IMPLEMENTING REGULATION (EU)No 1170/2012 of 3 December 2012 concerning the classification of certain goods in the Combined Nomenclature "Службени гласник РС", број 9 од 29. јануара 2013.
+THE EUROPEAN COMMISSION,
+Having regard to the Treaty on the Functioning of the European Union,
+Having regard to Council Regulation (EEC) No 2658/87 of 23 July 1987 on the tariff and statistical nomenclature and on the Common Customs Tariff (1), and in particular Article 9(1)(a) thereof,
+Whereas:
+(1) In order to ensure uniform application of the Combined Nomenclature annexed to Regulation (EEC) No 2658/87, it is necessary to adopt measures concerning the classification of the goods referred to in the Annex to this Regulation.
+(2) Regulation (EEC) No 2658/87 has laid down the general rules for the interpretation of the Combined Nomenclature. Those rules apply also to any other nomenclature which is wholly or partly based on it or which adds any additional subdivision to it and which is established by specific provisions of the Union, with a view to the application of tariff and other measures relating to trade in goods.
+(3) Pursuant to those general rules, the goods described in column (1) of the table set out in the Annex should be classified under the CN code indicated in column (2), by virtue of the reasons set out in column (3) of that table.
+(4) It is appropriate to provide that binding tariff information which has been issued by the customs authorities of Member States in respect of the classification of goods in the Combined Nomenclature but which is not in accordance with this Regulation can, for a period of three months, continue to be invoked by the holder, under Article 12(6) of Council Regulation (EEC) No 2913/92 of 12 October 1992 establishing the Community Customs Code (2).
+(5) The Customs Code Committee has not issued an opinion within the time limits set by its chairman,
+HAS ADOPTED THIS REGULATION:
+Article 1
+The goods described in column (1) of the table set out in the Annex shall be classified within the Combined Nomenclature under the CN code indicated in column (2) of that table.
+Article 2
+Binding tariff information issued by the customs authorities of Member States, which is not in accordance with this Regulation, can continue to be invoked for a period of three months under Article 12(6) of Regulation (EEC) No 2913/92.
+Article 3
+This Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union.
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+Done at Brussels, 3 December 2012.
+–––––––––––
+(1) OJ L 256, 7.9.1987, p. 1.
+(2) OJ L 302, 19.10.1992, p. 1.
+For the Commission,
+On behalf of the President,
+Algirdas ŠEMETA
+Member of the Commission
+ANNEX
+
+
+
+
+Description of the goods
+
+
+Classification 
+(CN-code)
+
+
+Reasons
+
+
+
+
+(1)
+
+
+(2)
+
+
+(3)
+
+
+
+
+An article consisting of a garland of artificial flowers of different colours, an imitation of a so-called ‚lei‘.
+Each flower consists of two single coloured pieces of woven textile material cut in the form of flower petals. Each flower is separated from the next flower by a transparent plastic tube imitating the flower-stem. A thin thread links the plastic tubes and the flowers to form a circle with a diameter of approximately 30 cm imitating a circular flower garland.
+(see photograph No 662) (*)
+
+
+6702 90 00
+
+
+Classification is determined by General Rules 1, 3(a) and 6 for the interpretation of the Combined Nomenclature and the wording of CN codes 6702 and 6702 90 00.
+The article resembles a garland of flowers and is designed to be worn around the neck as an imitation of a ‚lei‘.
+The article is not excluded by Note 3(b) to Chapter 67, because the artificial flowers are not obtained in one piece, since each flower consists of two pieces of textile material cut in the form of flower petals, and because assembling the petals and stems by means of a thin thread is a similar method to binding, glueing or fitting the parts into one another. The article resembles in form a natural product (see also the HS Explanatory Notes to heading 6702, (1) and (3)), regardless of whether the details exactly match the natural product.
+Classification under heading 7117 as imitation jewellery is excluded as the article is not an imitation of jewellery but an imitation of a flower garland that is worn around the neck, a so-called ‚lei‘. Therefore, the article is not covered by the terms of heading 7117 (imitation jewellery).
+Classification under heading 9505 as festive, carnival or other entertainment article is also excluded as the article is not exclusively designed, manufactured and recognised as a festive article. It does not contain any imprints, ornaments, symbols or inscriptions and accordingly is not to be used for a specific festivity (see also the CN Explanatory Notes to heading 9505). Moreover, the ‚lei‘ serves to decorate a person and not a room, table etc. It is neither a part of a fancy dress that is used for carnival (see
+
+
+
+
+
+
+
+
+also the HS Explanatory Notes to heading 9505, (A) (1) and (3)).
+Classification under heading 6307 as other made-up textile article is also excluded, because heading 6702 (articles made of artificial flowers) is the heading providing the more specific description within the meaning of General Rule 3(a) for the interpretation of the Combined Nomenclature.
+The article is therefore to be classified under CN code 6702 90 00 as 'article made of artificial flowers, of other materials than plastics'.
+
+
+
+
+(*) The photograph is purely for information.
+
+
+
+
+
+УРЕДБА КОМИСИЈЕ (ЕУ) О СПРОВОЂЕЊУ број 1170/2012 од 3. децембра 2012. године у вези са сврставањем одређених роба према Комбинованој номенклатури "Службени гласник РС", број 9 од 29. јануара 2013.
+КОМИСИЈА ЕВРОПСКЕ УНИЈЕ,
+Имајући у виду Уговор о функционисању Европске уније,
+Имајући у виду Уредбу Савета (ЕЕЗ) број 2658/87 од 23. јула 1987. године о тарифској и статистичкој номенклатури и Заједничкој царинској тарифи1, а посебно њен члан 9(1)(а),
+С обзиром на то:
+(1) да је, да би се осигурала доследна примену Комбиноване номенклатуре дате у прилогу Уредбе (ЕЕЗ) број 2658/87, неопходно усвојити мере у вези са сврставањем роба наведених у Анексу уз ову уредбу;
+(2) да су Уредбом (ЕЕЗ) број 2658/87 одређена основна правила за тумачење Комбиноване номенклатуре. Ова правила се такође примењују на било коју другу номенклатуру која се у потпуности или делимично заснива на њој, или којој су додате било које потподеле и која је установљена посебним прописима Уније, са циљем примене тарифских и других мера везаних за трговину робом;
+(3) да се сходно тим основним правилима, роба описана у колони 1 табеле дате у Анексу сврстава у CN ознаку наведену у колони 2, према разлозима датим у колони 3 табеле;
+(4) да је одговарајуће обезбедити да, ималац обавезујуће тарифне информације, коју су издали царински органи држава чланица у односу на сврставање робе према Комбинованој номенклатури али која није у складу са овом уредбом, може у периоду од три месеца, да настави да се позива на њу, према члану 12(6) Уредбе Савета (ЕЕЗ) број 2913/92 од 12. октобра 1992. године којом је установљен Царински закон Заједнице2;
+(5) да Одбор за Царински закон није издао мишљење у року који је одредио председавајући, 
+УСВОЈИЛА ЈЕ ОВУ УРЕДБУ:
+Члан 1.
+Роба описана у колони 1 табеле дате у Анексу сврстава се у оквиру Комбиноване номенклатуре у CN ознаку наведену у колони 2 те табеле.
+Члан 2.
+Обавезујућа тарифна информација коју су издали царински органи државе чланице, а која није у складу са овом уредбом наставиће да важи у периоду од три месеца по члану 12(6) Уредбе (ЕЕЗ) број 2913/92.
+Члан 3.
+Ова уредба ступа на снагу 20. дана од дана објављивања у „Службеном листу Европске уније”.
+Ова уредба у потпуности је обавезујућа и директно применљива у свим државама чланицама.
+У Бриселу, 3. децембра 2012. године
+–––––––––––
+1 OJ L 256, 7.9.1987, стр. 1
+2 OJ L 302, 19.10.1992, стр. 1
+За Комисију
+У име председника
+Algirdas Šemeta
+члан Комисије
+АНЕКС
+
+
+
+
+Опис робе
+
+
+Сврставање
+(CN ознака)
+
+
+Разлози
+
+
+
+
+(1)
+
+
+(2)
+
+
+(3)
+
+
+
+
+Производ који се састоји од венца од вештачког цвећа различитих боја, имитација такозваног „lei” (хавајски венац од цвећа).
+Сваки цвет се састоји од два једнобојна комада тканог текстилног материјала исеченог у облику цветних латица. Сваки цвет је раздвојен од наредног провидном пластичном цевчицом која имитира стабло цвета. Танка нит повезује пластичне цевчице и цветове тако да формирају круг пречника од приближно 30cm имитирајући кружни цветни венац.
+(видети фотографију бр. 662) (*)
+
+
+6702 90 00
+
+
+Сврставање је одређено Основним правилима 1, 3(а) и 6 за примењивање Комбиноване номенклатуре и наименовањима уз CN ознаке 6702 и 6702 90 00.
+Производ личи на венац од цвећа и направљен је да се носи око врата као имитација „lei”.
+Производ се не искључује Напоменом 3(б) уз Главу 67, зато што вештачко цвеће није добијено у једном комаду будући да се сваки цвет састоји од два комада текстилног материјала исеченог у облику цветних латица, и зато што је спајање латица и стабала помоћу танке нити слично по методи везивању, лепљењу или уметању једног дела у други. Производ, по облику, личи на природни (видети такође ХС Коментар уз тарифни број 6702, (1) и (3)), без обзира да ли детаљи у потпуности одговарају природном производу.
+Искључује се сврставање у тарифни број 7117, као имитација накита, пошто производ није имитација накита већ имитација венца од цвећа који се носи око врата, такозваног „lei”. Према томе, производ није обухваћен терминима из тарифног броја 7117 (имитација накита).
+Такође се искључује сврставање у тарифни број 9505 као празничног, карневалског или другог производа за разоноду, будући да производ није искључиво дизајниран, направљен или препознатљив као празнични производ. Он не садржи било каква обележја, украсе, симболе или натписе и сходно томе не употребљава се за одређени празник (видети такође Допунски коментар Комбиноване номенклатуре уз тарифни број 9505). Штавише „lei” служи за украшавање особа а не просторија, столова итд. Такође није ни
+
+
+
+
+
+
+
+
+део одеће за маскирање која се употребљава за карневале (видети такође ХС Коментар уз тарифни број 9505, (А) (1) и (3)).
+Такође се искључује сврставање у тарифни број 6307 као осталих, готових, текстилних производа, зато што тарифни број 6702 (производи израђени од вештачког цвећа) пружа много специфичнији опис у смислу Основног правила 3(а) за примењивање Комбиноване Номенклатуре.
+Производ се, према томе, сврстава у CN ознаку 6702 90 00 као „производ израђен од вештачког цвећа, од осталих материјала осим од пластичне масе”.
+
+
+
+
+(*) Фотографија има само информативни карактер

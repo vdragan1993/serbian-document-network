@@ -1,0 +1,411 @@
+Одлуке  о сврставању робе које је донео Комитет за Хармонизовани систем Светске  царинске организације на свом 32. заседању  новембра 2003. године
+ 
+"Службени гласник РС", број 75 од 20. октобра 2010.
+ 
+На основу члана 3а став 4. Закона о Царинској тарифи („Службени гласник Републике Србије”, бр. 62/05, 61/07 и 5/09) објављују се Одлуке о сврставању робе које је донео Комитет за Хармонизовани систем Светске царинске организације (у даљем тексту: СЦО) на свом 32. заседању новембра 2003. године објављене на сајту СЦО 2003. године, а у складу са Уговором потписаним између СЦО и Управе царинa Републике Србије од 28. aприла 2008. године, које у оригиналу на енглеском језику и у преводу на српски језик гласе:
+ The following list contains the classification decisions (other than those subject to a reservation) taken by the Harmonized System Committee (32nd Session - November 2003) on specific products, together with their related Harmonized System code numbers and, in certain cases, the classification rationale.
+Advice
+Parties seeking to import or export merchandise covered by a decision are advised to verify the implementation of the decision by the importing or exporting country, as the case may be.
+
+
+
+
+No.
+
+
+Product description
+
+
+Classification
+
+
+HS codes Considered
+
+
+Classification rationale
+
+
+
+
+1.
+
+
+Food preparation consisting of 48.7 % sucrose, 29 % water, 15.1 % milk solids non-fat, 6.9% fat and less than 0.2 % stabilizers.
+
+
+0402.99
+
+ 
+
+
+GIRs 1 and 6
+
+
+
+
+2.
+
+
+Sugar cubes containing 99.7 % sucrose from cane sugar and a small amount of caramel (also from cane sugar).
+
+
+1701.91
+
+ 
+
+
+GIRs 1 and 6
+
+
+
+
+3.
+
+
+Cream in an aerosol can, containing 87 % (30 % fat) of cream, 7 % of invert sugar syrup, 2.3 % of condensed milk, 3.48 % of glucose, 0.01 % of vanilla flavour and 0.01 % of carrageen E 407.
+
+
+1901.90
+
+ 
+
+
+GIRs 1 and 6
+
+
+
+
+4.
+
+
+„Cachaga“, spirit obtained by distilling sugar-cane juice.
+
+
+2208.40
+
+ 
+
+
+GIRs 1 and 6
+
+
+
+
+5.
+
+
+Antimycotic agent in the form of a powder, containing natamycin (an antibiotic) (approximately 50 %) and lactose (approximately 50 %), used in food manufacture to prevent the growth of moulds and yeasts.
+
+
+3808.20
+
+ 
+
+
+GIRs 1 and 6
+
+
+
+
+6.
+
+
+Palm-size electronic organizer : 11.5 cm x 7.7 cm x 1 cm. Weight: 115 g. The front of the devices incorporates a touch screen with a writing area (a stylus is part of the package) and various function keys. The lithium ion battery that powers the device can be recharged by means of a serial connector when dropped into a cradle. If the battery becomes too weak to power the device, the user has a week in which to recharge it before the data are irretrievably lost. The organizer can be connected to a computer and, after the installation of special software (sold separately on CD-ROM), exchange data with it. Similarly, an IR (infrared) port enables it to beam data to other IR-enabled units. Its principal applications are as follows : date book, address book, to-do list, memo pad, calculator and expense record keeper. The device is supplied with a cradle and battery charger, a metal stylus and spare plastic stylus, data input software, an organizer user manual, a getting started guide, a lithium ion (internal) rechargeable battery, a DB-25 adapter and a protective cover.
+
+
+8471.30
+
+ 
+
+
+GIRs 3(b) and 6
+
+
+
+
+7. 
+
+
+System, consisting of a combination of machines, and software which enables it to record digital video images, create video effects, or edit and finalize video programmes for broadcasting. The system is capable of sending and receiving video signals. Inside the system, video signals are converted into digital signals so that they can be processed by the central processing unit. The system consists of the following components:
+(i) on//central processing unit;
+(ii) two colour display units (monitors) (with a noninterlaced scanner for displaying data, and an interlaced scanner for video presentations); one of these units shows digital operations conducted by the central unit and the other shows the final result;
+(iii) input unit in the form of a keyboard;
+(iv) 4 and 9 Gb (gigabyte) magnetic hard disk storage;
+(v) AVID logging software;
+(vi) video coprocessor board;
+(vii) JANUS compression board;
+(viii) DVE real-time board;
+(ix) audiomedia II sound board
+(x) SCSI-II accelerator board;
+(xi) two amplified speakers.
+(xii) „Software on CD-ROM which enables the system to record digital videl images, create video effects, or edit and finalize video programmes for broadcasting.
+
+
+8543.89
+
+
+84.71 and 85.43
+
+
+Note 4 to Section XVI and Note 5 (E) to Chapter 84
+
+
+
+
+8. 
+
+
+An apparatus (console) presented in a box for retail sale, together with a controller module with a connecting cable, a cable to connect the console to audio/video device and a power supply cable.
+The console includes the following components :
+– a central processing unit (CPU), 
+– a 32 Mbits DRAM main memory module, 
+– a digital versatile disk (DVD) drive, 
+– a graphics chip, 
+– a graphics chip,
+– 2 universal serial bus (USB) connector ports, 
+– 2 controller module ports, 
+– 2 memory card slots,
+– an audio/video connector port (IEEE 134),
+– an optical digital output connector port.
+Besides the controller module, several devices can be connected to the console such as a standard keyboard, a mouse, a television receiver, a data monitor or a printer.
+A drive bay inside the console allows incorporation of a hard disk drive and an Ethernet adaptor.
+The apparatus is capable of :
+– processing dedicated software for playing video games,
+– converting digital information from DVD video disks or audio CDs into video/audio signals for reproduction by television receivers or audio systems,
+– being programmed in ”YABASIC”.
+The controller module has several control buttons, which are mainly used for playing video games.
+
+
+9504.10
+
+
+84.71 and 95.04
+
+
+GIRs 1 (Note 1 (p) 
+            to Section XVI) and 6
+
+
+
+
+Следећа листа садржи одлуке о сврставању робе (осим оних које су предмет захтева за поновно разматрање) које је донео Комитет за ХС (32. заседање – новембар 2003. године) за специфичне производе, заједно са тарифном ознаком и, у извесним случајевима, основом за сврставање (Основна правила за примењивање Царинске тарифе, у даљем тексту: ОПП). 
+Савет
+Чланицама које желе да увезу или извезу робу обухваћену одлуком, саветује се да провере да ли земља из које увозе или у коју извозе робу примењује одлуку, у зависности од случаја.
+ 
+
+
+
+
+Бр.
+
+
+Опис производа
+
+
+ 
+
+Сврставање
+
+
+ 
+
+Разматране
+
+ 
+
+тар. ознаке
+
+
+ 
+
+Основ
+
+ 
+
+сврставања
+
+
+
+
+1.
+
+
+Прехрамбени   производ који се састоји од 48.7% сахарозе, 29% воде, 15.1% немасне чврсте   материје млека (milk solids non-fat), 6.9% масноће и мање од 0.2%   стабилизатора.
+
+
+0402.99
+
+
+
+
+ОПП   1. и 6.
+
+
+
+
+2.
+
+
+Шећер   у коцкама који садржи 99.7% сахарозе из шећерне трске и малу количину   карамела (такође из шећерне трске).
+
+
+1701.91
+
+
+
+
+ОПП   1. и 6.
+
+
+
+
+3.
+
+
+Слатка   павлака у аеросол лименци, садржи 87% (30% масноће) павлаке, 7% сирупа од   инвертног шећера, 2.3% кондензованог млека, 3.48% глукозе, 0.01% ароме ваниле   и 0.01% , карагенана Е 407.
+
+
+1901.90
+
+
+
+
+ОПП   1. и 6.
+
+
+
+
+4.   
+
+
+„Cachaça”,   алкохолно пиће добијено дестилацијом сока из шећерне трске.
+
+
+2208.40
+
+
+
+
+ОПП   1. и 6.
+
+
+
+
+5.
+
+
+Средство   против гљивица (антимикотичко) у облику праха, које садржи натамицин   (антибиотик) (приближно 50%) и лактозу (приближно 50%) а користи се у   производњи хране против растa плесни и квасаца.
+
+
+ 
+
+3808.201
+
+
+
+
+ОПП   1 и 6.
+
+
+
+
+6.
+
+
+Електронски   организатор величине длана: 11.5cm x 7.7cm x 1cm. Тежине 115g. Предња страна   уређаја има уграђен екран осетљив на додир са површином за писање (писаљка је   део пакета) и различите функцијске типке. Литијум јонска батерија, која   енергијом снабдева уређај, може се пунити путем серијског конектора када се   спусти на базу. Ако батерија постане сувише слаба да би напајала уређај,   корисник има недељу дана да је поново напуни пре но што се подаци неповратно   изгубе. Организатор се може повезати на компјутер и, после инсталирања   специјалног софтвера (који се продаје засебно на CD-ROM) размењивати податке   са њим. Слично томе један IR (инфрацрвени) порт му омогућава да електронским   млазом шаље податке на друге IR-оспособљене јединице. Његове главне примене   су следеће: календар састанака, адресар, списак обавеза, подсетник, рачунар и   вођење записника о трошковима. Уређај има базу и пуњач за батерију, металну   писаљку и резервну пластичну писаљку, софвер за унос података, упутство за   употребу организатора, водич за пуштање у рад, литијум јонску (унутрашњу)   батерију која се може пунити, DB-25 адаптер и заштитни омотач.
+
+
+8471.30
+
+
+
+
+ОПП   3 (б) i 6.
+
+
+
+
+7.   
+
+
+Систем   који се састоји од комбинације машина и софтвера који му омогућава да снима   дигиталне видео слике, ствара видео ефекте или уређује и финализује видео   програме за емитовање. Систем је способан да шаље и прима видео сигнале.   Унутар система, видео сигнали се претварају у дигиталне сигнале тако да их   централна јединица за обраду података може обрадити. Систем се састоји од   следећих компоненти:
+(i)   једне централне јединице за обраду података;
+(ii)   две дисплеј јединице у боји (монитора) (са скенером без технике за добијање   веће резолуције за приказивање података, и једним скенером са техником   добијања веће резолуције за видео презентације); једна од ових јединица   показује дигиталне операције којима руководи централна јединица а друга   показује крајњи резултат;
+(iii)   улазне јединице у облику тастатуре;
+(iv)   4 i 9 Gb (гигабајта) магнетне хард диск меморије;
+(v)   AVID софтвера за регистровање операција
+(vi)   видео копроцесорске плоче;
+(vii)   JANUS плоче за сабијање (сажимање)
+(viii)   DVE плоче за реално време;
+(ix)   аудиомедиа II звучне плоче;
+(x)   SCSI-II акцелераторске плоче;
+(xi)   два појачана микрофона.
+(xii)   „софтвера на CD-ROM који омогућава да систем снима дигиталне видео слике,   ствара видео ефекте, или уређује и финализује видео програме за емитовање.
+
+
+ 
+
+8543.892
+
+
+84.71   и 85.43
+
+
+Напомена   4 уз Одељак XVI и 
+            Напомена 5 (Д) 
+            уз Главу 84
+
+
+
+
+8.
+
+
+Апарат   (конзола) који се испоручује у кутији за продају на мало, заједно са   контролер модулом са каблом за повезивање, каблом за повезивање конзоле на   аудио/видео уређај и каблом за струју.
+Конзола   укључује следеће компоненте:
+–   централни процесор (CPU),
+–   32 Mbits DRAM модул главне меморије,
+–   дигитални вишенаменски диск (DVD) драјв, графички чип,
+–   графички чип,
+–   2 конекторска порта за универзалне серијске прикључке (USB),
+–   2 порта за контролни модул,
+–   2 отвора за меморијске картице,
+–   аудио/видео конекторски порт (IEEE 134),
+–   конекторски порт за оптичко дигитални излаз.
+Поред   контролног модула, неколико уређаја се може повезати на конзолу као што су   стандардна тастатура, миш, телевизијски пријемник, монитор за приказивање   података или штампач.
+Лежиште   за уређај унутар конзоле омогућава уградњу хард диск драјва и Етернет   адаптера.
+Апарат   је способан за:
+–   обраду наменског софтвера за играње видео игрица,
+–   претварање дигиталних информација са DVD видео дискова или аудио CD-a у   видео/аудио сигнале за репродукцију преко телевизијског апарата или аудио   система,
+–   да се програмира у „YABASIC-u”
+Контролни   модул има неколико контролних дугмића, који се углавном употребљавају за   играње видео игрица.
+
+
+9504.10
+
+
+84.71 i 95.04
+
+
+ОПП 1. (Напомена 1(м) уз Одељак   XVI) и 6.
+
+
+
+
+______________
+
+1 
+3808 92 (ХС 2007) 
+2 8543 70 (ХС 2007)
+
+
+Оригинално објављено од стране SCО на енглеском и француском под насловима:
+Harmonized System Committee Decisions
+http://www.wcoomd.org/ie/en/en.html 
+Décisions du Comité du Système Harmonisé
+http://www.wcoomd.org/ie/fr/fr.html
+© 2003. година, Sветска царинска организација (SCО), Брисел, Белгија,
+Сва права задржана
+© Управа царинa Републике Србије, 2010. година за издање из 2003. године
+Објављено споразумно са SCО, Брисел, Белгија.
+Квалитет овог превода и његова повезаност са службеним текстом су одговорност Управе царинa Републике Србије. Управа царинa наводи да су само француска и енглеска верзија службене и могу се користити као референтне.

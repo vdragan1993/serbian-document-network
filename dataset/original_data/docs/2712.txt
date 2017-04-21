@@ -1,0 +1,1280 @@
+Одлуке о сврставању робе које је донео Комитет за Хармонизовани систем Светске царинске организације на свом 25. заседању марта 2000. године
+
+  
+"Службени гласник РС", број 53 од 20. јула 2011. године
+ 
+ 
+На основу члана 3а став 4. Закона о Царинској тарифи („Службени гласник Републике Србије”, бр. 62/05, 61/07 и 5/09) објављују се Одлуке о сврставању робе које је донео Комитет за Хармонизовани систем Светске царинске организације (у даљем тексту: СЦО) на свом 25. заседању марта 2000. године објављене на сајту СЦО у јуну 2000. године, а у складу са Уговором потписаним између СЦО и Управе царинa Републике Србије од 28. aприла 2008. године, које у оригиналу на енглеском језику и у преводу на српски језик гласе:
+The following list contains the classification decisions (other than those subject to a reservation) taken by the Harmonized System Committee (25th Session – March 2000) on specific products, together with their related Harmonized System code numbers and, in certain cases, the classification rationale.
+Advice
+Parties seeking to import or export merchandise covered by a decision are advised to verify the implementation of the decision by the importing or exporting country, as the case may be.
+
+
+
+
+No.
+
+Product description
+
+Classification
+
+HS codes considered
+
+Classification rationale
+
+
+
+1.
+
+Uncooked frozen pizza consisting of a pizza base and a topping. The pizza is put up in a retail packing of net weight 580 g. The ingredients are wheat flour (33 %), water (30.8 %), cheese (9.2 %), margarine cheese (4.6 %), white mushrooms (5.2 %), beef (4.7 %), onion (3.2 %), tomato puree (2.8 %), vegetable (olive) oil (1.4 %), yeast (1.1 %), salt (0.9 %), sugar (0.9 %), rising agent (0.5 %), malt extract (0.4 %), partly hydrogenated vegetable oil (0.3 %), modified starch (0.2 %), garlic (0.2 %) and spices (0.1 %). Before consumption the pizza has to be cooked for 15 to 20 minutes (hot oven) or 20 to 25 minutes (cold oven).
+
+19.01
+
+19.05
+
+GIR 1
+
+
+2.
+
+A ready-to-drink alcoholic beverage (alcoholic strength of 5.5 % by volume) made from an aromatic compound to which vodka and carbon dioxide have been added.
+
+2208.90
+
+
+
+
+3.
+
+Certain INN products.
+(See for details list A at the end of this publication)
+
+Chapters 28, 29, 30, 35 and 39
+
+
+
+
+4.
+
+Certain INN products.
+(See for details list B at the end of this publication)
+
+Chapters 29, 30 and 35
+
+
+
+
+5.
+
+Certain INN products.
+(See for details list C at the end of this publication)
+
+Chapters 29, 30, 34 and 35
+
+
+
+
+6.
+
+Yarn having a hairy appearance along its entire length, made directly by cutting at the centre, up the weft, fabrics made on a special Raschel loom and consisting of two „wales“ forming two chains of loops linked up wale-wise by another thread, the latter forming the tufts after cutting. These yarns are put up in balls of 50 grams for sale by retail and are used for handicraft work such as hand knitting.
+
+5606.00
+
+
+GIR 1
+
+
+7.
+
+Yarn having a hairy appearance along its entire length and consisting of a chain of loops in the direction of the warp, with additional warp threads (cut after manufacture to form the tufts), made on a special circular knitting machine. These yarns are put up in balls of 50 grams for sale by retail and are used for handicraft work such as hand knitting.
+
+5606.00
+
+
+GIR 1
+
+
+8.
+
+Reinforced lumbar support belt, with posture correction, of elastic woven fabric (43 % polyamide, 25 % lapped elastane, 16 % cotton, 16 % polyester) with a crosswise structure ensuring stability of the belt (prevents it from creasing) and „velcro“ fastener. At the rear (width about 27 cm), are three bands of woven fabric (crossed, by analogy with muscular function) and rigid anatomical boning consisting of four rigid bands perpendicular to the length of the belt (posture correction). The belt is available in six different sizes, according to the patient‘s waist measurements. It is described as being used for:
+– prevention and treatment of acute or chronic lumbago and sciatica
+– occupational traumatisms
+– back pain due to vertebral arthrosis
+– support of the abdominal wall in the case of hernia
+– post-operative support.
+
+6212.90
+
+
+GIR 1 (text of heading 62.12 and Note 1 (b) to Chapter 90) and GIR 6.
+
+
+9.
+
+Digital ink-jet printer which reproduces continuous-tone colour images (formats up to A0 - 864 x 1,189 mm), using variable-sized dots, on a wide range of media : newsprint, mat, semi-mat or glossy papers, transparent or translucent medium, watercolour paper, coated fabric, etc. This apparatus, weighing 272 kg and measuring 1070 x 1520 x 760 mm (H x W x D) is used in the printing industry as a colour proofer and for industrial applications such as reflective or back-lit signage, exhibit displays, fine art, packaging, etc. The printing is effected on the basis of data provided by an external automatic data processing machine, to which the apparatus can be connected by a parallel interface.
+
+8443.51
+
+
+GIR 1 (Notes 5 (B), 5 (D) and 5(E)to Chapter 84) and GIR 6.
+
+
+10.
+
+Graphic tablets / digitizers, being serial input devices for personal computers and workstations. The tablets provide high performance digitizing for personal computer and computer aided design (CAD) applications, presentation graphics and similar 2D computer graphics applications. The tablets are high productivity tools that include the capabilities of a digitizer. In the digitizer and/or tablet role, they convert graphics to accurate digital information for computer storage and processing. All standard mouse functions are available as well. The flush surface design provides smooth cursor and/or pen control across the entire working surface. The digitizing surface has a lift-up translucent film for protecting delicate documents being traced. The overall dimensions of the tablets range from 151 mm x 151 mm to 305 mm x 457 mm. Weight 2 - 3.6 kg.
+
+8471.60
+
+84.71
+
+
+
+11.
+
+Data storage devices, whether for internal installation in an automatic data processing (ADP) machine or for external use with such machines, in which case they are portable and connectable to the machine through the parallel port, or through an SCSI or USB connection. The devices may be in the form of drives for discs (magnetic discs or CD-R (CD-Recordable) or CD-RW (CD- Rewritable) discs) or for magnetic tape. The discs and tapes have storage capacities ranging from 40 MB to 2 GB, and have a specific form which can only be used with the appliances of the same producer.
+Packages for retail sale may contain the driver and a power supply, a connecting cable, software and, sometimes, a disc. The drives are configured to work in an ADP environment operating system (such as Windows 95, Windows 98, Windows NT, MAC).
+Discs, tapes and other media presented with the unit are classified separately.
+
+8471.70
+
+84.71
+
+GIR 1
+
+
+12.
+
+Digital Linear Tape (DLT) Autoloaders and Libraries. Autoloaders are comprised of a robotic mechanism, a control mechanism, a drive mechanism and 8 tape cartridge slots. Libraries are comprised of a robotic mechanism, a control mechanism, 1 to 6 drive mechanisms and 20 to 60 tape cartridge slots. They are used for data backup applications where unattended, automatic operation is required and high data throughput is needed.
+The robotic mechanism consists of a robotic „hand“, called a picker, capable of holding one piece of (DLT) medium and the translation mechanism to move this medium to/from any of 1 to 6 drives or any of the storage locations (cartridge slots). This mechanism is controlled by a microprocessor driven controller, which includes servo systems, robotic control systems, error recovery/diagnostic systems, and interface systems. The computer server to which this device is attached communicates and transfers data via an SCSI or a fibber channel interface. The robotic controller shares the SCSI bus with one drive while each of the other drives has its own SCSI bus, for bandwidth considerations. Computer system management of the library is accomplished via a separate LAN interface.
+The drive mechanism utilised in the DLT Library uses a half-inch tape cartridge medium. The drive writes multiple channels in parallel with multiple serpentine passes down and back on the tape being required to write the entire tape. The capacity is 40 gigabytes per tape cartridge. The drives have hardware data compression available which will double the capacity, nominally. The data transfer rate is as high as 10 megabytes per second per drive.
+
+8471.70
+
+84.71
+
+GIR 1
+
+
+13.
+
+5.25“ Magneto-Optical Jukeboxes, comprised of a robotic mechanism, a control mechanism, 1 to 10 drive mechanisms and 1 to 238 disk cartridge slots. They are used for business applications requiring fast data access by multiple users simultaneously.
+The robotic mechanism consists of a robotic arm capable of holding one or two pieces of 5.25“ media and the translation mechanism to move this media to/from any of 1 to 10 drives or any of 1 to 238 storage locations (cartridge slots), as well as to an import/export location called a mailslot. This mechanism is controlled by a microprocessor driven controller, which includes servo systems, robotic control systems, error recovery/diagnostic systems, and interface systems. The computer server to which this device is attached communicates to it via an SCSI interface, with the robotic controller responding as one SCSI ID on the bus.
+The magneto-optical drive mechanism utilised in these jukeboxes uses a combination of an electromagnetic field and a red laser to change magnetic domains on a 5.25“ disk to create data patterns. The data transfer rate is as high as 4.5 megabytes per second.
+
+8471.70
+
+84.71
+
+GIR 1
+
+
+14.
+
+Communications controllers or routers (including „LAN bridges“), consisting of a main processor, an internal memory and multiple input/output ports; they route synchronous-network-architecture (SNA) specific data traffic.
+
+8471.80
+
+85.17
+
+
+
+15.
+
+Synchronous-network-architecture (SNA) cluster controllers (including remote control units), being apparatus acting as a terminal concentrator for co-axial connected terminals needing to connect to a SNA network using SNA network protocols.
+
+8471.80
+
+85.17
+
+
+
+16.
+
+Multistation access unit (a passive LAN hub), used to provide wiring concentration for up to eight token-ring LAN workstations so that the physical star-wired configuration is used to form an electrical ring. Multistation access units can be connected together to increase the number of workstations that can attach to any one token ring, to a maximum of 260 devices.
+
+8471.80
+
+85.17
+
+
+
+17.
+
+Optical fibre converter, converting the limited-distanced token-ring lAn digital signal into a long-distance digital signal over fibre-optic cable.
+
+8471.80
+
+85.17
+
+
+
+18.
+
+A tire inflation valve comprising a rubber stem, a screw-on cap and a brass insert consisting of an opening, a pin and a spring-loaded plunger mechanism, the whole of which is inserted into a wheel on which a tire is mounted. When the pin head is manually depressed, the valve opens, thereby allowing the flow of air into or out of the tire, depending upon the pressure differential.
+
+8481.80
+
+
+
+
+19.
+
+An electrical apparatus designed to be used in a motor vehicle to warn the driver that a speed detection device, a „radar gun“ or a „laser gun“, is operating in the vicinity. It detects microwaves, ranging from 10.49 to 36 GHz, emitted by radar or laser guns operating on X, K, and selected Ka-SuperWideband frequencies. When these frequencies are detected, the apparatus emits distinct visual and audio signals (illumination of the laser alert LED coupled with a special audio tone). It is presented as a set comprised of the radar/laser detector, windshield clip, straight power cord, fuses and spare parts, printed material and an operating guide.
+
+8512.30
+
+85.26
+85.27
+85.31
+
+GIRs 1 and 6, classification at the
+subheading level being based on the essential character of the product, i.e., sound
+Signalling equipment.
+
+
+
+
+Description (INN products)
+
+Classification
+
+
+
+List A
+
+
+Description (INN products)
+
+Classification
+
+
+Caspofungin 
+
+2941.90
+
+
+Darbufelone 
+
+2934.10
+
+
+Depreotide 
+
+2933.79
+
+
+Deracoxib 
+
+2935.00
+
+
+Desmoteplase 
+
+3507.90
+
+
+Dexbudesonide 
+
+2932.99
+
+
+Hemoglobin glutamer...
+
+3002.10
+
+
+Insulin detemir 
+
+2934.90
+
+
+Itavastatin 
+
+2933.40
+
+
+Lusupultide 
+
+2933.29
+
+
+Nesiritide 
+
+2934.90
+
+
+Olmesartan 
+
+2934.90
+
+
+Satraplatin 
+
+2843.90
+
+
+Semparatide 
+
+2933.29
+
+
+Simeticone 
+
+3910.00
+
+
+Tabimorelin 
+
+2924.29
+
+
+Tositumomab 
+
+3002.10
+
+
+Travoprost 
+
+2918.90
+
+
+Vangatalcite 
+
+2842.90
+
+
+Vepalimomab 
+
+3002.10
+
+
+Volpristin 
+
+2941.90
+
+
+
+
+Description (INN products)
+
+Classification
+
+
+
+List B
+
+
+Description (INN products)
+
+Classification
+
+
+Abetimus 
+
+2934.90
+
+
+Artenimol 
+
+2932.99
+
+
+Bexlosteride 
+
+2933.79
+
+
+Cadrofloxacin 
+
+2933.59
+
+
+Caloxetic acid 
+
+2922.50
+
+
+Cefmatilen 
+
+2941.90
+
+
+Cilengitide 
+
+2933.79
+
+
+Cipemastat 
+
+2933.39
+
+
+Clamikalant 
+
+2935.00
+
+
+Esketamine 
+
+2922.30
+
+
+Etanercept 
+
+3002.10
+
+
+Falnidamol 
+
+2933.59
+
+
+Finrozole 
+
+2933.90
+
+
+Fosfructose 
+
+2940.00
+
+
+Frakefamide 
+
+2924.29
+
+
+Ganstigmine 
+
+2934.90
+
+
+Gemifloxacin 
+
+2933.90
+
+
+Ibritumomab tiuxetan....
+
+3002.10
+
+
+Idremcinal 
+
+2941.50
+
+
+Ilodecakin 
+
+3002.10
+
+
+Izonsteride 
+
+2934.20
+
+
+Lasofoxifene 
+
+2933.90
+
+
+Liatermin 
+
+2934.90
+
+
+Licarbazepine 
+
+2933.90
+
+
+Mepolizumab 
+
+3002.10
+
+
+Olanexidine 
+
+2925.20
+
+
+Pibrozelesin 
+
+2933.59
+
+
+Pimecrolimus 
+
+2934.90
+
+
+Prazarelix 
+
+2933.39
+
+
+Ranpirnase 
+
+3507.90
+
+
+Rasburicase 
+
+3507.90
+
+
+Rovelizumab 
+
+3002.10
+
+
+Sarakalim 
+
+2934.90
+
+
+Sibrotuzumab 
+
+3002.10
+
+
+Siramesine 
+
+2934.90
+
+
+Talnetant 
+
+2933.40
+
+
+Tesmilifene 
+
+2922.19
+
+
+Tezosentan 
+
+2935.00
+
+
+Tocladesine 
+
+2934.90
+
+
+Troxacitabine 
+
+2934.90
+
+
+
+
+List C
+
+
+Description (INN products)
+
+Classification
+
+
+Calcobutrol 
+
+2933.90
+
+
+Denileukin diffitox 
+
+3002.10
+
+
+Macrogol ester 
+
+3402.13
+
+
+Olamufloxacin 
+
+2933.40
+
+
+Sardomozide 
+
+2928.00
+
+
+Tasonermin 
+
+2934.90
+
+
+Thyrotropin alfa 
+
+2934.90
+
+
+Tremacamra 
+
+3504.00
+Copyright © 2000 the World Customs Organization
+Следећа листа садржи одлуке о сврставању робе (осим оних које су предмет захтева за поновно разматрање) које је донео Комитет за ХС (25. заседање – март 2000. године) за специфичне производе, заједно са тарифном ознаком и, у одређеним случајевима, основом за сврставање (Основна правила за примењивање Царинске тарифе, у даљем тексту: ОПП). 
+Савет
+Чланицама које желе да увезу или извезу робу обухваћену одлуком, саветује се да провере да ли земља из које увозе или у коју извозе робу примењује одлуку, у зависности од случаја.
+
+
+
+
+Бр.
+
+Опис производа
+
+Сврставање
+
+Разматране
+ХС шифре
+
+Основ
+сврставања
+
+
+
+1.
+
+Непечена, смрзнута пица састоји се од подлоге за пицу и надева. Пица је припремљена у паковању за продају на мало, нето масе 580 g. Састојци су пшенично брашно (33%), вода (30.8%), сир (9.2%), маргарински сир (4.6%), шампињони (5.2%), јунетина (4.7%), црни лук (3.2%), пире од парадајза (2.8%), биљно (маслиново) уље (1.4%), квасац (1.1%), со (0.9%), шећер (0.9%), средство за подизање теста (0.5%), екстракт слада (0.4%), делимично хидрогенизовано биљно уље (0.3%), модификовани скроб (0.2%), бели лук (0.2%) и зачини (0.1%). Да би се појела пица се мора испећи 15 до 20 минута (у врелој рерни) или 20 до 25 минута (у незагрејаној рерни).
+
+19.01
+
+19.05
+
+ОПП. 1
+
+
+2.
+
+Алкохолно пиће припремљено за непосредну употребу (алкохолна јачина 5.5% по запремини) произведено од ароматичног једињења у које су додати вотка и угљен диоксид. 
+
+2208.90
+
+
+
+
+3. 
+
+Одређени INN производи.
+(За детаље видети листу А на крају ове публикације)
+
+Главе 28, 29, 30, 35 и 39
+
+
+
+
+4.
+
+Одређени INN производи.
+(За детаље видети листу B на крају ове публикације)
+
+Главе 29, 30
+и 35
+
+
+
+
+5.
+
+Одређени INN производи.
+(За детаље видети листу C на крају ове публикације)
+
+Главе 29, 30, 34 и 35
+
+
+
+
+6.
+
+Предиво, које целом дужином има кратке ресе, израђено непосредним пресецањем дуж средине потке, материјала израђеног на специјалним Рашел разбојима и састоји се од две „траке” које формирају два замкаста ланце попречно повезана другом нити, од које након што се пресече, настају ресе. Ова предива су припремљена у клупчадима од 50 грама за продају на мало и употребљавају се за ручни рад као што је ручно плетење.
+
+5606.00
+
+
+
+
+7.
+
+Предиво, које целом дужином има ресе састоји се од замкастог ланца у правцу основе, са додатним нитима основе (које су након производње исечене како би се добиле ресе), израђено на специјалним кружним плетаћим машинама. Ова предива су припремљена у клупчадима од 50 грама за продају на мало и употребљавају се за ручни рад као што је ручно плетење.
+
+5606.00
+
+
+
+
+8.
+
+Ојачани појас за подржавање лумбалног дела, са коректорима држања, од еластичног, тканог материјала (43% полиамид, 25% брушени еластан, 16% памук, 16% полестар) са попречном структуром која обезбеђује стабилност појаса (спречава његово набирање) и „velcro” причвршћивачем (чичак трака). Са задње стране (ширине око 27 cm) се налазе три траке од тканог материјала (укрштене, по аналогији са функционисањем мишића) и крута анатомска структура која се састоји од четири круте траке које стоје под правим углом у односу на дужину појаса (коректори држања). Појас је доступан у шест различитих величина, према обиму струка пацијента. Представљен је да се употребљава за:
+– превенцију и лечење акутног или хроничног лумбага и укљештења (лумбоишијалгија)
+– професионална обољења
+– бол у леђима настао због артрозе кичмених пршљенова
+– подржавање абдоминалног зида у случају херније
+– подржавање у постоперативном периоду.
+
+6212.90
+
+ОПП 1. (наименовање тарифног броја 62.12 и Напомене 1(б) уз Главу 90) и ОПП 6.
+
+
+
+9.
+
+Дигитални млазни (инкџет) штампач (са мастилом)који репродукује слике у боји континуираног тона (формати до А0 – 864 x 1,189 mm), користећи тачке различитих величина, на широком спектру медија: новинској, мат, полу-мат или сјајној хартији, провидном или полупровидном медијуму, акварел хартији, превученој тканини, итд. Овај апарат, масе 272 kg и димензија 1070 x 1520 x 760 mm (В x Ш x Д) употребљава се у штампарској индустрији као апарат за контролу отиска и за индустријске примене као што су за рефлектујуће или ознаке са позадинским осветљењем, приказивање експоната, предмете лепих уметности, паковања, итд. Штампање се врши на основу података са екстерне машине за аутоматску обраду података, са којом се апарат може повезати преко паралелног интерфејса.
+
+8443.511
+
+ОПП 1. (Напомене 5 (Б), 5 (Г) и 5 (Д) уз Главу 84) и ОПП 6.2
+
+
+
+10.
+
+Графички таблети/дигитајзери, су серијски улазни уређаји за персоналне рачунаре и радне станице. Таблети обезбеђују високу перформансу дигитализације за персонални рачунар и CAD (пројектовање помоћу рачунара) апликације, графичке презентације и сличне 2 – D рачунарске графичке апликације. Таблети су високо продуктивни алати који укључују могућности дигитајзера. У улози дигитајзера и/или таблета, они конвертују графике у прецизне дигиталне информације за рачунарско меморисање и обраду. Такође су присутне све стандардне функције миша. Дизајн равне површине омогућава несметано управљање курсором и/или стилусом преко целе радне површине. Површина за дигитализацију има провидан филм који се може дизати а служи за заштиту осетљивих докумената од гребања. Укупне димензије таблета се крећу од 151 mm x 151 mm до 305 mm x 457 mm. Тежина 2 – 3.6 kg.
+
+8471.60
+
+84.71
+
+
+
+11.
+
+Уређаји за меморисање података, било за унутрашњу инсталацију у машини за аутоматску обраду података (АОП) или за екстерну употребу са таквим машинама, у ком случају су преносиви и могу се повезати са машином преко паралелног порта, или преко SCSI или USB везе. Уређаји могу бити у виду драјвова за дискове (магнетни дискови или CD-R (CD-Recordable) или CD-RW (CD-Rewritable) дискови) или за магнетне траке. Дискови и траке имају капацитет меморије од 40 MB до 2 GB, и имају специфичан облик такав да се могу употребити само са уређајима истог произвођача.
+Паковања за продају на мало могу садржати исправљач и електрично напајање, кабл за повезивање, софтвер и, понекад, диск. Драјвови су конфигурисани да раде у окружењу опертивног система АОП (као што су Windows 95, Windows 98, Windows NT, MAC).
+Дискови, траке и остали носачи испоручени са јединицом, сврставају се засебно.
+
+8471.70
+
+8471 
+
+ОПП 1.
+
+
+12.
+
+Аутолоадери и библиотеке касета магнетних трака (DLT). Аутолоадери се састоје од роботског механизма, управљачког механизма, механизма јединице (драјв, уређај) за траке и 8 слотова за касете. Библиотеке се састоје од роботског механизма, управљачког механизма, 1 до 6 механизама јединица за траке и 20 до 60 слотова за касете трака. Користе се за чување и копирање (backup) података код апликација код којих се захтева да раде аутоматски без присуства оператера и где се тражи велики проток података.
+Роботски механизам састоји се од руке робота, која се назива „хватач”, и која може да држи један комад носача података (DLT) и механизма за транслаторно кретање који траку преноси ка /од било које од 1 до 6 јединица за траке или било којој локацији за меморисање (слот за касете). Овим механизмом управља микропроцесорски контролер, који укључује серво систем, систем за управљање роботом, систем за опорављање/дијагностику грешки, и систем интерфејса. Сервер за који је овај уређај повезан комуницира и преноси податке преко SCSI или FC(fibre channel) интерфејса. Контролери робота деле SCSI магистралу са једном јединицом за траке док свака од осталих јединица за траке има сопствену SCSI магистралу, у смислу ширине опсега. Компјутерски систем управљања библиотеком спроводи се преко посебног LAN интерфејса.
+Механизам уређаја који се користи за библиотеку магнетних трака (DLT) користи носач података у виду траке у касети од пола инча. Уређај врши мултиканалско записивање, паралелно, вишеструким таласастим пролазом доле и назад по траци које је неопходно да би се исписала цела трака. Меморија траке је 40 гигабајта. Уређај поседује хардверску компресију података која, номинално, удвостручује капацитет. Брзина протока података је 10 мегабајта у секунди по једном уређају.
+
+8471.70
+
+8471 
+
+ОПП 1.
+
+
+13.
+
+Магнетооптички џубоксови од 5.25² састоје се од роботског механизма, управљачког механизма, 1 до 10 механизама драјвова и 1 до 238 слотова за дискове. Употребљавају се за пословне апликације које захтевају брзи приступ подацима од стране више корисника у исто време.
+Роботски механизам састоји се од руке робота која може да држи један или два 5.25²-на носача и транслаторног механизма који помера овај носач до/од било ког од 1 до 10 драјвова или било коју од 1до 238 меморијских локација (слотови за дискове), као и до увозно/извозне локације назване „mailslot”. Овим механизмом управља микропроцесорски контролер, који укључује серво систем, систем за управљање роботом, систем за опорављање/дијагностику грешки, и систем интерфејса. Компјутерски сервер, са којим је овај уређај повезан, комуницира са уређајем преко SCSI интерфејса, преко роботског контролера који даје одзив као један SCSI ID на магистрали.
+Магнетооптички механизам за дискове употребљен у овим џубоксовима користи комбинацију електромагнетног поља и црвеног ласера да промени магнетне домене на диску од 5.25² да би створио шаблоне података. Брзина преноса података је 4.5 мегабајта у секунди.
+
+8471.70
+
+8471 
+
+ОПП 1.
+
+
+14.
+
+Комуникациони контролери или рутери (укључујући „LAN мостове”), састоје се од главног процесора, интерне меморије и вишеструких улазно/излазних портова; они усмеравају саобраћај одређених података у мрежама синхроне архитектуре (SNA).
+
+8471.803
+
+85.17
+
+
+
+15.
+
+Контролер кластера у мрежама синхроне архитектуре SNA (укључујући јединице за даљинско управљање), је апарат који ради као прикључни концентратор за коаксијално повезане терминале које треба повезати на SNA мрежу коришћењем SNA мрежних протокола.
+
+8471.804
+
+85.17
+
+
+
+16.
+
+Приступна јединица за више станица (пасивни LAN хаб) употребљава се да обезбеди прикључивање проводника за до осам радних станица токен ринг топологије мреже тако да се физички организована конфигурација проводника у виду звезде користи да се формира електрични прстен. Приступне јединице за више станица могу се повезати међусобно да би се број радних станица које се могу прикључити на било који токен ринг, повећао до максимално 260 уређаја.
+
+8471.805
+
+85.17
+
+
+
+17.
+
+Медиа конвертер, конвертује дигитални сигнал токен ринг LAN мреже ограниченог домета у дигитални сигнал великог домета преко кабла од оптичких влакана.
+
+8471.806
+
+85.17
+
+
+
+18.
+
+Вентил за надувавање гуме са кућиштем од гуме, завојном капицом и месинганим језгром које има отвор, иглу и опружни клипни механизам, а све то је уметнуто у точак на који се монтира гума. Када се глава игле ручно притисне, вентил се отвара, тиме допуштајући да, у зависности од разлике притиска, ваздушни млаз улази или излази из гуме.
+
+8481.80
+
+
+
+
+19.
+
+Електрични апарат конструисан да се употребљава у моторном возилу тако да упозорава возача да се у близини налази уређај за детекцију брзине тзв. „радарски пиштољ” или „ласерски пиштољ”. Он открива микроталасе од 10.49 до 36 GHz, које емитују радар или ласерски пиштољ који раде на X, K и одабраним Ka-SuperWideband фреквенцијама. Када се открију ове фреквенце, апарат емитује јасне визуелне и звучне сигнале (ласерско светло активира LED диоду у спрези са специјалним звучним тоном). Апарат се испоручује као сет који садржи детектор радара/ласера, ветробранску стегу, напојни кабл, осигураче и резервне делове, штампани материјал и упутство за употребу.
+
+8512.30
+
+85.26
+85.27
+85.31
+
+ОПП 1 и 6,
+сврставање на нивоу тарифног подброја засновано на битном карактеру производа, тј., опрема за звучну сигнализацију.
+ 
+––––––––––––––
+1 8443.32 (ХС 2007).
+2 „Напомене 5 (Г) под (1) и 5 (Д) уз Гла¬ву 84”(ХС 2007).
+3 8517.62 (HS 2007).
+4 8517.62 (HS 2007).
+5 8517.62 (HS 2007).
+6 8517.62 (HS 2007).
+ 
+
+
+
+
+Листа A
+
+
+Опис (INN производи)
+
+Сврставање
+
+
+Caspofungin
+
+2941.90
+
+
+Darbufelone
+
+2934.10
+
+
+Depreotide
+
+2933.79
+
+
+Deracoxib
+
+2935.00
+
+
+Desmoteplase
+
+3507.90
+
+
+Dexbudesonide
+
+2932.99
+
+
+Hemoglobin glutamer
+
+3002.10
+
+
+Insulin detemir
+
+2934.907
+
+
+Itavastatin
+
+2933.408
+
+
+Lusupultide
+
+2933.29
+
+
+Nesiritide
+
+2934.909
+
+
+Olmesartan
+
+2934.9010
+
+
+Satraplatin
+
+2843.90
+
+
+Semparatide
+
+2933.29
+
+
+Simeticone
+
+3910.00
+
+
+Tabimorelin
+
+2924.29
+
+
+Tositumomab
+
+3002.10
+
+
+Travoprost
+
+2918.9011
+
+
+Vangatalcite 
+
+2842.90
+
+
+Vepalimomab
+
+3002.10
+
+
+Volpristin
+
+2941.90
+ 
+––––––––––––––
+7 2934.99 (HS 2007).
+8 2933.49(HS 2007).
+9 2934.99 (HS 2007).
+10 2933.29 – измењено одлуком Комитета за ХС на 37. заседању објављеном у „Службеном гласнику РС”, број 107/2009 од 23.12.2009. године.
+11 2918.99 (HS 2007).
+ 
+
+
+
+
+Опис (INN производи)
+
+Сврставање
+
+
+
+Листа B
+
+
+Опис (INN производи)
+
+Сврставање
+
+
+Abetimus
+
+2934.9012
+
+
+Artenimol
+
+2932.99
+
+
+Bexlosteride 
+
+2933.79
+
+
+Cadrofloxacin
+
+2933.59
+
+
+Caloxetic acid
+
+2922.50
+
+
+Cefmatilen
+
+2941.90
+
+
+Cilengitide 
+
+2933.79
+
+
+Cipemastat
+
+2933.39
+
+
+Clamikalant
+
+2935.00
+
+
+Esketamine 
+
+2922.3013
+
+
+Etanercept
+
+3002.10
+
+
+Falnidamol
+
+2933.59
+
+
+Finrozole
+
+2933.9014
+
+
+Fosfructose
+
+2940.00
+
+
+Frakefamide
+
+2924.29
+
+
+Ganstigmine
+
+2934.9015
+
+
+Gemifloxacin
+
+2933.9016
+
+
+Ibritumomab tiuxetan
+
+3002.10
+
+
+Idremcinal
+
+2941.50
+
+
+Ilodecakin
+
+3002.10
+
+
+Izonsteride
+
+2934.20
+
+
+Lasofoxifene
+
+2933.9017
+
+
+Liatermin
+
+2934.9018
+
+
+Licarbazepine
+
+2933.9019
+
+
+Mepolizumab
+
+3002.10
+
+
+Olanexidine
+
+2925.2020
+
+
+Pibrozelesin
+
+2933.59
+
+
+Pimecrolimus
+
+2934.9021
+
+
+Prazarelix
+
+2933.39
+
+
+Ranpirnase
+
+3507.90
+
+
+Rasburicase
+
+3507.90
+
+
+Rovelizumab
+
+3002.10
+
+
+Sarakalim
+
+2934.9022
+
+
+Sibrotuzumab
+
+3002.10
+
+
+Siramesine
+
+2934.9023
+
+
+Talnetant
+
+2933.4024
+
+
+Tesmilifene
+
+2922.19
+
+
+Tezosentan
+
+2935.00
+
+
+Tocladesine
+
+2935.0025
+
+
+Troxacitabine
+
+2934.9026
+ 
+––––––––––––––
+12 2934.99 (HS 2007).
+13 2922.39 (HS 2007).
+14 2933.39 (HS 2007).
+15 2934.99(HS 2007).
+16 2933.99(HS 2007).
+17 2933.99(HS 2007).
+18 2934.99(HS 2007).
+19 2933.99(HS 2007).
+20 2925.29(HS 2007).
+21 2934.99(HS 2007).
+22 2934.99(HS 2007).
+23 2934.99(HS 2007).
+24 2933.49(HS 2007).
+25 2934.99(HS 2007).
+26 2934.99(HS 2007).
+ 
+
+
+
+
+Листа C
+
+
+Опис (INN производи)
+
+Сврставање
+
+
+Calcobutrol
+
+2933.9027
+
+
+Denileukin diffitox
+
+3002.1028
+
+
+Macrogol ester
+
+3402.1329
+
+
+Olamufloxacin
+
+2933.4030
+
+
+Sardomozide
+
+2928.00
+
+
+Tasonermin 
+
+2934.9031
+
+
+Thyrotropin alfa
+
+2934.9032
+
+
+Tremacamra
+
+3504.00
+ 
+––––––––––––––
+27 2933.99(HS 2007)
+28 3002.90(HS 2007)
+29 3907.20(HS 2007)
+30 2933.49(HS 2007)
+31 2934.99(HS 2007)
+32 2937.19(HS 2007)
+ 
+Оригинално објављено од стране СЦО на енглеском и француском под насловима:
+Harmonized System Committee Decisions
+http://www.wcoomd.org/ie/en/en.html 
+Décisions du Comité du Système Harmonisé
+http://www.wcoomd.org/ie/fr/fr.html
+© јун 2000. године, Светска царинска организација (СЦО), Брисел, Белгија,
+Сва права задржана
+© Управа царинa Републике Србије, јун 2011. године за издање из јуна 2000. године
+Објављено споразумно са СЦО, Брисел, Белгија.
+Квалитет овог превода и његова повезаност са службеним текстом су одговорност Управе царинa Републике Србије. Управа царинa наводи да су само француска и енглеска верзија службене и могу се користити као референтне.

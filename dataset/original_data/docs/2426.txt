@@ -1,0 +1,196 @@
+На основу члана 3а став 4. Закона о Царинској тарифи („Службени гласник Републике Србије”, бр. 62/05, 61/07 и 5/09) објављује се Уредба Комисије (ЕУ) о спровођењу број 714/2012 од 30. јула 2012. године у вези са сврставањем одређених роба у Комбинованој номенклатури објављена у „Службеном листу Европске уније”, број L 210/1 од 7. августа 2012. године, која у оригиналу на енглеском језику и у преводу на српски језик гласи: 
+COMMISSION IMPLEMENTING REGULATION (EU)No 714/2012 of 30 July 2012concerning the classification of certain goodsin the Combined Nomenclature
+"Службени гласник РС", број 98 од 12. 
+				октобра 2012.
+THE EUROPEAN COMMISSION,
+Having regard to the Treaty on the Functioning of the European Union,
+Having regard to Council Regulation (EEC) No 2658/87 of 23 July 1987 on the tariff and statistical nomenclature and on the Common Customs Tariff(1), and in particular Article 9(1)(a) thereof,
+Whereas:
+(1) In order to ensure uniform application of the Combined Nomenclature annexed to Regulation (EEC) No 2658/87, it is necessary to adopt measures concerning the classification of the goods referred to in the Annex to this Regulation.
+(2) Regulation (EEC) No 2658/87 has laid down the general rules for the interpretation of the Combined Nomenclature. Those rules apply also to any other nomenclature which is wholly or partly based on it or which adds any additional subdivision to it and which is established by specific provisions of the Union, with a view to the application of tariff and other measures relating to trade in goods.
+(3) Pursuant to those general rules, the goods described in column (1) of the table set out in the Annex should be classified under the CN code indicated in column (2), by virtue of the reasons set out in column (3) of that table.
+(4) It is appropriate to provide that binding tariff information which has been issued by the customs authorities of Member States in respect of the classification of goods in the Combined Nomenclature but which is not in accordance with this Regulation can, for a period of three months, continue to be invoked by the holder, under Article 12(6) of Council Regulation (EEC) No 2913/92 of 12 October 1992 establishing the Community Customs Code (2).
+(5) The measures provided for in this Regulation are in accordance with the opinion of the Customs Code Committee.
+HAS ADOPTED THIS REGULATION:
+Article 1
+The goods described in column (1) of the table set out in the Annex shall be classified within the Combined Nomenclature under the CN code indicated in column (2) of that table.
+Article 2
+Binding tariff information issued by the customs authorities of Member States, which is not in accordance with this Regulation, can continue to be invoked for a period of three months under Article 12(6) of Regulation (EEC) No 2913/92.
+Article 3
+This Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union.
+This Regulation shall be binding in its entirety and directly applicable in all Member States. 
+Done at Brussels, 30 July 2012.
+–––––––––––––––
+(1) OJ L 256, 7.9.1987, p. 1.
+(2) OJ L 302, 19.10.1992, p. 1.
+ 
+For the Commission, 
+On behalf of the President,
+Algirdas SEMETA
+Member of the Commission
+ANNEX
+
+
+
+
+Description of the goods
+
+
+Classification (CN code)
+
+
+Reasons
+
+
+
+
+(i)
+
+
+(2)
+
+
+(3)
+
+
+
+
+1. A product consisting of a flexible keypad membrane made of silicone with 19 incorporated keycaps and with dimensions of approximately 65 х 40 х 1 mm.
+The product has printed keycaps representing an alpha/numeric keyboard, call buttons and other buttons typical of mobile phones.
+Underneath each keycap there is an electrical contact element made of silicone impregnated with carbon.
+The product has a specific shape and design and is intended for incorporation in a particular model of a mobile phone.
+
+
+8517 70 90
+
+
+Classification is determined by General Rules 1 and 6 for the interpretation of the Combined Nomenclature, Note 2(b) to Section XVI and by the wording of CN codes 8517, 8517 70 and 8517 70 90.
+Classification under heading 8536 as a switch is excluded as the product comprises only a part (one side of the contact points) of a switching device (see also CN Explanatory Notes to heading 8536, point (8)).
+The product is an essential part for the operation of a mobile phone and cannot be used independently for other purposes. Also, it is specially adapted for use in a particular model of a mobile phone. In particular, its shape and method of operation preclude any other use (see also judgment of the Court of Justice of the European Union in Case C-183/06). Consequently, classification under heading 8538 as a part suitable for use solely or principally with a switching device is also excluded.
+The product is therefore to be classified under CN code 8517 70 90 as a part of a mobile phone.
+
+
+
+
+2. A product (so-called 'keyboard flex assembly'), the main body of which has dimensions of approximately 56 * 42 * 1 mm and which comprises two membranes constituting a switching device:
+– an upper membrane of polyimide containing 24 copper contact points on the bottom side,
+– a lower membrane of polyimide containing a printed circuit with 24 copper contact points on the upper side.
+Over the upper membrane there is a protective transparent plastic sheet printed with an image representing a mobile phone keyboard, and under the lower membrane a protective paper sheet.
+The following components are connected to the main body of the product:
+– two flat electrical conductors with connectors,
+– two printed circuit assemblies containing active and passive components, a light sensor and a 'Hall effect' switch for controlling the lighting system of the keyboard.
+The product has a specific shape and design and is intended for incorporation in a particular model of a mobile phone.
+
+
+8517 70 90
+
+
+Classification is determined by General Rules 1 and 6 for the interpretation of the Combined Nomenclature, Note 2(b) to Section XVI and by the wording of CN codes 8517, 8517 70 and 8517 70 90.
+In addition to the two membranes with corresponding contact points for switching electrical circuits, the product incorporates printed circuit assemblies for controlling the lighting system of the keyboard. Classification as a switching device for electrical circuits under heading 8536 is therefore excluded.
+The product is an essential part for the operation of a mobile phone and cannot be used independently for other purposes. Also, it is specially adapted for use in a particular model of a mobile phone. In particular, its shape and method of operation preclude any other use (see also judgment of the Court of Justice of the European Union in Case C-183/06).
+The product is therefore to be classified under CN code 8517 70 90 as a part of a mobile phone.
+
+
+
+
+УРЕДБА КОМИСИЈЕ (ЕУ) О СПРОВОЂЕЊУброј 714/2012од 30. јула 2012. годинеу вези са сврставањем одређених роба премаКомбинованој номенклатури
+"Службени гласник РС", број 98 од 12. 
+				октобра 2012.
+КОМИСИЈА ЕВРОПСКЕ УНИЈЕ,
+Имајући у виду Уговор о функционисању Европске уније,
+Имајући у виду Уредбу Савета (ЕЕЗ) број 2658/87 од 23. јула 1987. године о тарифској и статистичкој номенклатури и Заједничкој царинској тарифи1, а посебно њен члан 9(1)(а),
+С обзиром на то:
+(1) да је, да би се осигурала доследна примену Комбиноване номенклатуре дате у прилогу Уредбе (ЕЕЗ) број 2658/87, неопходно усвојити мере у вези са сврставањем роба наведених у Анексу уз ову уредбу;
+(2) да су Уредбом (ЕЕЗ) број 2658/87 одређена основна правила за тумачење Комбиноване номенклатуре. Ова правила се такође примењују на било коју другу номенклатуру која се у потпуности или делимично заснива на њој, или којој су додате било које потподеле и која је установљена посебним прописима Уније, са циљем примене тарифских и других мера везаних за трговину робом;
+(3) да се сходно тим основним правилима, роба описана у колони 1 табеле дате у Анексу сврстава у CN ознаку наведену у колони 2, према разлозима датим у колони 3 табеле;
+(4) да је одговарајуће обезбедити да, ималац обавезујуће тарифне информације, коју су издали царински органи држава чланица у односу на сврставање робе према Комбинованој номенклатури али која није у складу са овом уредбом, може у периоду од три месеца, да настави да се позива на њу, према члану 12(6) Уредбе Савета (ЕЕЗ) број 2913/92 од 12. октобра 1992. године којом је установљен Царински закон Заједнице2;
+(5) да су мере предвиђене овом Уредбом у складу са мишљењем Одбора за Царински закон.
+УСВОЈИЛА ЈЕ ОВУ УРЕДБУ:
+Члан 1.
+Роба описана у колони 1 табеле дате у Анексу сврстава се у оквиру Комбиноване номенклатуре у CN ознаку наведену у колони 2 те табеле.
+Члан 2.
+Обавезујућа тарифна информација коју су издали царински органи државе чланице, а која није у складу са овом уредбом наставиће да важи у периоду од три месеца по члану 12(6) Уредбе (ЕЕЗ) број 2913/92.
+Члан 3.
+Ова уредба ступа на снагу 20. дана од дана објављивања у „Службеном листу Европске уније”.
+Ова уредба у потпуности је обавезујућа и директно применљива у свим државама чланицама.
+У Бриселу, 30. јула 2012. године
+–––––––––––––––
+1 OJ L 256, 7.9.1987, стр.1.
+2 OJ L 302, 19.10.1992, стр.1.
+ 
+За Комисију
+У име председника
+Algirdas Šemeta
+члан Комисије
+АНЕКС
+
+
+
+
+Опис робе
+
+
+Сврставање
+(CN ознака)
+
+
+Разлози
+
+
+
+
+(1)
+
+
+(2)
+
+
+(3)
+
+
+
+
+
+
+1. Производ који се састоји од савитљиве мембранске тастатуре израђене од силикона са 19 уграђених тастера и димензија приближно 65 x 40 x 3 mm.
+
+
+
+
+Сврставање је одређено Основним правилима 1 и 6 за примењивање Комбиноване номенклатуре, Напоменом 2(б) уз Одељак XVI и наименовањима уз CN ознаке 8517, 8517 70 и 8517 70 90.
+
+
+
+
+Производ има штампане тастере који представаљају алфа нумеричку тастатуру, тастере за позивање и друге тастере који су типични за мобилне телефоне.
+Испод сваког тастера налази се елемент за успостављање електричног контакта израђен од силикона импрегнисаног угљеником.
+Производ има специфичан облик и конструкцију и намењен је за уградњу у одређени модел мобилног телефона.
+
+
+8517 70 90
+
+
+Искључује се сврставање у тарифни број 8536 као прекидача пошто производ садржи само део (једна страна са контактним тачкама) уређаја за укључивање/ искључивање (видети такође Допунски коментар Комбиноване номенклатуре уз тарифни број 8536, тачка (8)).
+Производ је део неопходан за функционисање мобилног телефона и самостално се не може употребити за друге намене. Такође, специјално је прилагођен за коришћење у одређеном моделу мобилног телефона. Конкретно, његов облик и начин рада искључују било коју другу употребу (видети такође пресуду Суда правде Европске уније у предмету C-183/06). Сходно томе, такође се искључује сврставање у тарифни број 8538 као дела погодног за употребу искључиво или углавном са уређајем за укључивање/искључивање.
+Производ се, према томе, сврстава у CN ознаку 8517 70 90 као део мобилног телефона.
+
+
+
+
+2. Производ (такозвани „савитљиви склоп за тастатуру”), чији је главни део димензија приближно 56 x 42 x 1 mm и који садржи две мембране које чине уређај за укључивање/искључивање:
+- горње мембрана од полиамида која има 24 бакарна контактна места на доњој страни,
+- доње мембрана од полиамида која има штампано коло са 24 бакарна контактна места на горњој страни.
+Преко горње мембране налази се заштитни лист од провидне пластике са штампаном сликом која представља тастатуру мобилног телефона, а испод доње мембране заштитни слој од хартије.
+Следеће компоненте су прикључене за главни део производа:
+- два равна електрична проводника са конекторима,
+- два склопа штампаних кола са активним и пасивним компонентама, светлосни сензор и „Hall effect” прекидач за управљање системом осветљења тастатуре.
+Производ има специфичан облик и конструкцију и намењен је за уградњу у одређени модел мобилног телефона.
+
+
+8517 70 90
+
+
+Сврставање је одређено Основним правилима 1 и 6 за примењивање Комбиноване номенклатуре, Напоменом 2(б) уз Одељак XVI и наименовањима уз CN ознаке 8517, 8517 70 и 8517 70 90.
+Поред две мембране са одговарајућим контактима за укључивање/искључивање електричних кола, производ садржи склопове штампаних кола за управљање системом осветљења тастатуре. Према томе, искључује се сврставање у тарифни број 8536 као уређаја за укључивање/искључивање електричних кола.
+Производ је део неопходан за функционисање мобилног телефона и самостално се не може употребити за друге намене. Такође, специјално је прилагођен за коришћење у одређеном моделу мобилног телефона. Конкретно, његов облик и начин рада искључују било коју другу употребу (видети такође пресуду Суда правде Европске уније у предмету C-183/06). 
+Производ се, према томе, сврстава у CN ознаку 8517 70 90 као део мобилног телефона.

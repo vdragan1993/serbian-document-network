@@ -1,0 +1,159 @@
+На основу члана 3а став 4. Закона о Царинској тарифи („Службени гласник РС”, бр. 62/05, 61/07 и 5/09) објављује се Уредба Комисије (ЕУ) о спровођењу број 274/2013 од 19. марта 2013. године у вези са сврставањем одређених роба у Комбинованој номенклатури објављена у „Службеном листу Европске уније”, број L 84/5 од 23. марта 2013. године, која у оригиналу на енглеском језику и у преводу на српски језик гласи:
+COMMISSION IMPLEMENTING REGULATION (EU) No 274/2013 of 19 March 2013 concerning the classification of certain goods in the Combined Nomenclature
+"Службени гласник РС", број 47 од 29. маја 2013.
+THE EUROPEAN COMMISSION,
+Having regard to the Treaty on the Functioning of the European Union,
+Having regard to Council Regulation (EEC) No 2658/87 of 23 July 1987 on the tariff and statistical nomenclature and on the Common Customs Tariff (¹), and in particular Article 9(1)(a) thereof,
+Whereas:
+(1) In order to ensure uniform application of the Combined Nomenclature annexed to Regulation (EEC) No 2658/87, it is necessary to adopt measures concerning the classification of the goods referred to in the Annex to this Regulation.
+(2) Regulation (EEC) No 2658/87 has laid down the general rules for the interpretation of the Combined Nomenclature. Those rules apply also to any other nomenclature which is wholly or partly based on it or which adds any additional subdivision to it and which is established by specific provisions of the Union, with a view to the application of tariff and other measures relating to trade in goods.
+(3) Pursuant to those general rules, the goods described in column (1) of the table set out in the Annex should be classified under the CN code indicated in column (2), by virtue of the reasons set out in column (3) of that table.
+(4) It is appropriate to provide that binding tariff information which has been issued by the customs authorities of Member States in respect of the classification of goods in the Combined Nomenclature but which is not in accordance with this Regulation can, for a period of three months, continue to be invoked by the holder, under Article 12(6) of Council Regulation (EEC) No 2913/92 of 12 October 1992 establishing the Community Customs Code (²).
+(5) The measures provided for in this Regulation are in accordance with the opinion of the Customs Code Committee,
+HAS ADOPTED THIS REGULATION:
+Article 1
+The goods described in column (1) of the table set out in the Annex shall be classified within the Combined Nomenclature under the CN code indicated in column (2) of that table.
+Article 2
+Binding tariff information issued by the customs authorities of Member States which is not in accordance with this Regulation can continue to be invoked for a period of three months under Article 12(6) of Regulation (EEC) No 2913/92.
+Article 3
+This Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union.
+This Regulation shall be binding in its entirety and directly applicable in all Member States. 
+Done at Brussels, 19 March 2013.
+–––––––––––––––
+(1) OJ L 256, 7.9.1987, p. 1.
+(2) OJ L 302, 19.10.1992, p. 1.
+For the Commission, 
+On behalf of the President,
+Algirdas ŠEMETA
+Member of the Commission
+ANNEX
+
+
+
+
+Description of the goods
+
+
+Classification (CN code)
+
+
+Reasons
+
+
+
+
+(1)
+
+
+(2)
+
+
+(3)
+
+
+
+
+A colour liquid crystal display (LCD) module with a diagonal measurement of the screen of 16,5 cm (6,5 inches) with mounting devices on the side, an aluminium heat sink on the back, with dimensions of approximately 16 х 10 х 2 cm.
+The module comprises a low-voltage differential signalling (LVDS) receiver, a light emitting diode (LED) backlight with integrated brightness control, a LED driver circuit, printed circuit boards with control electronics for pixel addressing only comprising a microcontroller, and a 10-pin LVDS interface.
+The display has the following characteristics:
+– a resolution of 400 х 240 pixels,
+– an aspect ratio of 16:9,
+– a dot pitch of 0,1195(*3) х 0,3305 mm.
+The module does not incorporate any video signal processing assembly, for example, a video converter, a scaler or a tuner.
+The module is designed for incorporation into a dashboard of a motor vehicle for displaying video signals.
+
+
+8529 90 92
+
+
+Classification is determined by General Rules 1 and 6 for the interpretation of the Combined Nomenclature, Note 2(b) to Section XVI, Note 2(f) to Section XVII and by the wording of CN codes 8529, 8529 90 and 8529 90 92.
+As the module does not have any video signal processing components, classification as an incomplete monitor under heading 8528 is excluded.
+The module is not classifiable in heading 8531, because it is not considered to be an electrical visual signalling apparatus of heading 8531 or a part of such an apparatus in view of its characteristics (see also the HS Explanatory Notes to heading 8531).
+The module comprises a backlight unit, LED driver circuit and printed circuit boards with control electronics for pixel addressing only. Consequently, classification under heading 9013 is excluded (see also the HS Explanatory Notes to heading 9013 (1)).
+As the module is designed for displaying video signals it is a part classifiable under heading 8529 (see also the CN Explanatory Notes to subheading 8529 90 92). It is therefore to be classified under CN code 8529 90 92 as a part suitable for use solely or principally with the apparatus of heading 8528.
+
+
+
+
+УРЕДБА КОМИСИЈЕ (ЕУ) О СПРОВОЂЕЊУ број 274/2013од 19. марта 2013. године у вези са сврставањем одређених роба у Комбинованој номенклатури
+"Службени гласник РС", број 47 од 29. маја 2013.
+ЕВРОПСКА КОМИСИЈА,
+Имајући у виду Уговор о функционисању Европске уније,
+Имајући у виду Уредбу Савета (ЕЕЗ) број 2658/87 од 23. јула 1987. године о тарифској и статистичкој номенклатури и Заједничкој царинској тарифи(¹), а посебно њен члан 9. став 1. тачка а),
+С обзиром на то:
+(1) да је да би се осигурала доследна примена Комбиноване номенклатуре дате у прилогу Уредбе (ЕЕЗ) број 2658/87, неопходно усвојити мере у вези са сврставањем роба наведених у Анексу уз ову уредбу;
+(2) да су Уредбом (ЕЕЗ) број 2658/87 одређена основна правила за тумачење Комбиноване номенклатуре. Ова правила се такође примењују на било коју другу номенклатуру која се у потпуности или делимично заснива на њој, или којој су додате било које потподеле и која је установљена посебним прописима Уније, са циљем примене тарифских и других мера везаних за трговину робом;
+(3) да се сходно тим основним правилима, роба описана у колони 1 табеле дате у Анексу сврстава у CN ознаку наведену у колони 2, према разлозима датим у колони 3 табеле;
+(4) да је предвиђено да, по потреби, ималац обавезујуће тарифне информације, коју су издали царински органи држава чланица у односу на сврставање робе према Комбинованој номенклатури, али која није у складу са овом уредбом, може у периоду од три месеца, да настави да се позива на њу, према члану 12. став 6. Уредбе Савета (ЕЕЗ) број 2913/92 од 12. октобра 1992. године којом је установљен Царински закон Заједнице(²);
+(5) да су мере предвиђене овом уредбом у складу са мишљењем Одбора за Царински закон,
+ДОНЕЛА ЈЕ ОВУ УРЕДБУ:
+Члан 1.
+Роба описана у колони 1 табеле дате у Анексу сврстава се у оквиру Комбиноване номенклатуре у CN ознаку наведену у колони 2 те табеле.
+Члан 2.
+Обавезујућа тарифна информација коју су издали царински органи државе чланице, а која није у складу са овом уредбом, наставиће да важи у периоду од три месеца по члану 12. став 6. Уредбе (ЕЕЗ) број 2913/92.
+Члан 3.
+Ова уредба ступа на снагу 20. дана од дана објављивања у „Службеном листу Европске уније”.
+Ова уредба је у потпуности обавезујућа и директно применљива у свим државама чланицама.
+У Бриселу, 19. марта 2013. године 
+–––––––––––––––
+(1) OJ L 256, 7.9.1987. стр. 1.
+(2) OJ L 302, 19.10.1992, стр. 1.
+За Комисију,
+у име председника,
+Algirdas ŠEMETA
+члан Комисије
+АНЕКС
+
+
+
+
+Опис робе
+
+
+Сврставање
+(CN ознака)
+
+
+Разлози
+
+
+
+
+(1)
+
+
+(2)
+
+
+(3)
+
+
+
+
+LCD модул у боји, са димензијом дијагонале екрана 16,5 cm (6,5 инча), са механизмима за монтажу на бочној страни, са алуминијумским хладњаком на полеђини, димензија приближно 16 x 10 x 2 cm.
+Модул садржи LVDS (нисконапонски диференцијални пренос) пријемник, LED позадинско осветљење са уграђеном контролом осветљености, електрично коло LED драјва, плоче са штампаним колима са управљачком електроником само за адресирање пиксела које садрже микроконтролер, и 10-pin LVDS интерфејс.
+Карактеристике дисплеја су:
+– резолуција 400 x 240 пиксела,
+– размера слике 16:9,
+– растојање између тачака 0,1195(*3) x 0,3305 mm
+
+
+8529 90 92
+
+
+Сврставање је одређено Основним правилима 1 и 6 за примењивање Комбиноване номенклатуре, Напоменом 2(б) уз Одељак XVI, Напоменом 2(ђ) уз Одељак XVII и наименовањима уз CN ознаке 8529, 8529 90 и 8529 90 92.
+Пошто модул не поседује било какве компоненте за обраду видео сигнала, искључује се сврставање у тарифни број 8528 као некомплетног монитора.
+Модул се не сврстава у тарифни број 8531, зато што се не сматра електричним апаратом за визуелну сигнализацију из тарифног броја 8531 или делом таквог апарата у погледу његових карактеристика (видети такође ХС Коментар уз тарифни број 8531).
+Модул садржи јединицу за позадинско осветљење, електрично
+
+
+
+
+Модул не садржи било какав склоп за обраду видео сигнала, као што су на пример, видео конвертор, скалер или тјунер.
+Модул је конструисан за уградњу у инструмент таблу моторног возила за приказивање видео сигнала.
+
+
+
+
+коло LED драјва и плоче са штампаним колима са управљачком електроником само за адресирање пиксела. Сходно томе, искључује се сврставање у тарифни број 9013 (видети такође ХС Коментар уз тарифни број 9013 (1)).
+Како је модул конструисан за приказивање видео сигнала, то представља део који се сврстава у тарифни број 8529 (видети такође Допунски коментар Комбиноване номенклатуре за тарифни подброј 8529 90 92). Према томе, сврстава се у CN ознаку 8529 90 92 као део погодан за употребу искључиво, или углавном, са апаратима из тарифног броја 8528.

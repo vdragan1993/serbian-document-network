@@ -1,0 +1,180 @@
+На основу члана 3а став 4. Закона о Царинској тарифи („Службени гласник РС”, бр. 62/05, 61/07 и 5/09), објављује се Уредба Комисије (ЕЕЗ) број 2291/93 од 13. августа 1993. године у вези са сврставањем одређених роба у Комбинованој номенклатури објављена у „Службеном листу Европских заједница”, број L 206/1 од 18. августа 1993. године, која у оригиналу на енглеском језику и у преводу на српски језик гласи:
+ 
+COMMISSION REGULATION (EEC) No 2291/93of 13 August 1993 concerning the classification of certain goods in the combined nomenclature
+"Службени гласник РС", број 27 од 22. марта 2013.
+   
+THE COMMISSION OF THE EUROPEAN COMMUNITIES,
+Having regard to the Treaty establishing the European Economic Community,
+Having regard to Council Regulation (EEC) No 2658/87 on the tariff and statistical nomenclature and on the Common Customs Tariff (1), as last amended by Commission Regulation (EEC) No 1969/93 (2), and in particular Article 9,
+Whereas in order to ensure uniform application of the combined nomenclature annexed to the said Regulation, it is necessary to adopt measures concerning the classification of the goods referred to in the Annex to this Regulation;
+Whereas Regulation (EEC) No 2658/87 has set down the general rules for the interpretation of the combined nomenclature and these rules also apply to any other nomenclature which is wholly or partly based on it or which adds any additional subdivisions to it and which is established by specific Community provisions, with a view to the application of tariff or other measures relating to trade in goods;
+Whereas, pursuant to the said general rules, the goods described in column 1 of the table annexed to the present Regulation must be classified under the appropriate CN codes indicated in column 2, by virtue of the reasons set out in column 3;
+Whereas it is appropriate that binding tariff information issued by the customs authorities of Member States in respect of the classification of goods in the combined nomenclature and which do not conform to the rights established by this Regulation, can continue to be invoked under the provisions in Article 6 of Commission Regulation (EEC) No 3796/90 (3), amended by Regulation (EEC) No 2674/92 (4), for a period of three months by the holder if a binding contract has been concluded such as is envisaged in Article 14 (3) (a) Or (b) of Commission Regulation (EEC) No 1715/90 (5);
+Whereas the measures provided for in this Regulation are in accordance with the opinion of the Nomenclature Committee,
+HAS ADOPTED THIS REGULATION: 
+Article 1
+The goods described in column 1 of the annexed table are now classified within the combined nomenclature under the appropriate CN codes indicated in column 2 of the said table.
+Article 2
+Binding tariff information issued by the customs authorities of Member States which do not conform to the rights established by this Regulation can continue to be invoked under the provisions of Article 6 of Regulation (EEC) No 3796/90 for a period of three months by the holder if a binding contract has been concluded as envisaged in Article 14 (3) (a) or (b) of Regulation (EEC) No 1715/90.
+Article 3
+This Regulation shall enter into force on the 21st day following its publication in the Official Journal of the European Communities.
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+Done at Brussels, 13 August 1993.
+–––––––––––––
+(1) OJ No L 256, 7. 9. 1987, p. 1. 
+(2) OJ No L 180, 23. 7. 1993, p. 9.
+(3) OJ No L 365, 28. 12. 1990, p. 17. 
+(4) OJ No L 271, 16. 9. 1992, p. 5. 
+(5) OJ No L 160, 26. 6. 1990, p. 1.
+For the Commission
+Christiane SCRIVENER
+Member of the Commission
+ANNEX
+
+
+
+
+Description
+
+
+Classification 
+CN code
+
+
+Reason
+
+
+
+
+(1)
+
+
+(2)
+
+
+(3)
+
+
+
+
+1. Semi-liquid product with a yoghurt flavour made of fermented milk plus apricot pulp, sugar, stabilizers and thickening agents (modified starches, pectin and gelatine totalling less than 1,8 % by weight taken together), with a milk fat content of less than 3 % by weight
+Microscopic examination showed streptococcus thermo-philus and lactobacillus bulgaricus bacteria in a ratio of approximately 1:1; these were killed by ultra-heat treatment of the product
+
+
+0403 90 91
+
+
+Classification in accordance with General Rules 1 and 6 for the interpretation of the combined nomenclature and the wording of CN codes 0403, 0403 90 and 0403 90 91.
+The presence of small quantities of stabilizers and thickeners does not preclude classification iri heading 0403 (see also the Harmonized System Explanatory Notes to Chapter 4: second paragraph of Part I of the General Section)
+The absence of live bacteria precludes classification in CN code 0403 10 (see also CN Explanatory Notes to subheadings 0403 10 02 to 0403 10 99).
+
+
+
+
+2. Brown-beige powder obtained by roller drying from a mixture of milk, whey and sugar, with individual brown grains, tending to form lumps, sweet and tasting of powdered milk and caramel, with the following analytical results by % of weight:
+– dry matter 97,2
+– total fat (milk fat) 23,5
+– total protein content (N x 6,38): 20,4
+– sucrose 1,8
+– lactose : 44,6
+– casein 17,1
+– sweet whey (GMP): detectable
+As a result of its high temperature in th.e manufacturing process, the sugars are caramelized and the proteins have been partly degraded
+
+
+0404 90 53
+
+
+Classification is determined by the provisions of the General Rules 1 and 6 for the interpretation of the Combined Nomenclature and by the working of CN codes 0404, 0404 90 and 0404 90 53
+Nothwithstanding the partial degradation of the proteins and the caramelization of the sugars, this product has not lost the characteristic of a natural milk product within the meaning of heading 0404
+
+
+
+
+ 
+УРЕДБА КОМИСИЈЕ (ЕЕЗ) број 2291/93од 13. августа 1993. године у вези са сврставањем одређених роба према Комбинованој номенклатури
+"Службени гласник РС", број 27 од 22. марта 2013.
+ 
+КОМИСИЈА ЕВРОПСКИХ ЗАЈЕДНИЦА,
+Имајући у виду Уговор о оснивању Европске економске заједнице,
+Имајући у виду Уредбу Савета (ЕЕЗ) број 2658/87 од 23. јула 1987. године о тарифској и статистичкој номенклатури и Заједничкој царинској тарифи1, последњи пут измењену и допуњену Уредбом Комисије (ЕЕЗ) број 1969/932, а посебно њен члан 9;
+С обзиром на то да је да би се осигурала доследна примена Комбиноване номенклатуре дате у прилогу наведене уредбе, неопходно усвојити мере у вези са сврставањем роба наведених у Анексу уз ову уредбу;
+С обзиром на то да су Уредбом (ЕЕЗ) број 2658/87 одређена основна правила за тумачење Комбиноване номенклатуре. Ова правила се такође примењују на било коју другу номенклатуру која се у потпуности или делимично заснива на њој, или којој су додате било које потподеле и која је установљена посебним прописима Заједнице, са циљем примене тарифских и других мера везаних за трговину робом;
+С обзиром на то да се сходно тим основним правилима, роба описана у колони 1 табеле дате у прилогу ове уредбе, сврстава у одговарајућу CN ознаку наведену у колони 2, према разлозима датим у колони 3 табеле;
+С обзиром на то да, по потреби, ималац обавезујуће тарифне информације, коју су издали царински органи држава чланица у односу на сврставање робе према Комбинованој номенклатури, али која није у складу са овом уредбом, у складу са чланом 6. Уредбе Комисије (ЕЕЗ) број 3796/903 последњи пут измењеном и допуњеном Уредбом (ЕЕЗ) број 2674/92 4, може у периоду од три месеца да наставити да се позива исту, уколико је обавезујући уговор закључен како је предвиђено чланом 14. став 3. тачке (а) или (b) Уредбе Комисије (ЕЕЗ) број 1715/905;
+С обзиром на то да да су мере предвиђене овом уредбом у складу са мишљењем Одбора за номенклатуру, 
+ДОНЕЛА ЈЕ ОВУ УРЕДБУ:
+Члан 1.
+Роба описана у колони 1 табеле дате у прилогу, од сада се у оквиру Комбиноване номенклатуре сврстава у одговарајуће CN ознаке наведене у колони 2 поменуте табеле.
+Члан 2.
+Ималац обавезујућа тарифна информација, коју су издали царински органи држава чланица али која није у складу са условима ове уредбе, у складу са чланом 6 Уредбе Комисије (ЕЕЗ) број 3796/90, може у периоду од три месеца да настави да се позива на исту, уколико је обавезујући уговор закључен како је то предвиђено чланом 14. став 3. тачке (а) или (b) Уредбе Комисије (ЕЕЗ) број 1715/90.
+Члан 3.
+Ова уредба ступа на снагу 21. дана од дана објављивања у „Службеном листу Европских заједница”.
+Ова уредба у потпуности је обавезујућа и директно применљива у свим државама чланицама.
+У Бриселу, 13. августа 1993. године 
+–––––––––––––
+1 OJ L 256, 7. 9. 1987, стр. 1.
+2 OJ L 180, 23. 7. 1993. стр. 9.
+3 OJ L 365, 28. 12. 1990, стр. 17.
+4 OJ L 271, 16. 9.1992, стр. 5.
+5 OJ L 160, 26. 6. 1990, стр 1.
+За Комисију
+Christiane SCRIVENER
+Члан Комисије
+АНЕКС
+
+
+
+
+Опис робе
+
+
+Сврставање
+(CN ознака)
+
+
+Разлози
+
+
+
+
+
+
+1. Полутечни производ са укусом јогурта, направљен од ферментисаног млека, са додатком пулпе од кајсије, шећера, стабилизатора и средстава за згушњавање (модификовани скробови, пектин и желатин, укупне масе, узете заједно, мање од 1,8%), и са садржајем млечних масти мање од 3% по маси. 
+Микроскопски преглед је показивао присутност Streptococcus thermophilus и Lactobacillus bulgaricus бактерије у односу од приближно 1:1; и које су уништене излагањем производа високој температури.
+
+
+0403 90 91
+
+
+Сврставање у складу са Основним правилима 1 и 6 за примењивање Комбиноване номенклатуре, као и наименовањима уз CN ознаке 0403, 0403 90 и 0403 90 91.
+Присуство малих количина стабилизатора и згушњивача не искључује сврставање у тарифни број 0403 (видети такође ХС Коментар уз Главу 4: други став Дела 1 Општих одредби).
+Одсуство живих бактерија искључује сврставање у CN ознаку 0403 10 (видети такође Допунски коментар Комбиноване номенклатуре уз тарифне подбројеве 0403 10 026 и 0403 10 99).
+
+
+
+
+2. Смеђе-беж прах, добијен сушењем ваљцима из мешавине млека, сурутке и шећера, састоји се од појединачних смеђих зрнаца која теже да се згрудвају, сладак је и има укус млека у праху и карамела. Резултати анализе, по маси, су следећи:
+– сува материја 97,2 %
+– укупна масноћа (млечна масноћа) 23,5 % 
+– укупни садржај протеина (N x 6,38) 20,4 %
+– сахароза 1,8 %
+– лактоза 44,6 %
+– казеин 17,1% 
+– слатка сурутка (GMP) у траговима
+Као последица високе температуре у поступку производње, шећери су карамелизовани, а протеини су се делимично разградили.
+
+
+0404 90 537
+
+
+Сврставање у складу са Основним правилима 1 и 6 за примењивање Комбиноване номенклатуре, као и наименовањима уз CN ознаке 0404, 0404 90 и 0404 90 538.
+Без обзира на делимичну разградњу беланчевина и карамелизацију шећера, производ није изгубио карактеристике природног млечног производа у смислу тарифног броја 0404.
+
+
+
+
+
+				–––––––––––––6 замењено са „0403 10 11” у складу са тачком 60 Анекса I Уредбе Комисије (ЕЗ) број 1179/09 од 26. новембра 2009. године којом се мењају или стављају ван снаге одређене Уредбе у вези са сврставањем робе према Комбинованој номенклатури (OJ L 317 од 3.12.2009, стр. 23), која је објављена у „Службеном гласнику РС”, број 7/10
+7 замењено са „0404 90 83” у складу са тачком 2 Анекса А Уредбе Комисије (ЕЗ) број 936/99 од 27. априла 1999. године којом се мењају или стављају ван снаге одређене Уредбе у вези са сврставањем робе према Комбинованој номенклатури (OJ L 117 од 5.5.1999, стр. 9), која је објављена у „Службеном гласнику РС”, број 79/2011
+8 замењено са „0404 90 83” у складу са тачком 2 Анекса А Уредбе Комисије (ЕЗ) број 936/99 од 27. априла 1999. године којом се мењају или стављају ван снаге одређене Уредбе у вези са сврставањем робе према Комбинованој номенклатури (OJ L 117 од 5.5.1999, стр. 9), која је објављена у „Службеном гласнику РС”, број 79/2011
