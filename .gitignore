@@ -91,3 +91,4 @@ ENV/
 src/data/
 src/.idea/
 src/__pycache__/
+API_Key.txt
